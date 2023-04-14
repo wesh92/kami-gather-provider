@@ -37,9 +37,6 @@ LOCALES = [
     "tw",
     "sa",
     "gl",
-    "console_eu",
-    "console_na",
-    "console_asia",
 ]
 
 MARKET_URLS = {
@@ -55,9 +52,6 @@ MARKET_URLS = {
         "tw": "trade.tw.playblackdesert.com",
         "sa": "trade.sa.playblackdesert.com",
         "gl": "trade.global-lab.playblackdesert.com",
-        "console_eu": "eu-trade.console.playblackdesert.com",
-        "console_na": "na-trade.console.playblackdesert.com",
-        "console_asia": "asia-trade.console.playblackdesert.com",
     }
 }
 
@@ -74,12 +68,6 @@ market_url_structure = {
              for endpoint in MarketEndpoint}
     for region, url in MARKET_URLS["regions"].items()
 }
-
-# Example usage:
-# region = "eu"
-# endpoint = MarketEndpoint.GET_MARKET_PRICE_INFO
-# url = market_url_structure[region][endpoint.name]
-# print(url)
 
 
 
@@ -343,8 +331,3 @@ MARKET_CATEGORIES = {
             },
         ),
 }
-
-class GetBiddingInfoListResponse(BaseModel):
-    # field name: index id
-    price: 0
-    amount_of_sell_orders: 1
