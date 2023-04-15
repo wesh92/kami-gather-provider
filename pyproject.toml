@@ -1,3 +1,7 @@
+[tool.black]
+line-length = 124
+target-version = ['py39', 'py310']
+
 [tool.ruff]
 extend-select = ["ANN2",
     "C4",
