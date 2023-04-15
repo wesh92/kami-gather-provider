@@ -1,13 +1,14 @@
-version: "3.8"
-
+version: "3.9"
 services:
-  surrealdb:
-    image: surrealdb/surrealdb:latest
-    command: start --log trace --user ${DB_USER} --pass ${DB_PASS} file:/kami-surrealdb/mydatabase.db
-    ports:
-      - "8000:8000"
-    volumes:
-      - /kami-surrealdb:/kami-surrealdb
+  mongo:
+    image: mongo:6.0.5
+    restart: always
     env_file:
       - .env
-    restart: "no"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASS}
+    volumes:
+      - ./db/mongo:/data/db
+    ports:
+      - "27017:27017"
