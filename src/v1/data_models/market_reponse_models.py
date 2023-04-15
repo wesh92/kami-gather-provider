@@ -4,6 +4,7 @@ import pendulum
 
 class MarketBaseModel(BaseModel):
     processed_at: str = Field(default_factory=lambda: pendulum.now().to_iso8601_string(), description="Processed at (ISO 8601 datetime)")
+    region: str = Field(..., description="Regional ID")
 
 class WorldMarketListResponse(MarketBaseModel):
     item_id: int = Field(..., description="Item ID")
