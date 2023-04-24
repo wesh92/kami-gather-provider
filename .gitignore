@@ -153,4 +153,4 @@ cython_debug/
 
 
 # db volume for docker-compose
-db/mongo/**
+db/**
