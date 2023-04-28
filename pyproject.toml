@@ -68,3 +68,29 @@ known-third-party = ["fastapi", "pydantic", "starlette"]
 [tool.ruff.pep8-naming]
 # Allow Pydantic's `@validator` decorator to trigger class method treatment.
 classmethod-decorators = ["pydantic.validator"]
+
+[tool.poetry]
+name = "kami-gather-provider"
+version = "0.1.0"
+description = "A Python Visualization Website for Black Desert Online"
+authors = ["Wes Hahn <52631646+wesh92@users.noreply.github.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+packages = [{include = "kami_gather_provider"}]
+
+[tool.poetry.dependencies]
+python = "^3.10.6"
+black = "23.1.0"
+pre-commit = "3.1.1"
+ruff = "0.0.254"
+streamlit = "1.20.0"
+pydantic = "1.10.4"
+httpx = "0.23.3"
+requests = "2.28.2"
+toml = "0.10.2"
+pymongo = "4.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
