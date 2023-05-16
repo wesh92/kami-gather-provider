@@ -89,6 +89,8 @@ httpx = "0.23.3"
 requests = "2.28.2"
 toml = "0.10.2"
 pymongo = "4.3.3"
+bitstring = "^4.0.2"
+pendulum = "^2.1.2"
 
 
 [build-system]
