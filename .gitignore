@@ -153,3 +153,4 @@ cython_debug/
 
 utils/*/**
 postgres/secrets.yaml
+airflow/src/configs/secrets.toml
