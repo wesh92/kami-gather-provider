@@ -78,7 +78,7 @@ packages = [{include = "kami_gather_provider"},{include = "./src"}]
 
 
 [tool.poetry.dependencies]
-python = ">=3.10.6, <4.0.0"
+python = ">=3.9, <4.0.0"
 black = "^23.3.0"
 pre-commit = "^3.3.2"
 ruff = "^0.0.270"

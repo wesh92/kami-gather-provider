@@ -1,6 +1,8 @@
 import pendulum
+from src.configs.config import MARKET_CATEGORIES
+from src.market_patterns import WorldMarketDataStrategy
 
-from airflow.decorators import dag
+from airflow.decorators import dag, task
 from airflow.models import DAG
 from airflow.operators.empty import EmptyOperator
 
@@ -12,7 +14,7 @@ PROCESS_NAME = "market_extract"
 DAG_ARGS = {
     "owner": DEVELOPER,
     "retries": 1,
-    "retry_delay": pendulum.duration(minutes=2),
+    "retry_delay": pendulum.duration(seconds=10),
 }
 
 
@@ -26,7 +28,7 @@ DAG_ARGS = {
     tags=["bdo", "market_data"],
     default_args=DAG_ARGS,
 )
-def boilerplate_dag() -> DAG:  # noqa: C901, RUF100
+def market_extract() -> DAG:  # noqa: C901, RUF100
     """
     Put your description of the dag here (including any params it takes).
     This docstring will appear at the top of the UI within the specific DAG's page.
@@ -35,7 +37,14 @@ def boilerplate_dag() -> DAG:  # noqa: C901, RUF100
     start = EmptyOperator(task_id="start")
     end = EmptyOperator(task_id="end")
 
-    start >> end
+    @task
+    def get_market_data() -> None:
+        strategy = WorldMarketDataStrategy()
+        strategy.update_market_data(main_categories=MARKET_CATEGORIES)
+
+    update_pg_with_market_data = get_market_data()
+
+    start >> update_pg_with_market_data >> end
 
 
-run_dag = boilerplate_dag()
+run_dag = market_extract()

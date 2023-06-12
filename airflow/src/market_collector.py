@@ -2,8 +2,9 @@ from dataclasses import dataclass
 from logging import log
 
 import requests
-from configs.config import LOCALES, MarketEndpoint, market_url_structure
-from unpacker import unpack
+
+from .configs.config import LOCALES, MarketEndpoint, market_url_structure
+from .unpacker import unpack
 
 
 @dataclass

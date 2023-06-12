@@ -6,9 +6,10 @@ from logging import info
 import polars as pl
 import sqlalchemy
 import toml
-from configs.config import LOCALES, MARKET_CATEGORIES
-from market_collector import MarketData
-from models.market_models import WorldMarketListResponse
+
+from .configs.config import LOCALES
+from .market_collector import MarketData
+from .models.market_models import WorldMarketListResponse
 
 
 # Base strategy interface
@@ -73,7 +74,7 @@ class WorldMarketDataStrategy(MarketDataStrategy):
         PG_PASSWORD = CONFIG["bdo_data_postgresql"]["password"]  # noqa: N806
         PG_DB = CONFIG["bdo_data_postgresql"]["database"]  # noqa: N806
         ENGINE_STRING = sqlalchemy.create_engine(  # noqa: N806
-            f"postgresql://{PG_USER}:{PG_PASSWORD}@localhost:5433/{PG_DB}"
+            f"postgresql://{PG_USER}:{PG_PASSWORD}@postgres-data-postgresql:5432/{PG_DB}"
         ).url
 
         if table_name is None:
@@ -99,6 +100,3 @@ class WorldMarketDataStrategy(MarketDataStrategy):
                         continue
 
         info("Done!")
-
-
-WorldMarketDataStrategy().update_market_data(main_categories=MARKET_CATEGORIES)
