@@ -5,6 +5,7 @@ from src.market_patterns import WorldMarketDataStrategy
 from airflow.decorators import dag, task
 from airflow.models import DAG
 from airflow.operators.empty import EmptyOperator
+from airflow.timetables.trigger import CronTriggerTimetable
 
 DEVELOPER = "Wes"
 PROCESS_NAME = "market_extract"
@@ -21,7 +22,7 @@ DAG_ARGS = {
 # DAG definition
 @dag(
     start_date=pendulum.datetime(year=2023, month=1, day=1, tz="America/New_York"),
-    schedule_interval=None,
+    schedule=CronTriggerTimetable("*/15 * * * *", timezone="UTC"),
     description=None,
     catchup=False,
     max_active_runs=1,
@@ -30,8 +31,9 @@ DAG_ARGS = {
 )
 def market_extract() -> DAG:  # noqa: C901, RUF100
     """
-    Put your description of the dag here (including any params it takes).
-    This docstring will appear at the top of the UI within the specific DAG's page.
+    Extracts market data from the BDO Market Websites for each country-region.\n
+    This data is then stored in a Postgres database for later use.\n
+    This DAG is scheduled to run on every 15th minute interval.
     """
 
     start = EmptyOperator(task_id="start")
