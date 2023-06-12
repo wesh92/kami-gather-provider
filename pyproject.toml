@@ -61,3 +61,37 @@ max-complexity = 12
 
 [tool.ruff.isort]
 known-third-party = ["fastapi", "pydantic", "starlette"]
+
+[tool.ruff.pep8-naming]
+# Allow Pydantic's `@validator` decorator to trigger class method treatment.
+classmethod-decorators = ["pydantic.validator"]
+
+[tool.poetry]
+name = "kami-gather-provider"
+version = "0.1.0"
+description = "BDO Analytics Tooling"
+authors = ["Wes Hahn <52631646+wesh92@users.noreply.github.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+packages = [{include = "kami_gather_provider"},{include = "./src"}]
+
+
+
+[tool.poetry.dependencies]
+python = ">=3.9, <4.0.0"
+black = "^23.3.0"
+pre-commit = "^3.3.2"
+ruff = "^0.0.270"
+pydantic = "^1.10.8"
+polars = {extras = ["sqlalchemy"], version = "^0.18.0"}
+psycopg2-binary = "^2.9.6"
+SQLAlchemy = "<2.0"
+aiohttp = "^3.8.4"
+pandas = "^2.0.2"
+toml = "^0.10.2"
+apache-airflow = "2.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
