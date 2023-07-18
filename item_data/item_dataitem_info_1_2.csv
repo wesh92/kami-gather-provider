@@ -1,0 +1,17 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+10203,0,Elsh Longbow,1,false,72000,Main Weapon,Longbow,1,2
+10205,0,Azwell Longbow,1,false,18900,Main Weapon,Longbow,1,2
+10206,0,Ain Longbow,1,false,377000,Main Weapon,Longbow,1,2
+10207,40,Seleth Longbow,1,false,73500,Main Weapon,Longbow,1,2
+10209,21,Liverto Longbow,2,false,5950000,Main Weapon,Longbow,1,2
+10210,3,Kzarka Longbow,3,false,241000000,Main Weapon,Longbow,1,2
+10212,0,Kalis Longbow,1,false,242000,Main Weapon,Longbow,1,2
+10213,0,Bares Longbow,1,false,267000,Main Weapon,Longbow,1,2
+10214,20,Yuria Longbow,1,false,246000,Main Weapon,Longbow,1,2
+10256,32,Krea Longbow,1,false,39500,Main Weapon,Longbow,1,2
+10257,1,Rosar Longbow,1,false,345000,Main Weapon,Longbow,1,2
+10271,1,Styd Longbow,1,false,23500,Main Weapon,Longbow,1,2
+10272,0,Ultimate Styd Longbow,2,false,55500,Main Weapon,Longbow,1,2
+10286,3,Offin Tett's Radiant Longbow,3,false,122000000,Main Weapon,Longbow,1,2
+715003,7,Blackstar Longbow,4,false,580000000,Main Weapon,Longbow,1,2
+736016,1,Godr-Ayed Longbow,4,true,11600000000,Main Weapon,Longbow,1,2

@@ -1,0 +1,242 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+4601,37816,Ash Timber,0,false,985,Material,Plants,25,2
+4602,161282,Maple Timber,0,false,2200,Material,Plants,25,2
+4603,29613,Pine Timber,0,false,1710,Material,Plants,25,2
+4604,106124,Birch Timber,0,false,2300,Material,Plants,25,2
+4605,0,Log,0,false,9150,Material,Plants,25,2
+4606,0,Fir Timber,0,false,2500,Material,Plants,25,2
+4607,993,Cedar Timber,0,false,2800,Material,Plants,25,2
+4608,139327,White Cedar Timber,0,false,1520,Material,Plants,25,2
+4609,0,Acacia Timber,0,false,3070,Material,Plants,25,2
+4610,113755,Palm Timber,0,false,1240,Material,Plants,25,2
+4611,156254,Elder Tree Timber,0,false,1770,Material,Plants,25,2
+4612,142090,Cactus Rind,0,false,365,Material,Plants,25,2
+4613,0,Old Tree Branch,0,false,3070,Material,Plants,25,2
+4614,40322,Moss Tree Timber,0,false,850,Material,Plants,25,2
+4615,0,Loopy Tree Timber,0,false,805,Material,Plants,25,2
+4616,0,Thuja Timber,0,false,1060,Material,Plants,25,2
+4619,4288,Thornwood Timber,0,false,1280,Material,Plants,25,2
+4621,0,Snowfield Cedar Timber,0,false,2830,Material,Plants,25,2
+4651,32167,Ash Plank,0,false,3590,Material,Plants,25,2
+4652,57814,Ash Plywood,0,false,21500,Material,Plants,25,2
+4653,0,Sturdy Ash Plywood,0,false,535000,Material,Plants,25,2
+4654,10478,Maple Plank,0,false,6750,Material,Plants,25,2
+4655,74633,Maple Plywood,0,false,26200,Material,Plants,25,2
+4656,0,Sturdy Maple Plywood,0,false,560000,Material,Plants,25,2
+4657,1540,Pine Plank,0,false,5050,Material,Plants,25,2
+4658,9936,Pine Plywood,0,false,26000,Material,Plants,25,2
+4659,0,Sturdy Pine Plywood,0,false,640000,Material,Plants,25,2
+4660,29094,Birch Plank,0,false,6450,Material,Plants,25,2
+4661,111122,Birch Plywood,0,false,28000,Material,Plants,25,2
+4662,0,Sturdy Birch Plywood,0,false,590000,Material,Plants,25,2
+4663,64559,Fir Plank,0,false,9000,Material,Plants,25,2
+4664,93112,Fir Plywood,0,false,39700,Material,Plants,25,2
+4665,153,Sturdy Fir Plywood,0,false,610000,Material,Plants,25,2
+4666,22030,Cedar Plank,0,false,9050,Material,Plants,25,2
+4667,76743,Cedar Plywood,0,false,33200,Material,Plants,25,2
+4668,35,Sturdy Cedar Plywood,0,false,466000,Material,Plants,25,2
+4669,0,Usable Scantling,0,false,30600,Material,Plants,25,2
+4670,66340,Palm Plank,0,false,2680,Material,Plants,25,2
+4671,53180,Palm Plywood,0,false,24500,Material,Plants,25,2
+4672,0,Sturdy Palm Plywood,0,false,735000,Material,Plants,25,2
+4673,0,Elder Tree Plank,0,false,5250,Material,Plants,25,2
+4674,43648,Elder Tree Plywood,0,false,24900,Material,Plants,25,2
+4675,1,Sturdy Elder Tree Plywood,0,false,735000,Material,Plants,25,2
+4676,46864,White Cedar Plank,0,false,8650,Material,Plants,25,2
+4677,21925,White Cedar Plywood,0,false,25100,Material,Plants,25,2
+4678,0,Sturdy White Cedar Plywood,0,false,695000,Material,Plants,25,2
+4680,0,Acacia Plank,0,false,12300,Material,Plants,25,2
+4681,38075,Acacia Plywood,0,false,48300,Material,Plants,25,2
+4682,0,Sturdy Acacia Plywood,0,false,720000,Material,Plants,25,2
+4683,101985,Cactus Thorn,0,false,615,Material,Plants,25,2
+4685,0,Standardized Timber Square,0,false,99000,Material,Plants,25,2
+4686,0,Sturdy Timber Square,0,false,730000,Material,Plants,25,2
+4687,0,Hard Pillar,0,false,3630000,Material,Plants,25,2
+4688,138664,Ship Repair Material,1,false,8100,Material,Plants,25,2
+4689,0,Ship Repair Kit,2,false,373000,Material,Plants,25,2
+4691,2824,Pine Coated Plywood,0,false,59000,Material,Plants,25,2
+4694,0,Moss Tree Plank,0,false,4260,Material,Plants,25,2
+4695,65722,Moss Tree Plywood,0,false,25200,Material,Plants,25,2
+4696,70,Sturdy Moss Tree Plywood,0,false,825000,Material,Plants,25,2
+4697,25439,Loopy Tree Plank,0,false,4590,Material,Plants,25,2
+4698,22801,Loopy Tree Plywood,0,false,23200,Material,Plants,25,2
+4699,0,Sturdy Loopy Tree Plywood,0,false,870000,Material,Plants,25,2
+4700,0,Emergency Ship Repair Kit,3,false,74500,Material,Plants,25,2
+4701,53,Thuja Plank,0,false,1950,Material,Plants,25,2
+4702,10000,Thuja Plywood,0,false,22200,Material,Plants,25,2
+4703,0,Sturdy Thuja Plywood,0,false,900000,Material,Plants,25,2
+4710,0,Thornwood Plank,0,false,11800,Material,Plants,25,2
+4711,9097,Thornwood Plywood,0,false,25000,Material,Plants,25,2
+4712,0,Sturdy Thornwood Plywood,0,false,775000,Material,Plants,25,2
+4721,0,Snowfield Cedar Plank,0,false,11800,Material,Plants,25,2
+4722,15205,Snowfield Cedar Plywood,0,false,80500,Material,Plants,25,2
+4723,0,Sturdy Snowfield Cedar Plywood,0,false,775000,Material,Plants,25,2
+5001,0,Ash Sap,0,false,19600,Material,Plants,25,2
+5002,8467,Maple Sap,0,false,19100,Material,Plants,25,2
+5003,0,Pine Sap,0,false,19600,Material,Plants,25,2
+5004,832,Birch Sap,0,false,15500,Material,Plants,25,2
+5005,34,Bloody Tree Knot,0,false,11800,Material,Plants,25,2
+5006,0,Spirit's Leaf,0,false,21000,Material,Plants,25,2
+5007,1259,Monk's Branch,0,false,3010,Material,Plants,25,2
+5008,0,Old Tree Bark,0,false,5150,Material,Plants,25,2
+5009,37765,Fir Sap,0,false,9100,Material,Plants,25,2
+5010,0,Cedar Sap,0,false,19600,Material,Plants,25,2
+5011,813472,Red Tree Lump,0,false,1750,Material,Plants,25,2
+5012,0,White Cedar Sap,0,false,19500,Material,Plants,25,2
+5013,0,Acacia Sap,0,false,19600,Material,Plants,25,2
+5014,354,Elder Tree Sap,0,false,14000,Material,Plants,25,2
+5015,2665,Palm Sap,0,false,3120,Material,Plants,25,2
+5016,6526,Cactus Sap,0,false,2990,Material,Plants,25,2
+5017,9973,Moss Tree Sap,0,false,1680,Material,Plants,25,2
+5018,27429,Loopy Tree Sap,0,false,19600,Material,Plants,25,2
+5019,0,Dead Tree Essence,0,false,302000,Material,Plants,25,2
+5020,0,Thuja Sap,0,false,19600,Material,Plants,25,2
+5023,0,Thornwood Sap,0,false,19600,Material,Plants,25,2
+5024,0,Snowfield Cedar Sap,0,false,19600,Material,Plants,25,2
+5401,15877,Sunrise Herb,0,false,384,Material,Plants,25,2
+5402,0,Silver Azalea,0,false,444,Material,Plants,25,2
+5403,2077,Fire Flake Flower,0,false,424,Material,Plants,25,2
+5404,12923,Dry Mane Grass,0,false,353,Material,Plants,25,2
+5405,13572,Silk Honey Grass,0,false,230,Material,Plants,25,2
+5406,38920,Everlasting Herb,0,false,110000,Material,Plants,25,2
+5407,91,Fortune Teller Mushroom,0,false,640,Material,Plants,25,2
+5408,16265,Arrow Mushroom,0,false,775,Material,Plants,25,2
+5409,1595,Dwarf Mushroom,0,false,735,Material,Plants,25,2
+5410,5300,Cloud Mushroom,0,false,715,Material,Plants,25,2
+5411,8782,Sky Mushroom,0,false,695,Material,Plants,25,2
+5412,27894,Tiger Mushroom,0,false,490,Material,Plants,25,2
+5413,0,Emperor Mushroom,0,false,680,Material,Plants,25,2
+5414,0,Ghost Mushroom,0,false,775,Material,Plants,25,2
+5415,0,Fog Mushroom,0,false,3350,Material,Plants,25,2
+5416,0,Hump Mushroom,0,false,3510,Material,Plants,25,2
+5417,0,Bluffer Mushroom,0,false,3260,Material,Plants,25,2
+5418,0,Ancient Mushroom,0,false,3510,Material,Plants,25,2
+5419,0,Amanita Mushroom,0,false,2630,Material,Plants,25,2
+5420,0,Truffle Mushroom,0,false,93500,Material,Plants,25,2
+5421,31443,Pile of Sunrise Herbs,0,false,610,Material,Plants,25,2
+5422,16445,Bunch of Silver Azaleas,0,false,700,Material,Plants,25,2
+5423,0,Bunch of Fire Flake Flowers,0,false,1280,Material,Plants,25,2
+5424,0,Bunch of Dry Mane Grass,0,false,1220,Material,Plants,25,2
+5425,4160,Bunch of Silk Honey Grass,0,false,715,Material,Plants,25,2
+5426,16203,Big Fortune Teller Mushroom,0,false,790,Material,Plants,25,2
+5427,2011,Big Arrow Mushroom,0,false,2090,Material,Plants,25,2
+5428,702,Big Dwarf Mushroom,0,false,2190,Material,Plants,25,2
+5429,7042,Big Cloud Mushroom,0,false,1150,Material,Plants,25,2
+5430,368,Big Sky Mushroom,0,false,2330,Material,Plants,25,2
+5431,12873,Big Tiger Mushroom,0,false,1150,Material,Plants,25,2
+5432,15648,Big Emperor Mushroom,0,false,1150,Material,Plants,25,2
+5433,0,Big Ghost Mushroom,0,false,3830,Material,Plants,25,2
+5434,0,Big Fog Mushroom,0,false,7400,Material,Plants,25,2
+5435,3,Big Hump Mushroom,0,false,5000,Material,Plants,25,2
+5436,0,Big Bluffer Mushroom,0,false,10600,Material,Plants,25,2
+5437,0,Big Ancient Mushroom,0,false,9800,Material,Plants,25,2
+5438,0,Big Amanita Mushroom,0,false,10600,Material,Plants,25,2
+5439,54050,Wild Grass,0,false,3390,Material,Plants,25,2
+5440,0,Insectivore Plant Flower,0,false,11700,Material,Plants,25,2
+5441,0,Insectivore Plant Leaf,0,false,12100,Material,Plants,25,2
+5442,0,Insectivore Plant Stalk,0,false,8700,Material,Plants,25,2
+5443,0,Insectivore Plant Root,0,false,7200,Material,Plants,25,2
+5444,0,High-Quality Sunrise Herb,1,false,1940,Material,Plants,25,2
+5445,0,High-Quality Silver Azalea,1,false,2230,Material,Plants,25,2
+5446,0,High-Quality Fire Flake Flower,1,false,2140,Material,Plants,25,2
+5447,0,High-Quality Dry Mane Grass,1,false,2030,Material,Plants,25,2
+5448,0,High-Quality Silk Honey Grass,1,false,1880,Material,Plants,25,2
+5450,0,High-Quality Fortune Teller Mushroom,1,false,3480,Material,Plants,25,2
+5451,0,High-Quality Arrow Mushroom,1,false,3870,Material,Plants,25,2
+5452,0,High-Quality Dwarf Mushroom,1,false,3680,Material,Plants,25,2
+5453,6,High-Quality Cloud Mushroom,1,false,3760,Material,Plants,25,2
+5454,0,High-Quality Sky Mushroom,1,false,3680,Material,Plants,25,2
+5455,0,High-Quality Tiger Mushroom,1,false,3680,Material,Plants,25,2
+5456,0,High-Quality Emperor Mushroom,1,false,3480,Material,Plants,25,2
+5457,0,High-Quality Ghost Mushroom,1,false,7400,Material,Plants,25,2
+5458,1554,High-Quality Fog Mushroom,1,false,16700,Material,Plants,25,2
+5459,0,High-Quality Hump Mushroom,1,false,17600,Material,Plants,25,2
+5460,0,High-Quality Bluffer Mushroom,1,false,16300,Material,Plants,25,2
+5461,0,High-Quality Ancient Mushroom,1,false,17600,Material,Plants,25,2
+5462,0,High-Quality Amanita Mushroom,1,false,13200,Material,Plants,25,2
+5464,22116,Special Sunrise Herb,2,false,20600,Material,Plants,25,2
+5465,19063,Special Silver Azalea,2,false,24300,Material,Plants,25,2
+5466,32865,Special Fire Flake Flower,2,false,22600,Material,Plants,25,2
+5467,7663,Special Dry Mane Grass,2,false,18200,Material,Plants,25,2
+5468,17916,Special Silk Honey Grass,2,false,30900,Material,Plants,25,2
+5470,2226,Special Fortune Teller Mushroom,2,false,37300,Material,Plants,25,2
+5471,768,Special Arrow Mushroom,2,false,37300,Material,Plants,25,2
+5472,7073,Special Dwarf Mushroom,2,false,32100,Material,Plants,25,2
+5473,30849,Special Cloud Mushroom,2,false,27300,Material,Plants,25,2
+5474,0,Special Sky Mushroom,2,false,37300,Material,Plants,25,2
+5475,4056,Special Tiger Mushroom,2,false,32100,Material,Plants,25,2
+5476,623,Special Emperor Mushroom,2,false,25900,Material,Plants,25,2
+5477,21864,Special Ghost Mushroom,2,false,30200,Material,Plants,25,2
+5478,30191,Special Fog Mushroom,2,false,36200,Material,Plants,25,2
+5479,3208,Special Hump Mushroom,2,false,41900,Material,Plants,25,2
+5480,0,Special Bluffer Mushroom,2,false,38700,Material,Plants,25,2
+5481,89678,Special Ancient Mushroom,2,false,41900,Material,Plants,25,2
+5482,905,Special Amanita Mushroom,2,false,37400,Material,Plants,25,2
+5484,527,Nolina,0,false,275,Material,Plants,25,2
+5485,25,Penestraria,0,false,475,Material,Plants,25,2
+5486,725,Dalvenia Alrea,0,false,265,Material,Plants,25,2
+5487,0,Toxic Watermelon,0,false,6650,Material,Plants,25,2
+5488,82,Glossy Bone Piece,0,false,9150,Material,Plants,25,2
+5489,2688,Bouquet Mushroom,0,false,510,Material,Plants,25,2
+5490,655,Leccinum,0,false,500,Material,Plants,25,2
+5491,0,Purple Mushroom,0,false,515,Material,Plants,25,2
+5492,1968,Pie Mushroom,0,false,540,Material,Plants,25,2
+5493,474,Eyelash Cup,0,false,500,Material,Plants,25,2
+5494,633,Star Anise Mushroom,0,false,500,Material,Plants,25,2
+5495,733,Desert Herb,0,false,1520,Material,Plants,25,2
+5496,509,High-Quality Nolina,1,false,4980,Material,Plants,25,2
+5497,355,High-Quality Penestraria,1,false,5800,Material,Plants,25,2
+5498,338,High-Quality Dalvenia Alrea,1,false,5600,Material,Plants,25,2
+5499,41,High-Quality Bouquet Mushroom,1,false,5850,Material,Plants,25,2
+5500,414,High-Quality Leccinum,1,false,3690,Material,Plants,25,2
+5501,7090,High-Quality Purple Mushroom,1,false,5050,Material,Plants,25,2
+5502,775,High-Quality Pie Mushroom,1,false,4410,Material,Plants,25,2
+5503,2346,Special Nolina,2,false,25000,Material,Plants,25,2
+5504,3728,Special Penestraria,2,false,22200,Material,Plants,25,2
+5505,8681,Special Dalvenia Alrea,2,false,24300,Material,Plants,25,2
+5506,1247,Special Bouquet Mushroom,2,false,33300,Material,Plants,25,2
+5507,899,Special Leccinum,2,false,22700,Material,Plants,25,2
+5508,40378,Special Purple Mushroom,2,false,26300,Material,Plants,25,2
+5509,250,Special Pie Mushroom,2,false,24200,Material,Plants,25,2
+5515,0,Rainbow Button Mushroom,0,false,7700,Material,Plants,25,2
+5516,1922,Blue Umbrella Mushroom,0,false,7700,Material,Plants,25,2
+5517,0,Volcanic Umbrella Mushroom,0,false,14000,Material,Plants,25,2
+5518,0,Pink Trumpet Mushroom,0,false,4350,Material,Plants,25,2
+5519,9297,White Umbrella Mushroom,0,false,470,Material,Plants,25,2
+5520,159517,Green Pendulous Mushroom,0,false,489,Material,Plants,25,2
+5521,15100,White Flower Mushroom,0,false,470,Material,Plants,25,2
+5522,0,Vedelona,0,false,5700,Material,Plants,25,2
+5523,0,Purple Pink Flower,0,false,18700,Material,Plants,25,2
+5524,0,Yellow Flower,0,false,18700,Material,Plants,25,2
+5525,0,Sky Blue Flower,0,false,18700,Material,Plants,25,2
+5526,0,Violet Flower,0,false,18700,Material,Plants,25,2
+5527,0,Blue Flower,0,false,18700,Material,Plants,25,2
+5528,5244,Audria,0,false,560,Material,Plants,25,2
+5529,1944,Saffron,0,false,600,Material,Plants,25,2
+5530,0,Hazel Tree Fruit,0,false,3340,Material,Plants,25,2
+5531,14,Mimosa Stalk,0,false,615,Material,Plants,25,2
+5532,0,Bracken,0,false,14000,Material,Plants,25,2
+5536,0,High-Quality Delotia,1,false,15500,Material,Plants,25,2
+5537,22541,Special Delotia,2,false,51500,Material,Plants,25,2
+5538,0,Delotia,0,false,3790,Material,Plants,25,2
+5544,0,Chanterelle,0,false,3770,Material,Plants,25,2
+5546,0,Red-spotted Amanita,0,false,3770,Material,Plants,25,2
+5548,0,Mesima,0,false,3770,Material,Plants,25,2
+5550,6394,Dictyophora,0,false,3460,Material,Plants,25,2
+5552,0,High-quality Chanterelle,1,false,18900,Material,Plants,25,2
+5553,41201,Special Chanterelle,2,false,49500,Material,Plants,25,2
+5554,26,High-quality Red-spotted Amanita,1,false,15000,Material,Plants,25,2
+5555,33188,Special Red-spotted Amanita,2,false,47700,Material,Plants,25,2
+5556,0,High-quality Mesima,1,false,18900,Material,Plants,25,2
+5557,12144,Special Mesima,2,false,64500,Material,Plants,25,2
+5558,431,High-quality Dictyophora,1,false,11100,Material,Plants,25,2
+5559,2855,Special Dictyophora,2,false,56500,Material,Plants,25,2
+5600,7,Weeds,0,false,5300,Material,Plants,25,2
+820101,13032,Scarlet Rosebay,0,false,266,Material,Plants,25,2
+820102,45020,Pink Rosebay,0,false,266,Material,Plants,25,2
+820104,0,Goosefoot Leaf,0,false,4230,Material,Plants,25,2
+820107,20881,Tigerflower,0,false,339,Material,Plants,25,2
+820109,0,Youngji Mushroom,0,false,3740,Material,Plants,25,2
+820131,5083,Maehwa,2,false,7900,Material,Plants,25,2
+820136,22939,Viola,0,false,329,Material,Plants,25,2
+820145,4179,Bamboo Sprout,0,false,3880,Material,Plants,25,2

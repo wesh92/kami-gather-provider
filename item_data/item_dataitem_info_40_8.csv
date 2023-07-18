@@ -1,0 +1,9 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+16157,911,[Hunting] Beginner Matchlock,0,false,118000,Life Tools,Matchlock,40,8
+16158,35,[Hunting] Apprentice Matchlock,0,false,147000,Life Tools,Matchlock,40,8
+16159,33,[Hunting] Skilled Matchlock,1,false,225000,Life Tools,Matchlock,40,8
+16160,84,[Hunting] Professional Matchlock,1,false,206000,Life Tools,Matchlock,40,8
+16161,222,[Hunting] Artisan Matchlock,2,false,645000,Life Tools,Matchlock,40,8
+56133,41,[Hunting] Sniper Rifle,2,false,1020000,Life Tools,Matchlock,40,8
+56220,11,[Hunting] Master Matchlock,3,false,258000000,Life Tools,Matchlock,40,8
+56519,0,[Hunting] Marni Sniper Rifle,3,false,419000000,Life Tools,Matchlock,40,8

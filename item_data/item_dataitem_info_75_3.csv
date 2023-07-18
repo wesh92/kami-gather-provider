@@ -1,0 +1,11 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+53501,0,Shabby Wagon Cover,0,false,296000,Wagon,Cover,75,3
+53502,0,Strong Wagon Cover,0,false,386000,Wagon,Cover,75,3
+53503,0,White Wagon Cover,0,false,458000,Wagon,Cover,75,3
+53504,0,Farm Wagon Cover,0,false,585000,Wagon,Cover,75,3
+53505,0,Trade Wagon Cover,0,false,600000,Wagon,Cover,75,3
+53506,0,Merchant Wagon Cover,0,false,735000,Wagon,Cover,75,3
+53507,1,Noble Wagon Cover,0,false,710000,Wagon,Cover,75,3
+53508,0,High-Quality Merchant Wagon Cover,1,false,2010000,Wagon,Cover,75,3
+53509,0,High-Quality Noble Wagon Cover,1,false,2010000,Wagon,Cover,75,3
+53511,0,Forest Path Wagon Cover,2,false,374000000,Wagon,Cover,75,3

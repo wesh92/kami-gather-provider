@@ -1,0 +1,11 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+3702,9,Intermediate Alchemy Tool,0,false,1730000,Life Tools,Alchemy/Cooking,40,9
+3703,0,Advanced Alchemy Tool,0,false,3680000,Life Tools,Alchemy/Cooking,40,9
+3718,1,Intermediate Cooking Utensil,0,false,1050000,Life Tools,Alchemy/Cooking,40,9
+3719,0,Advanced Cooking Utensil,0,false,2330000,Life Tools,Alchemy/Cooking,40,9
+3731,0,Serendia Traditional Alchemy Tool,0,false,373000,Life Tools,Alchemy/Cooking,40,9
+3732,0,Calpheon Traditional Alchemy Tool,0,false,1070000,Life Tools,Alchemy/Cooking,40,9
+3741,0,Serendia Traditional Cooking Utensil,0,false,373000,Life Tools,Alchemy/Cooking,40,9
+3742,0,Calpheon Traditional Cooking Utensil,0,false,680000,Life Tools,Alchemy/Cooking,40,9
+3749,0,Morning Light Traditional Cooking Utensil,0,false,11700000,Life Tools,Alchemy/Cooking,40,9
+3750,0,Morning Light Traditional Alchemy Tool,0,false,11700000,Life Tools,Alchemy/Cooking,40,9

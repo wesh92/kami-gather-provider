@@ -1,0 +1,126 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+4001,22461,Iron Ore,0,false,1440,Material,Ore/Gem,25,1
+4002,221,Lead Ore,0,false,940,Material,Ore/Gem,25,1
+4003,28045,Copper Ore,0,false,1150,Material,Ore/Gem,25,1
+4004,0,Tin Ore,0,false,2800,Material,Ore/Gem,25,1
+4005,355,Zinc Ore,0,false,4370,Material,Ore/Gem,25,1
+4006,0,Rough Stone,0,false,23300,Material,Ore/Gem,25,1
+4007,28347,Coal,0,false,1090,Material,Ore/Gem,25,1
+4008,0,Vanadium Ore,0,false,5500,Material,Ore/Gem,25,1
+4009,0,Titanium Ore,0,false,6000,Material,Ore/Gem,25,1
+4010,31616,Sulfur,0,false,860,Material,Ore/Gem,25,1
+4011,0,Noc Ore,0,false,4350,Material,Ore/Gem,25,1
+4013,0,Nickel Ore,0,false,4750,Material,Ore/Gem,25,1
+4015,946,Quartz,0,false,985,Material,Ore/Gem,25,1
+4051,33,Melted Iron Shard,0,false,6150,Material,Ore/Gem,25,1
+4052,53777,Iron Ingot,0,false,24200,Material,Ore/Gem,25,1
+4053,10274,Pure Iron Crystal,0,false,398000,Material,Ore/Gem,25,1
+4054,4730,Melted Lead Shard,0,false,2180,Material,Ore/Gem,25,1
+4055,23526,Lead Ingot,0,false,26500,Material,Ore/Gem,25,1
+4056,23,Pure Lead Crystal,0,false,428000,Material,Ore/Gem,25,1
+4057,2,Melted Copper Shard,0,false,3550,Material,Ore/Gem,25,1
+4058,22690,Copper Ingot,0,false,21500,Material,Ore/Gem,25,1
+4059,1895,Pure Copper Crystal,0,false,414000,Material,Ore/Gem,25,1
+4060,10505,Melted Tin Shard,0,false,9250,Material,Ore/Gem,25,1
+4061,54080,Tin Ingot,0,false,39800,Material,Ore/Gem,25,1
+4062,0,Pure Tin Crystal,0,false,452000,Material,Ore/Gem,25,1
+4063,0,Melted Zinc Shard,0,false,9100,Material,Ore/Gem,25,1
+4064,19,Zinc Ingot,0,false,43200,Material,Ore/Gem,25,1
+4065,148,Pure Zinc Crystal,0,false,430000,Material,Ore/Gem,25,1
+4066,39332,Brass Ingot,0,false,27900,Material,Ore/Gem,25,1
+4067,14032,Bronze Ingot,0,false,26900,Material,Ore/Gem,25,1
+4068,0,Polished Stone,0,false,74500,Material,Ore/Gem,25,1
+4070,0,Processed Coal,0,false,7050,Material,Ore/Gem,25,1
+4077,78194,Steel,0,false,17600,Material,Ore/Gem,25,1
+4078,0,Melted Vanadium Shard,0,false,21900,Material,Ore/Gem,25,1
+4079,32528,Vanadium Ingot,0,false,110000,Material,Ore/Gem,25,1
+4080,1501,Pure Vanadium Crystal,0,false,605000,Material,Ore/Gem,25,1
+4081,29130,Melted Titanium Shard,0,false,17900,Material,Ore/Gem,25,1
+4082,4957,Titanium Ingot,0,false,64000,Material,Ore/Gem,25,1
+4083,5382,Pure Titanium Crystal,0,false,610000,Material,Ore/Gem,25,1
+4084,0,Margoria Dark Iron,0,false,700000,Material,Ore/Gem,25,1
+4085,49030,Melted Noc Shard,0,false,17400,Material,Ore/Gem,25,1
+4086,44763,Noc Ingot,0,false,71500,Material,Ore/Gem,25,1
+4087,652,Pure Noc Crystal,0,false,384000,Material,Ore/Gem,25,1
+4088,0,Melted Nickel Shard,0,false,19000,Material,Ore/Gem,25,1
+4089,0,Nickel Ingot,0,false,93000,Material,Ore/Gem,25,1
+4090,0,Pure Nickel Crystal,0,false,260000,Material,Ore/Gem,25,1
+4201,0,Silver Ore,0,false,10500,Material,Ore/Gem,25,1
+4202,0,Gold Ore,0,false,15500,Material,Ore/Gem,25,1
+4203,0,Platinum Ore,0,false,22500,Material,Ore/Gem,25,1
+4204,0,Rough Opal,0,false,12200,Material,Ore/Gem,25,1
+4206,0,Mythril,0,false,37300,Material,Ore/Gem,25,1
+4207,57208,Rough Obsidian Ore,0,false,8850,Material,Ore/Gem,25,1
+4251,9395,Melted Silver Shard,0,false,37500,Material,Ore/Gem,25,1
+4252,13036,Silver Ingot,0,false,69500,Material,Ore/Gem,25,1
+4253,134,Pure Silver Crystal,0,false,351000,Material,Ore/Gem,25,1
+4254,4136,Melted Gold Shard,0,false,25800,Material,Ore/Gem,25,1
+4255,2160,Gold Ingot,0,false,162000,Material,Ore/Gem,25,1
+4256,6733,Pure Gold Crystal,0,false,645000,Material,Ore/Gem,25,1
+4257,0,Melted Platinum Shard,0,false,75500,Material,Ore/Gem,25,1
+4258,0,Platinum Ingot,0,false,580000,Material,Ore/Gem,25,1
+4259,0,Pure Platinum Crystal,0,false,1370000,Material,Ore/Gem,25,1
+4260,0,Polished Opal,0,false,48900,Material,Ore/Gem,25,1
+4262,0,Melted Mythril Shard,0,false,83500,Material,Ore/Gem,25,1
+4263,0,Mythril Ingot,0,false,640000,Material,Ore/Gem,25,1
+4264,0,Pure Mythril Crystal,0,false,1560000,Material,Ore/Gem,25,1
+4265,0,Brilliant Opal,0,false,291000,Material,Ore/Gem,25,1
+4266,0,Moonlight Opal,0,false,1280000,Material,Ore/Gem,25,1
+4267,0,Black Gold Ingot,0,false,1310000,Material,Ore/Gem,25,1
+4269,726,Jade Coral Ingot,0,false,1200000,Material,Ore/Gem,25,1
+4272,1047,Obsidian Ore,0,false,20800,Material,Ore/Gem,25,1
+4273,58210,Resplendent Obsidian,0,false,55000,Material,Ore/Gem,25,1
+4401,53861,Rough Ruby,0,false,3810,Material,Ore/Gem,25,1
+4402,0,Rough Sapphire,0,false,33100,Material,Ore/Gem,25,1
+4403,0,Rough Topaz,0,false,37300,Material,Ore/Gem,25,1
+4404,0,Rough Emerald,0,false,37300,Material,Ore/Gem,25,1
+4405,7178,Rough Diamond,0,false,12600,Material,Ore/Gem,25,1
+4406,0,Rough Translucent Crystal,0,false,12600,Material,Ore/Gem,25,1
+4407,7632,Rough Mud Crystal,0,false,2640,Material,Ore/Gem,25,1
+4408,7237,Rough Red Crystal,0,false,3290,Material,Ore/Gem,25,1
+4409,2921,Rough Green Crystal,0,false,4590,Material,Ore/Gem,25,1
+4410,20711,Rough Black Crystal,0,false,3380,Material,Ore/Gem,25,1
+4411,269,Rough Blue Crystal,0,false,2280,Material,Ore/Gem,25,1
+4412,10171,Rough Violet Crystal,0,false,1370,Material,Ore/Gem,25,1
+4413,998,Rough Lapis Lazuli,0,false,30800,Material,Ore/Gem,25,1
+4414,27965,Rough Jade,0,false,9900,Material,Ore/Gem,25,1
+4451,35888,Ruby,0,false,14500,Material,Ore/Gem,25,1
+4452,50732,Resplendent Ruby,0,false,47600,Material,Ore/Gem,25,1
+4453,0,Blood Ruby,0,false,790000,Material,Ore/Gem,25,1
+4454,0,Sapphire,0,false,133000,Material,Ore/Gem,25,1
+4455,0,Resplendent Sapphire,0,false,430000,Material,Ore/Gem,25,1
+4456,663,Ocean Sapphire,0,false,2020000,Material,Ore/Gem,25,1
+4457,0,Topaz,0,false,112000,Material,Ore/Gem,25,1
+4458,0,Resplendent Topaz,0,false,447000,Material,Ore/Gem,25,1
+4459,0,Gold Topaz,0,false,2030000,Material,Ore/Gem,25,1
+4460,0,Emerald,0,false,119000,Material,Ore/Gem,25,1
+4461,941,Resplendent Emerald,0,false,241000,Material,Ore/Gem,25,1
+4462,159,Forest Emerald,0,false,900000,Material,Ore/Gem,25,1
+4463,4448,Diamond,0,false,36900,Material,Ore/Gem,25,1
+4464,3479,Resplendent Diamond,0,false,62000,Material,Ore/Gem,25,1
+4465,1885,Star Diamond,0,false,1310000,Material,Ore/Gem,25,1
+4466,14845,Translucent Crystal,0,false,30800,Material,Ore/Gem,25,1
+4467,248,Mud Crystal,0,false,9950,Material,Ore/Gem,25,1
+4468,37718,Red Crystal,0,false,15300,Material,Ore/Gem,25,1
+4469,36542,Green Crystal,0,false,18700,Material,Ore/Gem,25,1
+4470,0,Black Crystal,0,false,12700,Material,Ore/Gem,25,1
+4481,0,Gem Polisher,0,false,256000,Material,Ore/Gem,25,1
+4483,8622,Blue Crystal,0,false,6100,Material,Ore/Gem,25,1
+4485,197441,Violet Crystal,0,false,5500,Material,Ore/Gem,25,1
+4490,13018,Lapis Lazuli,0,false,86000,Material,Ore/Gem,25,1
+4491,1628,Resplendent Lapis Lazuli,0,false,212000,Material,Ore/Gem,25,1
+4492,0,Indigo Lapis Lazuli,0,false,1970000,Material,Ore/Gem,25,1
+4493,41805,Jade,0,false,32800,Material,Ore/Gem,25,1
+4494,372944,Resplendent Jade,0,false,55000,Material,Ore/Gem,25,1
+4801,23322,Powder of Darkness,0,false,4090,Material,Ore/Gem,25,1
+4802,25918,Powder of Flame,0,false,9850,Material,Ore/Gem,25,1
+4803,3408688,Powder of Rifts,0,false,1620,Material,Ore/Gem,25,1
+4804,3081,Powder of Earth,0,false,4920,Material,Ore/Gem,25,1
+4805,87604,Powder of Time,0,false,2040,Material,Ore/Gem,25,1
+4901,194543,Black Stone Powder,0,false,3550,Material,Ore/Gem,25,1
+4902,3959,Alluvial Gold,0,false,10500,Material,Ore/Gem,25,1
+8183,0,Impeccably Polished Stone,0,false,280000,Material,Ore/Gem,25,1
+8184,0,Fine Black Stone Powder,0,false,74500,Material,Ore/Gem,25,1
+9746,0,Abyssal Brass Ingot,3,false,550000,Material,Ore/Gem,25,1
+820138,0,Mysterious Powder,0,false,9350,Material,Ore/Gem,25,1
+820200,0,Miracle-Imbued Stone,0,false,361000,Material,Ore/Gem,25,1

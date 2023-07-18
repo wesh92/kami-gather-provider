@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+11303,42,Leather Vambrace,1,false,38100,Sub Weapon,Vambrace,5,9
+11304,36,Scale Vambrace,1,false,75500,Sub Weapon,Vambrace,5,9
+11305,106,Iron Vambrace,1,false,54000,Sub Weapon,Vambrace,5,9
+11324,27,Krea Vambrace,1,false,27200,Sub Weapon,Vambrace,5,9
+11325,8,Rosar Vambrace,1,false,261000,Sub Weapon,Vambrace,5,9
+11338,17,Nouver Vambrace,3,false,241000000,Sub Weapon,Vambrace,5,9
+11340,16,Kutum Vambrace,3,false,241000000,Sub Weapon,Vambrace,5,9
+735009,8,Blackstar Vambrace,4,false,458000000,Sub Weapon,Vambrace,5,9
+738209,3,Godr-Ayed Vambrace,4,true,12300000000,Sub Weapon,Vambrace,5,9

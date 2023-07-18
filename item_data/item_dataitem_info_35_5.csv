@@ -1,0 +1,48 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+513,162511,Instant HP Potion (Small),0,false,77,Consumables,Potion,35,5
+514,0,Instant HP Potion (Medium),0,false,314,Consumables,Potion,35,5
+515,0,Instant MP Potion (Small),0,false,126,Consumables,Potion,35,5
+516,0,Instant MP Potion (Medium),0,false,314,Consumables,Potion,35,5
+517,43,HP Potion (Small),0,false,51,Consumables,Potion,35,5
+518,72826,HP Potion (Medium),0,false,129,Consumables,Potion,35,5
+519,920,HP Potion (Large),0,false,342,Consumables,Potion,35,5
+520,1,MP Potion (Small),0,false,51,Consumables,Potion,35,5
+521,26,MP Potion (Medium),0,false,210,Consumables,Potion,35,5
+522,561,MP Potion (Large),0,false,362,Consumables,Potion,35,5
+524,0,HP Potion (Extra Large),0,false,1320,Consumables,Potion,35,5
+526,113,MP Potion (Extra Large),0,false,1320,Consumables,Potion,35,5
+528,0,Instant HP Potion (Large),0,false,790,Consumables,Potion,35,5
+529,244,Instant HP Potion (Extra Large),0,false,2100,Consumables,Potion,35,5
+531,0,Instant MP Potion (Large),0,false,790,Consumables,Potion,35,5
+532,0,Instant MP Potion (Extra Large),0,false,2100,Consumables,Potion,35,5
+566,15398,Grain Juice,0,false,34,Consumables,Potion,35,5
+567,7467,Concentrated Grain Juice,0,false,85,Consumables,Potion,35,5
+568,2712,Highly Concentrated Grain Juice,0,false,1010,Consumables,Potion,35,5
+569,7,Herbal Juice,0,false,37,Consumables,Potion,35,5
+570,0,Concentrated Herbal Juice,0,false,382,Consumables,Potion,35,5
+571,0,Highly Concentrated Herbal Juice,0,false,1960,Consumables,Potion,35,5
+575,70,Whale Tendon Potion,1,false,1350000,Consumables,Potion,35,5
+576,0,Superior Whale Tendon Potion,2,false,3910000,Consumables,Potion,35,5
+578,0,Refined Grain Juice,0,false,3130,Consumables,Potion,35,5
+579,0,Refined Herbal Juice,0,false,5600,Consumables,Potion,35,5
+586,0,Energy Potion (Small),2,false,1010000,Consumables,Potion,35,5
+587,0,Energy Potion (Medium),2,false,2010000,Consumables,Potion,35,5
+588,0,Energy Potion (Large),2,false,3350000,Consumables,Potion,35,5
+589,0,Energy Potion (Extra Large),2,false,5350000,Consumables,Potion,35,5
+591,0,WP Potion (Small),0,false,126,Consumables,Potion,35,5
+592,0,WP Potion (Medium),0,false,314,Consumables,Potion,35,5
+593,19,WP Potion (Large),0,false,790,Consumables,Potion,35,5
+594,0,WP Potion (Extra Large),0,false,2100,Consumables,Potion,35,5
+595,0,SP Potion (Small),0,false,126,Consumables,Potion,35,5
+596,0,SP Potion (Medium),0,false,314,Consumables,Potion,35,5
+597,0,SP Potion (Large),0,false,790,Consumables,Potion,35,5
+598,0,SP Potion (Extra Large),0,false,2100,Consumables,Potion,35,5
+1041,0,HP Gourd Bottle,0,false,2100,Consumables,Potion,35,5
+1042,138,MP Gourd Bottle,0,false,2080,Consumables,Potion,35,5
+1360,0,Sturdy Whale Tendon Potion,3,false,14000000,Consumables,Potion,35,5
+7918,424,Fragrant Jerky,0,false,1100,Consumables,Potion,35,5
+7919,4329,Well-Dried Jerky,0,false,815,Consumables,Potion,35,5
+7920,26008,Rare Jerky,0,false,1220,Consumables,Potion,35,5
+19923,0,[Event] Rice Cake Soup,2,false,2800000,Consumables,Potion,35,5
+820147,37,Miraculous Tteokguk,4,false,26400000,Consumables,Potion,35,5
+820150,0,Miraculous Herbal Medicine,4,false,56000000,Consumables,Potion,35,5

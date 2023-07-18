@@ -1,0 +1,9 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+51001,0,Wagon Registration: Shabby Wagon,1,false,187000,Wagon,Registration,75,1
+51002,0,Wagon Registration: Strong Wagon,1,false,1030000,Wagon,Registration,75,1
+51003,0,Wagon Registration: White Wagon,1,false,5350000,Wagon,Registration,75,1
+51004,1,Wagon Registration: Farm Wagon,1,false,1400000,Wagon,Registration,75,1
+51005,0,Wagon Registration: Trade Wagon,1,false,3630000,Wagon,Registration,75,1
+51007,0,Wagon Registration: Merchant Wagon,2,false,6150000,Wagon,Registration,75,1
+51008,0,Wagon Registration: Noble Wagon,2,false,11200000,Wagon,Registration,75,1
+51013,0,Wagon Registration: Forest Path Wagon,3,false,1810000000,Wagon,Registration,75,1

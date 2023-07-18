@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+733203,119,Pahr Mareca,1,false,38100,Sub Weapon,Mareca,5,15
+733204,191,Dohr Mareca,1,false,75500,Sub Weapon,Mareca,5,15
+733205,241,Lahr Mareca,1,false,54000,Sub Weapon,Mareca,5,15
+733209,73,Krea Mareca,1,false,27200,Sub Weapon,Mareca,5,15
+733210,66,Rosar Mareca,1,false,261000,Sub Weapon,Mareca,5,15
+733213,1,Nouver Mareca,3,false,241000000,Sub Weapon,Mareca,5,15
+733215,4,Kutum Mareca,3,false,241000000,Sub Weapon,Mareca,5,15
+735015,2,Blackstar Mareca,4,false,458000000,Sub Weapon,Mareca,5,15
+738215,0,Godr-Ayed Mareca,4,true,12300000000,Sub Weapon,Mareca,5,15

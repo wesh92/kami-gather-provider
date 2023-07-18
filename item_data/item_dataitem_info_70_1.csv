@@ -1,0 +1,7 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+49001,0,Ship License: Rowboat,1,false,560000,Ship,Registration,70,1
+49003,0,Ship License: Calpheon Rowboat,1,false,1120000,Ship,Registration,70,1
+49004,0,Ship License: Mediah Rowboat,1,false,2050000,Ship,Registration,70,1
+49006,0,Ship License: Fishing Boat,1,false,5600000,Ship,Registration,70,1
+49009,0,Ship License: Epheria Frigate,2,false,3130000000,Ship,Registration,70,1
+49011,0,Ship License: Epheria Sailboat,2,false,530000000,Ship,Registration,70,1

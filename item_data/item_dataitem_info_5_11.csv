@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+13803,76,Bhatu Ra'ghon,1,false,38100,Sub Weapon,Ra'ghon,5,11
+13804,26,Ganatte Ra'ghon,1,false,75500,Sub Weapon,Ra'ghon,5,11
+13805,142,Sharos Ra'ghon,1,false,54000,Sub Weapon,Ra'ghon,5,11
+13824,53,Krea Ra'ghon,1,false,27200,Sub Weapon,Ra'ghon,5,11
+13825,19,Rosar Ra'ghon,1,false,261000,Sub Weapon,Ra'ghon,5,11
+13838,7,Nouver Ra'ghon,3,false,241000000,Sub Weapon,Ra'ghon,5,11
+13840,8,Kutum Ra'ghon,3,false,241000000,Sub Weapon,Ra'ghon,5,11
+735011,2,Blackstar Ra'ghon,4,false,458000000,Sub Weapon,Ra'ghon,5,11
+738211,1,Godr-Ayed Ra'ghon,4,true,12300000000,Sub Weapon,Ra'ghon,5,11

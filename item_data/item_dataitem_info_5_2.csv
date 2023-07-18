@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+10303,6,Bronze Dagger,1,false,38100,Sub Weapon,Dagger,5,2
+10304,103,Steel Dagger,1,false,75500,Sub Weapon,Dagger,5,2
+10305,18,Parrying Dagger,1,false,54000,Sub Weapon,Dagger,5,2
+10324,38,Krea Dagger,1,false,27200,Sub Weapon,Dagger,5,2
+10325,10,Rosar Dagger,1,false,261000,Sub Weapon,Dagger,5,2
+10338,12,Nouver Dagger,3,false,241000000,Sub Weapon,Dagger,5,2
+10340,19,Kutum Dagger,3,false,241000000,Sub Weapon,Dagger,5,2
+735002,8,Blackstar Dagger,4,false,458000000,Sub Weapon,Dagger,5,2
+738202,1,Godr-Ayed Dagger,4,true,12300000000,Sub Weapon,Dagger,5,2

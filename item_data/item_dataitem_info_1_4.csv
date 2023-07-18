@@ -1,0 +1,17 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+10603,1,Elsh Axe,1,false,72000,Main Weapon,Axe,1,4
+10605,0,Azwell Axe,1,false,18900,Main Weapon,Axe,1,4
+10606,0,Ain Axe,1,false,377000,Main Weapon,Axe,1,4
+10607,33,Seleth Axe,1,false,73500,Main Weapon,Axe,1,4
+10609,12,Liverto Axe,2,false,5950000,Main Weapon,Axe,1,4
+10610,9,Kzarka Axe,3,false,241000000,Main Weapon,Axe,1,4
+10612,0,Kalis Axe,1,false,242000,Main Weapon,Axe,1,4
+10613,1,Bares Axe,1,false,267000,Main Weapon,Axe,1,4
+10614,26,Yuria Axe,1,false,246000,Main Weapon,Axe,1,4
+10656,23,Krea Axe,1,false,39500,Main Weapon,Axe,1,4
+10657,0,Rosar Axe,1,false,345000,Main Weapon,Axe,1,4
+10671,0,Styd Axe,1,false,23500,Main Weapon,Axe,1,4
+10672,0,Ultimate Styd Axe,2,false,55500,Main Weapon,Axe,1,4
+10686,3,Offin Tett's Radiant Axe,3,false,122000000,Main Weapon,Axe,1,4
+715007,7,Blackstar Axe,4,false,580000000,Main Weapon,Axe,1,4
+736018,5,Godr-Ayed Axe,4,true,11600000000,Main Weapon,Axe,1,4

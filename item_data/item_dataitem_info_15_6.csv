@@ -1,0 +1,343 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+12501,0,[Warrior] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12502,0,[Berserker] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12503,0,[Sorceress] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12504,0,[Tamer] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12505,0,[Ranger] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12506,0,[Musa] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12507,0,[Valkyrie] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12508,0,[Maehwa] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12509,0,[Wizard] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12510,0,[Witch] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12511,0,[Kunoichi] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12512,0,[Ninja] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12525,0,[Warrior] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12526,0,[Berserker] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12530,0,[Musa] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12533,0,[Wizard] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12536,0,[Ninja] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12562,0,[Dark Knight] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12563,0,[Dark Knight] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+12564,0,[Dark Knight] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12565,0,[Dark Knight] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12567,0,[Dark Knight] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12574,0,[Sorceress] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12575,0,[Ranger] Ahon Kirus's Armor,2,false,5450000,Armor,Crafted Clothes,15,6
+12576,0,[Tamer] Ahon Kirus's Armor,2,false,5200000,Armor,Crafted Clothes,15,6
+12577,0,[Valkyrie] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12578,0,[Witch] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12579,0,[Kunoichi] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12580,0,[Maehwa] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12581,0,[Dark Knight] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12590,0,[Sorceress] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12591,0,[Ranger] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12592,0,[Tamer] Shroud Knight Armor,2,false,2640000,Armor,Crafted Clothes,15,6
+12593,0,[Valkyrie] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12594,0,[Witch] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12595,0,[Kunoichi] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12596,0,[Maehwa] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12597,0,[Dark Knight] Shroud Knight Armor,2,false,2650000,Armor,Crafted Clothes,15,6
+12598,0,[Warrior] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12599,0,[Berserker] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12600,0,[Musa] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12601,0,[Wizard] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12602,0,[Ninja] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12619,0,[Warrior] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12620,0,[Berserker] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12621,0,[Musa] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12622,0,[Wizard] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12623,0,[Ninja] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12629,0,[Sorceress] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12630,0,[Ranger] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12631,0,[Tamer] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12632,0,[Valkyrie] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12633,0,[Witch] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12634,0,[Kunoichi] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12635,0,[Maehwa] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12636,0,[Dark Knight] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12646,0,[Striker] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+12647,0,[Striker] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+12648,0,[Striker] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12649,0,[Striker] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+12650,0,[Striker] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+12651,0,[Striker] Serendian Soldier Armor,2,false,785000,Armor,Crafted Clothes,15,6
+12652,0,[Striker] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12653,0,[Striker] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12654,0,[Striker] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12664,0,[Striker] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12667,0,[Mystic] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+12668,0,[Mystic] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+12669,0,[Mystic] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12671,0,[Mystic] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12672,0,[Mystic] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12673,0,[Mystic] Orwen's Travel Wear,2,false,2470000,Armor,Crafted Clothes,15,6
+12674,0,[Mystic] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12675,0,[Mystic] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12676,0,[Mystic] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12677,0,[Mystic] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12697,0,[Archer] Calpheon Noble Suit,2,false,820000,Armor,Crafted Clothes,15,6
+12698,0,[Archer] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+12699,0,[Archer] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12700,0,[Archer] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+12701,0,[Archer] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+12702,0,[Archer] Serendian Soldier Armor,2,false,785000,Armor,Crafted Clothes,15,6
+12703,0,[Archer] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12704,0,[Archer] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12705,0,[Archer] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12715,0,[Archer] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12717,0,[Lahn] Calpheon Noble Dress,2,false,860000,Armor,Crafted Clothes,15,6
+12718,0,[Lahn] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+12719,0,[Lahn] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12721,0,[Lahn] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12722,0,[Lahn] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12723,0,[Lahn] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+12724,0,[Lahn] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12725,0,[Lahn] Ahon Kirus's Armor,2,false,5450000,Armor,Crafted Clothes,15,6
+12726,0,[Lahn] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12727,0,[Lahn] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12734,0,[Guardian] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+12735,0,[Guardian] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+12736,0,[Guardian] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12738,0,[Guardian] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12739,0,[Guardian] Delphe Knight Armor,2,false,5450000,Armor,Crafted Clothes,15,6
+12740,0,[Guardian] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+12741,0,[Guardian] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12742,0,[Guardian] Ahon Kirus's Armor,2,false,5100000,Armor,Crafted Clothes,15,6
+12743,0,[Guardian] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12744,0,[Guardian] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12757,0,[Hashashin] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+12758,0,[Hashashin] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+12759,0,[Hashashin] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12760,0,[Hashashin] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+12761,0,[Hashashin] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+12762,0,[Hashashin] Serendian Soldier Armor,2,false,530000,Armor,Crafted Clothes,15,6
+12763,0,[Hashashin] Serendian Formal Suit,2,false,2330000,Armor,Crafted Clothes,15,6
+12764,0,[Hashashin] Valencian Travel Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12765,0,[Hashashin] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12775,0,[Hashashin] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12778,0,[Nova] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+12779,0,[Nova] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+12780,0,[Nova] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12782,0,[Nova] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12783,0,[Nova] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12784,0,[Nova] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+12785,0,[Nova] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12786,0,[Nova] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12787,0,[Nova] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12788,0,[Nova] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12848,0,[Sage] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+12849,0,[Sage] Garnier Troupe Garb,2,false,1170000,Armor,Crafted Clothes,15,6
+12850,0,[Sage] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12851,0,[Sage] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+12852,0,[Sage] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+12853,0,[Sage] Serendian Soldier Armor,2,false,540000,Armor,Crafted Clothes,15,6
+12854,0,[Sage] Serendian Formal Suit,2,false,2050000,Armor,Crafted Clothes,15,6
+12855,0,[Sage] Valencian Travel Wear,2,false,2020000,Armor,Crafted Clothes,15,6
+12856,0,[Sage] The Shroud Knight Armor,2,false,1890000,Armor,Crafted Clothes,15,6
+12866,0,[Sage] Serendian Smith Garb,2,false,1320000,Armor,Crafted Clothes,15,6
+12870,0,[Corsair] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+12871,0,[Corsair] Garnier Troupe Garb,2,false,1300000,Armor,Crafted Clothes,15,6
+12872,0,[Corsair] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+12874,0,[Corsair] Terrmian Casual Wear,2,false,2240000,Armor,Crafted Clothes,15,6
+12875,0,[Corsair] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12876,0,[Corsair] Orwen's Travel Wear,2,false,2440000,Armor,Crafted Clothes,15,6
+12877,0,[Corsair] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12878,0,[Corsair] Ahon Kirus Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12879,0,[Corsair] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12880,0,[Corsair] Shroud Knight Armor,2,false,2640000,Armor,Crafted Clothes,15,6
+12906,0,[Drakania] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+12907,0,[Drakania] Garnier Troupe Garb,2,false,755000,Armor,Crafted Clothes,15,6
+12908,0,[Drakania] Serendian Smith Garb,2,false,1310000,Armor,Crafted Clothes,15,6
+12910,0,[Drakania] Terrmian Casual Wear,2,false,1810000,Armor,Crafted Clothes,15,6
+12911,0,[Drakania] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12912,0,[Drakania] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+12913,0,[Drakania] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12914,0,[Drakania] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12915,0,[Drakania] Black Leopard Armor,2,false,2980000,Armor,Crafted Clothes,15,6
+12916,0,[Drakania] Shroud Knight Armor,2,false,2700000,Armor,Crafted Clothes,15,6
+12938,0,[Woosa] Calpheon Noble Dress,2,false,560000,Armor,Crafted Clothes,15,6
+12939,0,[Woosa] Garnier Troupe Garb,2,false,715000,Armor,Crafted Clothes,15,6
+12940,0,[Woosa] Serendian Smith Garb,2,false,730000,Armor,Crafted Clothes,15,6
+12941,0,[Woosa] Serendian Soldier Suit,2,false,346000,Armor,Crafted Clothes,15,6
+12942,0,[Woosa] Terrmian Casual Wear,2,false,1480000,Armor,Crafted Clothes,15,6
+12943,0,[Woosa] Delphe Knight Armor,2,false,3710000,Armor,Crafted Clothes,15,6
+12944,0,[Woosa] Orwen's Travel Wear,2,false,2010000,Armor,Crafted Clothes,15,6
+12945,0,[Woosa] Jarette's Armor,2,false,4350000,Armor,Crafted Clothes,15,6
+12946,0,[Woosa] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12947,0,[Woosa] Black Leopard Armor,2,false,1270000,Armor,Crafted Clothes,15,6
+12948,0,[Woosa] Shroud Knight Armor,2,false,1750000,Armor,Crafted Clothes,15,6
+12961,0,[Maegu] Calpheon Noble Dress,2,false,575000,Armor,Crafted Clothes,15,6
+12962,0,[Maegu] Garnier Troupe Garb,2,false,725000,Armor,Crafted Clothes,15,6
+12963,0,[Maegu] Serendian Smith Garb,2,false,820000,Armor,Crafted Clothes,15,6
+12964,0,[Maegu] Serendian Soldier Suit,2,false,353000,Armor,Crafted Clothes,15,6
+12965,0,[Maegu] Terrmian Casual Wear,2,false,1200000,Armor,Crafted Clothes,15,6
+12966,0,[Maegu] Delphe Knight Armor,2,false,3530000,Armor,Crafted Clothes,15,6
+12967,0,[Maegu] Orwen's Travel Wear,2,false,2110000,Armor,Crafted Clothes,15,6
+12968,0,[Maegu] Jarette's Armor,2,false,4540000,Armor,Crafted Clothes,15,6
+12969,0,[Maegu] Ahon Kirus's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+12970,0,[Maegu] Black Leopard Armor,2,false,1650000,Armor,Crafted Clothes,15,6
+12971,0,[Maegu] Shroud Knight Armor,2,false,1600000,Armor,Crafted Clothes,15,6
+14201,0,[Warrior] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+14202,0,[Berserker] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+14203,0,[Sorceress] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14204,0,[Tamer] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14205,0,[Ranger] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14206,0,[Musa] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+14207,0,[Valkyrie] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14208,0,[Maehwa] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14211,0,[Warrior] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14212,0,[Berserker] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14213,0,[Sorceress] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14214,0,[Tamer] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14215,0,[Ranger] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14216,0,[Musa] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14217,0,[Valkyrie] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14218,0,[Maehwa] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14219,0,[Wizard] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+14220,0,[Witch] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14221,0,[Kunoichi] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14222,0,[Kunoichi] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14223,0,[Ninja] Calpheon Noble Suit,2,false,865000,Armor,Crafted Clothes,15,6
+14284,0,[Warrior] Serendian Soldier Armor,2,false,785000,Armor,Crafted Clothes,15,6
+14285,0,[Berserker] Serendian Soldier Armor,2,false,785000,Armor,Crafted Clothes,15,6
+14286,0,[Sorceress] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+14287,0,[Tamer] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+14288,0,[Ranger] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+14289,0,[Musa] Serendian Soldier Armor,2,false,785000,Armor,Crafted Clothes,15,6
+14290,0,[Valkyrie] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+14291,0,[Maehwa] Serendian Smith Garb,2,false,1540000,Armor,Crafted Clothes,15,6
+14292,0,[Wizard] Serendian Soldier Armor,2,false,785000,Armor,Crafted Clothes,15,6
+14293,0,[Witch] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+14294,0,[Kunoichi] Serendian Smith Garb,2,false,1680000,Armor,Crafted Clothes,15,6
+14295,0,[Ninja] Serendian Soldier Armor,2,false,785000,Armor,Crafted Clothes,15,6
+14296,0,[Warrior] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+14297,0,[Berserker] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+14298,0,[Sorceress] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+14299,0,[Tamer] Orwen's Travel Wear,2,false,2340000,Armor,Crafted Clothes,15,6
+14300,0,[Ranger] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+14339,0,[Wizard] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14340,0,[Witch] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14341,0,[Ninja] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14345,0,[Dark Knight] Calpheon Noble Dress,2,false,865000,Armor,Crafted Clothes,15,6
+14346,0,[Dark Knight] Garnier Troupe Garb,2,false,1400000,Armor,Crafted Clothes,15,6
+14838,0,[Musa] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+14839,0,[Valkyrie] Orwen's Travel Wear,2,false,2480000,Armor,Crafted Clothes,15,6
+14840,0,[Maehwa] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+14841,0,[Wizard] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+14842,0,[Witch] Orwen's Travel Wear,2,false,2340000,Armor,Crafted Clothes,15,6
+14843,0,[Kunoichi] Orwen's Travel Wear,2,false,2520000,Armor,Crafted Clothes,15,6
+14844,0,[Ninja] Jordine's Casual Wear,2,false,1400000,Armor,Crafted Clothes,15,6
+14845,0,[Warrior] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+14846,0,[Berserker] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+14847,0,[Sorceress] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14848,0,[Tamer] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14849,0,[Ranger] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14850,0,[Musa] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+14851,0,[Valkyrie] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14852,0,[Maehwa] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14853,0,[Wizard] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+14854,0,[Witch] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14855,0,[Kunoichi] Jarette's Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14856,0,[Ninja] Edan's Travel Wear,2,false,1120000,Armor,Crafted Clothes,15,6
+14869,0,[Warrior] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14870,0,[Berserker] Delphe Knight Armor,2,false,5550000,Armor,Crafted Clothes,15,6
+14871,0,[Sorceress] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14872,0,[Tamer] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14873,0,[Ranger] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14874,0,[Musa] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14875,0,[Valkyrie] Delphe Knight Armor,2,false,5500000,Armor,Crafted Clothes,15,6
+14876,0,[Maehwa] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14877,0,[Wizard] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14878,0,[Witch] Delphe Knight Armor,2,false,5550000,Armor,Crafted Clothes,15,6
+14879,0,[Kunoichi] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+14880,0,[Ninja] Delphe Knight Armor,2,false,5600000,Armor,Crafted Clothes,15,6
+719525,0,[Shai] Kanna's Naga Disguise,2,false,865000,Armor,Crafted Clothes,15,6
+719544,0,[Shai] Florin Cook's Clothes,2,false,865000,Armor,Crafted Clothes,15,6
+719545,0,[Shai] Florin Herb Gatherer Clothes,2,false,865000,Armor,Crafted Clothes,15,6
+719546,0,[Shai] Drieghanese Winter Clothes,2,false,1260000,Armor,Crafted Clothes,15,6
+719547,0,[Shai] Descendant of Sherekhan Outfit,2,false,2240000,Armor,Crafted Clothes,15,6
+754001,0,[Warrior] Karlstein Hat,4,false,79000000,Armor,Crafted Clothes,15,6
+754002,0,[Warrior] Karlstein Armor,4,false,109000000,Armor,Crafted Clothes,15,6
+754003,0,[Warrior] Karlstein Longsword,4,false,67000000,Armor,Crafted Clothes,15,6
+754005,0,[Sorceress] Karlstein Hat,4,false,32000000,Armor,Crafted Clothes,15,6
+754006,0,[Sorceress] Karlstein Armor,4,false,183000000,Armor,Crafted Clothes,15,6
+754007,0,[Sorceress] Karlstein Shoes,4,false,39500000,Armor,Crafted Clothes,15,6
+754008,0,[Sorceress] Karlstein Amulet,4,false,42200000,Armor,Crafted Clothes,15,6
+754009,0,[Sorceress] Karlstein Talisman,4,false,46400000,Armor,Crafted Clothes,15,6
+754010,0,[Ranger] Karlstein Hat,4,false,43300000,Armor,Crafted Clothes,15,6
+754011,0,[Ranger] Karlstein Armor,4,false,193000000,Armor,Crafted Clothes,15,6
+754012,0,[Ranger] Karlstein Shoes,4,false,43100000,Armor,Crafted Clothes,15,6
+754013,0,[Ranger] Karlstein Longbow,4,false,119000000,Armor,Crafted Clothes,15,6
+754015,0,[Berserker] Karlstein Hat,4,false,25600000,Armor,Crafted Clothes,15,6
+754016,0,[Berserker] Karlstein Armor,4,false,126000000,Armor,Crafted Clothes,15,6
+754017,0,[Berserker] Karlstein Axe,4,false,38500000,Armor,Crafted Clothes,15,6
+754020,0,[Tamer] Karlstein Armor,4,false,223000000,Armor,Crafted Clothes,15,6
+754021,0,[Tamer] Karlstein Shoes,4,false,38400000,Armor,Crafted Clothes,15,6
+754025,0,[Musa] Karlstein Armor,4,false,317000000,Armor,Crafted Clothes,15,6
+754027,0,[Musa] Karlstein Horn Bow,4,false,32400000,Armor,Crafted Clothes,15,6
+754028,0,[Valkyrie] Karlstein Hat,4,false,79000000,Armor,Crafted Clothes,15,6
+754029,0,[Valkyrie] Karlstein Armor,4,false,168000000,Armor,Crafted Clothes,15,6
+754030,0,[Valkyrie] Karlstein Shoes,4,false,63500000,Armor,Crafted Clothes,15,6
+754031,0,[Valkyrie] Karlstein Longsword,4,false,119000000,Armor,Crafted Clothes,15,6
+754034,0,[Maehwa] Karlstein Armor,4,false,173000000,Armor,Crafted Clothes,15,6
+754035,0,[Maehwa] Karlstein Shoes,4,false,34000000,Armor,Crafted Clothes,15,6
+754038,0,[Wizard] Karlstein Hat,4,false,79000000,Armor,Crafted Clothes,15,6
+754040,0,[Wizard] Karlstein Staff,4,false,67000000,Armor,Crafted Clothes,15,6
+754041,0,[Wizard] Karlstein Dagger,4,false,40200000,Armor,Crafted Clothes,15,6
+754042,0,[Witch] Karlstein Hat,4,false,47300000,Armor,Crafted Clothes,15,6
+754043,0,[Witch] Karlstein Armor,4,false,192000000,Armor,Crafted Clothes,15,6
+754044,0,[Witch] Karlstein Shoes,4,false,56000000,Armor,Crafted Clothes,15,6
+754045,0,[Witch] Karlstein Staff,4,false,67000000,Armor,Crafted Clothes,15,6
+754046,0,[Witch] Karlstein Dagger,4,false,43900000,Armor,Crafted Clothes,15,6
+754047,0,[Kunoichi] Karlstein Hat,4,false,43400000,Armor,Crafted Clothes,15,6
+754048,0,[Kunoichi] Karlstein Armor,4,false,201000000,Armor,Crafted Clothes,15,6
+754050,0,[Kunoichi] Karlstein Shortsword,4,false,85500000,Armor,Crafted Clothes,15,6
+754052,0,[Ninja] Karlstein Hat,4,false,25600000,Armor,Crafted Clothes,15,6
+754053,0,[Ninja] Karlstein Armor,4,false,121000000,Armor,Crafted Clothes,15,6
+754054,0,[Ninja] Karlstein Shortsword,4,false,39600000,Armor,Crafted Clothes,15,6
+754055,0,[Ninja] Karlstein Kunai,4,false,24800000,Armor,Crafted Clothes,15,6
+754056,0,[Mystic] Karlstein Hat,4,false,35200000,Armor,Crafted Clothes,15,6
+754057,0,[Mystic] Karlstein Armor,4,false,134000000,Armor,Crafted Clothes,15,6
+754058,0,[Mystic] Karlstein Shoes,4,false,48400000,Armor,Crafted Clothes,15,6
+754059,0,[Mystic] Karlstein Gauntlet,4,false,43000000,Armor,Crafted Clothes,15,6
+754060,0,[Mystic] Karlstein Vambrace,4,false,39800000,Armor,Crafted Clothes,15,6
+754061,0,[Dark Knight] Karlstein Hat,4,false,36400000,Armor,Crafted Clothes,15,6
+754062,0,[Dark Knight] Karlstein Armor,4,false,177000000,Armor,Crafted Clothes,15,6
+754063,0,[Dark Knight] Karlstein Shoes,4,false,30900000,Armor,Crafted Clothes,15,6
+754064,0,[Dark Knight] Karlstein Kriegsmesser,4,false,62500000,Armor,Crafted Clothes,15,6
+754065,0,[Dark Knight] Karlstein Ornamental Knot,4,false,32700000,Armor,Crafted Clothes,15,6
+754066,0,[Striker] Karlstein Hat,4,false,27500000,Armor,Crafted Clothes,15,6
+754067,0,[Striker] Karlstein Armor,4,false,317000000,Armor,Crafted Clothes,15,6
+754068,0,[Striker] Karlstein Gauntlet,4,false,72000000,Armor,Crafted Clothes,15,6
+754069,0,[Striker] Karlstein Vambrace,4,false,26700000,Armor,Crafted Clothes,15,6
+754070,0,[Lahn] Karlstein Hat,4,false,42700000,Armor,Crafted Clothes,15,6
+754071,0,[Lahn] Karlstein Armor,4,false,163000000,Armor,Crafted Clothes,15,6
+754072,0,[Lahn] Karlstein Shoes,4,false,34100000,Armor,Crafted Clothes,15,6
+754073,0,[Lahn] Karlstein Crescent Pendulum,4,false,87000000,Armor,Crafted Clothes,15,6
+754074,0,[Lahn] Karlstein Noble Sword,4,false,39800000,Armor,Crafted Clothes,15,6
+754075,0,[Archer] Karlstein Hat,4,false,34300000,Armor,Crafted Clothes,15,6
+754076,0,[Archer] Karlstein Armor,4,false,113000000,Armor,Crafted Clothes,15,6
+754077,0,[Archer] Karlstein Crossbow,4,false,54000000,Armor,Crafted Clothes,15,6
+754085,0,[Nova] Karlstein Hat,4,false,53000000,Armor,Crafted Clothes,15,6
+754086,0,[Nova] Karlstein Armor,4,false,229000000,Armor,Crafted Clothes,15,6
+754087,0,[Nova] Karlstein Shoes,4,false,48300000,Armor,Crafted Clothes,15,6
+754088,0,[Nova] Karlstein Morning Star,4,false,84500000,Armor,Crafted Clothes,15,6
+754089,0,[Nova] Karlstein Quoratum,4,false,45600000,Armor,Crafted Clothes,15,6
+754091,0,[Guardian] Karlstein Armor,4,false,271000000,Armor,Crafted Clothes,15,6
+754092,0,[Guardian] Karlstein Shoes,4,false,63500000,Armor,Crafted Clothes,15,6
+754093,0,[Guardian] Karlstein Battle Axe,4,false,63500000,Armor,Crafted Clothes,15,6
+754095,0,[Hashashin] Karlstein Hat,4,false,44700000,Armor,Crafted Clothes,15,6
+754100,0,[Sage] Karlstein Armor,4,false,317000000,Armor,Crafted Clothes,15,6
+754101,0,[Sage] Karlstein Kyve,4,false,119000000,Armor,Crafted Clothes,15,6
+754103,0,[Corsair] Karlstein Hat,4,false,49700000,Armor,Crafted Clothes,15,6
+754104,0,[Corsair] Karlstein Armor,4,false,271000000,Armor,Crafted Clothes,15,6
+754106,0,[Corsair] Karlstein Serenaca,4,false,74500000,Armor,Crafted Clothes,15,6
+768079,0,[Drakania] Karlstein Hat,4,false,84500000,Armor,Crafted Clothes,15,6
+768080,0,[Drakania] Karlstein Armor,4,false,271000000,Armor,Crafted Clothes,15,6
+768081,0,[Drakania] Karlstein Shoes,4,false,63500000,Armor,Crafted Clothes,15,6
+768082,0,[Drakania] Karlstein Slayer,4,false,86500000,Armor,Crafted Clothes,15,6
+768554,0,[Woosa] Karlstein Hat,4,false,79000000,Armor,Crafted Clothes,15,6
+768555,0,[Woosa] Karlstein Armor,4,false,271000000,Armor,Crafted Clothes,15,6
+768560,0,[Maegu] Karlstein Armor,4,false,253000000,Armor,Crafted Clothes,15,6
+768561,0,[Maegu] Karlstein Shoes,4,false,68000000,Armor,Crafted Clothes,15,6
+768562,0,[Maegu] Karlstein Foxspirit Charm,4,false,119000000,Armor,Crafted Clothes,15,6

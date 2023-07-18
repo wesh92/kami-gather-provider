@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+10102,14,Vangertz Shield,1,false,38100,Sub Weapon,Shield,5,1
+10103,16,Axion Shield,1,false,75500,Sub Weapon,Shield,5,1
+10105,22,Kite Shield,1,false,54000,Sub Weapon,Shield,5,1
+10124,27,Krea Shield,1,false,27200,Sub Weapon,Shield,5,1
+10125,7,Rosar Shield,1,false,261000,Sub Weapon,Shield,5,1
+10138,13,Nouver Shield,3,false,241000000,Sub Weapon,Shield,5,1
+10140,15,Kutum Shield,3,false,241000000,Sub Weapon,Shield,5,1
+735001,7,Blackstar Shield,4,false,458000000,Sub Weapon,Shield,5,1
+738201,2,Godr-Ayed Shield,4,true,12300000000,Sub Weapon,Shield,5,1

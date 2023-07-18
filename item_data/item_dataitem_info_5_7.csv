@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+14503,83,Quitar Kunai,1,false,38100,Sub Weapon,Kunai,5,7
+14504,103,Estique Kunai,1,false,75500,Sub Weapon,Kunai,5,7
+14505,17,Tadd Kunai,1,false,54000,Sub Weapon,Kunai,5,7
+14524,38,Krea Kunai,1,false,27200,Sub Weapon,Kunai,5,7
+14525,29,Rosar Kunai,1,false,261000,Sub Weapon,Kunai,5,7
+14538,4,Nouver Kunai,3,false,241000000,Sub Weapon,Kunai,5,7
+14540,4,Kutum Kunai,3,false,241000000,Sub Weapon,Kunai,5,7
+735007,3,Blackstar Kunai,4,false,458000000,Sub Weapon,Kunai,5,7
+738207,0,Godr-Ayed Kunai,4,true,12300000000,Sub Weapon,Kunai,5,7

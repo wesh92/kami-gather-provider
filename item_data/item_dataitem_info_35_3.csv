@@ -1,0 +1,76 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+601,0,[Party] Elixir of Amity,1,false,74500,Consumables,Functional Elixir,35,3
+602,0,[Party] Improved Elixir of Amity,2,false,260000,Consumables,Functional Elixir,35,3
+611,142,[Party] Golden Hand Elixir,1,false,13800,Consumables,Functional Elixir,35,3
+612,8176,[Party] Glorious Golden Hand Elixir,2,false,393000,Consumables,Functional Elixir,35,3
+621,331,[Party] Elixir of Wings,1,false,72500,Consumables,Functional Elixir,35,3
+622,0,[Party] Soaring Wings Elixir,2,false,125000,Consumables,Functional Elixir,35,3
+631,1761,[Party] Elixir of Seal,1,false,70000,Consumables,Functional Elixir,35,3
+632,0,[Party] Agile Seal Elixir,2,false,126000,Consumables,Functional Elixir,35,3
+651,2,[Party] EXP Elixir,1,false,162000,Consumables,Functional Elixir,35,3
+652,0,[Party] Splendid EXP Elixir,2,false,225000,Consumables,Functional Elixir,35,3
+659,0,[Party] Elixir of Endurance,1,false,102000,Consumables,Functional Elixir,35,3
+660,0,[Party] Elixir of Overwhelming Endurance,2,false,160000,Consumables,Functional Elixir,35,3
+661,0,[Party] Worker's Elixir,1,false,68000,Consumables,Functional Elixir,35,3
+662,5665,[Party] Skilled Worker's Elixir,2,false,206000,Consumables,Functional Elixir,35,3
+663,14,[Party] Fisher's Elixir,1,false,83000,Consumables,Functional Elixir,35,3
+664,5702,Elixir of Amity,1,false,44400,Consumables,Functional Elixir,35,3
+665,2,Improved Elixir of Amity,2,false,237000,Consumables,Functional Elixir,35,3
+674,18204,Golden Hand Elixir,1,false,49700,Consumables,Functional Elixir,35,3
+675,14634,Glorious Golden Hand Elixir,2,false,188000,Consumables,Functional Elixir,35,3
+684,7508,Elixir of Wings,1,false,21300,Consumables,Functional Elixir,35,3
+685,0,Soaring Wings Elixir,2,false,75500,Consumables,Functional Elixir,35,3
+694,21209,Elixir of Seal,1,false,29200,Consumables,Functional Elixir,35,3
+695,7909,Agile Seal Elixir,2,false,52000,Consumables,Functional Elixir,35,3
+714,29225,EXP Elixir,1,false,37500,Consumables,Functional Elixir,35,3
+715,3,Splendid EXP Elixir,2,false,198000,Consumables,Functional Elixir,35,3
+722,29542,Elixir of Endurance,1,false,65500,Consumables,Functional Elixir,35,3
+723,0,Elixir of Overwhelming Endurance,2,false,145000,Consumables,Functional Elixir,35,3
+724,0,Worker's Elixir,1,false,44400,Consumables,Functional Elixir,35,3
+725,2578,Skilled Worker's Elixir,2,false,139000,Consumables,Functional Elixir,35,3
+726,20060,Fisher's Elixir,1,false,45000,Consumables,Functional Elixir,35,3
+727,209,Skilled Fisher's Elixir,2,false,65000,Consumables,Functional Elixir,35,3
+735,107,Perfume of Swiftness,3,false,4780000,Consumables,Functional Elixir,35,3
+736,320,[Party] Skilled Fisher's Elixir,2,false,204000,Consumables,Functional Elixir,35,3
+749,5886,Elixir of Time,1,false,41800,Consumables,Functional Elixir,35,3
+750,951,Elixir of Flowing Time,2,false,184000,Consumables,Functional Elixir,35,3
+751,2416,[Party] Elixir of Time,1,false,163000,Consumables,Functional Elixir,35,3
+752,0,[Party] Elixir of Flowing Time,2,false,225000,Consumables,Functional Elixir,35,3
+753,12488,Elixir of Training,1,false,60000,Consumables,Functional Elixir,35,3
+754,0,Elixir of Expert Training,2,false,237000,Consumables,Functional Elixir,35,3
+755,0,[Party] Elixir of Training,1,false,126000,Consumables,Functional Elixir,35,3
+756,0,[Party] Elixir of Expert Training,2,false,260000,Consumables,Functional Elixir,35,3
+767,0,[Mix] Time-Training Elixir,2,false,515000,Consumables,Functional Elixir,35,3
+773,25772,Weenie Elixir,1,false,39800,Consumables,Functional Elixir,35,3
+774,726,Surging Weenie Elixir,2,false,192000,Consumables,Functional Elixir,35,3
+775,798,[Party] Weenie Elixir,1,false,95000,Consumables,Functional Elixir,35,3
+776,0,[Party] Surging Weenie Elixir,2,false,236000,Consumables,Functional Elixir,35,3
+777,5816,Looney Elixir,1,false,56000,Consumables,Functional Elixir,35,3
+778,29,Reliable Looney Elixir,2,false,133000,Consumables,Functional Elixir,35,3
+779,275,[Party] Looney Elixir,1,false,95000,Consumables,Functional Elixir,35,3
+780,0,[Party] Reliable Looney Elixir,2,false,155000,Consumables,Functional Elixir,35,3
+791,12079,Verdure Draught,3,false,760000,Consumables,Functional Elixir,35,3
+796,208,Celerity Draught,3,false,2780000,Consumables,Functional Elixir,35,3
+797,66,Unbridled Celerity Draught,3,false,9500000,Consumables,Functional Elixir,35,3
+1152,5994,Elixir of Skill,1,false,73500,Consumables,Functional Elixir,35,3
+1154,1287,Elixir of Infinite Skill,2,false,393000,Consumables,Functional Elixir,35,3
+1155,16524,Elixir of Mastery,1,false,444000,Consumables,Functional Elixir,35,3
+1156,13404,Elixir of Labor,1,false,84000,Consumables,Functional Elixir,35,3
+1158,5974,Elixir of Improved Mastery,2,false,735000,Consumables,Functional Elixir,35,3
+1159,0,Elixir of Rough Labor,2,false,318000,Consumables,Functional Elixir,35,3
+1184,3073,Elixir of Persistence,1,false,127000,Consumables,Functional Elixir,35,3
+1185,6216,Elixir of Endless Persistence,2,false,242000,Consumables,Functional Elixir,35,3
+1186,0,[Party] Elixir of Persistence,1,false,17700,Consumables,Functional Elixir,35,3
+1187,0,[Party] Elixir of Endless Persistence,2,false,22100,Consumables,Functional Elixir,35,3
+1188,684,Elixir of Brawn,1,false,74500,Consumables,Functional Elixir,35,3
+1189,598,Elixir of Raw Brawn,2,false,235000,Consumables,Functional Elixir,35,3
+1190,0,[Party] Elixir of Brawn,1,false,16800,Consumables,Functional Elixir,35,3
+1191,0,[Party] Elixir of Raw Brawn,2,false,19900,Consumables,Functional Elixir,35,3
+1192,31,Marvelous Draught of Persistence,3,false,35200000,Consumables,Functional Elixir,35,3
+1194,0,Marvelous Draught of Strength,3,false,16700000,Consumables,Functional Elixir,35,3
+1353,0,[Party] Elixir of Infinite Skill,2,false,37100,Consumables,Functional Elixir,35,3
+1354,0,[Party] Elixir of Mastery,1,false,38500,Consumables,Functional Elixir,35,3
+1355,0,[Party] Elixir of Labor,1,false,12700,Consumables,Functional Elixir,35,3
+1357,0,[Party] Elixir of Improved Mastery,2,false,148000,Consumables,Functional Elixir,35,3
+1358,0,[Party] Elixir of Rough Labor,2,false,62000,Consumables,Functional Elixir,35,3
+757031,0,Fiery Celerity Draught,3,false,37300000,Consumables,Functional Elixir,35,3

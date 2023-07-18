@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+692504,69,Ahin Haladie,1,false,38100,Sub Weapon,Haladie,5,13
+692505,164,Baduum Haladie,1,false,75500,Sub Weapon,Haladie,5,13
+692506,2,Neshal Haladie,1,false,54000,Sub Weapon,Haladie,5,13
+692510,63,Krea Haladie,1,false,27200,Sub Weapon,Haladie,5,13
+692511,35,Rosar Haladie,1,false,261000,Sub Weapon,Haladie,5,13
+692514,2,Nouver Haladie,3,false,241000000,Sub Weapon,Haladie,5,13
+692516,2,Kutum Haladie,3,false,241000000,Sub Weapon,Haladie,5,13
+735013,2,Blackstar Haladie,4,false,458000000,Sub Weapon,Haladie,5,13
+738213,1,Godr-Ayed Haladie,4,true,12300000000,Sub Weapon,Haladie,5,13

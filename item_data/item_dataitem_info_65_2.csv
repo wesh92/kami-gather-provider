@@ -1,0 +1,17 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+54001,11535,Carrot,0,false,410,Mount,Feed,65,2
+54003,6432,Lump of Raw Sugar,0,false,13800,Mount,Feed,65,2
+54004,1407,High-Quality Carrot,1,false,4480,Mount,Feed,65,2
+54005,53395,Special Carrot,2,false,37300,Mount,Feed,65,2
+54012,412,Dried Briar,0,false,278,Mount,Feed,65,2
+54016,0,Cheap Feed,0,false,525,Mount,Feed,65,2
+54017,0,Good Feed,1,false,27300,Mount,Feed,65,2
+54018,66166,Organic Feed,1,false,36600,Mount,Feed,65,2
+54020,26046,Acacia Leaf,0,false,216,Mount,Feed,65,2
+54021,32,High-Quality Acacia Leaf,1,false,4510,Mount,Feed,65,2
+54022,5167,Special Acacia Leaf,2,false,29300,Mount,Feed,65,2
+54027,2621,Origin of Wind,2,false,373000,Mount,Feed,65,2
+54030,0,Sweet Honey Wine,2,false,1510000,Mount,Feed,65,2
+54032,0,Special Honey Jar,3,false,466000,Mount,Feed,65,2
+59306,735,Balanced Feed,1,false,78500,Mount,Feed,65,2
+59307,5291,Brady's Nutritious Feed,1,false,120000,Mount,Feed,65,2

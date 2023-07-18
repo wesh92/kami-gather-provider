@@ -1,0 +1,144 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+212,1789,Capturing Rope,0,false,1540,Material,Misc.,25,8
+1178,0,Corrupt Oil of Immortality,3,false,13300000,Material,Misc.,25,8
+4076,0,Metal Solvent,0,false,224000,Material,Misc.,25,8
+4476,0,Red Coral,0,false,224000,Material,Misc.,25,8
+4477,0,Blue Coral,0,false,152000,Material,Misc.,25,8
+4478,0,Twilight Red Coral,0,false,760000,Material,Misc.,25,8
+4479,0,Daybreak Blue Coral,0,false,760000,Material,Misc.,25,8
+4684,0,Plywood Hardener,0,false,303000,Material,Misc.,25,8
+4903,143,Empty Crystal,0,false,640,Material,Misc.,25,8
+4917,3191,Forest Fury,3,false,3890000,Material,Misc.,25,8
+5202,0,Essence of Crimson Flame,0,false,320000,Material,Misc.,25,8
+5204,0,Essence of Abundance,0,false,329000,Material,Misc.,25,8
+5206,0,Essence of Nature,0,false,324000,Material,Misc.,25,8
+5208,0,Essence of the Sun,0,false,334000,Material,Misc.,25,8
+5210,440,Essence of Enchantment,0,false,181000,Material,Misc.,25,8
+5212,1534,Essence of Magic Power,0,false,217000,Material,Misc.,25,8
+5214,2139,Essence of Perfection,0,false,44600,Material,Misc.,25,8
+5216,3399,Essence of Destruction,0,false,40100,Material,Misc.,25,8
+5301,111574,Clear Liquid Reagent,0,false,9150,Material,Misc.,25,8
+5302,177118,Pure Powder Reagent,0,false,9150,Material,Misc.,25,8
+5601,0,Insectivore Plant Powder,0,false,55500,Material,Misc.,25,8
+5602,0,Insectivore Plant Sap,0,false,44500,Material,Misc.,25,8
+5603,653,Herbal Poison,0,false,42000,Material,Misc.,25,8
+5604,0,Herbal Gunpowder,0,false,55000,Material,Misc.,25,8
+5605,0,Delotia Powder,0,false,14000,Material,Misc.,25,8
+5606,0,Refined Delotia Reagent,0,false,30100,Material,Misc.,25,8
+5801,69276,Cotton Wool,0,false,2690,Material,Misc.,25,8
+5802,125333,Flax,0,false,745,Material,Misc.,25,8
+5803,143833,Silkworm Cocoon,0,false,915,Material,Misc.,25,8
+5804,0,Fleece,0,false,1670,Material,Misc.,25,8
+5851,11738,Cotton Yarn,0,false,8500,Material,Misc.,25,8
+5852,27912,Flax Thread,0,false,2430,Material,Misc.,25,8
+5853,16888,Silk Thread,0,false,5700,Material,Misc.,25,8
+5854,47308,Knitting Yarn,0,false,4910,Material,Misc.,25,8
+5855,34317,Cotton Fabric,0,false,44500,Material,Misc.,25,8
+5856,897783,Flax Fabric,0,false,11000,Material,Misc.,25,8
+5857,11558,Silk,0,false,17200,Material,Misc.,25,8
+5858,38697,Wool,0,false,31100,Material,Misc.,25,8
+5859,0,Tough Flax Fabric,0,false,228000,Material,Misc.,25,8
+5860,10,Enhanced Flax Fabric,0,false,84000,Material,Misc.,25,8
+5861,0,Sunset Dyed Wool,0,false,131000,Material,Misc.,25,8
+5862,0,Scorched Fragment,0,false,3260000,Material,Misc.,25,8
+5863,1181,Dusk Laden Cotton Fabric,0,false,7000000,Material,Misc.,25,8
+5864,0,Tear of the Great Ocean,0,false,101000,Material,Misc.,25,8
+5865,1508,Dawn Fallen Silk,0,false,7200000,Material,Misc.,25,8
+5870,20,Enlightened One's Cotton Fabric,0,false,5000000,Material,Misc.,25,8
+5951,357,Trace of Chaos,0,false,7100,Material,Misc.,25,8
+5952,338,Trace of Despair,0,false,7100,Material,Misc.,25,8
+5953,41,Trace of Wave,0,false,7100,Material,Misc.,25,8
+5954,0,Trace of the Earth,0,false,187000,Material,Misc.,25,8
+5955,0,Trace of Ascension,0,false,148000,Material,Misc.,25,8
+5956,6889,Trace of Savagery,0,false,94500,Material,Misc.,25,8
+5957,208,Trace of Origin,0,false,186000,Material,Misc.,25,8
+5958,0,Trace of Battle,0,false,187000,Material,Misc.,25,8
+5959,3230,Trace of Hunting,0,false,124000,Material,Misc.,25,8
+5960,0,Trace of Forest,0,false,187000,Material,Misc.,25,8
+5961,0,Trace of Violence,0,false,187000,Material,Misc.,25,8
+5962,5992,Trace of Death,0,false,91000,Material,Misc.,25,8
+5963,0,Trace of Memory,0,false,187000,Material,Misc.,25,8
+6183,0,Leather Glaze,0,false,280000,Material,Misc.,25,8
+6185,13858,Fire Horn,0,false,19500,Material,Misc.,25,8
+6351,20186,Legendary Beast's Blood,0,false,106000,Material,Misc.,25,8
+6352,24580,Tyrant's Blood,0,false,34700,Material,Misc.,25,8
+6353,2181008,Clown's Blood,0,false,14100,Material,Misc.,25,8
+6354,619104,Sinner's Blood,0,false,12600,Material,Misc.,25,8
+6355,29803,Wise Man's Blood,0,false,76500,Material,Misc.,25,8
+6501,0,Coral Piece,0,false,22400,Material,Misc.,25,8
+6504,0,Green Coral,0,false,326000,Material,Misc.,25,8
+6505,0,Golden Coral,0,false,326000,Material,Misc.,25,8
+6506,0,White Coral,0,false,326000,Material,Misc.,25,8
+6524,0,Prairie Green Coral,0,false,1120000,Material,Misc.,25,8
+6525,0,Golden Sun Coral,0,false,1120000,Material,Misc.,25,8
+6526,0,Breezy White Coral,0,false,1120000,Material,Misc.,25,8
+6527,0,Golden Pearl,2,false,2330000,Material,Misc.,25,8
+6528,0,Glue,0,false,196000,Material,Misc.,25,8
+6533,0,Coral Crystal,2,false,8400000,Material,Misc.,25,8
+6601,22650,Oil of Regeneration,0,false,307000,Material,Misc.,25,8
+6602,15844,Oil of Storms,0,false,254000,Material,Misc.,25,8
+6603,18821,Oil of Fortitude,0,false,341000,Material,Misc.,25,8
+6604,8844,Oil of Corruption,0,false,221000,Material,Misc.,25,8
+6605,10523,Oil of Tranquility,0,false,147000,Material,Misc.,25,8
+6606,4139,Oil of the Abyss,0,false,505000,Material,Misc.,25,8
+6651,0,Distilled Water,0,false,4910,Material,Misc.,25,8
+6652,0,Bottle of Sea Water,0,false,5550,Material,Misc.,25,8
+6653,0,Bottle of River Water,0,false,5850,Material,Misc.,25,8
+6656,0,Purified Water,0,false,5300,Material,Misc.,25,8
+6657,0,Bag of Muddy Water,0,false,1760,Material,Misc.,25,8
+7701,0,Wild Beehive,0,false,23300,Material,Misc.,25,8
+7702,1653259,Cooking Honey,0,false,1020,Material,Misc.,25,8
+7703,0,High-Quality Cooking Honey,1,false,12300,Material,Misc.,25,8
+7704,0,Top-Quality Cooking Honey,2,false,238000,Material,Misc.,25,8
+8411,1083,Crystallized Despair,3,false,34600000,Material,Misc.,25,8
+8427,821753,Corrupted Breath,3,false,270000,Material,Misc.,25,8
+8428,3198,Scorching Sun Shard,3,false,5400000,Material,Misc.,25,8
+9003,0,White Sauce,0,false,4160,Material,Misc.,25,8
+9004,123338,Red Sauce,0,false,4720,Material,Misc.,25,8
+9006,0,Dressing,0,false,2050,Material,Misc.,25,8
+9057,20799,Essence of Liquor,0,false,655,Material,Misc.,25,8
+9061,87,Cream,0,false,8800,Material,Misc.,25,8
+9062,183397,Cheese,0,false,11200,Material,Misc.,25,8
+9063,114857,Butter,0,false,5750,Material,Misc.,25,8
+9064,27114,Egg,0,false,10100,Material,Misc.,25,8
+9065,0,Milk,0,false,18700,Material,Misc.,25,8
+9066,6531,Vinegar,0,false,1060,Material,Misc.,25,8
+9069,200,Translucent Ice,0,false,86500,Material,Misc.,25,8
+9070,0,Ouk Pill of Time and Tide,3,false,9350000,Material,Misc.,25,8
+9072,0,Perilla Oil,0,false,16700,Material,Misc.,25,8
+9073,0,Bean Sprouts,0,false,1610,Material,Misc.,25,8
+9075,0,Soy Sauce,0,false,18700,Material,Misc.,25,8
+9076,0,Soybean Paste,0,false,10700,Material,Misc.,25,8
+9077,469,Red Pepper Powder,0,false,18700,Material,Misc.,25,8
+9078,0,Meju,0,false,7550,Material,Misc.,25,8
+9353,0,Citron Vinegar,0,false,980,Material,Misc.,25,8
+9364,0,Single-brewed Mesima Tea,0,false,1450,Material,Misc.,25,8
+9365,0,Twice-brewed Mesima Tea,0,false,1340,Material,Misc.,25,8
+9727,200,Blue Whale Oil,2,false,13800000,Material,Misc.,25,8
+9728,0,Blue Whale Molar,3,false,30500000,Material,Misc.,25,8
+9729,1393,Blue Whale Tendon,1,false,14200000,Material,Misc.,25,8
+9733,6307,Shining Powder,0,false,94500,Material,Misc.,25,8
+9736,0,Fugitive Khalk's Skin,2,false,7800000,Material,Misc.,25,8
+9737,0,Fugitive Khalk's Shiny Claw,3,false,31600000,Material,Misc.,25,8
+9741,0,Griffon Claw,0,false,76500,Material,Misc.,25,8
+9748,198,Mystical Cleaning Oil,3,false,426000,Material,Misc.,25,8
+9768,652,Garmoth's Scale,3,false,1660000,Material,Misc.,25,8
+9773,3,Intact Griffon's Beak,3,false,46600000,Material,Misc.,25,8
+9779,0,Oil of Enchantment,0,false,2390000,Material,Misc.,25,8
+16901,0,Inorganic Fertilizer,0,false,1410,Material,Misc.,25,8
+16902,0,Byproduct Fertilizer,0,false,3660,Material,Misc.,25,8
+16903,2099,Organic Fertilizer,0,false,7250,Material,Misc.,25,8
+44084,0,Sticky Liquid,0,false,5600,Material,Misc.,25,8
+44332,2318,Vell's Fine Powder,2,false,3460000,Material,Misc.,25,8
+44335,0,Vell's Concentrated Magic,4,false,14900000000,Material,Misc.,25,8
+44336,6261,Alchemy Stone Shard,2,false,1110000,Material,Misc.,25,8
+44362,0,Garmoth's Heart,3,false,8500000000,Material,Misc.,25,8
+44364,1470,Dragon Scale Fossil,2,false,217000,Material,Misc.,25,8
+44462,1,Flame of Despair,3,false,1380000000,Material,Misc.,25,8
+44497,43,Flame of Frost,3,false,1870000000,Material,Misc.,25,8
+56221,0,Breath of Narcion,2,false,25200000,Material,Misc.,25,8
+56259,6044,Breath of the Morning,2,false,3890000,Material,Misc.,25,8
+65212,0,Breath of Omua,2,false,25200000,Material,Misc.,25,8
+65266,21,Flame of Hongik,3,false,1870000000,Material,Misc.,25,8
+820017,0,Rawr-Rawr's Heart,3,false,466000000,Material,Misc.,25,8
+820022,0,Sturdy Forest Tread,3,false,9350000,Material,Misc.,25,8

@@ -1,0 +1,14 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+52701,59,Shabby Leather Saddle,0,false,58500,Mount,Saddle,65,5
+52702,121,Light Hide Saddle,1,false,430000,Mount,Saddle,65,5
+52703,2,Leather Combat Saddle,1,false,705000,Mount,Saddle,65,5
+52704,0,Light Leather Saddle of Storm,1,false,2010000,Mount,Saddle,65,5
+52705,0,Leather Saddle of Fighting Spirit,1,false,915000,Mount,Saddle,65,5
+52706,0,Granverre Leather Saddle,2,false,87000000,Mount,Saddle,65,5
+52709,0,Krogdalo's Saddle - Earth,3,false,570000000,Mount,Saddle,65,5
+52712,0,Krogdalo's Saddle - Wind,3,false,1120000000,Mount,Saddle,65,5
+52715,0,Krogdalo's Saddle - Sea,3,false,1090000000,Mount,Saddle,65,5
+52718,0,[Donkey] Light Leather Saddle,1,false,430000,Mount,Saddle,65,5
+52719,0,[Donkey] Shabby Leather Saddle,0,false,149000,Mount,Saddle,65,5
+52720,0,[Donkey] Leather Combat Saddle,1,false,705000,Mount,Saddle,65,5
+52722,0,[Donkey] Krogdalo's Saddle,3,false,84000000,Mount,Saddle,65,5

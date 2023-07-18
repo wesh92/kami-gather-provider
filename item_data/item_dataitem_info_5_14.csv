@@ -1,0 +1,10 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+730704,46,Pau Quoratum,1,false,38100,Sub Weapon,Quoratum,5,14
+730705,128,Luka Quoratum,1,false,75500,Sub Weapon,Quoratum,5,14
+730706,137,Vishur Quoratum,1,false,54000,Sub Weapon,Quoratum,5,14
+730710,93,Krea Quoratum,1,false,27200,Sub Weapon,Quoratum,5,14
+730711,84,Rosar Quoratum,1,false,261000,Sub Weapon,Quoratum,5,14
+730714,7,Nouver Quoratum,3,false,241000000,Sub Weapon,Quoratum,5,14
+730716,6,Kutum Quoratum,3,false,241000000,Sub Weapon,Quoratum,5,14
+735014,1,Blackstar Quoratum,4,false,458000000,Sub Weapon,Quoratum,5,14
+738214,1,Godr-Ayed Quoratum,4,true,12300000000,Sub Weapon,Quoratum,5,14

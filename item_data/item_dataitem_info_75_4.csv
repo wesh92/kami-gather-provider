@@ -1,0 +1,9 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+53601,0,Shabby Wagon Flag,0,false,199000,Wagon,Flag,75,4
+53602,0,Strong Wagon Flag,0,false,302000,Wagon,Flag,75,4
+53603,0,White Wagon Flag,0,false,321000,Wagon,Flag,75,4
+53604,0,Farm Wagon Flag,0,false,301000,Wagon,Flag,75,4
+53605,0,Trade Wagon Flag,0,false,327000,Wagon,Flag,75,4
+53606,0,Merchant Wagon Flag,0,false,425000,Wagon,Flag,75,4
+53607,0,Noble Wagon Flag,0,false,427000,Wagon,Flag,75,4
+53609,0,Forest Path Wagon Flag,2,false,374000000,Wagon,Flag,75,4

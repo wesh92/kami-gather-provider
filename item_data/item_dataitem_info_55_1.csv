@@ -1,0 +1,412 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+20067,0,[Musa] Royal Enforcer Outfit Set A,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+20069,0,[Musa] Royal Enforcer Outfit Set B,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+21021,0,[Warrior] Bern Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21022,0,[Warrior] Clead Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21023,0,[Warrior] Karcenov Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21024,0,[Warrior] Cavaro Classic Set,4,false,494000000,Pearl Items,Male Apparel (Set),55,1
+21025,0,[Warrior] Evergart Classic Set,4,false,545000000,Pearl Items,Male Apparel (Set),55,1
+21026,0,[Warrior] Lahr Arcien Classic Set,4,false,499000000,Pearl Items,Male Apparel (Set),55,1
+21031,0,[Warrior] Atanis Classic Set,4,false,355000000,Pearl Items,Male Apparel (Set),55,1
+21032,0,[Warrior] Red Robe Classic Set,4,false,471000000,Pearl Items,Male Apparel (Set),55,1
+21033,0,[Warrior] Karlstein Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21034,0,[Warrior] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21035,0,[Warrior] Wilderness Classic Set,4,false,379000000,Pearl Items,Male Apparel (Set),55,1
+21036,0,[Warrior] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21038,0,[Warrior] Epheria Marine Classic Set,4,false,480000000,Pearl Items,Male Apparel (Set),55,1
+21040,0,[Warrior] Cantusa Classic Set,4,false,455000000,Pearl Items,Male Apparel (Set),55,1
+21081,0,[Berserker] Bethel Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21082,0,[Berserker] Eckett Classic Set,4,false,438000000,Pearl Items,Male Apparel (Set),55,1
+21084,0,[Berserker] Cavaro Classic Set,4,false,470000000,Pearl Items,Male Apparel (Set),55,1
+21085,0,[Berserker] Clead Classic Set,4,false,409000000,Pearl Items,Male Apparel (Set),55,1
+21086,0,[Berserker] Lahr Arcien Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21089,0,[Berserker] Khaled Classic Set,4,false,540000000,Pearl Items,Male Apparel (Set),55,1
+21091,0,[Berserker] Atanis Classic Set,4,false,355000000,Pearl Items,Male Apparel (Set),55,1
+21092,0,[Berserker] Red Robe Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21093,0,[Berserker] Karlstein Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21094,0,[Berserker] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21095,0,[Berserker] Wilderness Classic Set,4,false,381000000,Pearl Items,Male Apparel (Set),55,1
+21096,0,[Berserker] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21098,0,[Berserker] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21100,0,[Berserker] Cantusa Classic Set,4,false,381000000,Pearl Items,Male Apparel (Set),55,1
+21121,0,[Musa] Wilderness Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21122,0,[Musa] Cataphract Classic Set,4,false,540000000,Pearl Items,Male Apparel (Set),55,1
+21126,0,[Musa] Lahr Arcien Classic Set,4,false,560000000,Pearl Items,Male Apparel (Set),55,1
+21127,0,[Musa] Wind Waker Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21128,0,[Musa] Atanis Classic Set,4,false,355000000,Pearl Items,Male Apparel (Set),55,1
+21129,0,[Musa] Red Robe Classic Set,4,false,505000000,Pearl Items,Male Apparel (Set),55,1
+21130,0,[Musa] Karlstein Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21131,0,[Musa] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21132,0,[Musa] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21134,0,[Musa] Epheria Marine Classic Set,4,false,620000000,Pearl Items,Male Apparel (Set),55,1
+21136,0,[Musa] Cantusa Classic Set,4,false,520000000,Pearl Items,Male Apparel (Set),55,1
+21185,0,[Wizard] Inquirer's Destiny Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21186,0,[Wizard] Karlstein Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21187,0,[Wizard] Lahr Arcien Classic Set,4,false,575000000,Pearl Items,Male Apparel (Set),55,1
+21188,0,[Wizard] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21189,0,[Wizard] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21191,0,[Wizard] Epheria Marine Classic Set,4,false,381000000,Pearl Items,Male Apparel (Set),55,1
+21193,0,[Wizard] Cantusa Classic Set,4,false,555000000,Pearl Items,Male Apparel (Set),55,1
+21194,0,[Wizard] Crescent Moon Classic Set,4,false,495000000,Pearl Items,Male Apparel (Set),55,1
+21198,0,[Ninja] Kibelius Divinus Classic Set,4,false,585000000,Pearl Items,Male Apparel (Set),55,1
+21199,0,[Ninja] Kibelius Classic Set,4,false,585000000,Pearl Items,Male Apparel (Set),55,1
+21236,0,[Warrior] New Year Hanbok Outfit Set,4,false,256000000,Pearl Items,Male Apparel (Set),55,1
+21239,0,[Berserker] New Year Hanbok Outfit Set,4,false,239000000,Pearl Items,Male Apparel (Set),55,1
+21241,0,[Musa] New Year Hanbok Outfit Set,4,false,285000000,Pearl Items,Male Apparel (Set),55,1
+21244,0,[Wizard] New Year Hanbok Outfit Set,4,false,250000000,Pearl Items,Male Apparel (Set),55,1
+21247,0,[Ninja] New Year Hanbok Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+21253,0,[Berserker] Gotha Rensa Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21254,0,[Berserker] Gotha Rensa Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21256,0,[Musa] Seoryeon Corps Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21257,0,[Musa] Seoryeon Corps Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21261,0,[Wizard] Amethyst Classic Set,4,false,620000000,Pearl Items,Male Apparel (Set),55,1
+21283,0,[Ninja] Aegis Classic Set,4,false,409000000,Pearl Items,Male Apparel (Set),55,1
+21284,0,[Warrior] Gavi Regan Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21285,0,[Warrior] Gavi Regan Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21313,0,[Warrior] Marine Romance Outfit Set,4,false,312000000,Pearl Items,Male Apparel (Set),55,1
+21316,0,[Berserker] Marine Romance Outfit Set,4,false,417000000,Pearl Items,Male Apparel (Set),55,1
+21318,0,[Musa] Marine Romance Outfit Set,4,false,339000000,Pearl Items,Male Apparel (Set),55,1
+21321,0,[Wizard] Marine Romance Outfit Set,4,false,337000000,Pearl Items,Male Apparel (Set),55,1
+21324,0,[Ninja] Marine Romance Outfit Set,4,false,314000000,Pearl Items,Male Apparel (Set),55,1
+21338,0,[Berserker] Gavi Regan Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21339,0,[Berserker] Gavi Regan Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21341,0,[Musa] Gavi Regan Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21342,0,[Musa] Gavi Regan Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21344,0,[Wizard] Gavi Regan Classic Set,4,false,535000000,Pearl Items,Male Apparel (Set),55,1
+21345,0,[Ninja] Gavi Regan Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21346,0,[Ninja] Gavi Regan Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21349,0,[Warrior] Brut Lancelot Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21350,0,[Warrior] Brut Lancelot Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21355,0,[Berserker] BD9 Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21356,0,[Berserker] BD9 Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21358,0,[Musa] Palgong Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21359,0,[Musa] Palgong Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21370,0,[Ninja] Narusawa Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21371,0,[Ninja] Narusawa Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21373,0,[Warrior] Bolyn Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21374,0,[Warrior] Bolyn Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21382,0,[Berserker] Bolyn Classic Set,4,false,590000000,Pearl Items,Male Apparel (Set),55,1
+21383,0,[Berserker] Bolyn Premium Set,4,false,730000000,Pearl Items,Male Apparel (Set),55,1
+21388,0,[Musa] Bolyn Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21389,0,[Musa] Bolyn Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21397,0,[Wizard] Bolyn Classic Set,4,false,406000000,Pearl Items,Male Apparel (Set),55,1
+21400,0,[Ninja] Bolyn Classic Set,4,false,380000000,Pearl Items,Male Apparel (Set),55,1
+21629,0,[Warrior] Goyen Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21630,0,[Warrior] Goyen Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21632,0,[Wizard] Cavaro Classic Set,4,false,409000000,Pearl Items,Male Apparel (Set),55,1
+21643,0,[Warrior] Acher Guard Classic Set,4,false,590000000,Pearl Items,Male Apparel (Set),55,1
+21646,0,[Berserker] Acher Guard Classic Set,4,false,355000000,Pearl Items,Male Apparel (Set),55,1
+21648,0,[Musa] Acher Guard Classic Set,4,false,409000000,Pearl Items,Male Apparel (Set),55,1
+21651,0,[Wizard] Acher Guard Classic Set,4,false,409000000,Pearl Items,Male Apparel (Set),55,1
+21654,0,[Warrior] Acher Guard Premium Set,4,false,730000000,Pearl Items,Male Apparel (Set),55,1
+21658,0,[Warrior] Noel Outfit Set,4,false,340000000,Pearl Items,Male Apparel (Set),55,1
+21661,0,[Berserker] Noel Outfit Set,4,false,326000000,Pearl Items,Male Apparel (Set),55,1
+21663,0,[Musa] Noel Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+21666,0,[Wizard] Noel Outfit Set,4,false,295000000,Pearl Items,Male Apparel (Set),55,1
+21669,0,[Ninja] Noel Outfit Set,4,false,299000000,Pearl Items,Male Apparel (Set),55,1
+21670,0,[Berserker] Tantu Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21671,0,[Berserker] Tantu Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21685,0,[Ninja] Lahr Arcien Classic Set,4,false,407000000,Pearl Items,Male Apparel (Set),55,1
+21688,0,[Warrior] Millen Fedora Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21689,0,[Warrior] Millen Fedora Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21696,0,[Ninja] Cokro Classic Set,4,false,456000000,Pearl Items,Male Apparel (Set),55,1
+21707,0,[Ninja] Sicarios Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21725,0,[Ninja] Cantusa Classic Set,4,false,471000000,Pearl Items,Male Apparel (Set),55,1
+21737,0,[Ninja] Karlstein Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21747,0,[Ninja] Acher Guard Classic Set,4,false,409000000,Pearl Items,Male Apparel (Set),55,1
+21806,0,[Ninja] Epheria Marine Classic Set,4,false,447000000,Pearl Items,Male Apparel (Set),55,1
+21814,0,[Ninja] Blue Tiger Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21815,0,[Ninja] Blue Tiger Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21907,0,[Warrior] Grave Keeper Outfit Set,4,false,365000000,Pearl Items,Male Apparel (Set),55,1
+21910,0,[Berserker] Grave Keeper Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+21912,0,[Musa] Grave Keeper Outfit Set,4,false,366000000,Pearl Items,Male Apparel (Set),55,1
+21915,0,[Wizard] Grave Keeper Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+21918,0,[Ninja] Grave Keeper Outfit Set,4,false,418000000,Pearl Items,Male Apparel (Set),55,1
+21924,0,[Wizard] Lord Red Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+21925,0,[Wizard] Lord Red Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+21975,0,[Ninja] Obsidian Arrow Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+21978,0,[Ninja] Crimson Sable Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+28505,0,[Warrior] Heidel Masquerade Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+28511,0,[Warrior] Doomsday Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+28512,0,[Warrior] Doomsday Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+28516,0,[Warrior] Anemos Outfit Set,4,false,295000000,Pearl Items,Male Apparel (Set),55,1
+28522,0,[Warrior] Grotevant Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+28523,0,[Warrior] Grotevant Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+28533,0,[Warrior] Bern Classic Set N,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+28881,0,[Berserker] Heidel Masquerade Outfit Set,4,false,239000000,Pearl Items,Male Apparel (Set),55,1
+28888,0,[Berserker] Gladiator Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+28889,0,[Berserker] Gladiator Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+28893,0,[Berserker] Anemos Outfit Set,4,false,256000000,Pearl Items,Male Apparel (Set),55,1
+28900,0,[Berserker] Deathrone Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+28901,0,[Berserker] Deathrone Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+29129,0,[Musa] Blue Tiger Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+29130,0,[Musa] Blue Tiger Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+29137,0,[Musa] Heidel Masquerade Outfit Set,4,false,304000000,Pearl Items,Male Apparel (Set),55,1
+29140,0,[Musa] Anemos Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+29146,0,[Musa] Nouse's Shard Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+29147,0,[Musa] Nouse's Shard Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+29157,0,[Musa] Dark Martial Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+29158,0,[Musa] Dark Martial Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+29167,0,[Musa] Sedic Outfit Set,4,false,239000000,Pearl Items,Male Apparel (Set),55,1
+29606,0,[Wizard] Heidel Masquerade Outfit Set,4,false,317000000,Pearl Items,Male Apparel (Set),55,1
+29612,0,[Wizard] Sage's Memory Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+29613,0,[Wizard] Sage's Memory Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+29617,0,[Wizard] Anemos Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+29646,0,[Wizard] Sedic Outfit Set,4,false,395000000,Pearl Items,Male Apparel (Set),55,1
+29887,0,[Ninja] Heidel Masquerade Outfit Set,4,false,374000000,Pearl Items,Male Apparel (Set),55,1
+29890,0,[Ninja] Anemos Outfit Set,4,false,271000000,Pearl Items,Male Apparel (Set),55,1
+29896,0,[Ninja] Yurei Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+29897,0,[Ninja] Yurei Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+29903,0,[Ninja] Warhawk Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+29904,0,[Ninja] Warhawk Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+29916,0,[Ninja] Petroglyph Outfit Set,4,false,372000000,Pearl Items,Male Apparel (Set),55,1
+29919,0,[Ninja] Sedic Outfit Set,4,false,256000000,Pearl Items,Male Apparel (Set),55,1
+57006,0,[Striker] WeDan Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57042,0,[Striker] Blazing Inferno Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57043,0,[Striker] Blazing Inferno Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+57053,0,[Striker] Karlstein Classic Set,4,false,439000000,Pearl Items,Male Apparel (Set),55,1
+57065,0,[Striker] Onyx Jaguar Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57066,0,[Striker] Onyx Jaguar Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+57082,0,[Striker] Grave Keeper Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+57806,0,[Warrior] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57807,0,[Warrior] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+57830,0,[Berserker] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57831,0,[Berserker] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+57846,0,[Musa] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57847,0,[Musa] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+57870,0,[Wizard] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57871,0,[Wizard] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+57894,0,[Ninja] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57895,0,[Ninja] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+57909,0,[Striker] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+57912,0,[Warrior] Onyx Jaguar Outfit Set,4,false,239000000,Pearl Items,Male Apparel (Set),55,1
+57915,0,[Berserker] Onyx Jaguar Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+57918,0,[Musa] Onyx Jaguar Outfit Set,4,false,231000000,Pearl Items,Male Apparel (Set),55,1
+57921,0,[Wizard] Onyx Jaguar Outfit Set,4,false,295000000,Pearl Items,Male Apparel (Set),55,1
+57924,0,[Ninja] Onyx Jaguar Outfit Set,4,false,352000000,Pearl Items,Male Apparel (Set),55,1
+57926,0,[Striker] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+340003,0,[Warrior] Crimson Shadow Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+340006,0,[Warrior] Crimson Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+340009,0,[Berserker] Crimson Shadow Knight Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+340012,0,[Berserker] Crimson Knight Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+340015,0,[Musa] Crimson Shadow Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+340018,0,[Musa] Crimson Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+340021,0,[Ninja] Crimson Shadow Knight Outfit Set,4,false,327000000,Pearl Items,Male Apparel (Set),55,1
+340024,0,[Ninja] Crimson Knight Outfit Set,4,false,327000000,Pearl Items,Male Apparel (Set),55,1
+340027,0,[Wizard] Crimson Shadow Knight Outfit Set,4,false,285000000,Pearl Items,Male Apparel (Set),55,1
+340030,0,[Wizard] Crimson Knight Outfit Set,4,false,285000000,Pearl Items,Male Apparel (Set),55,1
+340033,0,[Striker] Crimson Shadow Knight Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+340036,0,[Striker] Crimson Knight Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+400003,0,[Warrior] Durandal Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+400012,0,[Warrior] Leonidas Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+400023,0,[Warrior] Arctic Fang Outfit Set,4,false,352000000,Pearl Items,Male Apparel (Set),55,1
+400026,0,[Warrior] Vestillio Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+430003,0,[Berserker] Durandal Outfit Set,4,false,270000000,Pearl Items,Male Apparel (Set),55,1
+430008,0,[Berserker] Jungle Beast Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+430017,0,[Berserker] Leonidas Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+430028,0,[Berserker] Arctic Fang Outfit Set,4,false,317000000,Pearl Items,Male Apparel (Set),55,1
+430031,0,[Berserker] Vestillio Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+430040,0,[Berserker] Kerasaur Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+430041,0,[Berserker] Kerasaur Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+450003,0,[Musa] Demon Binder Outfit Set,4,false,355000000,Pearl Items,Male Apparel (Set),55,1
+450006,0,[Musa] Durandal Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+450015,0,[Musa] Leonidas Outfit Set,4,false,357000000,Pearl Items,Male Apparel (Set),55,1
+450026,0,[Musa] Arctic Fang Outfit Set,4,false,317000000,Pearl Items,Male Apparel (Set),55,1
+450029,0,[Musa] Vestillio Outfit Set,4,false,341000000,Pearl Items,Male Apparel (Set),55,1
+450035,0,[Musa] Ambition Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+480003,0,[Wizard] Zeroth Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+480006,0,[Wizard] Durandal Outfit Set,4,false,350000000,Pearl Items,Male Apparel (Set),55,1
+480015,0,[Wizard] Leonidas Outfit Set,4,false,395000000,Pearl Items,Male Apparel (Set),55,1
+480026,0,[Wizard] Arctic Fang Outfit Set,4,false,295000000,Pearl Items,Male Apparel (Set),55,1
+480029,0,[Wizard] Vestillio Outfit Set,4,false,420000000,Pearl Items,Male Apparel (Set),55,1
+510008,0,[Ninja] Nouse's Shard Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+510009,0,[Ninja] Nouse's Shard Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+510013,0,[Ninja] Durandal Outfit Set,4,false,239000000,Pearl Items,Male Apparel (Set),55,1
+510023,0,[Ninja] Leonidas Outfit Set,4,false,248000000,Pearl Items,Male Apparel (Set),55,1
+510034,0,[Ninja] Arctic Fang Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+510037,0,[Ninja] Vestillio Outfit Set,4,false,399000000,Pearl Items,Male Apparel (Set),55,1
+510048,0,[Ninja] White Wildcat Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+510058,0,[Ninja] Sakuragi Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+530007,0,[Striker] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+530014,0,[Striker] Lahr Arcien Classic Set,4,false,560000000,Pearl Items,Male Apparel (Set),55,1
+530022,0,[Striker] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+530026,0,[Striker] Noel Outfit Set,4,false,369000000,Pearl Items,Male Apparel (Set),55,1
+530029,0,[Striker] New Year Hanbok Outfit Set,4,false,275000000,Pearl Items,Male Apparel (Set),55,1
+530035,0,[Striker] Nouse's Shard Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+530036,0,[Striker] Nouse's Shard Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+530040,0,[Striker] Anemos Outfit Set,4,false,325000000,Pearl Items,Male Apparel (Set),55,1
+530048,0,[Striker] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+530051,0,[Striker] Durandal Outfit Set,4,false,336000000,Pearl Items,Male Apparel (Set),55,1
+530058,0,[Striker] Marine Romance Outfit Set,4,false,365000000,Pearl Items,Male Apparel (Set),55,1
+530067,0,[Striker] Leonidas Outfit Set,4,false,388000000,Pearl Items,Male Apparel (Set),55,1
+530078,0,[Striker] Arctic Fang Outfit Set,4,false,346000000,Pearl Items,Male Apparel (Set),55,1
+530081,0,[Striker] Vestillio Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+560007,0,[Archer] Gierach Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+560071,0,[Archer] Luanwulf Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+560072,0,[Archer] Luanwulf Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+560079,0,[Archer] Karlstein Classic Set,4,false,505000000,Pearl Items,Male Apparel (Set),55,1
+560083,0,[Archer] Gierach Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+560085,0,[Archer] Noel Outfit Set,4,false,304000000,Pearl Items,Male Apparel (Set),55,1
+560088,0,[Archer] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+560092,0,[Archer] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+560101,0,[Archer] New Year Hanbok Outfit Set,4,false,239000000,Pearl Items,Male Apparel (Set),55,1
+560119,0,[Archer] Marine Romance Outfit Set,4,false,329000000,Pearl Items,Male Apparel (Set),55,1
+560123,0,[Archer] Robeaus Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+560127,0,[Archer] Messenger of Adùir Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+560133,0,[Archer] Corvicanus Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+560142,0,[Archer] Derictus Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590157,0,[Warrior] Vediras Outfit Set,4,false,285000000,Pearl Items,Male Apparel (Set),55,1
+590158,0,[Berserker] Vediras Outfit Set,4,false,395000000,Pearl Items,Male Apparel (Set),55,1
+590159,0,[Musa] Vediras Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590160,0,[Wizard] Vediras Outfit Set,4,false,317000000,Pearl Items,Male Apparel (Set),55,1
+590161,0,[Ninja] Vediras Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590162,0,[Striker] Vediras Outfit Set,4,false,293000000,Pearl Items,Male Apparel (Set),55,1
+590163,0,[Archer] Vediras Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590275,0,[Warrior] Deathlord Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590288,0,[Warrior] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590293,0,[Berserker] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590298,0,[Wizard] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590322,0,[Striker] Syahzar Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590351,0,[Musa] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590359,0,[Striker] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590364,0,[Ninja] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590426,0,[Archer] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590461,0,[Warrior] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590462,0,[Berserker] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590463,0,[Wizard] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590467,0,[Musa] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590468,0,[Striker] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590469,0,[Ninja] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590477,0,[Archer] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+590484,0,[Musa] Tundra Warden Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590489,0,[Archer] Ignis Classic Set,4,false,545000000,Pearl Items,Male Apparel (Set),55,1
+590571,0,[Berserker] Bractus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590581,0,[Ninja] Bloodfiend Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+590624,0,[Warrior] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590629,0,[Berserker] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590634,0,[Musa] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590639,0,[Wizard] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590644,0,[Archer] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590649,0,[Ninja] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590654,0,[Striker] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+590659,0,[Hashashin] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+600156,0,[Warrior] Cornelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+600230,0,[Warrior] Cornelius Classic Set N,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+600242,0,[Warrior] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+600245,0,[Berserker] Crayodel Soldier Outfit Set,4,false,395000000,Pearl Items,Male Apparel (Set),55,1
+600248,0,[Musa] Crayodel Soldier Outfit Set,4,false,365000000,Pearl Items,Male Apparel (Set),55,1
+600251,0,[Wizard] Crayodel Soldier Outfit Set,4,false,295000000,Pearl Items,Male Apparel (Set),55,1
+600254,0,[Ninja] Crayodel Soldier Outfit Set,4,false,285000000,Pearl Items,Male Apparel (Set),55,1
+600257,0,[Striker] Crayodel Soldier Outfit Set,4,false,321000000,Pearl Items,Male Apparel (Set),55,1
+600260,0,[Archer] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+600529,0,[Striker] Darkbane Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+600539,0,[Wizard] Tempyrion Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+600591,0,[Hashashin] Noel Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+601485,0,[Striker] Blue Gaia Outfit Set,4,false,395000000,Pearl Items,Male Apparel (Set),55,1
+602004,0,[Hashashin] Karakum Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+602009,0,[Hashashin] Domtur Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+602013,0,[Hashashin] Domtur Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+602018,0,[Hashashin] Karlstein Classic Set,4,false,535000000,Pearl Items,Male Apparel (Set),55,1
+602038,0,[Hashashin] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+602039,0,[Hashashin] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+602099,0,[Hashashin] Mezari Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+602169,0,[Hashashin] New Year Hanbok Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+602172,0,[Hashashin] Vediras Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+602184,0,[Hashashin] Crayodel Soldier Outfit Set,4,false,239000000,Pearl Items,Male Apparel (Set),55,1
+602199,0,[Hashashin] Corvicanus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+602200,0,[Hashashin] Corvicanus Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+602207,0,[Hashashin] White Viper of Bahrahit Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+604176,0,[Berserker] Mountain Guardian Spirit Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604207,0,[Warrior] Azure Knight Outfit Set,4,false,294000000,Pearl Items,Male Apparel (Set),55,1
+604299,0,[Hashashin] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+604357,0,[Hashashin] Heidel Masquerade Outfit Set,4,false,395000000,Pearl Items,Male Apparel (Set),55,1
+604362,0,[Wizard] Corvicanus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+604363,0,[Wizard] Corvicanus Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+604367,0,[Striker] Heidel Masquerade Outfit Set,4,false,365000000,Pearl Items,Male Apparel (Set),55,1
+604370,0,[Archer] Heidel Masquerade Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604373,0,[Striker] Devoured Sun Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604380,0,[Hashashin] Arctic Fang Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604383,0,[Archer] Arctic Fang Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604431,0,[Sage] Contular Outfit Set A,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604432,0,[Sage] Contular Classic Set A,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+604456,0,[Sage] Contular Outfit Set B,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604457,0,[Sage] Contular Classic Set B,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+604462,0,[Sage] Karlstein Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+604478,0,[Sage] Arctic Fang Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+604484,0,[Sage] Exclatus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+604485,0,[Sage] Exclatus Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+604507,0,[Sage] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+604874,0,[Warrior] Kairos Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+604876,0,[Warrior] Kairos Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+606234,0,[Striker] Burning Soul Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+606235,0,[Striker] Burning Soul Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+606237,0,[Striker] Burning Soul Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+606245,0,[Sage] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+606248,0,[Sage] Kibelius Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+606250,0,[Sage] Kibelius Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+606255,0,[Striker] Burning Soul Classic Set (Scarred),4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+606256,0,[Striker] Burning Soul Premium Set (Scarred),4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+606258,0,[Striker] Burning Soul Outfit Set (Scarred),4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+606300,0,[Wizard] Sleepless Sun Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+606301,0,[Wizard] Sleepless Sun Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+606303,0,[Wizard] Sleepless Sun Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+606312,0,[Hashashin] Marine Romance Outfit Set,4,false,365000000,Pearl Items,Male Apparel (Set),55,1
+606317,0,[Sage] Marine Romance Outfit Set,4,false,332000000,Pearl Items,Male Apparel (Set),55,1
+606575,0,[Musa] Tormented Soul Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+606576,0,[Musa] Tormented Soul Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+606578,0,[Musa] Tormented Soul Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607057,0,[Archer] Grave Keeper Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607061,0,[Hashashin] Grave Keeper Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607065,0,[Sage] Grave Keeper Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607113,0,[Warrior] Trailblazer Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+607114,0,[Warrior] Trailblazer Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607150,0,[Archer] Duskherald Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607190,0,[Sage] Noel Outfit Set,4,false,418000000,Pearl Items,Male Apparel (Set),55,1
+607202,0,[Berserker] Ulfhedinn Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+607203,0,[Berserker] Ulfhedinn Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607205,0,[Berserker] Ulfhedinn Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607518,0,[Ninja] Umbra Clan Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607520,0,[Ninja] Umbra Clan Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607571,0,[Berserker] Gigataurus Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+607572,0,[Berserker] Gigataurus Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607830,0,[Sage] Kibelius Divinus Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607876,0,[Hashashin] Harakhty Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+607877,0,[Hashashin] Harakhty Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607915,0,[Sage] Keraunos Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607917,0,[Sage] Keraunos Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607925,0,[Berserker] Winter Mountain Guardian Spirit Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+607926,0,[Berserker] Winter Mountain Guardian Spirit Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607928,0,[Berserker] Winter Mountain Guardian Spirit Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+607953,0,[Warrior] Ossa Cerberi Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+607954,0,[Warrior] Ossa Cerberi Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+607956,0,[Warrior] Ossa Cerberi Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+608049,0,[Striker] Rakshasa Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+608050,0,[Striker] Rakshasa Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+608052,0,[Striker] Rakshasa Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+608122,0,[Musa] Goldscale Dragoon Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+608124,0,[Musa] Goldscale Dragoon Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+608148,0,[Wizard] Chronosmith Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+608164,0,[Sage] Cantabile Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+608292,0,[Archer] Nightwarden Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+608293,0,[Archer] Nightwarden Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+608656,0,[Wizard] Salanar Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+608657,0,[Wizard] Salanar Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+608659,0,[Wizard] Salanar Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+608667,0,[Sage] Salanar Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+608668,0,[Sage] Salanar Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+609451,0,[Musa] Twilight Prowler Classic Set,4,false,630000000,Pearl Items,Male Apparel (Set),55,1
+609452,0,[Musa] Twilight Prowler Premium Set,4,false,785000000,Pearl Items,Male Apparel (Set),55,1
+609454,0,[Musa] Twilight Prowler Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+609572,0,[Sage] Superius Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+609583,0,[Wizard] Superius Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+609594,0,[Hashashin] Superius Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+609605,0,[Warrior] Superius Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610521,0,[Ninja] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610526,0,[Berserker] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610531,0,[Archer] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610536,0,[Striker] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610543,0,[Warrior] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610548,0,[Musa] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610553,0,[Hashashin] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610558,0,[Sage] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1
+610563,0,[Wizard] Black Knight Outfit Set,4,false,424000000,Pearl Items,Male Apparel (Set),55,1

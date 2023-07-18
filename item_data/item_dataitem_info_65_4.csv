@@ -1,0 +1,15 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+52601,1,Shabby Leather Barding,0,false,224000,Mount,Barding,65,4
+52602,11,Light Hide Barding,1,false,830000,Mount,Barding,65,4
+52603,2,Steel Combat Barding,1,false,1010000,Mount,Barding,65,4
+52604,1,Light Leather Barding of Storm,1,false,2580000,Mount,Barding,65,4
+52605,101,Steel Barding of Fighting Spirit,1,false,980000,Mount,Barding,65,4
+52606,70,Granverre Leather Barding,2,false,87000000,Mount,Barding,65,4
+52609,0,Krogdalo's Barding - Earth,3,false,383000000,Mount,Barding,65,4
+52612,0,Krogdalo's Barding - Wind,3,false,1120000000,Mount,Barding,65,4
+52615,0,Krogdalo's Barding - Sea,3,false,750000000,Mount,Barding,65,4
+52618,0,[Donkey] Light Leather Barding,1,false,830000,Mount,Barding,65,4
+52619,0,[Donkey] Shabby Leather Barding,0,false,224000,Mount,Barding,65,4
+52620,0,[Donkey] Steel Combat Barding,1,false,1010000,Mount,Barding,65,4
+52621,0,[Donkey] Granverre Leather Barding,2,false,8050000,Mount,Barding,65,4
+52622,0,[Donkey] Krogdalo's Barding,3,false,84000000,Mount,Barding,65,4

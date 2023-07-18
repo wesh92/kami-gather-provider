@@ -1,0 +1,35 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+7901,127522,Deer Meat,0,false,15500,Material,Meat,25,6
+7902,0,Lamb Meat,0,false,12500,Material,Meat,25,6
+7903,0,Fox Meat,0,false,12300,Material,Meat,25,6
+7904,30121,Rhino Meat,0,false,14100,Material,Meat,25,6
+7905,31323,Pork,0,false,13800,Material,Meat,25,6
+7906,0,Beef,0,false,14100,Material,Meat,25,6
+7908,1115,Lizard Meat,0,false,3790,Material,Meat,25,6
+7909,325,Worm Meat,0,false,4390,Material,Meat,25,6
+7910,0,Raccoon Meat,0,false,15900,Material,Meat,25,6
+7911,0,Weasel Meat,0,false,10600,Material,Meat,25,6
+7912,61801,Bear Meat,0,false,13700,Material,Meat,25,6
+7913,68081,Wolf Meat,0,false,14800,Material,Meat,25,6
+7914,1427,Waragon Meat,0,false,2910,Material,Meat,25,6
+7915,453,Cheetah Dragon Meat,0,false,4540,Material,Meat,25,6
+7916,250,Kuku Bird Meat,0,false,4080,Material,Meat,25,6
+7917,57,Flamingo Meat,0,false,2880,Material,Meat,25,6
+7921,1010,Chicken Meat,0,false,2080,Material,Meat,25,6
+7922,0,Snake Meat,0,false,28000,Material,Meat,25,6
+7923,0,Lion Meat,0,false,27300,Material,Meat,25,6
+7924,0,Scorpion Meat,0,false,28000,Material,Meat,25,6
+7925,1164,Gazelle Meat,0,false,47800,Material,Meat,25,6
+7953,0,Bird Meat,0,false,1280,Material,Meat,25,6
+7954,9426,Yak Meat,0,false,7950,Material,Meat,25,6
+7955,763,Marmot Meat,0,false,12900,Material,Meat,25,6
+7956,10882,Llama Meat,0,false,15000,Material,Meat,25,6
+7957,0,Goat Meat,0,false,16700,Material,Meat,25,6
+7958,38006,Ground Bird Meat,0,false,1400,Material,Meat,25,6
+7959,4888,Tiger Meat,0,false,1770,Material,Meat,25,6
+7960,9468,Sea Lion Meat,0,false,14100,Material,Meat,25,6
+7961,0,Rabbit Meat,0,false,4910,Material,Meat,25,6
+9726,2481,Blue Whale Meat,1,false,404000,Material,Meat,25,6
+9731,0,Soft Whale Meat,1,false,40400,Material,Meat,25,6
+9732,2263,Crocodile Meat,1,false,22600,Material,Meat,25,6
+9735,0,Fugitive Khalk's Horn,2,false,361000,Material,Meat,25,6

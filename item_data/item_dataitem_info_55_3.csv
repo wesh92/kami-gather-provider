@@ -1,0 +1,1323 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+19002,0,[Warrior] Bern Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+19003,0,[Warrior] Bern Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+19004,0,[Warrior] Bern Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19005,0,[Warrior] Bern Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19006,0,[Warrior] Clead Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+19007,0,[Warrior] Clead Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+19008,0,[Warrior] Clead Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19009,0,[Warrior] Clead Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19015,0,[Warrior] Cavaro Helmet,4,false,67000000,Pearl Items,Male Apparel (Individual),55,3
+19016,0,[Warrior] Cavaro Armor,4,false,160000000,Pearl Items,Male Apparel (Individual),55,3
+19017,0,[Warrior] Cavaro Gloves,4,false,53500000,Pearl Items,Male Apparel (Individual),55,3
+19018,0,[Warrior] Cavaro Shoes,4,false,53500000,Pearl Items,Male Apparel (Individual),55,3
+19021,0,[Warrior] Karcenov Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+19022,0,[Warrior] Karcenov Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+19023,0,[Warrior] Karcenov Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19024,0,[Warrior] Karcenov Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19025,0,[Warrior] Evergart Helmet,4,false,73000000,Pearl Items,Male Apparel (Individual),55,3
+19026,0,[Warrior] Evergart Armor,4,false,176000000,Pearl Items,Male Apparel (Individual),55,3
+19027,0,[Warrior] Evergart Gloves,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+19028,0,[Warrior] Evergart Shoes,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+19031,0,[Warrior] Lahr Arcien Helmet,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+19032,0,[Warrior] Lahr Arcien Armor,4,false,215000000,Pearl Items,Male Apparel (Individual),55,3
+19033,0,[Warrior] Lahr Arcien Shoes,4,false,53500000,Pearl Items,Male Apparel (Individual),55,3
+19038,0,[Warrior] Wilderness Helmet,4,false,51000000,Pearl Items,Male Apparel (Individual),55,3
+19039,0,[Warrior] Wilderness Armor,4,false,163000000,Pearl Items,Male Apparel (Individual),55,3
+19040,0,[Warrior] Wilderness Shoes,4,false,41000000,Pearl Items,Male Apparel (Individual),55,3
+19042,0,[Warrior] Trilby Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19043,0,[Warrior] Atanis Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19044,0,[Warrior] Atanis Armor,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+19045,0,[Warrior] Atanis Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19048,0,[Warrior] Kibelius Armor,4,false,269000000,Pearl Items,Male Apparel (Individual),55,3
+19049,0,[Warrior] Willow Breeze Robe,4,false,308000000,Pearl Items,Male Apparel (Individual),55,3
+19050,0,[Warrior] Willow Breeze Shoes,4,false,41200000,Pearl Items,Male Apparel (Individual),55,3
+19082,0,[Warrior] Bern Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+19083,0,[Warrior] Clead Longsword,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+19084,0,[Warrior] Cavaro Longsword,4,false,100000000,Pearl Items,Male Apparel (Individual),55,3
+19085,0,[Warrior] Karcenov Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+19086,0,[Warrior] Evergart Longsword,4,false,111000000,Pearl Items,Male Apparel (Individual),55,3
+19088,0,[Warrior] Lahr Arcien Longsword,4,false,102000000,Pearl Items,Male Apparel (Individual),55,3
+19089,0,[Warrior] Atanis Longsword,4,false,72000000,Pearl Items,Male Apparel (Individual),55,3
+19090,0,[Warrior] Wilderness Longsword,4,false,77000000,Pearl Items,Male Apparel (Individual),55,3
+19092,0,[Warrior] Bern Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+19093,0,[Warrior] Clead Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+19094,0,[Warrior] Cavaro Shield,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+19095,0,[Warrior] Karcenov Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+19096,0,[Warrior] Evergart Shield,4,false,65500000,Pearl Items,Male Apparel (Individual),55,3
+19098,0,[Warrior] Lahr Arcien Shield,4,false,61000000,Pearl Items,Male Apparel (Individual),55,3
+19099,0,[Warrior] Atanis Shield,4,false,43000000,Pearl Items,Male Apparel (Individual),55,3
+19100,0,[Warrior] Wilderness Shield,4,false,45900000,Pearl Items,Male Apparel (Individual),55,3
+19301,0,[Berserker] Bethel Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+19302,0,[Berserker] Bethel Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+19303,0,[Berserker] Bethel Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19304,0,[Berserker] Bethel Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19305,0,[Berserker] Khaled Helmet,4,false,73000000,Pearl Items,Male Apparel (Individual),55,3
+19306,0,[Berserker] Khaled Armor,4,false,174000000,Pearl Items,Male Apparel (Individual),55,3
+19307,0,[Berserker] Khaled Gloves,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+19308,0,[Berserker] Khaled Shoes,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+19309,0,[Berserker] Eckett Helmet,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+19310,0,[Berserker] Eckett Armor,4,false,142000000,Pearl Items,Male Apparel (Individual),55,3
+19311,0,[Berserker] Eckett Gloves,4,false,47300000,Pearl Items,Male Apparel (Individual),55,3
+19312,0,[Berserker] Eckett Shoes,4,false,47300000,Pearl Items,Male Apparel (Individual),55,3
+19321,0,[Berserker] Clead Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+19322,0,[Berserker] Clead Armor,4,false,132000000,Pearl Items,Male Apparel (Individual),55,3
+19323,0,[Berserker] Clead Gloves,4,false,44200000,Pearl Items,Male Apparel (Individual),55,3
+19324,0,[Berserker] Clead Shoes,4,false,44200000,Pearl Items,Male Apparel (Individual),55,3
+19325,0,[Berserker] Cavaro Helmet,4,false,63500000,Pearl Items,Male Apparel (Individual),55,3
+19326,0,[Berserker] Cavaro Armor,4,false,152000000,Pearl Items,Male Apparel (Individual),55,3
+19327,0,[Berserker] Cavaro Gloves,4,false,51000000,Pearl Items,Male Apparel (Individual),55,3
+19328,0,[Berserker] Cavaro Shoes,4,false,51000000,Pearl Items,Male Apparel (Individual),55,3
+19331,0,[Berserker] Lahr Arcien Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+19332,0,[Berserker] Lahr Arcien Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+19333,0,[Berserker] Lahr Arcien Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19334,0,[Berserker] Wilderness Helmet,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+19335,0,[Berserker] Wilderness Armor,4,false,164000000,Pearl Items,Male Apparel (Individual),55,3
+19336,0,[Berserker] Wilderness Shoes,4,false,41200000,Pearl Items,Male Apparel (Individual),55,3
+19337,0,[Berserker] Cataphract Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19338,0,[Berserker] Cataphract Armor,4,false,115000000,Pearl Items,Male Apparel (Individual),55,3
+19339,0,[Berserker] Cataphract Gloves,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19340,0,[Berserker] Cataphract Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19342,0,[Berserker] Trilby Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19343,0,[Berserker] Atanis Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19344,0,[Berserker] Atanis Armor,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+19345,0,[Berserker] Atanis Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19348,0,[Berserker] Kibelius Armor,4,false,268000000,Pearl Items,Male Apparel (Individual),55,3
+19349,0,[Berserker] Willow Breeze Robe,4,false,250000000,Pearl Items,Male Apparel (Individual),55,3
+19350,0,[Berserker] Willow Breeze Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19381,0,[Berserker] Bethel Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+19382,0,[Berserker] Khaled Axe,4,false,109000000,Pearl Items,Male Apparel (Individual),55,3
+19383,0,[Berserker] Eckett Axe,4,false,88500000,Pearl Items,Male Apparel (Individual),55,3
+19385,0,[Berserker] Clead Axe,4,false,83000000,Pearl Items,Male Apparel (Individual),55,3
+19386,0,[Berserker] Cavaro Axe,4,false,95500000,Pearl Items,Male Apparel (Individual),55,3
+19388,0,[Berserker] Lahr Arcien Axe,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+19389,0,[Berserker] Atanis Axe,4,false,72000000,Pearl Items,Male Apparel (Individual),55,3
+19390,0,[Berserker] Wilderness Axe,4,false,77500000,Pearl Items,Male Apparel (Individual),55,3
+19391,0,[Berserker] Bethel Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+19392,0,[Berserker] Khaled Ornamental Knot,4,false,65000000,Pearl Items,Male Apparel (Individual),55,3
+19393,0,[Berserker] Eckett Ornamental Knot,4,false,53000000,Pearl Items,Male Apparel (Individual),55,3
+19395,0,[Berserker] Clead Ornamental Knot,4,false,49600000,Pearl Items,Male Apparel (Individual),55,3
+19396,0,[Berserker] Cavaro Ornamental Knot,4,false,57000000,Pearl Items,Male Apparel (Individual),55,3
+19398,0,[Berserker] Lahr Arcien Ornamental Knot,4,false,76000000,Pearl Items,Male Apparel (Individual),55,3
+19399,0,[Berserker] Atanis Ornamental Knot,4,false,43000000,Pearl Items,Male Apparel (Individual),55,3
+19400,0,[Berserker] Wilderness Ornamental Knot,4,false,46200000,Pearl Items,Male Apparel (Individual),55,3
+19501,0,[Musa] Wilderness Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+19502,0,[Musa] Wilderness Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+19504,0,[Musa] Wilderness Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19509,0,[Musa] Cataphract Helmet,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+19510,0,[Musa] Cataphract Armor,4,false,174000000,Pearl Items,Male Apparel (Individual),55,3
+19511,0,[Musa] Cataphract Gloves,4,false,58000000,Pearl Items,Male Apparel (Individual),55,3
+19512,0,[Musa] Cataphract Shoes,4,false,58000000,Pearl Items,Male Apparel (Individual),55,3
+19518,0,[Musa] Lahr Arcien Helmet,4,false,75500000,Pearl Items,Male Apparel (Individual),55,3
+19519,0,[Musa] Lahr Arcien Armor,4,false,242000000,Pearl Items,Male Apparel (Individual),55,3
+19520,0,[Musa] Lahr Arcien Shoes,4,false,61000000,Pearl Items,Male Apparel (Individual),55,3
+19521,0,[Musa] Cavaro Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19522,0,[Musa] Cavaro Armor,4,false,115000000,Pearl Items,Male Apparel (Individual),55,3
+19523,0,[Musa] Cavaro Gloves,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19524,0,[Musa] Cavaro Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19526,0,[Musa] Wind Waker Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+19527,0,[Musa] Wind Waker Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+19528,0,[Musa] Wind Waker Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+19529,0,[Musa] Trilby Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19530,0,[Musa] Atanis Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+19531,0,[Musa] Atanis Armor,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+19532,0,[Musa] Atanis Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+19535,0,[Musa] Kibelius Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+19536,0,[Musa] Willow Breeze Robe,4,false,268000000,Pearl Items,Male Apparel (Individual),55,3
+19537,0,[Musa] Willow Breeze Shoes,4,false,44200000,Pearl Items,Male Apparel (Individual),55,3
+19540,0,[Musa] Vagabond Armor,4,false,314000000,Pearl Items,Male Apparel (Individual),55,3
+19581,0,[Musa] Wilderness Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+19583,0,[Musa] Cataphract Blade,4,false,110000000,Pearl Items,Male Apparel (Individual),55,3
+19585,0,[Musa] Wind Waker Blade,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+19586,0,[Musa] Atanis Blade,4,false,72000000,Pearl Items,Male Apparel (Individual),55,3
+19587,0,[Musa] Lahr Arcien Blade,4,false,113000000,Pearl Items,Male Apparel (Individual),55,3
+19588,0,[Musa] Vagabond Blade (Katana),4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+19591,0,[Musa] Wilderness Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+19593,0,[Musa] Cataphract Horn Bow,4,false,65500000,Pearl Items,Male Apparel (Individual),55,3
+19595,0,[Musa] Wind Waker Horn Bow,4,false,76000000,Pearl Items,Male Apparel (Individual),55,3
+19596,0,[Musa] Atanis Horn Bow,4,false,43000000,Pearl Items,Male Apparel (Individual),55,3
+19597,0,[Musa] Lahr Arcien Horn Bow,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+20065,0,[Musa] Royal Enforcer Helmet A,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+20066,0,[Musa] Royal Enforcer Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+20068,0,[Musa] Royal Enforcer Helmet B,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+20765,0,[Wizard] Trilby Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+21701,0,[Ninja] Sicarios Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+21702,0,[Ninja] Sicarios Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+21703,0,[Ninja] Sicarios Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+21705,0,[Ninja] Sicarios Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+21706,0,[Ninja] Sicarios Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+21719,0,[Ninja] Cantusa Helmet,4,false,64000000,Pearl Items,Male Apparel (Individual),55,3
+21720,0,[Ninja] Cantusa Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+21722,0,[Ninja] Cantusa Shoes,4,false,51000000,Pearl Items,Male Apparel (Individual),55,3
+21723,0,[Ninja] Cantusa Shortsword,4,false,95500000,Pearl Items,Male Apparel (Individual),55,3
+21724,0,[Ninja] Cantusa Kunai,4,false,57000000,Pearl Items,Male Apparel (Individual),55,3
+21730,0,[Ninja] Bloody Suit,4,false,333000000,Pearl Items,Male Apparel (Individual),55,3
+21732,0,[Ninja] Karlstein Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+21733,0,[Ninja] Karlstein Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+21735,0,[Ninja] Karlstein Shortsword,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+21736,0,[Ninja] Karlstein Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+21743,0,[Ninja] Acher Guard Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+21744,0,[Ninja] Acher Guard Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+21745,0,[Ninja] Acher Guard Shortsword,4,false,83000000,Pearl Items,Male Apparel (Individual),55,3
+21746,0,[Ninja] Acher Guard Kunai,4,false,49600000,Pearl Items,Male Apparel (Individual),55,3
+21748,0,[Ninja] Noel Hat,4,false,60500000,Pearl Items,Male Apparel (Individual),55,3
+21749,0,[Ninja] Noel Clothes,4,false,241000000,Pearl Items,Male Apparel (Individual),55,3
+21750,0,[Ninja] Lahr Arcien Helmet,4,false,55000000,Pearl Items,Male Apparel (Individual),55,3
+21751,0,[Ninja] Lahr Arcien Armor,4,false,175000000,Pearl Items,Male Apparel (Individual),55,3
+21752,0,[Ninja] Lahr Arcien Shoes,4,false,44000000,Pearl Items,Male Apparel (Individual),55,3
+21753,0,[Ninja] Lahr Arcien Shortsword,4,false,82500000,Pearl Items,Male Apparel (Individual),55,3
+21754,0,[Ninja] Lahr Arcien Kunai,4,false,49300000,Pearl Items,Male Apparel (Individual),55,3
+21760,0,[Ninja] Cokro Hat,4,false,61500000,Pearl Items,Male Apparel (Individual),55,3
+21761,0,[Ninja] Cokro Clothes,4,false,148000000,Pearl Items,Male Apparel (Individual),55,3
+21762,0,[Ninja] Cokro Gloves,4,false,49200000,Pearl Items,Male Apparel (Individual),55,3
+21763,0,[Ninja] Cokro Shoes,4,false,49200000,Pearl Items,Male Apparel (Individual),55,3
+21764,0,[Ninja] Cokro Shortsword,4,false,93000000,Pearl Items,Male Apparel (Individual),55,3
+21765,0,[Ninja] Cokro Kunai,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+21766,0,[Ninja] New Year Hanbok Hat,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+21767,0,[Ninja] New Year Hanbok Clothes,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+21770,0,[Ninja] Aegis Armor,4,false,275000000,Pearl Items,Male Apparel (Individual),55,3
+21771,0,[Ninja] Aegis Shortsword,4,false,83000000,Pearl Items,Male Apparel (Individual),55,3
+21772,0,[Ninja] Aegis Kunai,4,false,49600000,Pearl Items,Male Apparel (Individual),55,3
+21777,0,[Ninja] Kibelius Helmet,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+21778,0,[Ninja] Kibelius Divinus Armor,4,false,316000000,Pearl Items,Male Apparel (Individual),55,3
+21779,0,[Ninja] Kibelius Armor,4,false,316000000,Pearl Items,Male Apparel (Individual),55,3
+21780,0,[Ninja] Kibelius Shortsword,4,false,119000000,Pearl Items,Male Apparel (Individual),55,3
+21781,0,[Ninja] Kibelius Kunai,4,false,71000000,Pearl Items,Male Apparel (Individual),55,3
+21782,0,[Ninja] Bolyn Armor,4,false,256000000,Pearl Items,Male Apparel (Individual),55,3
+21783,0,[Ninja] Bolyn Shortsword,4,false,77000000,Pearl Items,Male Apparel (Individual),55,3
+21784,0,[Ninja] Bolyn Kunai,4,false,46000000,Pearl Items,Male Apparel (Individual),55,3
+21785,0,[Ninja] Narusawa Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+21786,0,[Ninja] Narusawa Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+21787,0,[Ninja] Narusawa Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+21788,0,[Ninja] Narusawa Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+21789,0,[Ninja] Narusawa Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+21792,0,[Ninja] Gavi Regan Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+21793,0,[Ninja] Gavi Regan Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+21794,0,[Ninja] Gavi Regan Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+21795,0,[Ninja] Gavi Regan Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+21796,0,[Ninja] Gavi Regan Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+21797,0,[Ninja] Marine Romance Hat,4,false,63000000,Pearl Items,Male Apparel (Individual),55,3
+21798,0,[Ninja] Marine Romance Clothes,4,false,151000000,Pearl Items,Male Apparel (Individual),55,3
+21799,0,[Ninja] Marine Romance Gloves,4,false,50500000,Pearl Items,Male Apparel (Individual),55,3
+21800,0,[Ninja] Marine Romance Shoes,4,false,50500000,Pearl Items,Male Apparel (Individual),55,3
+21801,0,[Ninja] Epheria Marine Helmet,4,false,60500000,Pearl Items,Male Apparel (Individual),55,3
+21802,0,[Ninja] Epheria Marine Clothes,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+21803,0,[Ninja] Epheria Marine Shoes,4,false,48300000,Pearl Items,Male Apparel (Individual),55,3
+21804,0,[Ninja] Epheria Marine Shortsword,4,false,91000000,Pearl Items,Male Apparel (Individual),55,3
+21805,0,[Ninja] Epheria Marine Kunai,4,false,54500000,Pearl Items,Male Apparel (Individual),55,3
+21807,0,[Ninja] Blue Tiger Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+21808,0,[Ninja] Blue Tiger Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+21809,0,[Ninja] Blue Tiger Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+21810,0,[Ninja] Blue Tiger Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+21811,0,[Ninja] Blue Tiger Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+21812,0,[Ninja] Blue Tiger Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+21813,0,[Ninja] Blue Tiger Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+21841,0,[Warrior] Kibelius Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+21844,0,[Berserker] Kibelius Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+21846,0,[Musa] Kibelius Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+21850,0,[Ninja] Kibelius Sura Katana,4,false,142000000,Pearl Items,Male Apparel (Individual),55,3
+21860,0,[Ninja] Trilby Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+21973,0,[Ninja] Obsidian Arrow Hood,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+21974,0,[Ninja] Obsidian Arrow Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+21976,0,[Ninja] Crimson Sable Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+21977,0,[Ninja] Crimson Sable Armor,4,false,339000000,Pearl Items,Male Apparel (Individual),55,3
+22001,0,[Warrior] Red Robe Helmet,4,false,64000000,Pearl Items,Male Apparel (Individual),55,3
+22002,0,[Warrior] Red Robe Armor,4,false,254000000,Pearl Items,Male Apparel (Individual),55,3
+22003,0,[Warrior] Karlstein Hat,4,false,84000000,Pearl Items,Male Apparel (Individual),55,3
+22004,0,[Warrior] Karlstein Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22008,0,[Warrior] Kibelius Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+22009,0,[Warrior] Kibelius Divinus Armor,4,false,269000000,Pearl Items,Male Apparel (Individual),55,3
+22010,0,[Warrior] Kibelius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22011,0,[Warrior] Epheria Marine Helmet,4,false,65000000,Pearl Items,Male Apparel (Individual),55,3
+22012,0,[Warrior] Epheria Marine Clothes,4,false,205000000,Pearl Items,Male Apparel (Individual),55,3
+22013,0,[Warrior] Epheria Marine Shoes,4,false,52000000,Pearl Items,Male Apparel (Individual),55,3
+22022,0,[Warrior] Cantusa Helmet,4,false,61500000,Pearl Items,Male Apparel (Individual),55,3
+22023,0,[Warrior] Cantusa Armor,4,false,196000000,Pearl Items,Male Apparel (Individual),55,3
+22025,0,[Warrior] Cantusa Shoes,4,false,49100000,Pearl Items,Male Apparel (Individual),55,3
+22027,0,[Warrior] Bloody Suit,4,false,403000000,Pearl Items,Male Apparel (Individual),55,3
+22028,0,[Warrior] Goyen Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22029,0,[Warrior] Goyen Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+22031,0,[Warrior] Acher Guard Helmet,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+22032,0,[Warrior] Acher Guard Armor,4,false,318000000,Pearl Items,Male Apparel (Individual),55,3
+22033,0,[Warrior] Noel Hat,4,false,68500000,Pearl Items,Male Apparel (Individual),55,3
+22034,0,[Warrior] Noel Clothes,4,false,273000000,Pearl Items,Male Apparel (Individual),55,3
+22035,0,[Warrior] Millen Fedora Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22036,0,[Warrior] Millen Fedora Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+22037,0,[Warrior] Millen Fedora Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22038,0,[Warrior] Millen Fedora Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22041,0,[Warrior] New Year Hanbok Hat,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+22042,0,[Warrior] New Year Hanbok Clothes,4,false,206000000,Pearl Items,Male Apparel (Individual),55,3
+22043,0,[Warrior] Gavi Regan Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22044,0,[Warrior] Gavi Regan Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22045,0,[Warrior] Bolyn Armor,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+22046,0,[Warrior] Brut Lancelot Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22047,0,[Warrior] Brut Lancelot Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22048,0,[Warrior] Marine Romance Hat,4,false,62500000,Pearl Items,Male Apparel (Individual),55,3
+22049,0,[Warrior] Marine Romance Clothes,4,false,150000000,Pearl Items,Male Apparel (Individual),55,3
+22050,0,[Warrior] Marine Romance Gloves,4,false,50000000,Pearl Items,Male Apparel (Individual),55,3
+22051,0,[Warrior] Marine Romance Shoes,4,false,50000000,Pearl Items,Male Apparel (Individual),55,3
+22052,0,[Warrior] Grave Keeper Hat,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+22053,0,[Warrior] Grave Keeper Clothes,4,false,234000000,Pearl Items,Male Apparel (Individual),55,3
+22054,0,[Warrior] Grave Keeper Gloves,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+22055,0,[Warrior] Pila Fe Outlaw Hat,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+22056,0,[Warrior] Pila Fe Outlaw Clothes,4,false,318000000,Pearl Items,Male Apparel (Individual),55,3
+22061,0,[Warrior] Brut Lancelot Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22062,0,[Warrior] Brut Lancelot Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22063,0,[Warrior] Brut Lancelot Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22064,0,[Warrior] Bolyn Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22065,0,[Warrior] Bolyn Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22066,0,[Warrior] Gavi Regan Longsword,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22067,0,[Warrior] Gavi Regan Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22068,0,[Warrior] Millen Fedora Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22069,0,[Warrior] Millen Fedora Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22071,0,[Warrior] Red Robe Longsword,4,false,95500000,Pearl Items,Male Apparel (Individual),55,3
+22072,0,[Warrior] Karlstein Longsword,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22074,0,[Warrior] Kibelius Longsword,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22075,0,[Warrior] Epheria Marine Longsword,4,false,97500000,Pearl Items,Male Apparel (Individual),55,3
+22079,0,[Warrior] Cantusa Longsword,4,false,92000000,Pearl Items,Male Apparel (Individual),55,3
+22081,0,[Warrior] Goyen Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22082,0,[Warrior] Goyen Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22084,0,[Warrior] Acher Guard Longsword,4,false,119000000,Pearl Items,Male Apparel (Individual),55,3
+22085,0,[Warrior] Acher Guard Greatsword,4,false,143000000,Pearl Items,Male Apparel (Individual),55,3
+22086,0,[Warrior] Red Robe Shield,4,false,57000000,Pearl Items,Male Apparel (Individual),55,3
+22087,0,[Warrior] Karlstein Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22089,0,[Warrior] Kibelius Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22090,0,[Warrior] Epheria Marine Shield,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+22094,0,[Warrior] Cantusa Shield,4,false,55000000,Pearl Items,Male Apparel (Individual),55,3
+22096,0,[Warrior] Goyen Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22097,0,[Warrior] Acher Guard Shield,4,false,71500000,Pearl Items,Male Apparel (Individual),55,3
+22098,0,[Warrior] Millen Fedora Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22099,0,[Warrior] Gavi Regan Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22100,0,[Warrior] Bolyn Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22301,0,[Berserker] Red Robe Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22302,0,[Berserker] Red Robe Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22303,0,[Berserker] Karlstein Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+22304,0,[Berserker] Karlstein Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22308,0,[Berserker] Kibelius Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+22309,0,[Berserker] Kibelius Divinus Armor,4,false,268000000,Pearl Items,Male Apparel (Individual),55,3
+22310,0,[Berserker] Kibelius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22311,0,[Berserker] Epheria Marine Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22312,0,[Berserker] Epheria Marine Clothes,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+22313,0,[Berserker] Epheria Marine Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22322,0,[Berserker] Cantusa Helmet,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+22323,0,[Berserker] Cantusa Armor,4,false,164000000,Pearl Items,Male Apparel (Individual),55,3
+22325,0,[Berserker] Cantusa Shoes,4,false,41200000,Pearl Items,Male Apparel (Individual),55,3
+22327,0,[Berserker] Bloody Suit,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22329,0,[Berserker] Acher Guard Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+22330,0,[Berserker] Acher Guard Armor,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+22331,0,[Berserker] Tantu Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22332,0,[Berserker] Tantu Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+22333,0,[Berserker] Tantu Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22334,0,[Berserker] Noel Hat,4,false,66000000,Pearl Items,Male Apparel (Individual),55,3
+22335,0,[Berserker] Noel Clothes,4,false,262000000,Pearl Items,Male Apparel (Individual),55,3
+22336,0,[Berserker] New Year Hanbok Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+22337,0,[Berserker] New Year Hanbok Clothes,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+22338,0,[Berserker] Gotha Rensa Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22339,0,[Berserker] Gotha Rensa Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+22340,0,[Berserker] Gotha Rensa Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22341,0,[Berserker] Gotha Rensa Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22344,0,[Berserker] Bolyn Armor,4,false,396000000,Pearl Items,Male Apparel (Individual),55,3
+22345,0,[Berserker] BD9 Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22346,0,[Berserker] BD9 Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+22347,0,[Berserker] BD9 Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22348,0,[Berserker] Gavi Regan Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22349,0,[Berserker] Gavi Regan Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22350,0,[Berserker] Marine Romance Hat,4,false,83500000,Pearl Items,Male Apparel (Individual),55,3
+22351,0,[Berserker] Marine Romance Clothes,4,false,199000000,Pearl Items,Male Apparel (Individual),55,3
+22352,0,[Berserker] Marine Romance Gloves,4,false,67000000,Pearl Items,Male Apparel (Individual),55,3
+22353,0,[Berserker] Marine Romance Shoes,4,false,67000000,Pearl Items,Male Apparel (Individual),55,3
+22354,0,[Berserker] Grave Keeper Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22355,0,[Berserker] Grave Keeper Clothes,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+22356,0,[Berserker] Grave Keeper Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22357,0,[Berserker] Pila Fe Outlaw Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+22358,0,[Berserker] Pila Fe Outlaw Clothes,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22362,0,[Berserker] Gavi Regan Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22363,0,[Berserker] Gavi Regan Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22364,0,[Berserker] Gavi Regan Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22365,0,[Berserker] BD9 Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22366,0,[Berserker] BD9 Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22367,0,[Berserker] Bolyn Iron Buster,4,false,143000000,Pearl Items,Male Apparel (Individual),55,3
+22368,0,[Berserker] Bolyn Axe,4,false,119000000,Pearl Items,Male Apparel (Individual),55,3
+22369,0,[Berserker] Gotha Rensa Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22370,0,[Berserker] Gotha Rensa Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22371,0,[Berserker] Red Robe Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22372,0,[Berserker] Karlstein Axe,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22374,0,[Berserker] Kibelius Axe,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22375,0,[Berserker] Epheria Marine Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22379,0,[Berserker] Cantusa Axe,4,false,77500000,Pearl Items,Male Apparel (Individual),55,3
+22381,0,[Berserker] Acher Guard Axe,4,false,72000000,Pearl Items,Male Apparel (Individual),55,3
+22382,0,[Berserker] Tantu Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22383,0,[Berserker] Tantu Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22386,0,[Berserker] Red Robe Ornamental Knot,4,false,76000000,Pearl Items,Male Apparel (Individual),55,3
+22387,0,[Berserker] Karlstein Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22389,0,[Berserker] Kibelius Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22390,0,[Berserker] Epheria Marine Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22394,0,[Berserker] Cantusa Ornamental Knot,4,false,46200000,Pearl Items,Male Apparel (Individual),55,3
+22396,0,[Berserker] Acher Guard Ornamental Knot,4,false,43000000,Pearl Items,Male Apparel (Individual),55,3
+22397,0,[Berserker] Tantu Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22398,0,[Berserker] Gotha Rensa Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22399,0,[Berserker] Bolyn Ornamental Knot,4,false,71500000,Pearl Items,Male Apparel (Individual),55,3
+22400,0,[Berserker] BD9 Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22501,0,[Musa] Red Robe Helmet,4,false,68500000,Pearl Items,Male Apparel (Individual),55,3
+22502,0,[Musa] Red Robe Armor,4,false,272000000,Pearl Items,Male Apparel (Individual),55,3
+22503,0,[Musa] Karlstein Hat,4,false,84000000,Pearl Items,Male Apparel (Individual),55,3
+22504,0,[Musa] Karlstein Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22508,0,[Musa] Kibelius Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22509,0,[Musa] Kibelius Divinus Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+22510,0,[Musa] Kibelius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22511,0,[Musa] Epheria Marine Helmet,4,false,84000000,Pearl Items,Male Apparel (Individual),55,3
+22512,0,[Musa] Epheria Marine Clothes,4,false,267000000,Pearl Items,Male Apparel (Individual),55,3
+22513,0,[Musa] Epheria Marine Shoes,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+22522,0,[Musa] Cantusa Helmet,4,false,70500000,Pearl Items,Male Apparel (Individual),55,3
+22523,0,[Musa] Cantusa Armor,4,false,224000000,Pearl Items,Male Apparel (Individual),55,3
+22525,0,[Musa] Cantusa Shoes,4,false,56000000,Pearl Items,Male Apparel (Individual),55,3
+22527,0,[Musa] Bloody Suit,4,false,295000000,Pearl Items,Male Apparel (Individual),55,3
+22529,0,[Musa] Acher Guard Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+22530,0,[Musa] Acher Guard Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+22531,0,[Musa] Noel Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22532,0,[Musa] Noel Clothes,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22533,0,[Musa] New Year Hanbok Hat,4,false,57500000,Pearl Items,Male Apparel (Individual),55,3
+22534,0,[Musa] New Year Hanbok Clothes,4,false,229000000,Pearl Items,Male Apparel (Individual),55,3
+22535,0,[Musa] Seoryeon Corps Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22536,0,[Musa] Seoryeon Corps Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+22542,0,[Musa] Bolyn Armor,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+22543,0,[Musa] Palgong Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22544,0,[Musa] Palgong Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22546,0,[Musa] Gavi Regan Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22547,0,[Musa] Gavi Regan Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22548,0,[Musa] Marine Romance Hat,4,false,68500000,Pearl Items,Male Apparel (Individual),55,3
+22549,0,[Musa] Marine Romance Clothes,4,false,164000000,Pearl Items,Male Apparel (Individual),55,3
+22550,0,[Musa] Marine Romance Gloves,4,false,54500000,Pearl Items,Male Apparel (Individual),55,3
+22551,0,[Musa] Marine Romance Shoes,4,false,54500000,Pearl Items,Male Apparel (Individual),55,3
+22552,0,[Musa] Grave Keeper Hat,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+22553,0,[Musa] Grave Keeper Clothes,4,false,235000000,Pearl Items,Male Apparel (Individual),55,3
+22554,0,[Musa] Grave Keeper Gloves,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+22555,0,[Musa] Pila Fe Outlaw Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22556,0,[Musa] Pila Fe Outlaw Clothes,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22557,0,[Musa] Blue Tiger Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22558,0,[Musa] Blue Tiger Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+22559,0,[Musa] Blue Tiger Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22560,0,[Musa] Blue Tiger Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22563,0,[Musa] Gavi Regan Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22564,0,[Musa] Gavi Regan Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22565,0,[Musa] Gavi Regan Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22566,0,[Musa] Palgong Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22567,0,[Musa] Palgong Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22568,0,[Musa] Bolyn Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22569,0,[Musa] Bolyn Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22570,0,[Musa] Seoryeon Corps Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+22571,0,[Musa] Red Robe Blade,4,false,102000000,Pearl Items,Male Apparel (Individual),55,3
+22572,0,[Musa] Karlstein Blade,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22574,0,[Musa] Kibelius Blade,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22575,0,[Musa] Epheria Marine Blade,4,false,125000000,Pearl Items,Male Apparel (Individual),55,3
+22579,0,[Musa] Cantusa Blade,4,false,105000000,Pearl Items,Male Apparel (Individual),55,3
+22581,0,[Musa] Acher Guard Blade,4,false,83000000,Pearl Items,Male Apparel (Individual),55,3
+22582,0,[Musa] Seoryeon Corps Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22586,0,[Musa] Red Robe Horn Bow,4,false,61000000,Pearl Items,Male Apparel (Individual),55,3
+22587,0,[Musa] Karlstein Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22589,0,[Musa] Kibelius Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22590,0,[Musa] Epheria Marine Horn Bow,4,false,75000000,Pearl Items,Male Apparel (Individual),55,3
+22594,0,[Musa] Cantusa Horn Bow,4,false,63000000,Pearl Items,Male Apparel (Individual),55,3
+22596,0,[Musa] Acher Guard Horn Bow,4,false,49600000,Pearl Items,Male Apparel (Individual),55,3
+22597,0,[Musa] Seoryeon Corps Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22599,0,[Musa] Bolyn Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22600,0,[Musa] Palgong Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22801,0,[Wizard] Inquirer's Destiny Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+22802,0,[Wizard] Inquirer's Destiny Robe,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+22803,0,[Wizard] Inquirer's Destiny Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22804,0,[Wizard] Inquirer's Destiny Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22816,0,[Wizard] Karlstein Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+22817,0,[Wizard] Karlstein Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+22818,0,[Wizard] Lahr Arcien Hat,4,false,78500000,Pearl Items,Male Apparel (Individual),55,3
+22819,0,[Wizard] Lahr Arcien Robe,4,false,247000000,Pearl Items,Male Apparel (Individual),55,3
+22821,0,[Wizard] Lahr Arcien Shoes,4,false,62500000,Pearl Items,Male Apparel (Individual),55,3
+22822,0,[Wizard] Kibelius Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+22823,0,[Wizard] Kibelius Divinus Robe,4,false,269000000,Pearl Items,Male Apparel (Individual),55,3
+22824,0,[Wizard] Kibelius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+22825,0,[Wizard] Epheria Marine Helmet,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+22826,0,[Wizard] Epheria Marine Clothes,4,false,164000000,Pearl Items,Male Apparel (Individual),55,3
+22827,0,[Wizard] Epheria Marine Shoes,4,false,41200000,Pearl Items,Male Apparel (Individual),55,3
+22828,0,[Wizard] Kibelius Robe,4,false,269000000,Pearl Items,Male Apparel (Individual),55,3
+22834,0,[Wizard] Willow Breeze Robe,4,false,249000000,Pearl Items,Male Apparel (Individual),55,3
+22835,0,[Wizard] Willow Breeze Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+22841,0,[Wizard] Cantusa Hat,4,false,74500000,Pearl Items,Male Apparel (Individual),55,3
+22842,0,[Wizard] Cantusa Robe,4,false,239000000,Pearl Items,Male Apparel (Individual),55,3
+22844,0,[Wizard] Cantusa Shoes,4,false,60000000,Pearl Items,Male Apparel (Individual),55,3
+22846,0,[Wizard] Bloody Suit,4,false,365000000,Pearl Items,Male Apparel (Individual),55,3
+22847,0,[Wizard] Cavaro Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+22848,0,[Wizard] Cavaro Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+22851,0,[Wizard] Acher Guard Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+22852,0,[Wizard] Acher Guard Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+22853,0,[Wizard] Noel Hat,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+22854,0,[Wizard] Noel Clothes,4,false,237000000,Pearl Items,Male Apparel (Individual),55,3
+22857,0,[Wizard] New Year Hanbok Hat,4,false,50000000,Pearl Items,Male Apparel (Individual),55,3
+22858,0,[Wizard] New Year Hanbok Clothes,4,false,201000000,Pearl Items,Male Apparel (Individual),55,3
+22859,0,[Wizard] Amethyst Staff,4,false,125000000,Pearl Items,Male Apparel (Individual),55,3
+22860,0,[Wizard] Amethyst Dagger,4,false,75000000,Pearl Items,Male Apparel (Individual),55,3
+22871,0,[Wizard] Inquirer's Destiny Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+22874,0,[Wizard] Karlstein Staff,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22875,0,[Wizard] Lahr Arcien Staff,4,false,116000000,Pearl Items,Male Apparel (Individual),55,3
+22876,0,[Wizard] Kibelius Staff,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+22877,0,[Wizard] Epheria Marine Staff,4,false,77500000,Pearl Items,Male Apparel (Individual),55,3
+22881,0,[Wizard] Cantusa Staff,4,false,112000000,Pearl Items,Male Apparel (Individual),55,3
+22883,0,[Wizard] Cavaro Staff,4,false,83000000,Pearl Items,Male Apparel (Individual),55,3
+22884,0,[Wizard] Acher Guard Staff,4,false,83000000,Pearl Items,Male Apparel (Individual),55,3
+22886,0,[Wizard] Inquirer's Destiny Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22889,0,[Wizard] Karlstein Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22890,0,[Wizard] Lahr Arcien Dagger,4,false,70000000,Pearl Items,Male Apparel (Individual),55,3
+22891,0,[Wizard] Kibelius Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+22892,0,[Wizard] Epheria Marine Dagger,4,false,46200000,Pearl Items,Male Apparel (Individual),55,3
+22896,0,[Wizard] Cantusa Dagger,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+22898,0,[Wizard] Cavaro Dagger,4,false,49600000,Pearl Items,Male Apparel (Individual),55,3
+22899,0,[Wizard] Acher Guard Dagger,4,false,49600000,Pearl Items,Male Apparel (Individual),55,3
+28503,0,[Warrior] Heidel Masquerade Phantom Mask,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+28504,0,[Warrior] Heidel Masquerade Suit,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+28506,0,[Warrior] Doomsday Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+28507,0,[Warrior] Doomsday Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+28508,0,[Warrior] Doomsday Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+28509,0,[Warrior] Doomsday Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+28510,0,[Warrior] Doomsday Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+28514,0,[Warrior] Anemos Helmet,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+28515,0,[Warrior] Anemos Armor,4,false,237000000,Pearl Items,Male Apparel (Individual),55,3
+28517,0,[Warrior] Grotevant Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+28518,0,[Warrior] Grotevant Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+28519,0,[Warrior] Grotevant Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+28520,0,[Warrior] Grotevant Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+28521,0,[Warrior] Grotevant Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+28531,0,[Warrior] Bern Helmet N,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+28532,0,[Warrior] Bern Armor N,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+28879,0,[Berserker] Heidel Masquerade Phantom Mask,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+28880,0,[Berserker] Heidel Masquerade Suit,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+28882,0,[Berserker] Gladiator Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+28883,0,[Berserker] Gladiator Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+28884,0,[Berserker] Gladiator Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+28885,0,[Berserker] Gladiator Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+28886,0,[Berserker] Gladiator Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+28887,0,[Berserker] Gladiator Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+28891,0,[Berserker] Anemos Helmet,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+28892,0,[Berserker] Anemos Armor,4,false,206000000,Pearl Items,Male Apparel (Individual),55,3
+28894,0,[Berserker] Deathrone Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+28895,0,[Berserker] Deathrone Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+28896,0,[Berserker] Deathrone Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+28897,0,[Berserker] Deathrone Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+28898,0,[Berserker] Deathrone Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+28899,0,[Berserker] Deathrone Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+28906,0,[Berserker] Sedic Bandana,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+29126,0,[Musa] Blue Tiger Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29127,0,[Musa] Blue Tiger Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+29128,0,[Musa] Blue Tiger Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+29135,0,[Musa] Heidel Masquerade Phantom Mask,4,false,61000000,Pearl Items,Male Apparel (Individual),55,3
+29136,0,[Musa] Heidel Masquerade Suit,4,false,244000000,Pearl Items,Male Apparel (Individual),55,3
+29138,0,[Musa] Anemos Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+29139,0,[Musa] Anemos Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+29141,0,[Musa] Nouse's Shard Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+29142,0,[Musa] Nouse's Shard Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+29143,0,[Musa] Nouse's Shard Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+29144,0,[Musa] Nouse's Shard Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+29145,0,[Musa] Nouse's Shard Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29152,0,[Musa] Dark Martial Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+29153,0,[Musa] Dark Martial Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+29154,0,[Musa] Dark Martial Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+29155,0,[Musa] Dark Martial Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+29156,0,[Musa] Dark Martial Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29165,0,[Musa] Sedic Bandana,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+29166,0,[Musa] Sedic Clothes,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+29501,0,[Wizard] Amethyst Hat,4,false,84000000,Pearl Items,Male Apparel (Individual),55,3
+29502,0,[Wizard] Amethyst Robe,4,false,200000000,Pearl Items,Male Apparel (Individual),55,3
+29503,0,[Wizard] Amethyst Gloves,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+29504,0,[Wizard] Amethyst Shoes,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+29507,0,[Wizard] Crescent Moon Hat,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+29508,0,[Wizard] Crescent Moon Clothes,4,false,267000000,Pearl Items,Male Apparel (Individual),55,3
+29509,0,[Wizard] Bolyn Armor,4,false,273000000,Pearl Items,Male Apparel (Individual),55,3
+29510,0,[Wizard] Gavi Regan Helmet,4,false,72000000,Pearl Items,Male Apparel (Individual),55,3
+29511,0,[Wizard] Gavi Regan Armor,4,false,289000000,Pearl Items,Male Apparel (Individual),55,3
+29512,0,[Wizard] Marine Romance Hat,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+29513,0,[Wizard] Marine Romance Clothes,4,false,162000000,Pearl Items,Male Apparel (Individual),55,3
+29514,0,[Wizard] Marine Romance Gloves,4,false,54000000,Pearl Items,Male Apparel (Individual),55,3
+29515,0,[Wizard] Marine Romance Shoes,4,false,54000000,Pearl Items,Male Apparel (Individual),55,3
+29516,0,[Wizard] Grave Keeper Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+29517,0,[Wizard] Grave Keeper Clothes,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+29518,0,[Wizard] Grave Keeper Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+29519,0,[Wizard] Lord Red Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+29520,0,[Wizard] Lord Red Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+29521,0,[Wizard] Pila Fe Outlaw Hat,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+29522,0,[Wizard] Pila Fe Outlaw Clothes,4,false,318000000,Pearl Items,Male Apparel (Individual),55,3
+29580,0,[Wizard] Crescent Moon Staff,4,false,101000000,Pearl Items,Male Apparel (Individual),55,3
+29581,0,[Wizard] Bolyn Staff,4,false,82500000,Pearl Items,Male Apparel (Individual),55,3
+29582,0,[Wizard] Gavi Regan Staff,4,false,109000000,Pearl Items,Male Apparel (Individual),55,3
+29583,0,[Wizard] Lord Red Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+29584,0,[Wizard] Lord Red Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29600,0,[Wizard] Crescent Moon Dagger,4,false,60000000,Pearl Items,Male Apparel (Individual),55,3
+29601,0,[Wizard] Bolyn Dagger,4,false,49200000,Pearl Items,Male Apparel (Individual),55,3
+29602,0,[Wizard] Gavi Regan Dagger,4,false,65000000,Pearl Items,Male Apparel (Individual),55,3
+29603,0,[Wizard] Lord Red Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+29604,0,[Wizard] Heidel Masquerade Phantom Mask,4,false,63500000,Pearl Items,Male Apparel (Individual),55,3
+29605,0,[Wizard] Heidel Masquerade Suit,4,false,255000000,Pearl Items,Male Apparel (Individual),55,3
+29607,0,[Wizard] Sage's Memory Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+29608,0,[Wizard] Sage's Memory Clothes,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+29609,0,[Wizard] Sage's Memory Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+29610,0,[Wizard] Sage's Memory Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+29611,0,[Wizard] Sage's Memory Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29615,0,[Wizard] Anemos Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+29616,0,[Wizard] Anemos Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+29618,0,[Wizard] Kibelius Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29644,0,[Wizard] Sedic Bandana,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+29876,0,[Ninja] Grave Keeper Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+29877,0,[Ninja] Grave Keeper Clothes,4,false,268000000,Pearl Items,Male Apparel (Individual),55,3
+29878,0,[Ninja] Grave Keeper Gloves,4,false,67000000,Pearl Items,Male Apparel (Individual),55,3
+29880,0,[Ninja] Pila Fe Outlaw Hat,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+29881,0,[Ninja] Pila Fe Outlaw Clothes,4,false,318000000,Pearl Items,Male Apparel (Individual),55,3
+29885,0,[Ninja] Heidel Masquerade Phantom Mask,4,false,74000000,Pearl Items,Male Apparel (Individual),55,3
+29886,0,[Ninja] Heidel Masquerade Suit,4,false,301000000,Pearl Items,Male Apparel (Individual),55,3
+29888,0,[Ninja] Anemos Helmet,4,false,54000000,Pearl Items,Male Apparel (Individual),55,3
+29889,0,[Ninja] Anemos Armor,4,false,218000000,Pearl Items,Male Apparel (Individual),55,3
+29891,0,[Ninja] Yurei Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+29892,0,[Ninja] Yurei Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+29893,0,[Ninja] Yurei Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+29894,0,[Ninja] Yurei Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+29895,0,[Ninja] Yurei Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29899,0,[Ninja] Warhawk Armor,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+29900,0,[Ninja] Warhawk Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+29901,0,[Ninja] Warhawk Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+29902,0,[Ninja] Warhawk Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+29914,0,[Ninja] Petroglyph Helmet,4,false,75000000,Pearl Items,Male Apparel (Individual),55,3
+29915,0,[Ninja] Petroglyph Armor,4,false,299000000,Pearl Items,Male Apparel (Individual),55,3
+29917,0,[Ninja] Sedic Bandana,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+29918,0,[Ninja] Sedic Clothes,4,false,206000000,Pearl Items,Male Apparel (Individual),55,3
+48735,0,[Striker] Blazing Inferno Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48834,0,[Wizard] Lord Red Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48835,0,[Wizard] Lord Red Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48871,0,[Musa] Seoryeon Corps Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48872,0,[Musa] Seoryeon Corps Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48884,0,[Ninja] Narusawa Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48933,0,[Warrior] Goyen Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48934,0,[Warrior] Goyen Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48939,0,[Berserker] Tantu Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+48971,0,[Musa] Wilderness Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+57001,0,[Striker] WeDan Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57002,0,[Striker] WeDan Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+57003,0,[Striker] WeDan Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+57004,0,[Striker] WeDan Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57005,0,[Striker] WeDan Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57036,0,[Striker] Blazing Inferno Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57037,0,[Striker] Blazing Inferno Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+57038,0,[Striker] Blazing Inferno Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+57039,0,[Striker] Blazing Inferno Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57040,0,[Striker] Blazing Inferno Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57041,0,[Striker] Blazing Inferno Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+57049,0,[Striker] Karlstein Hat,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+57050,0,[Striker] Karlstein Armor,4,false,237000000,Pearl Items,Male Apparel (Individual),55,3
+57051,0,[Striker] Karlstein Gauntlet,4,false,89000000,Pearl Items,Male Apparel (Individual),55,3
+57052,0,[Striker] Karlstein Vambrace,4,false,53000000,Pearl Items,Male Apparel (Individual),55,3
+57059,0,[Striker] Onyx Jaguar Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57060,0,[Striker] Onyx Jaguar Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+57061,0,[Striker] Onyx Jaguar Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+57062,0,[Striker] Onyx Jaguar Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57063,0,[Striker] Onyx Jaguar Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57064,0,[Striker] Onyx Jaguar Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+57079,0,[Striker] Grave Keeper Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57080,0,[Striker] Grave Keeper Clothes,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+57081,0,[Striker] Grave Keeper Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+57083,0,[Striker] Sedic Bandana,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+57090,0,[Striker] Trilby Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+57801,0,[Warrior] Crown Eagle Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+57802,0,[Warrior] Crown Eagle Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+57803,0,[Warrior] Crown Eagle Longsword,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+57804,0,[Warrior] Crown Eagle Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57805,0,[Warrior] Crown Eagle Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+57825,0,[Berserker] Crown Eagle Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57826,0,[Berserker] Crown Eagle Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+57827,0,[Berserker] Crown Eagle Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57828,0,[Berserker] Crown Eagle Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57829,0,[Berserker] Crown Eagle Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+57841,0,[Musa] Crown Eagle Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57842,0,[Musa] Crown Eagle Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+57843,0,[Musa] Crown Eagle Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57844,0,[Musa] Crown Eagle Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57845,0,[Musa] Crown Eagle Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+57865,0,[Wizard] Crown Eagle Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57866,0,[Wizard] Crown Eagle Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+57867,0,[Wizard] Crown Eagle Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57868,0,[Wizard] Crown Eagle Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57869,0,[Wizard] Crown Eagle Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+57889,0,[Ninja] Crown Eagle Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57890,0,[Ninja] Crown Eagle Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+57891,0,[Ninja] Crown Eagle Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57892,0,[Ninja] Crown Eagle Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57893,0,[Ninja] Crown Eagle Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+57905,0,[Striker] Crown Eagle Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+57906,0,[Striker] Crown Eagle Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+57907,0,[Striker] Crown Eagle Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+57908,0,[Striker] Crown Eagle Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+57910,0,[Warrior] Onyx Jaguar Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+57911,0,[Warrior] Onyx Jaguar Armor,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+57913,0,[Berserker] Onyx Jaguar Helmet,4,false,55000000,Pearl Items,Male Apparel (Individual),55,3
+57914,0,[Berserker] Onyx Jaguar Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+57916,0,[Musa] Onyx Jaguar Helmet,4,false,46400000,Pearl Items,Male Apparel (Individual),55,3
+57917,0,[Musa] Onyx Jaguar Armor,4,false,185000000,Pearl Items,Male Apparel (Individual),55,3
+57919,0,[Wizard] Onyx Jaguar Helmet,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+57920,0,[Wizard] Onyx Jaguar Armor,4,false,237000000,Pearl Items,Male Apparel (Individual),55,3
+57922,0,[Ninja] Onyx Jaguar Helmet,4,false,71000000,Pearl Items,Male Apparel (Individual),55,3
+57923,0,[Ninja] Onyx Jaguar Armor,4,false,283000000,Pearl Items,Male Apparel (Individual),55,3
+57925,0,[Striker] Crown Eagle Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+340001,0,[Warrior] Crimson Shadow Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+340002,0,[Warrior] Crimson Knight Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+340004,0,[Warrior] Crimson Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+340007,0,[Berserker] Crimson Shadow Knight Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+340008,0,[Berserker] Crimson Knight Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+340010,0,[Berserker] Crimson Knight Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+340014,0,[Musa] Crimson Knight Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+340016,0,[Musa] Crimson Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+340019,0,[Ninja] Crimson Shadow Knight Helmet,4,false,65500000,Pearl Items,Male Apparel (Individual),55,3
+340020,0,[Ninja] Crimson Knight Armor,4,false,263000000,Pearl Items,Male Apparel (Individual),55,3
+340022,0,[Ninja] Crimson Knight Helmet,4,false,65500000,Pearl Items,Male Apparel (Individual),55,3
+340025,0,[Wizard] Crimson Shadow Knight Helmet,4,false,57500000,Pearl Items,Male Apparel (Individual),55,3
+340026,0,[Wizard] Crimson Knight Armor,4,false,229000000,Pearl Items,Male Apparel (Individual),55,3
+340028,0,[Wizard] Crimson Knight Helmet,4,false,57500000,Pearl Items,Male Apparel (Individual),55,3
+340031,0,[Striker] Crimson Shadow Knight Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+340032,0,[Striker] Crimson Knight Armor,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+340034,0,[Striker] Crimson Knight Helmet,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+340382,0,[Warrior] Yianaros Headpiece,4,false,75000000,Pearl Items,Male Apparel (Individual),55,3
+340385,0,[Berserker] Yianaros Headpiece,4,false,65500000,Pearl Items,Male Apparel (Individual),55,3
+340387,0,[Musa] Yianaros Headpiece,4,false,65000000,Pearl Items,Male Apparel (Individual),55,3
+340390,0,[Wizard] Yianaros Headpiece,4,false,66500000,Pearl Items,Male Apparel (Individual),55,3
+340393,0,[Ninja] Yianaros Headpiece,4,false,68500000,Pearl Items,Male Apparel (Individual),55,3
+340395,0,[Striker] Yianaros Headpiece,4,false,76000000,Pearl Items,Male Apparel (Individual),55,3
+400001,0,[Warrior] Durandal Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+400002,0,[Warrior] Durandal Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+400010,0,[Warrior] Leonidas Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+400011,0,[Warrior] Leonidas Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+400021,0,[Warrior] Arctic Fang Helmet,4,false,71000000,Pearl Items,Male Apparel (Individual),55,3
+400022,0,[Warrior] Arctic Fang Armor,4,false,283000000,Pearl Items,Male Apparel (Individual),55,3
+400024,0,[Warrior] Vestillio Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+400025,0,[Warrior] Vestillio Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+430001,0,[Berserker] Durandal Helmet,4,false,54500000,Pearl Items,Male Apparel (Individual),55,3
+430002,0,[Berserker] Durandal Armor,4,false,217000000,Pearl Items,Male Apparel (Individual),55,3
+430004,0,[Berserker] Jungle Beast Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+430005,0,[Berserker] Jungle Beast Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+430006,0,[Berserker] Jungle Beast Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+430007,0,[Berserker] Jungle Beast Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+430015,0,[Berserker] Leonidas Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+430016,0,[Berserker] Leonidas Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+430026,0,[Berserker] Arctic Fang Helmet,4,false,64000000,Pearl Items,Male Apparel (Individual),55,3
+430027,0,[Berserker] Arctic Fang Armor,4,false,255000000,Pearl Items,Male Apparel (Individual),55,3
+430029,0,[Berserker] Vestillio Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+430030,0,[Berserker] Vestillio Armor,4,false,339000000,Pearl Items,Male Apparel (Individual),55,3
+430035,0,[Berserker] Kerasaur Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+430036,0,[Berserker] Kerasaur Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+430037,0,[Berserker] Kerasaur Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+430038,0,[Berserker] Kerasaur Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+430039,0,[Berserker] Kerasaur Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+450001,0,[Musa] Demon Binder Headband,4,false,71000000,Pearl Items,Male Apparel (Individual),55,3
+450002,0,[Musa] Demon Binder Armor,4,false,285000000,Pearl Items,Male Apparel (Individual),55,3
+450004,0,[Musa] Durandal Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+450005,0,[Musa] Durandal Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+450013,0,[Musa] Leonidas Helmet,4,false,71500000,Pearl Items,Male Apparel (Individual),55,3
+450014,0,[Musa] Leonidas Armor,4,false,286000000,Pearl Items,Male Apparel (Individual),55,3
+450024,0,[Musa] Arctic Fang Helmet,4,false,64000000,Pearl Items,Male Apparel (Individual),55,3
+450025,0,[Musa] Arctic Fang Armor,4,false,255000000,Pearl Items,Male Apparel (Individual),55,3
+450027,0,[Musa] Vestillio Helmet,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+450028,0,[Musa] Vestillio Armor,4,false,273000000,Pearl Items,Male Apparel (Individual),55,3
+450033,0,[Musa] Ambition Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+450034,0,[Musa] Ambition Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+480001,0,[Wizard] Zeroth Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+480002,0,[Wizard] Zeroth Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+480004,0,[Wizard] Durandal Helmet,4,false,70000000,Pearl Items,Male Apparel (Individual),55,3
+480005,0,[Wizard] Durandal Armor,4,false,282000000,Pearl Items,Male Apparel (Individual),55,3
+480013,0,[Wizard] Leonidas Helmet,4,false,79500000,Pearl Items,Male Apparel (Individual),55,3
+480014,0,[Wizard] Leonidas Armor,4,false,317000000,Pearl Items,Male Apparel (Individual),55,3
+480024,0,[Wizard] Arctic Fang Helmet,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+480025,0,[Wizard] Arctic Fang Armor,4,false,237000000,Pearl Items,Male Apparel (Individual),55,3
+480027,0,[Wizard] Vestillio Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+480028,0,[Wizard] Vestillio Armor,4,false,338000000,Pearl Items,Male Apparel (Individual),55,3
+510001,0,[Ninja] Willow Breeze Robe,4,false,357000000,Pearl Items,Male Apparel (Individual),55,3
+510002,0,[Ninja] Willow Breeze Shoes,4,false,64500000,Pearl Items,Male Apparel (Individual),55,3
+510003,0,[Ninja] Nouse's Shard Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+510004,0,[Ninja] Nouse's Shard Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+510005,0,[Ninja] Nouse's Shard Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+510006,0,[Ninja] Nouse's Shard Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+510007,0,[Ninja] Nouse's Shard Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+510011,0,[Ninja] Durandal Helmet,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+510012,0,[Ninja] Durandal Armor,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+510021,0,[Ninja] Leonidas Helmet,4,false,49600000,Pearl Items,Male Apparel (Individual),55,3
+510022,0,[Ninja] Leonidas Armor,4,false,200000000,Pearl Items,Male Apparel (Individual),55,3
+510032,0,[Ninja] Arctic Fang Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+510033,0,[Ninja] Arctic Fang Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+510035,0,[Ninja] Vestillio Helmet,4,false,80000000,Pearl Items,Male Apparel (Individual),55,3
+510036,0,[Ninja] Vestillio Armor,4,false,321000000,Pearl Items,Male Apparel (Individual),55,3
+510041,0,[Ninja] White Wildcat Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+510042,0,[Ninja] White Wildcat Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+510044,0,[Ninja] White Wildcat Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+510045,0,[Ninja] White Wildcat Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+510046,0,[Ninja] White Wildcat Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+510050,0,[Ninja] Sakuragi Helmet,4,false,82500000,Pearl Items,Male Apparel (Individual),55,3
+510051,0,[Ninja] Sakuragi Armor,4,false,181000000,Pearl Items,Male Apparel (Individual),55,3
+510052,0,[Ninja] Sakuragi Gloves,4,false,53000000,Pearl Items,Male Apparel (Individual),55,3
+510053,0,[Ninja] Sakuragi Shoes,4,false,57500000,Pearl Items,Male Apparel (Individual),55,3
+510054,0,[Ninja] Sakuragi Shortsword,4,false,108000000,Pearl Items,Male Apparel (Individual),55,3
+510055,0,[Ninja] Sakuragi Kunai,4,false,71000000,Pearl Items,Male Apparel (Individual),55,3
+510056,0,[Ninja] Sakuragi Sura Katana,4,false,123000000,Pearl Items,Male Apparel (Individual),55,3
+530001,0,[Striker] Kibelius Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+530002,0,[Striker] Kibelius Divinus Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+530003,0,[Striker] Kibelius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+530004,0,[Striker] Kibelius Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+530005,0,[Striker] Kibelius Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+530006,0,[Striker] Kibelius Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+530009,0,[Striker] Lahr Arcien Helmet,4,false,75500000,Pearl Items,Male Apparel (Individual),55,3
+530010,0,[Striker] Lahr Arcien Armor,4,false,241000000,Pearl Items,Male Apparel (Individual),55,3
+530011,0,[Striker] Lahr Arcien Shoes,4,false,60000000,Pearl Items,Male Apparel (Individual),55,3
+530012,0,[Striker] Lahr Arcien Gauntlet,4,false,113000000,Pearl Items,Male Apparel (Individual),55,3
+530013,0,[Striker] Lahr Arcien Vambrace,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+530021,0,[Striker] Kibelius Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+530024,0,[Striker] Noel Hat,4,false,74500000,Pearl Items,Male Apparel (Individual),55,3
+530025,0,[Striker] Noel Clothes,4,false,297000000,Pearl Items,Male Apparel (Individual),55,3
+530027,0,[Striker] New Year Hanbok Hat,4,false,55500000,Pearl Items,Male Apparel (Individual),55,3
+530028,0,[Striker] New Year Hanbok Clothes,4,false,221000000,Pearl Items,Male Apparel (Individual),55,3
+530030,0,[Striker] Nouse's Shard Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+530031,0,[Striker] Nouse's Shard Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+530032,0,[Striker] Nouse's Shard Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+530033,0,[Striker] Nouse's Shard Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+530034,0,[Striker] Nouse's Shard Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+530038,0,[Striker] Anemos Helmet,4,false,65500000,Pearl Items,Male Apparel (Individual),55,3
+530039,0,[Striker] Anemos Armor,4,false,261000000,Pearl Items,Male Apparel (Individual),55,3
+530041,0,[Striker] Willow Breeze Robe,4,false,325000000,Pearl Items,Male Apparel (Individual),55,3
+530042,0,[Striker] Willow Breeze Shoes,4,false,52500000,Pearl Items,Male Apparel (Individual),55,3
+530043,0,[Striker] Epheria Marine Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+530044,0,[Striker] Epheria Marine Clothes,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+530045,0,[Striker] Epheria Marine Shoes,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+530046,0,[Striker] Epheria Marine Gauntlet,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+530047,0,[Striker] Epheria Marine Vambrace,4,false,75500000,Pearl Items,Male Apparel (Individual),55,3
+530049,0,[Striker] Durandal Helmet,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+530050,0,[Striker] Durandal Armor,4,false,270000000,Pearl Items,Male Apparel (Individual),55,3
+530054,0,[Striker] Marine Romance Hat,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+530055,0,[Striker] Marine Romance Clothes,4,false,176000000,Pearl Items,Male Apparel (Individual),55,3
+530056,0,[Striker] Marine Romance Gloves,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+530057,0,[Striker] Marine Romance Shoes,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+530065,0,[Striker] Leonidas Helmet,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+530066,0,[Striker] Leonidas Armor,4,false,314000000,Pearl Items,Male Apparel (Individual),55,3
+530076,0,[Striker] Arctic Fang Helmet,4,false,69000000,Pearl Items,Male Apparel (Individual),55,3
+530077,0,[Striker] Arctic Fang Armor,4,false,278000000,Pearl Items,Male Apparel (Individual),55,3
+530079,0,[Striker] Vestillio Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+530080,0,[Striker] Vestillio Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+530082,0,[Striker] Bloody Suit,4,false,365000000,Pearl Items,Male Apparel (Individual),55,3
+560001,0,[Archer] Gierach Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+560002,0,[Archer] Gierach Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+560003,0,[Archer] Gierach Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+560004,0,[Archer] Gierach Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+560005,0,[Archer] Gierach Crossbow,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+560006,0,[Archer] Gierach Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+560043,0,[Archer] Gierach Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+560063,0,[Archer] Trilby Hat,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+560064,0,[Archer] Luanwulf Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+560065,0,[Archer] Luanwulf Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+560066,0,[Archer] Luanwulf Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+560067,0,[Archer] Luanwulf Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+560068,0,[Archer] Luanwulf Crossbow,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+560069,0,[Archer] Luanwulf Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+560070,0,[Archer] Luanwulf Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+560074,0,[Archer] Karlstein Hat,4,false,68500000,Pearl Items,Male Apparel (Individual),55,3
+560075,0,[Archer] Karlstein Armor,4,false,272000000,Pearl Items,Male Apparel (Individual),55,3
+560077,0,[Archer] Karlstein Crossbow,4,false,102000000,Pearl Items,Male Apparel (Individual),55,3
+560078,0,[Archer] Karlstein Ra'ghon,4,false,61000000,Pearl Items,Male Apparel (Individual),55,3
+560086,0,[Archer] Noel Hat,4,false,61500000,Pearl Items,Male Apparel (Individual),55,3
+560087,0,[Archer] Noel Clothes,4,false,244000000,Pearl Items,Male Apparel (Individual),55,3
+560089,0,[Archer] Kibelius Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+560090,0,[Archer] Kibelius Divinus Armor,4,false,269000000,Pearl Items,Male Apparel (Individual),55,3
+560091,0,[Archer] Kibelius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+560093,0,[Archer] Kibelius Armor,4,false,269000000,Pearl Items,Male Apparel (Individual),55,3
+560094,0,[Archer] Kibelius Crossbow,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+560095,0,[Archer] Kibelius Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+560096,0,[Archer] Kibelius Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+560099,0,[Archer] New Year Hanbok Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+560100,0,[Archer] New Year Hanbok Clothes,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+560115,0,[Archer] Marine Romance Hat,4,false,65500000,Pearl Items,Male Apparel (Individual),55,3
+560116,0,[Archer] Marine Romance Clothes,4,false,158000000,Pearl Items,Male Apparel (Individual),55,3
+560117,0,[Archer] Marine Romance Gloves,4,false,53000000,Pearl Items,Male Apparel (Individual),55,3
+560118,0,[Archer] Marine Romance Shoes,4,false,53000000,Pearl Items,Male Apparel (Individual),55,3
+560120,0,[Archer] Yianaros Headpiece,4,false,67000000,Pearl Items,Male Apparel (Individual),55,3
+560121,0,[Archer] Robeaus Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+560122,0,[Archer] Robeaus Clothes,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+560125,0,[Archer] Messenger of Adùir Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+560126,0,[Archer] Messenger of Adùir Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+560128,0,[Archer] Corvicanus Robe,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+560129,0,[Archer] Corvicanus Crossbow,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+560130,0,[Archer] Corvicanus Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+560132,0,[Archer] Corvicanus Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+560135,0,[Archer] Derictus Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+560136,0,[Archer] Derictus Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+560137,0,[Archer] Derictus Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+560138,0,[Archer] Derictus Crossbow,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+560139,0,[Archer] Derictus Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+560140,0,[Archer] Derictus Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+590123,0,[Warrior] Vediras Hood,4,false,57500000,Pearl Items,Male Apparel (Individual),55,3
+590124,0,[Warrior] Vediras Clothes,4,false,229000000,Pearl Items,Male Apparel (Individual),55,3
+590125,0,[Berserker] Vediras Hood,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+590127,0,[Musa] Vediras Hood,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590129,0,[Wizard] Vediras Hood,4,false,63500000,Pearl Items,Male Apparel (Individual),55,3
+590130,0,[Wizard] Vediras Clothes,4,false,256000000,Pearl Items,Male Apparel (Individual),55,3
+590131,0,[Ninja] Vediras Hood,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590133,0,[Striker] Vediras Hood,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+590134,0,[Striker] Vediras Clothes,4,false,236000000,Pearl Items,Male Apparel (Individual),55,3
+590135,0,[Archer] Vediras Hood,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590136,0,[Archer] Vediras Clothes,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590267,0,[Warrior] Deathlord Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590268,0,[Warrior] Deathlord Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590284,0,[Warrior] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590285,0,[Warrior] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590286,0,[Warrior] Glorious Shudad Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+590287,0,[Warrior] Glorious Shudad Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590289,0,[Berserker] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590290,0,[Berserker] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590291,0,[Berserker] Glorious Shudad Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+590292,0,[Berserker] Glorious Shudad Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590294,0,[Wizard] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590295,0,[Wizard] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590296,0,[Wizard] Glorious Shudad Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+590297,0,[Wizard] Glorious Shudad Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590316,0,[Striker] Syahzar Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+590317,0,[Striker] Syahzar Armor,4,false,270000000,Pearl Items,Male Apparel (Individual),55,3
+590318,0,[Striker] Syahzar Gloves,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+590319,0,[Striker] Syahzar Gauntlet,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+590320,0,[Striker] Syahzar Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590347,0,[Musa] Glorious Shudad Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+590348,0,[Musa] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590349,0,[Musa] Glorious Shudad Blade,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+590350,0,[Musa] Glorious Shudad Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590352,0,[Archer] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590353,0,[Archer] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590355,0,[Striker] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590356,0,[Striker] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590357,0,[Striker] Glorious Shudad Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+590358,0,[Striker] Glorious Shudad Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590360,0,[Ninja] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590361,0,[Ninja] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590362,0,[Ninja] Glorious Shudad Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+590363,0,[Ninja] Glorious Shudad Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590401,0,[Berserker] White Bunny Ears,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+590403,0,[Musa] White Bunny Ears,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+590406,0,[Ninja] White Bunny Ears,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+590408,0,[Wizard] White Bunny Ears,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+590409,0,[Archer] White Bunny Ears,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+590411,0,[Striker] White Bunny Ears,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+590413,0,[Warrior] White Bunny Ears,4,false,51500000,Pearl Items,Male Apparel (Individual),55,3
+590424,0,[Archer] Glorious Shudad Crossbow,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+590425,0,[Archer] Glorious Shudad Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+590427,0,[Warrior] Glorious Shudad Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+590430,0,[Berserker] Glorious Shudad Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+590432,0,[Musa] Glorious Shudad Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+590436,0,[Ninja] Glorious Shudad Sura Katana,4,false,142000000,Pearl Items,Male Apparel (Individual),55,3
+590438,0,[Striker] Glorious Shudad Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+590439,0,[Wizard] Glorious Shudad Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+590443,0,[Archer] Glorious Shudad Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+590482,0,[Musa] Tundra Warden Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590483,0,[Musa] Tundra Warden Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590485,0,[Archer] Ignis Helmet,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+590486,0,[Archer] Ignis Armor,4,false,295000000,Pearl Items,Male Apparel (Individual),55,3
+590487,0,[Archer] Ignis Crossbow,4,false,111000000,Pearl Items,Male Apparel (Individual),55,3
+590488,0,[Archer] Ignis Ra'ghon,4,false,66000000,Pearl Items,Male Apparel (Individual),55,3
+590569,0,[Berserker] Bractus Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590570,0,[Berserker] Bractus Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590579,0,[Ninja] Bloodfiend Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590580,0,[Ninja] Bloodfiend Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+590601,0,[Berserker] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590603,0,[Musa] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590606,0,[Ninja] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590608,0,[Wizard] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590611,0,[Striker] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590613,0,[Warrior] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590618,0,[Archer] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590620,0,[Warrior] Cantabile Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590621,0,[Warrior] Cantabile Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590622,0,[Warrior] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590623,0,[Warrior] Cantabile Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590625,0,[Berserker] Cantabile Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590626,0,[Berserker] Cantabile Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590627,0,[Berserker] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590628,0,[Berserker] Cantabile Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590630,0,[Musa] Cantabile Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590631,0,[Musa] Cantabile Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590632,0,[Musa] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590633,0,[Musa] Cantabile Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590635,0,[Wizard] Cantabile Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590637,0,[Wizard] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590638,0,[Wizard] Cantabile Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590640,0,[Archer] Cantabile Headband,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+590641,0,[Archer] Cantabile Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590642,0,[Archer] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590643,0,[Archer] Cantabile Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590645,0,[Ninja] Cantabile Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590646,0,[Ninja] Cantabile Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590647,0,[Ninja] Cantabile Gloves,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+590648,0,[Ninja] Cantabile Shoes,4,false,67500000,Pearl Items,Male Apparel (Individual),55,3
+590650,0,[Striker] Cantabile Headband,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+590651,0,[Striker] Cantabile Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590652,0,[Striker] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590653,0,[Striker] Cantabile Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590655,0,[Hashashin] Cantabile Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+590656,0,[Hashashin] Cantabile Clothes,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+590657,0,[Hashashin] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+590658,0,[Hashashin] Cantabile Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+600118,0,[Warrior] Cornelius Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+600121,0,[Berserker] Bractus Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+600123,0,[Musa] Tundra Warden Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+600126,0,[Wizard] Tempyrion Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+600129,0,[Ninja] Bloodfiend Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+600131,0,[Striker] Darkbane Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+600135,0,[Warrior] Cornelius Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+600138,0,[Berserker] Bractus Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+600140,0,[Musa] Tundra Warden Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+600143,0,[Wizard] Tempyrion Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+600146,0,[Ninja] Bloodfiend Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+600148,0,[Striker] Darkbane Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+600152,0,[Warrior] Cornelius Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+600154,0,[Warrior] Cornelius Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+600229,0,[Warrior] Cornelius Armor N,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+600240,0,[Warrior] Crayodel Soldier Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+600241,0,[Warrior] Crayodel Soldier Uniform,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+600243,0,[Berserker] Crayodel Soldier Hat,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+600246,0,[Musa] Crayodel Soldier Hat,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+600247,0,[Musa] Crayodel Soldier Uniform,4,false,293000000,Pearl Items,Male Apparel (Individual),55,3
+600249,0,[Wizard] Crayodel Soldier Hat,4,false,59500000,Pearl Items,Male Apparel (Individual),55,3
+600250,0,[Wizard] Crayodel Soldier Uniform,4,false,237000000,Pearl Items,Male Apparel (Individual),55,3
+600252,0,[Ninja] Crayodel Soldier Hat,4,false,57500000,Pearl Items,Male Apparel (Individual),55,3
+600253,0,[Ninja] Crayodel Soldier Uniform,4,false,229000000,Pearl Items,Male Apparel (Individual),55,3
+600255,0,[Striker] Crayodel Soldier Hat,4,false,64500000,Pearl Items,Male Apparel (Individual),55,3
+600256,0,[Striker] Crayodel Soldier Uniform,4,false,259000000,Pearl Items,Male Apparel (Individual),55,3
+600258,0,[Archer] Crayodel Soldier Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+600259,0,[Archer] Crayodel Soldier Uniform,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+600526,0,[Striker] Darkbane Headpiece,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+600527,0,[Striker] Darkbane Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+600528,0,[Striker] Darkbane Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+600538,0,[Wizard] Tempyrion Robe,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+600589,0,[Hashashin] Noel Hat,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+600590,0,[Hashashin] Noel Clothes,4,false,339000000,Pearl Items,Male Apparel (Individual),55,3
+601482,0,[Striker] Blue Gaia Helmet,4,false,79500000,Pearl Items,Male Apparel (Individual),55,3
+601483,0,[Striker] Blue Gaia Armor,4,false,253000000,Pearl Items,Male Apparel (Individual),55,3
+601484,0,[Striker] Blue Gaia Gloves,4,false,63500000,Pearl Items,Male Apparel (Individual),55,3
+602000,0,[Hashashin] Karakum Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+602001,0,[Hashashin] Karakum Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+602002,0,[Hashashin] Karakum Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+602003,0,[Hashashin] Karakum Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+602005,0,[Hashashin] Domtur Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+602006,0,[Hashashin] Domtur Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+602007,0,[Hashashin] Domtur Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+602010,0,[Hashashin] Karakum Shamshir,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+602011,0,[Hashashin] Karakum Haladie,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+602014,0,[Hashashin] Karlstein Hat,4,false,72500000,Pearl Items,Male Apparel (Individual),55,3
+602015,0,[Hashashin] Karlstein Armor,4,false,289000000,Pearl Items,Male Apparel (Individual),55,3
+602016,0,[Hashashin] Karlstein Shamshir,4,false,109000000,Pearl Items,Male Apparel (Individual),55,3
+602017,0,[Hashashin] Karlstein Haladie,4,false,65000000,Pearl Items,Male Apparel (Individual),55,3
+602031,0,[Hashashin] Kibelius Helmet,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+602032,0,[Hashashin] Kibelius Divinus Armor,4,false,235000000,Pearl Items,Male Apparel (Individual),55,3
+602033,0,[Hashashin] Kibelius Armor,4,false,235000000,Pearl Items,Male Apparel (Individual),55,3
+602034,0,[Hashashin] Kibelius Shoes,4,false,59000000,Pearl Items,Male Apparel (Individual),55,3
+602035,0,[Hashashin] Kibelius Dual Glaives,4,false,132000000,Pearl Items,Male Apparel (Individual),55,3
+602036,0,[Hashashin] Kibelius Shamshir,4,false,111000000,Pearl Items,Male Apparel (Individual),55,3
+602037,0,[Hashashin] Kibelius Haladie,4,false,66000000,Pearl Items,Male Apparel (Individual),55,3
+602042,0,[Hashashin] Domtur Dual Glaives,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+602043,0,[Hashashin] Domtur Shamshir,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+602044,0,[Hashashin] Domtur Haladie,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+602093,0,[Hashashin] Mezari Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+602094,0,[Hashashin] Mezari Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+602095,0,[Hashashin] Mezari Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+602096,0,[Hashashin] Mezari Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+602097,0,[Hashashin] Mezari Shamshir,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+602098,0,[Hashashin] Mezari Haladie,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+602120,0,[Hashashin] Yianaros Headpiece,4,false,74500000,Pearl Items,Male Apparel (Individual),55,3
+602170,0,[Hashashin] Vediras Hood,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+602171,0,[Hashashin] Vediras Clothes,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+602182,0,[Hashashin] Crayodel Soldier Hat,4,false,48000000,Pearl Items,Male Apparel (Individual),55,3
+602183,0,[Hashashin] Crayodel Soldier Uniform,4,false,192000000,Pearl Items,Male Apparel (Individual),55,3
+602195,0,[Hashashin] Corvicanus Robe,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+602196,0,[Hashashin] Corvicanus Shamshir,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+602197,0,[Hashashin] Corvicanus Haladie,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+602198,0,[Hashashin] Corvicanus Dual Glaives,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+602202,0,[Hashashin] White Viper of Bahrahit Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+602203,0,[Hashashin] White Viper of Bahrahit Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+602204,0,[Hashashin] White Viper of Bahrahit Dual Glaives,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+602205,0,[Hashashin] White Viper of Bahrahit Shamshir,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+602206,0,[Hashashin] White Viper of Bahrahit Haladie,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604174,0,[Berserker] Mountain Guardian Spirit Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604175,0,[Berserker] Mountain Guardian Spirit Armor,4,false,339000000,Pearl Items,Male Apparel (Individual),55,3
+604204,0,[Warrior] Azure Knight Helmet,4,false,59000000,Pearl Items,Male Apparel (Individual),55,3
+604205,0,[Warrior] Azure Knight Armor,4,false,189000000,Pearl Items,Male Apparel (Individual),55,3
+604206,0,[Warrior] Azure Knight Gloves,4,false,47300000,Pearl Items,Male Apparel (Individual),55,3
+604208,0,[Hashashin] Chipmunk Headband,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604294,0,[Hashashin] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604295,0,[Hashashin] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604296,0,[Hashashin] Glorious Shudad Dual Glaives,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+604297,0,[Hashashin] Glorious Shudad Shamshir,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+604298,0,[Hashashin] Glorious Shudad Haladie,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604345,0,[Wizard] Corvicanus Robe,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+604355,0,[Hashashin] Heidel Masquerade Phantom Mask,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+604359,0,[Wizard] Corvicanus Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+604360,0,[Wizard] Corvicanus Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604361,0,[Wizard] Corvicanus Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+604365,0,[Striker] Heidel Masquerade Phantom Mask,4,false,73000000,Pearl Items,Male Apparel (Individual),55,3
+604366,0,[Striker] Heidel Masquerade Suit,4,false,293000000,Pearl Items,Male Apparel (Individual),55,3
+604368,0,[Archer] Heidel Masquerade Phantom Mask,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604369,0,[Archer] Heidel Masquerade Suit,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604371,0,[Striker] Devoured Sun Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604372,0,[Striker] Devoured Sun Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604378,0,[Hashashin] Arctic Fang Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604381,0,[Archer] Arctic Fang Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604382,0,[Archer] Arctic Fang Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604428,0,[Sage] Contular Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604429,0,[Sage] Contular Armor A,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+604430,0,[Sage] Contular Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+604433,0,[Sage] Contular Kyve,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+604434,0,[Sage] Contular Talisman,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604455,0,[Sage] Contular Armor B,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+604458,0,[Sage] Karlstein Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604459,0,[Sage] Karlstein Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604460,0,[Sage] Karlstein Kyve,4,false,127000000,Pearl Items,Male Apparel (Individual),55,3
+604461,0,[Sage] Karlstein Talisman,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604476,0,[Sage] Arctic Fang Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604477,0,[Sage] Arctic Fang Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604479,0,[Sage] Exclatus Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604480,0,[Sage] Exclatus Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+604481,0,[Sage] Exclatus Kyve,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+604482,0,[Sage] Exclatus Talisman,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604483,0,[Sage] Exclatus Kibelius,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+604502,0,[Sage] Glorious Shudad Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604503,0,[Sage] Glorious Shudad Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604504,0,[Sage] Glorious Shudad Kibelius,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+604505,0,[Sage] Glorious Shudad Kyve,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+604506,0,[Sage] Glorious Shudad Talisman,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604638,0,[Sage] Willow Breeze Robe,4,false,240000000,Pearl Items,Male Apparel (Individual),55,3
+604639,0,[Sage] Willow Breeze Shoes,4,false,45700000,Pearl Items,Male Apparel (Individual),55,3
+604640,0,[Hashashin] Willow Breeze Robe,4,false,201000000,Pearl Items,Male Apparel (Individual),55,3
+604641,0,[Hashashin] Willow Breeze Shoes,4,false,38400000,Pearl Items,Male Apparel (Individual),55,3
+604642,0,[Archer] Willow Breeze Robe,4,false,357000000,Pearl Items,Male Apparel (Individual),55,3
+604643,0,[Archer] Willow Breeze Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+604868,0,[Warrior] Kairos Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+604869,0,[Warrior] Kairos Armor,4,false,340000000,Pearl Items,Male Apparel (Individual),55,3
+604870,0,[Warrior] Kairos Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+604871,0,[Warrior] Kairos Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+604872,0,[Warrior] Kairos Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+606228,0,[Striker] Burning Soul Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+606229,0,[Striker] Burning Soul Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+606230,0,[Striker] Burning Soul Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606231,0,[Striker] Burning Soul Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+606232,0,[Striker] Burning Soul Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+606233,0,[Striker] Burning Soul Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+606238,0,[Sage] Kibelius Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+606239,0,[Sage] Kibelius Divinus Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+606240,0,[Sage] Kibelius Armor,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+606241,0,[Sage] Kibelius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606242,0,[Sage] Kibelius Kyve,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+606243,0,[Sage] Kibelius Talisman,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+606244,0,[Sage] Kibelius Protokea,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+606252,0,[Striker] Burning Soul Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606253,0,[Striker] Burning Soul Helmet (Scarred),4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+606254,0,[Striker] Burning Soul Armor (Scarred),4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+606293,0,[Wizard] Sleepless Sun Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+606294,0,[Wizard] Sleepless Sun Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+606295,0,[Wizard] Sleepless Sun Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606296,0,[Wizard] Sleepless Sun Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606297,0,[Wizard] Sleepless Sun Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+606298,0,[Wizard] Sleepless Sun Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+606299,0,[Wizard] Sleepless Sun Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+606308,0,[Hashashin] Marine Romance Hat,4,false,73500000,Pearl Items,Male Apparel (Individual),55,3
+606309,0,[Hashashin] Marine Romance Clothes,4,false,176000000,Pearl Items,Male Apparel (Individual),55,3
+606310,0,[Hashashin] Marine Romance Gloves,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+606311,0,[Hashashin] Marine Romance Shoes,4,false,58500000,Pearl Items,Male Apparel (Individual),55,3
+606313,0,[Sage] Marine Romance Hat,4,false,66000000,Pearl Items,Male Apparel (Individual),55,3
+606314,0,[Sage] Marine Romance Clothes,4,false,159000000,Pearl Items,Male Apparel (Individual),55,3
+606315,0,[Sage] Marine Romance Gloves,4,false,53500000,Pearl Items,Male Apparel (Individual),55,3
+606316,0,[Sage] Marine Romance Shoes,4,false,53500000,Pearl Items,Male Apparel (Individual),55,3
+606326,0,[Hashashin] Domtur Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606334,0,[Sage] Exclatus Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606335,0,[Sage] Exclatus Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606568,0,[Musa] Tormented Soul Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+606569,0,[Musa] Tormented Soul Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+606570,0,[Musa] Tormented Soul Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606571,0,[Musa] Tormented Soul Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+606572,0,[Musa] Tormented Soul Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+606573,0,[Musa] Tormented Soul Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+606574,0,[Musa] Tormented Soul Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+606579,0,[Sage] New Year Hanbok Hat,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+606580,0,[Sage] New Year Hanbok Clothes,4,false,317000000,Pearl Items,Male Apparel (Individual),55,3
+606909,0,[Sage] Trilby Hat,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+606910,0,[Sage] Yianaros Headpiece,4,false,65000000,Pearl Items,Male Apparel (Individual),55,3
+606911,0,[Sage] Chipmunk Headband,4,false,44700000,Pearl Items,Male Apparel (Individual),55,3
+607031,0,[Sage] White Bunny Ears,4,false,79000000,Pearl Items,Male Apparel (Individual),55,3
+607054,0,[Archer] Grave Keeper Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607055,0,[Archer] Grave Keeper Clothes,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+607056,0,[Archer] Grave Keeper Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607058,0,[Hashashin] Grave Keeper Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607059,0,[Hashashin] Grave Keeper Clothes,4,false,271000000,Pearl Items,Male Apparel (Individual),55,3
+607060,0,[Hashashin] Grave Keeper Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607062,0,[Sage] Grave Keeper Hat,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607106,0,[Warrior] Trailblazer Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607107,0,[Warrior] Trailblazer Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607108,0,[Warrior] Trailblazer Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607109,0,[Warrior] Trailblazer Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607110,0,[Warrior] Trailblazer Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607111,0,[Warrior] Trailblazer Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607112,0,[Warrior] Trailblazer Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607142,0,[Archer] Duskherald Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607143,0,[Archer] Duskherald Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607144,0,[Archer] Duskherald Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607145,0,[Archer] Duskherald Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607146,0,[Archer] Duskherald Crossbow,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607147,0,[Archer] Duskherald Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607148,0,[Archer] Duskherald Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607164,0,[Sage] Crayodel Soldier Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+607188,0,[Sage] Noel Hat,4,false,83500000,Pearl Items,Male Apparel (Individual),55,3
+607189,0,[Sage] Noel Clothes,4,false,335000000,Pearl Items,Male Apparel (Individual),55,3
+607195,0,[Berserker] Ulfhedinn Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607196,0,[Berserker] Ulfhedinn Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607197,0,[Berserker] Ulfhedinn Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607198,0,[Berserker] Ulfhedinn Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607199,0,[Berserker] Ulfhedinn Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607200,0,[Berserker] Ulfhedinn Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607201,0,[Berserker] Ulfhedinn Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607510,0,[Ninja] Umbra Clan Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607511,0,[Ninja] Umbra Clan Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607512,0,[Ninja] Umbra Clan Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607513,0,[Ninja] Umbra Clan Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607514,0,[Ninja] Umbra Clan Shortsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607515,0,[Ninja] Umbra Clan Kunai,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607516,0,[Ninja] Umbra Clan Sura Katana,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607564,0,[Berserker] Gigataurus Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607565,0,[Berserker] Gigataurus Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607566,0,[Berserker] Gigataurus Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607567,0,[Berserker] Gigataurus Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607568,0,[Berserker] Gigataurus Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607569,0,[Berserker] Gigataurus Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607570,0,[Berserker] Gigataurus Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607869,0,[Hashashin] Harakhty Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607870,0,[Hashashin] Harakhty Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607871,0,[Hashashin] Harakhty Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607872,0,[Hashashin] Harakhty Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607873,0,[Hashashin] Harakhty Shamshir,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607874,0,[Hashashin] Harakhty Haladie,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607875,0,[Hashashin] Harakhty Dual Glaives,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607907,0,[Sage] Keraunos Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607908,0,[Sage] Keraunos Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607909,0,[Sage] Keraunos Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607910,0,[Sage] Keraunos Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607911,0,[Sage] Keraunos Kyve,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607912,0,[Sage] Keraunos Talisman,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607913,0,[Sage] Keraunos Kibelius,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607918,0,[Berserker] Winter Mountain Guardian Spirit Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607919,0,[Berserker] Winter Mountain Guardian Spirit Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607920,0,[Berserker] Winter Mountain Guardian Spirit Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607921,0,[Berserker] Winter Mountain Guardian Spirit Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607922,0,[Berserker] Winter Mountain Guardian Spirit Axe,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607923,0,[Berserker] Winter Mountain Guardian Spirit Ornamental Knot,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607924,0,[Berserker] Winter Mountain Guardian Spirit Iron Buster,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+607946,0,[Warrior] Ossa Cerberi Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+607947,0,[Warrior] Ossa Cerberi Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+607948,0,[Warrior] Ossa Cerberi Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607949,0,[Warrior] Ossa Cerberi Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+607950,0,[Warrior] Ossa Cerberi Longsword,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+607951,0,[Warrior] Ossa Cerberi Shield,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+607952,0,[Warrior] Ossa Cerberi Greatsword,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+608042,0,[Striker] Rakshasa Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+608043,0,[Striker] Rakshasa Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+608044,0,[Striker] Rakshasa Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608045,0,[Striker] Rakshasa Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608046,0,[Striker] Rakshasa Gauntlet,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+608047,0,[Striker] Rakshasa Vambrace,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+608048,0,[Striker] Rakshasa Gardbrace,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+608091,0,[Sage] Contular Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608114,0,[Musa] Goldscale Dragoon Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+608115,0,[Musa] Goldscale Dragoon Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+608116,0,[Musa] Goldscale Dragoon Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608117,0,[Musa] Goldscale Dragoon Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608118,0,[Musa] Goldscale Dragoon Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+608119,0,[Musa] Goldscale Dragoon Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+608120,0,[Musa] Goldscale Dragoon Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+608140,0,[Wizard] Chronosmith Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+608141,0,[Wizard] Chronosmith Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+608142,0,[Wizard] Chronosmith Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608143,0,[Wizard] Chronosmith Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608144,0,[Wizard] Chronosmith Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+608145,0,[Wizard] Chronosmith Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+608146,0,[Wizard] Chronosmith Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+608162,0,[Sage] Cantabile Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608285,0,[Archer] Nightwarden Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+608286,0,[Archer] Nightwarden Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+608287,0,[Archer] Nightwarden Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608288,0,[Archer] Nightwarden Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608289,0,[Archer] Nightwarden Crossbow,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+608290,0,[Archer] Nightwarden Ra'ghon,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+608291,0,[Archer] Nightwarden Greatbow,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+608321,0,[Warrior] Cornelius Shoes N,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608649,0,[Wizard] Salanar Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+608650,0,[Wizard] Salanar Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+608651,0,[Wizard] Salanar Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608652,0,[Wizard] Salanar Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608653,0,[Wizard] Salanar Staff,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+608654,0,[Wizard] Salanar Dagger,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+608655,0,[Wizard] Salanar Godr Sphera,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+608660,0,[Sage] Salanar Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+608661,0,[Sage] Salanar Armor,4,false,202000000,Pearl Items,Male Apparel (Individual),55,3
+608662,0,[Sage] Salanar Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608663,0,[Sage] Salanar Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608664,0,[Sage] Salanar Kyve,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+608665,0,[Sage] Salanar Talisman,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+608666,0,[Sage] Salanar Kibelius,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+608832,0,[Archer] Bloody Suit,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+608833,0,[Hashashin] Bloody Suit,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+608834,0,[Sage] Bloody Suit,4,false,424000000,Pearl Items,Male Apparel (Individual),55,3
+608840,0,[Berserker] Bractus Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+608841,0,[Berserker] Bractus Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609444,0,[Musa] Twilight Prowler Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+609445,0,[Musa] Twilight Prowler Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+609446,0,[Musa] Twilight Prowler Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609447,0,[Musa] Twilight Prowler Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609448,0,[Musa] Twilight Prowler Blade,4,false,128000000,Pearl Items,Male Apparel (Individual),55,3
+609449,0,[Musa] Twilight Prowler Horn Bow,4,false,76500000,Pearl Items,Male Apparel (Individual),55,3
+609450,0,[Musa] Twilight Prowler Crescent Blade,4,false,153000000,Pearl Items,Male Apparel (Individual),55,3
+609562,0,[Sage] Superius Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+609563,0,[Sage] Superius Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+609564,0,[Sage] Superius Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609565,0,[Sage] Superius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609573,0,[Wizard] Superius Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+609574,0,[Wizard] Superius Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+609576,0,[Wizard] Superius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609584,0,[Hashashin] Superius Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+609585,0,[Hashashin] Superius Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+609586,0,[Hashashin] Superius Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609587,0,[Hashashin] Superius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609595,0,[Warrior] Superius Helmet,4,false,84500000,Pearl Items,Male Apparel (Individual),55,3
+609596,0,[Warrior] Superius Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+609597,0,[Warrior] Superius Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+609598,0,[Warrior] Superius Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610517,0,[Ninja] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610518,0,[Ninja] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610519,0,[Ninja] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610520,0,[Ninja] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610522,0,[Berserker] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610523,0,[Berserker] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610524,0,[Berserker] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610525,0,[Berserker] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610527,0,[Archer] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610528,0,[Archer] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610529,0,[Archer] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610530,0,[Archer] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610532,0,[Striker] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610533,0,[Striker] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610534,0,[Striker] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610535,0,[Striker] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610539,0,[Warrior] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610540,0,[Warrior] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610541,0,[Warrior] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610542,0,[Warrior] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610544,0,[Musa] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610545,0,[Musa] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610546,0,[Musa] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610547,0,[Musa] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610554,0,[Sage] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610555,0,[Sage] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610556,0,[Sage] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610557,0,[Sage] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610559,0,[Wizard] Black Knight Helmet,4,false,85000000,Pearl Items,Male Apparel (Individual),55,3
+610560,0,[Wizard] Black Knight Armor,4,false,203000000,Pearl Items,Male Apparel (Individual),55,3
+610561,0,[Wizard] Black Knight Gloves,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+610562,0,[Wizard] Black Knight Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+830008,0,[Ninja] Sicarios Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3
+830020,0,[Striker] WeDan Shoes,4,false,68000000,Pearl Items,Male Apparel (Individual),55,3

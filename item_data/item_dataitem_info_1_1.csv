@@ -1,0 +1,17 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+10003,2,Elsh Longsword,1,false,72000,Main Weapon,Longsword,1,1
+10005,1,Azwell Longsword,1,false,18900,Main Weapon,Longsword,1,1
+10006,0,Ain Longsword,1,false,377000,Main Weapon,Longsword,1,1
+10007,34,Seleth Longsword,1,false,73500,Main Weapon,Longsword,1,1
+10009,9,Liverto Longsword,2,false,5950000,Main Weapon,Longsword,1,1
+10010,7,Kzarka Longsword,3,false,241000000,Main Weapon,Longsword,1,1
+10012,0,Kalis Longsword,1,false,242000,Main Weapon,Longsword,1,1
+10013,3,Bares Longsword,1,false,267000,Main Weapon,Longsword,1,1
+10014,5,Yuria Longsword,1,false,246000,Main Weapon,Longsword,1,1
+10056,16,Krea Longsword,1,false,39500,Main Weapon,Longsword,1,1
+10057,5,Rosar Longsword,1,false,345000,Main Weapon,Longsword,1,1
+10071,2,Styd Longsword,1,false,23500,Main Weapon,Longsword,1,1
+10072,0,Ultimate Styd Longsword,2,false,55500,Main Weapon,Longsword,1,1
+10086,2,Offin Tett's Radiant Longsword,3,false,122000000,Main Weapon,Longsword,1,1
+715001,6,Blackstar Longsword,4,false,580000000,Main Weapon,Longsword,1,1
+736015,2,Godr-Ayed Longsword,4,true,11600000000,Main Weapon,Longsword,1,1

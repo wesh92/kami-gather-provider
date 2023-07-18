@@ -1,0 +1,61 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+6001,251125,Deer Hide,0,false,965,Material,Leather,25,4
+6002,1211,Sheep Hide,0,false,7500,Material,Leather,25,4
+6003,3091,Fox Hide,0,false,610,Material,Leather,25,4
+6004,1925355,Rhino Hide,0,false,1270,Material,Leather,25,4
+6005,2659348,Pig Hide,0,false,765,Material,Leather,25,4
+6006,1757,Ox Hide,0,false,845,Material,Leather,25,4
+6008,12264,Lizard Hide,0,false,18700,Material,Leather,25,4
+6009,0,Worm Hide,0,false,18700,Material,Leather,25,4
+6010,1153,Raccoon Hide,0,false,17300,Material,Leather,25,4
+6012,1538,Weasel Hide,0,false,2540,Material,Leather,25,4
+6013,41959,Bear Hide,0,false,915,Material,Leather,25,4
+6014,149420,Wolf Hide,0,false,710,Material,Leather,25,4
+6015,132,Waragon Hide,0,false,5800,Material,Leather,25,4
+6016,2,Cheetah Dragon Hide,0,false,2030,Material,Leather,25,4
+6017,0,Soft Kuku Bird Plume,0,false,1680,Material,Leather,25,4
+6018,0,Flamingo Plume,0,false,4830,Material,Leather,25,4
+6019,97,Snake Skin,0,false,9700,Material,Leather,25,4
+6020,26473,Lion Hide,0,false,1450,Material,Leather,25,4
+6021,7898,Feather Wolf Hide,0,false,5250,Material,Leather,25,4
+6022,6832,Black Leopard Hide,0,false,610,Material,Leather,25,4
+6023,4422,Gazelle Hide,0,false,1020,Material,Leather,25,4
+6024,11088,Griffon Feather,0,false,1120,Material,Leather,25,4
+6025,81341,Soft Ferri Feather,0,false,1030,Material,Leather,25,4
+6026,16794,Belladonna Elephant Hide,0,false,5650,Material,Leather,25,4
+6027,0,Yak Hide,0,false,18700,Material,Leather,25,4
+6028,947,Marmot Hide,0,false,2790,Material,Leather,25,4
+6029,18,Llama Hide,0,false,975,Material,Leather,25,4
+6030,41375,Goat Hide,0,false,815,Material,Leather,25,4
+6031,108,Griffon Leather,0,false,3650000,Material,Leather,25,4
+6038,1716,Snow Leopard Hide,0,false,610,Material,Leather,25,4
+6039,77916,Tiger Hide,0,false,1000,Material,Leather,25,4
+6151,115117,Soft Hide,0,false,3260,Material,Leather,25,4
+6152,17242,Tough Hide,0,false,4200,Material,Leather,25,4
+6153,21412,Hard Hide,0,false,37400,Material,Leather,25,4
+6154,692,Thin Hide,0,false,15900,Material,Leather,25,4
+6155,20523,Thick Fur,0,false,5400,Material,Leather,25,4
+6156,0,Fancy Reptile Skin,0,false,29500,Material,Leather,25,4
+6157,39261,Lightweight Plume,0,false,14600,Material,Leather,25,4
+6158,1010,Fancy Feather,0,false,4480,Material,Leather,25,4
+6159,101927,Fine Soft Hide,0,false,10900,Material,Leather,25,4
+6160,26760,Fine Tough Hide,0,false,12800,Material,Leather,25,4
+6161,0,Fine Hard Hide,0,false,125000,Material,Leather,25,4
+6162,452,Fine Thin Hide,0,false,78500,Material,Leather,25,4
+6163,306446,Fine Thick Fur,0,false,8750,Material,Leather,25,4
+6164,1640,Fine Fancy Reptile Skin,0,false,35200,Material,Leather,25,4
+6165,28258,Fine Lightweight Plume,0,false,78500,Material,Leather,25,4
+6166,0,Fine Fancy Feather,0,false,44200,Material,Leather,25,4
+6167,1359,Supreme Soft Hide,0,false,935000,Material,Leather,25,4
+6168,1389,Supreme Tough Hide,0,false,935000,Material,Leather,25,4
+6169,0,Supreme Hard Hide,0,false,935000,Material,Leather,25,4
+6170,0,Supreme Thin Hide,0,false,935000,Material,Leather,25,4
+6171,45,Supreme Thick Fur,0,false,65500,Material,Leather,25,4
+6172,3,Supreme Fancy Reptile Skin,0,false,73000,Material,Leather,25,4
+6173,827,Supreme Lightweight Plume,0,false,433000,Material,Leather,25,4
+6174,2501,Supreme Fancy Feather,0,false,935000,Material,Leather,25,4
+9747,31,Ferocious Leather,3,false,380000,Material,Leather,25,4
+820157,145881,Supreme Boar Hide,1,false,135000,Material,Leather,25,4
+820158,101450,Supreme Bear Hide,1,false,135000,Material,Leather,25,4
+820159,468,Supreme Hawk Hide,1,false,159000,Material,Leather,25,4
+820160,0,Supreme Tiger Hide,1,false,466000,Material,Leather,25,4

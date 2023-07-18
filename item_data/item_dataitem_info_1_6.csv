@@ -1,0 +1,17 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+13303,15,Elsh Blade,1,false,72000,Main Weapon,Blade,1,6
+13305,0,Azwell Blade,1,false,18900,Main Weapon,Blade,1,6
+13306,0,Ain Blade,1,false,377000,Main Weapon,Blade,1,6
+13307,66,Seleth Blade,1,false,73500,Main Weapon,Blade,1,6
+13309,25,Liverto Blade,2,false,5950000,Main Weapon,Blade,1,6
+13310,9,Kzarka Blade,3,false,241000000,Main Weapon,Blade,1,6
+13312,0,Kalis Blade,1,false,242000,Main Weapon,Blade,1,6
+13313,3,Bares Blade,1,false,267000,Main Weapon,Blade,1,6
+13314,18,Yuria Blade,1,false,246000,Main Weapon,Blade,1,6
+13356,17,Krea Blade,1,false,39500,Main Weapon,Blade,1,6
+13357,2,Rosar Blade,1,false,345000,Main Weapon,Blade,1,6
+13371,0,Styd Blade,1,false,23500,Main Weapon,Blade,1,6
+13372,0,Ultimate Styd Blade,2,false,55500,Main Weapon,Blade,1,6
+13386,2,Offin Tett's Radiant Blade,3,false,122000000,Main Weapon,Blade,1,6
+715011,8,Blackstar Blade,4,false,580000000,Main Weapon,Blade,1,6
+736020,5,Godr-Ayed Blade,4,true,11600000000,Main Weapon,Blade,1,6

@@ -1,0 +1,11 @@
+mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
+53401,5,Shabby Wagon Wheel,0,false,239000,Wagon,Wheel,75,2
+53402,0,Strong Wagon Wheel,0,false,397000,Wagon,Wheel,75,2
+53403,0,White Wagon Wheel,0,false,408000,Wagon,Wheel,75,2
+53404,0,Farm Wagon Wheel,0,false,620000,Wagon,Wheel,75,2
+53405,0,Trade Wagon Wheel,0,false,655000,Wagon,Wheel,75,2
+53406,111,Merchant Wagon Wheel,0,false,775000,Wagon,Wheel,75,2
+53407,48,Noble Wagon Wheel,0,false,905000,Wagon,Wheel,75,2
+53408,0,High-Quality Merchant Wagon Wheel,1,false,2140000,Wagon,Wheel,75,2
+53409,0,High-Quality Noble Wagon Wheel,1,false,2800000,Wagon,Wheel,75,2
+53411,0,Forest Path Wagon Wheel,2,false,374000000,Wagon,Wheel,75,2
