@@ -1,7 +1,8 @@
-from logging import INFO, log
+from logging import error, info
 
 import polars as pl
 import requests
+from polars.exceptions import SchemaFieldNotFoundError
 
 MARKET_CATEGORIES = {
     "1": (
@@ -274,35 +275,46 @@ cookies = {
     "tradeHistory": "",
 }
 
-# Add your token here from F12 browser tab/ Network/ XHR/ GetWorldMarketList/ Payload/ __RequestVerificationToken
-data = {"__RequestVerificationToken": "", "mainCategory": "1", "subCategory": "1"}
-
 for main_category, details in MARKET_CATEGORIES.items():
     sub_categories = details[1]
     main_category_name = details[0]
     for sub_category, sub_details in sub_categories.items():
         sub_category_name = sub_details
+        # Add your token here from F12 browser tab/ Network/ XHR/ GetWorldMarketList/ Payload/ __RequestVerificationToken
         data = {
             "__RequestVerificationToken": "",
             "mainCategory": f"{main_category}",
             "subCategory": f"{sub_category}",
         }
-        log(INFO, data)
+        info(data)
         # append to item_info_df
         response = session.post(
             "https://na-trade.naeu.playblackdesert.com/Home/GetWorldMarketList",
             cookies=cookies,
             data=data,
         )
-        item_info_df = pl.from_records(response.json()["marketList"]).with_columns(
-            pl.lit(f"{main_category_name}").alias("main_category"),
-            pl.lit(f"{sub_category_name}").alias("sub_category"),
-            pl.lit(main_category).alias("main_category_id"),
-            pl.lit(sub_category).alias("sub_category_id"),
-        )
+        try:
+            item_info_df = (
+                pl.from_records(response.json()["marketList"])
+                .with_columns(
+                    pl.lit(f"{main_category_name}").alias("main_category"),
+                    pl.lit(f"{sub_category_name}").alias("sub_category"),
+                    pl.lit(main_category).alias("main_category_id"),
+                    pl.lit(sub_category).alias("sub_category_id"),
+                )
+                .drop(["sumCount", "minPrice"])
+            )
+        except SchemaFieldNotFoundError:
+            error(response.json())
+            item_info_df = pl.from_records(response.json()["marketList"]).with_columns(
+                pl.lit(f"{main_category_name}").alias("main_category"),
+                pl.lit(f"{sub_category_name}").alias("sub_category"),
+                pl.lit(main_category).alias("main_category_id"),
+                pl.lit(sub_category).alias("sub_category_id"),
+            )
 
-        log(INFO, item_info_df)
-        log(INFO, item_info_df.shape)
+        info(item_info_df)
+        info(item_info_df.shape)
         item_info_df.write_csv(
-            rf"item_dataitem_info_{main_category}_{sub_category}.csv"
+            rf"./item_data/item_dataitem_info_{main_category}_{sub_category}.csv"
         )

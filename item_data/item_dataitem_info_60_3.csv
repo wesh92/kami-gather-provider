@@ -1,12 +1,12 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-46128,0,[Velian Dye] True Red,3,false,20900000,Dye,Velia,60,3
-46140,0,[Velian Dye] True Orange,3,false,20900000,Dye,Velia,60,3
-46152,0,[Velian Dye] True Yellow,3,false,20900000,Dye,Velia,60,3
-46164,0,[Velian Dye] True Lime,3,false,20900000,Dye,Velia,60,3
-46176,0,[Velian Dye] True Mint,3,false,20900000,Dye,Velia,60,3
-46188,0,[Velian Dye] True Aqua,3,false,20900000,Dye,Velia,60,3
-46200,0,[Velian Dye] True Sky,3,false,20900000,Dye,Velia,60,3
-46212,0,[Velian Dye] True Indigo,3,false,20900000,Dye,Velia,60,3
-46224,0,[Velian Dye] True Purple,3,false,20900000,Dye,Velia,60,3
-46236,0,[Velian Dye] True Deep Pink,3,false,20900000,Dye,Velia,60,3
-46244,0,[Velian Dye] Black,3,false,20900000,Dye,Velia,60,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+46128,[Velian Dye] True Red,3,false,Dye,Velia,60,3
+46140,[Velian Dye] True Orange,3,false,Dye,Velia,60,3
+46152,[Velian Dye] True Yellow,3,false,Dye,Velia,60,3
+46164,[Velian Dye] True Lime,3,false,Dye,Velia,60,3
+46176,[Velian Dye] True Mint,3,false,Dye,Velia,60,3
+46188,[Velian Dye] True Aqua,3,false,Dye,Velia,60,3
+46200,[Velian Dye] True Sky,3,false,Dye,Velia,60,3
+46212,[Velian Dye] True Indigo,3,false,Dye,Velia,60,3
+46224,[Velian Dye] True Purple,3,false,Dye,Velia,60,3
+46236,[Velian Dye] True Deep Pink,3,false,Dye,Velia,60,3
+46244,[Velian Dye] Black,3,false,Dye,Velia,60,3

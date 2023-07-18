@@ -1,15 +1,15 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-52501,0,White Plume Champron,0,false,149000,Mount,Champron,65,3
-52502,58,Light Red Plumed Champron,1,false,505000,Mount,Champron,65,3
-52503,0,Steel Combat Champron,1,false,605000,Mount,Champron,65,3
-52504,0,Feather Champron of Storm,1,false,1570000,Mount,Champron,65,3
-52505,28,Steel Champron of Fighting Spirit,1,false,780000,Mount,Champron,65,3
-52506,0,Granverre Feather Champron,2,false,87000000,Mount,Champron,65,3
-52509,0,Krogdalo's Champron - Earth,3,false,490000000,Mount,Champron,65,3
-52512,0,Krogdalo's Champron - Wind,3,false,1120000000,Mount,Champron,65,3
-52515,0,Krogdalo's Champron - Sea,3,false,1110000000,Mount,Champron,65,3
-52518,0,[Donkey] White Plume Champron,1,false,505000,Mount,Champron,65,3
-52519,1,[Donkey] Light Red Plumed Champron,0,false,149000,Mount,Champron,65,3
-52520,0,[Donkey] Steel Combat Champron,1,false,605000,Mount,Champron,65,3
-52521,0,[Donkey] Granverre Feather Champron,2,false,8750000,Mount,Champron,65,3
-52522,0,[Donkey] Krogdalo's Champron,3,false,78500000,Mount,Champron,65,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+52501,White Plume Champron,0,false,Mount,Champron,65,3
+52502,Light Red Plumed Champron,1,false,Mount,Champron,65,3
+52503,Steel Combat Champron,1,false,Mount,Champron,65,3
+52504,Feather Champron of Storm,1,false,Mount,Champron,65,3
+52505,Steel Champron of Fighting Spirit,1,false,Mount,Champron,65,3
+52506,Granverre Feather Champron,2,false,Mount,Champron,65,3
+52509,Krogdalo's Champron - Earth,3,false,Mount,Champron,65,3
+52512,Krogdalo's Champron - Wind,3,false,Mount,Champron,65,3
+52515,Krogdalo's Champron - Sea,3,false,Mount,Champron,65,3
+52518,[Donkey] White Plume Champron,1,false,Mount,Champron,65,3
+52519,[Donkey] Light Red Plumed Champron,0,false,Mount,Champron,65,3
+52520,[Donkey] Steel Combat Champron,1,false,Mount,Champron,65,3
+52521,[Donkey] Granverre Feather Champron,2,false,Mount,Champron,65,3
+52522,[Donkey] Krogdalo's Champron,3,false,Mount,Champron,65,3

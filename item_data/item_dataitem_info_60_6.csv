@@ -1,12 +1,12 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-46494,0,[Calpheonian Dye] True Red,3,false,20900000,Dye,Calpheon,60,6
-46506,0,[Calpheonian Dye] True Orange,3,false,20900000,Dye,Calpheon,60,6
-46518,0,[Calpheonian Dye] True Yellow,3,false,20900000,Dye,Calpheon,60,6
-46530,0,[Calpheonian Dye] True Lime,3,false,20900000,Dye,Calpheon,60,6
-46542,0,[Calpheonian Dye] True Mint,3,false,20900000,Dye,Calpheon,60,6
-46554,0,[Calpheonian Dye] True Aqua,3,false,20900000,Dye,Calpheon,60,6
-46566,0,[Calpheonian Dye] True Sky,3,false,20900000,Dye,Calpheon,60,6
-46578,0,[Calpheonian Dye] True Indigo,3,false,20900000,Dye,Calpheon,60,6
-46590,0,[Calpheonian Dye] True Purple,3,false,20900000,Dye,Calpheon,60,6
-46602,0,[Calpheonian Dye] True Deep Pink,3,false,20900000,Dye,Calpheon,60,6
-46610,0,[Calpheonian Dye] Black,3,false,20900000,Dye,Calpheon,60,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+46494,[Calpheonian Dye] True Red,3,false,Dye,Calpheon,60,6
+46506,[Calpheonian Dye] True Orange,3,false,Dye,Calpheon,60,6
+46518,[Calpheonian Dye] True Yellow,3,false,Dye,Calpheon,60,6
+46530,[Calpheonian Dye] True Lime,3,false,Dye,Calpheon,60,6
+46542,[Calpheonian Dye] True Mint,3,false,Dye,Calpheon,60,6
+46554,[Calpheonian Dye] True Aqua,3,false,Dye,Calpheon,60,6
+46566,[Calpheonian Dye] True Sky,3,false,Dye,Calpheon,60,6
+46578,[Calpheonian Dye] True Indigo,3,false,Dye,Calpheon,60,6
+46590,[Calpheonian Dye] True Purple,3,false,Dye,Calpheon,60,6
+46602,[Calpheonian Dye] True Deep Pink,3,false,Dye,Calpheon,60,6
+46610,[Calpheonian Dye] Black,3,false,Dye,Calpheon,60,6

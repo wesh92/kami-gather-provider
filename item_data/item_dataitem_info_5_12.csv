@@ -1,10 +1,10 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-719003,152,Saiyer Vitclari,1,false,38100,Sub Weapon,Vitclari,5,12
-719004,117,Oros Vitclari,1,false,75500,Sub Weapon,Vitclari,5,12
-719005,42,Theos Vitclari,1,false,54000,Sub Weapon,Vitclari,5,12
-719024,60,Krea Vitclari,1,false,27200,Sub Weapon,Vitclari,5,12
-719025,0,Rosar Vitclari,1,false,261000,Sub Weapon,Vitclari,5,12
-719038,3,Nouver Vitclari,3,false,241000000,Sub Weapon,Vitclari,5,12
-719040,3,Kutum Vitclari,3,false,241000000,Sub Weapon,Vitclari,5,12
-735012,5,Blackstar Vitclari,4,false,458000000,Sub Weapon,Vitclari,5,12
-738212,2,Godr-Ayed Vitclari,4,true,12300000000,Sub Weapon,Vitclari,5,12
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+719003,Saiyer Vitclari,1,false,Sub Weapon,Vitclari,5,12
+719004,Oros Vitclari,1,false,Sub Weapon,Vitclari,5,12
+719005,Theos Vitclari,1,false,Sub Weapon,Vitclari,5,12
+719024,Krea Vitclari,1,false,Sub Weapon,Vitclari,5,12
+719025,Rosar Vitclari,1,false,Sub Weapon,Vitclari,5,12
+719038,Nouver Vitclari,3,false,Sub Weapon,Vitclari,5,12
+719040,Kutum Vitclari,3,false,Sub Weapon,Vitclari,5,12
+735012,Blackstar Vitclari,4,false,Sub Weapon,Vitclari,5,12
+738212,Godr-Ayed Vitclari,4,true,Sub Weapon,Vitclari,5,12

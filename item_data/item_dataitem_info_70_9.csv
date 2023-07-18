@@ -1,5 +1,5 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-49716,0,Epheria Sailboat: Black Breeze Sail,2,false,168000000,Ship,Sail,70,9
-49725,0,Epheria Frigate: Black Breeze Sail,2,false,126000000,Ship,Sail,70,9
-49729,0,Epheria Sailboat: Blue Wind Sail,2,false,84000000,Ship,Sail,70,9
-49733,0,Epheria Frigate: Nor'easter Sail,2,false,252000000,Ship,Sail,70,9
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+49716,Epheria Sailboat: Black Breeze Sail,2,false,Ship,Sail,70,9
+49725,Epheria Frigate: Black Breeze Sail,2,false,Ship,Sail,70,9
+49729,Epheria Sailboat: Blue Wind Sail,2,false,Ship,Sail,70,9
+49733,Epheria Frigate: Nor'easter Sail,2,false,Ship,Sail,70,9

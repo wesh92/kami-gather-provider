@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14771,3,Frosty Cloud Kerispear,2,false,1770000,Awakening Weapon,Kerispear,10,8
-14772,2,Dandelion Kerispear,3,false,241000000,Awakening Weapon,Kerispear,10,8
-14773,1,Sundo Kerispear,1,false,107000,Awakening Weapon,Kerispear,10,8
-702508,1,Dragon Slayer Kerispear,3,false,91000000,Awakening Weapon,Kerispear,10,8
-702524,0,Hughol's Kerispear,2,false,52000000,Awakening Weapon,Kerispear,10,8
-731108,4,Blackstar Kerispear,4,false,497000000,Awakening Weapon,Kerispear,10,8
-736122,0,Godr-Ayed Kerispear,4,true,14000000000,Awakening Weapon,Kerispear,10,8
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14771,Frosty Cloud Kerispear,2,false,Awakening Weapon,Kerispear,10,8
+14772,Dandelion Kerispear,3,false,Awakening Weapon,Kerispear,10,8
+14773,Sundo Kerispear,1,false,Awakening Weapon,Kerispear,10,8
+702508,Dragon Slayer Kerispear,3,false,Awakening Weapon,Kerispear,10,8
+702524,Hughol's Kerispear,2,false,Awakening Weapon,Kerispear,10,8
+731108,Blackstar Kerispear,4,false,Awakening Weapon,Kerispear,10,8
+736122,Godr-Ayed Kerispear,4,true,Awakening Weapon,Kerispear,10,8

@@ -1,3 +1,3 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-59003,0,Small Leather Elephant Mask,1,false,1400000,Mount,[Elephant] Mask,65,11
-59005,0,Muzika Leather Mask,2,false,37700000,Mount,[Elephant] Mask,65,11
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+59003,Small Leather Elephant Mask,1,false,Mount,[Elephant] Mask,65,11
+59005,Muzika Leather Mask,2,false,Mount,[Elephant] Mask,65,11

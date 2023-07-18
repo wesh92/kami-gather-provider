@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14829,57,Baconaua Cestus,2,false,1770000,Awakening Weapon,Cestus,10,15
-14830,20,Dandelion Cestus,3,false,241000000,Awakening Weapon,Cestus,10,15
-14831,20,Kamalam Cestus,1,false,107000,Awakening Weapon,Cestus,10,15
-702515,0,Dragon Slayer Cestus,3,false,91000000,Awakening Weapon,Cestus,10,15
-702531,0,Hughol's Cestus,2,false,52000000,Awakening Weapon,Cestus,10,15
-731115,6,Blackstar Cestus,4,false,497000000,Awakening Weapon,Cestus,10,15
-736129,2,Godr-Ayed Cestus,4,true,14000000000,Awakening Weapon,Cestus,10,15
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14829,Baconaua Cestus,2,false,Awakening Weapon,Cestus,10,15
+14830,Dandelion Cestus,3,false,Awakening Weapon,Cestus,10,15
+14831,Kamalam Cestus,1,false,Awakening Weapon,Cestus,10,15
+702515,Dragon Slayer Cestus,3,false,Awakening Weapon,Cestus,10,15
+702531,Hughol's Cestus,2,false,Awakening Weapon,Cestus,10,15
+731115,Blackstar Cestus,4,false,Awakening Weapon,Cestus,10,15
+736129,Godr-Ayed Cestus,4,true,Awakening Weapon,Cestus,10,15

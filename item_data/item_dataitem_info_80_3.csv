@@ -1,43 +1,43 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-2102,0,Heidelian Handcrafted Wardrobe,1,false,270000,Furniture,Wardrobe/Bookshelf,80,3
-2104,0,Velian Handcrafted Wardrobe,1,false,210000,Furniture,Wardrobe/Bookshelf,80,3
-2106,0,Calpheon Handcrafted Wardrobe,1,false,303000,Furniture,Wardrobe/Bookshelf,80,3
-2108,0,Mediahn Handcrafted Closet,1,false,489000,Furniture,Wardrobe/Bookshelf,80,3
-2110,0,Valencian Handcrafted Wardrobe,1,false,585000,Furniture,Wardrobe/Bookshelf,80,3
-2501,0,Bookshelf with Knowledge on Beast Monsters (Balenos),3,false,217000,Furniture,Wardrobe/Bookshelf,80,3
-2502,0,Bookshelf with Knowledge on Imps (Balenos),3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2503,0,Bookshelf with Knowledge on Goblins,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2504,0,Bookshelf with Knowledge on the Exiles of Mediah,3,false,161000,Furniture,Wardrobe/Bookshelf,80,3
-2505,0,Bookshelf with Knowledge on Beast Monsters (Serendia),3,false,217000,Furniture,Wardrobe/Bookshelf,80,3
-2506,0,Bookshelf with Knowledge on Plant Monsters (Serendia),3,false,217000,Furniture,Wardrobe/Bookshelf,80,3
-2507,0,Bookshelf with Knowledge on Insect Monsters (Serendia),3,false,217000,Furniture,Wardrobe/Bookshelf,80,3
-2508,0,Bookshelf with Knowledge on Bandits,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2509,0,Bookshelf with Knowledge on Imps (Serendia),3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2510,0,Bookshelf with Knowledge on Fogans,3,false,224000,Furniture,Wardrobe/Bookshelf,80,3
-2511,0,Bookshelf with Knowledge on Nagas,3,false,224000,Furniture,Wardrobe/Bookshelf,80,3
-2512,0,Bookshelf with Knowledge on Red Orcs,3,false,224000,Furniture,Wardrobe/Bookshelf,80,3
-2513,0,Bookshelf with Knowledge on the Al Rhundi Rebels,3,false,161000,Furniture,Wardrobe/Bookshelf,80,3
-2514,0,Bookshelf with Knowledge on Cultists,3,false,161000,Furniture,Wardrobe/Bookshelf,80,3
-2515,0,Bookshelf with Knowledge on the Followers of Kzarka,3,false,217000,Furniture,Wardrobe/Bookshelf,80,3
-2516,0,Bookshelf with Knowledge on Beast Monsters (Calpheon),3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2517,0,Bookshelf with Knowledge on Plant Monsters (Calpheon),3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2518,0,Bookshelf with Knowledge on Khurutos,3,false,161000,Furniture,Wardrobe/Bookshelf,80,3
-2519,0,Bookshelf with Knowledge on Monsters of the Quint Hill,3,false,226000,Furniture,Wardrobe/Bookshelf,80,3
-2520,0,Bookshelf with Knowledge on Monsters at Marni's House,3,false,161000,Furniture,Wardrobe/Bookshelf,80,3
-2521,0,Bookshelf with Knowledge on Saunils,3,false,226000,Furniture,Wardrobe/Bookshelf,80,3
-2522,0,Bookshelf with Knowledge on Monsters of the Mansha Forest,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2523,0,Bookshelf with Knowledge on Rhutums,3,false,224000,Furniture,Wardrobe/Bookshelf,80,3
-2524,0,Bookshelf with Knowledge on Monsters of Lake Kaia,3,false,161000,Furniture,Wardrobe/Bookshelf,80,3
-2525,0,Bookshelf with Knowledge on Monsters of Hexe Sanctuary,3,false,280000,Furniture,Wardrobe/Bookshelf,80,3
-2526,0,Bookshelf with Knowledge on Monsters of the Ruins,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2527,0,Bookshelf with Knowledge on the Secret Societies,3,false,161000,Furniture,Wardrobe/Bookshelf,80,3
-2528,0,Bookshelf with Knowledge on Harpies,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2529,0,Bookshelf with Knowledge on Giants,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2530,0,Bookshelf with Knowledge on Creatures of Calpheon,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2531,0,Bookshelf with Knowledge on Monsters of the Quarry,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2532,0,Bookshelf with Knowledge on Monsters of the Refugee Camp,3,false,187000,Furniture,Wardrobe/Bookshelf,80,3
-2533,0,Bookshelf with knowledge on the Steppes (Kamasylvia),3,false,373000,Furniture,Wardrobe/Bookshelf,80,3
-2534,0,Falasi's Bookshelf with Knowledge on Sailing,3,false,4660000,Furniture,Wardrobe/Bookshelf,80,3
-2535,0,Falasi's Bookshelf with Knowledge on Excavation,3,false,4660000,Furniture,Wardrobe/Bookshelf,80,3
-2536,0,Falasi's Bookshelf with Knowledge on Hunting,3,false,4660000,Furniture,Wardrobe/Bookshelf,80,3
-24508,0,Everfrost High-quality Wardrobe,1,false,3650000,Furniture,Wardrobe/Bookshelf,80,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+2102,Heidelian Handcrafted Wardrobe,1,false,Furniture,Wardrobe/Bookshelf,80,3
+2104,Velian Handcrafted Wardrobe,1,false,Furniture,Wardrobe/Bookshelf,80,3
+2106,Calpheon Handcrafted Wardrobe,1,false,Furniture,Wardrobe/Bookshelf,80,3
+2108,Mediahn Handcrafted Closet,1,false,Furniture,Wardrobe/Bookshelf,80,3
+2110,Valencian Handcrafted Wardrobe,1,false,Furniture,Wardrobe/Bookshelf,80,3
+2501,Bookshelf with Knowledge on Beast Monsters (Balenos),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2502,Bookshelf with Knowledge on Imps (Balenos),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2503,Bookshelf with Knowledge on Goblins,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2504,Bookshelf with Knowledge on the Exiles of Mediah,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2505,Bookshelf with Knowledge on Beast Monsters (Serendia),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2506,Bookshelf with Knowledge on Plant Monsters (Serendia),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2507,Bookshelf with Knowledge on Insect Monsters (Serendia),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2508,Bookshelf with Knowledge on Bandits,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2509,Bookshelf with Knowledge on Imps (Serendia),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2510,Bookshelf with Knowledge on Fogans,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2511,Bookshelf with Knowledge on Nagas,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2512,Bookshelf with Knowledge on Red Orcs,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2513,Bookshelf with Knowledge on the Al Rhundi Rebels,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2514,Bookshelf with Knowledge on Cultists,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2515,Bookshelf with Knowledge on the Followers of Kzarka,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2516,Bookshelf with Knowledge on Beast Monsters (Calpheon),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2517,Bookshelf with Knowledge on Plant Monsters (Calpheon),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2518,Bookshelf with Knowledge on Khurutos,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2519,Bookshelf with Knowledge on Monsters of the Quint Hill,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2520,Bookshelf with Knowledge on Monsters at Marni's House,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2521,Bookshelf with Knowledge on Saunils,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2522,Bookshelf with Knowledge on Monsters of the Mansha Forest,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2523,Bookshelf with Knowledge on Rhutums,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2524,Bookshelf with Knowledge on Monsters of Lake Kaia,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2525,Bookshelf with Knowledge on Monsters of Hexe Sanctuary,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2526,Bookshelf with Knowledge on Monsters of the Ruins,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2527,Bookshelf with Knowledge on the Secret Societies,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2528,Bookshelf with Knowledge on Harpies,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2529,Bookshelf with Knowledge on Giants,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2530,Bookshelf with Knowledge on Creatures of Calpheon,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2531,Bookshelf with Knowledge on Monsters of the Quarry,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2532,Bookshelf with Knowledge on Monsters of the Refugee Camp,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2533,Bookshelf with knowledge on the Steppes (Kamasylvia),3,false,Furniture,Wardrobe/Bookshelf,80,3
+2534,Falasi's Bookshelf with Knowledge on Sailing,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2535,Falasi's Bookshelf with Knowledge on Excavation,3,false,Furniture,Wardrobe/Bookshelf,80,3
+2536,Falasi's Bookshelf with Knowledge on Hunting,3,false,Furniture,Wardrobe/Bookshelf,80,3
+24508,Everfrost High-quality Wardrobe,1,false,Furniture,Wardrobe/Bookshelf,80,3

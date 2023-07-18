@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14741,1,Azure Thunder Celestial Bo Staff,2,false,1770000,Awakening Weapon,Celestial Bo Staff,10,5
-14742,3,Dandelion Celestial Bo Staff,3,false,241000000,Awakening Weapon,Celestial Bo Staff,10,5
-14743,0,Practice Celestial Bo Staff,1,false,107000,Awakening Weapon,Celestial Bo Staff,10,5
-702505,0,Dragon Slayer Celestial Bo Staff,3,false,91000000,Awakening Weapon,Celestial Bo Staff,10,5
-702521,0,Hughol's Celestial Bo Staff,2,false,52000000,Awakening Weapon,Celestial Bo Staff,10,5
-731105,3,Blackstar Celestial Bo Staff,4,false,497000000,Awakening Weapon,Celestial Bo Staff,10,5
-736119,1,Godr-Ayed Celestial Bo Staff,4,true,14000000000,Awakening Weapon,Celestial Bo Staff,10,5
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14741,Azure Thunder Celestial Bo Staff,2,false,Awakening Weapon,Celestial Bo Staff,10,5
+14742,Dandelion Celestial Bo Staff,3,false,Awakening Weapon,Celestial Bo Staff,10,5
+14743,Practice Celestial Bo Staff,1,false,Awakening Weapon,Celestial Bo Staff,10,5
+702505,Dragon Slayer Celestial Bo Staff,3,false,Awakening Weapon,Celestial Bo Staff,10,5
+702521,Hughol's Celestial Bo Staff,2,false,Awakening Weapon,Celestial Bo Staff,10,5
+731105,Blackstar Celestial Bo Staff,4,false,Awakening Weapon,Celestial Bo Staff,10,5
+736119,Godr-Ayed Celestial Bo Staff,4,true,Awakening Weapon,Celestial Bo Staff,10,5

@@ -1,12 +1,12 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-46006,0,[Olvian Dye] True Red,3,false,20900000,Dye,Olvia,60,2
-46018,0,[Olvian Dye] True Orange,3,false,20900000,Dye,Olvia,60,2
-46030,0,[Olvian Dye] True Yellow,3,false,20900000,Dye,Olvia,60,2
-46042,0,[Olvian Dye] True Lime,3,false,20900000,Dye,Olvia,60,2
-46054,0,[Olvian Dye] True Mint,3,false,20900000,Dye,Olvia,60,2
-46066,0,[Olvian Dye] True Aqua,3,false,20900000,Dye,Olvia,60,2
-46078,0,[Olvian Dye] True Sky,3,false,20900000,Dye,Olvia,60,2
-46090,0,[Olvian Dye] True Indigo,3,false,20900000,Dye,Olvia,60,2
-46102,0,[Olvian Dye] True Purple,3,false,20900000,Dye,Olvia,60,2
-46114,0,[Olvian Dye] True Deep Pink,3,false,20900000,Dye,Olvia,60,2
-46122,0,[Olvian Dye] Black,3,false,20900000,Dye,Olvia,60,2
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+46006,[Olvian Dye] True Red,3,false,Dye,Olvia,60,2
+46018,[Olvian Dye] True Orange,3,false,Dye,Olvia,60,2
+46030,[Olvian Dye] True Yellow,3,false,Dye,Olvia,60,2
+46042,[Olvian Dye] True Lime,3,false,Dye,Olvia,60,2
+46054,[Olvian Dye] True Mint,3,false,Dye,Olvia,60,2
+46066,[Olvian Dye] True Aqua,3,false,Dye,Olvia,60,2
+46078,[Olvian Dye] True Sky,3,false,Dye,Olvia,60,2
+46090,[Olvian Dye] True Indigo,3,false,Dye,Olvia,60,2
+46102,[Olvian Dye] True Purple,3,false,Dye,Olvia,60,2
+46114,[Olvian Dye] True Deep Pink,3,false,Dye,Olvia,60,2
+46122,[Olvian Dye] Black,3,false,Dye,Olvia,60,2

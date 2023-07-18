@@ -1,17 +1,17 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-733003,12,Elsh Serenaca,1,false,72000,Main Weapon,Serenaca,1,17
-733005,4,Azwell Serenaca,1,false,18900,Main Weapon,Serenaca,1,17
-733006,0,Ain Serenaca,1,false,377000,Main Weapon,Serenaca,1,17
-733007,167,Seleth Serenaca,1,false,73500,Main Weapon,Serenaca,1,17
-733009,0,Liverto Serenaca,2,false,5950000,Main Weapon,Serenaca,1,17
-733010,0,Kzarka Serenaca,3,false,241000000,Main Weapon,Serenaca,1,17
-733012,0,Kalis Serenaca,1,false,242000,Main Weapon,Serenaca,1,17
-733013,1,Bares Serenaca,1,false,267000,Main Weapon,Serenaca,1,17
-733014,25,Yuria Serenaca,1,false,246000,Main Weapon,Serenaca,1,17
-733015,10,Krea Serenaca,1,false,39500,Main Weapon,Serenaca,1,17
-733016,0,Rosar Serenaca,1,false,345000,Main Weapon,Serenaca,1,17
-733017,1,Styd Serenaca,1,false,23500,Main Weapon,Serenaca,1,17
-733018,0,Ultimate Styd Serenaca,2,false,55500,Main Weapon,Serenaca,1,17
-733038,0,Offin Tett's Radiant Serenaca,3,false,122000000,Main Weapon,Serenaca,1,17
-733063,3,Blackstar Serenaca,4,false,580000000,Main Weapon,Serenaca,1,17
-736031,2,Godr-Ayed Serenaca,4,true,11600000000,Main Weapon,Serenaca,1,17
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+733003,Elsh Serenaca,1,false,Main Weapon,Serenaca,1,17
+733005,Azwell Serenaca,1,false,Main Weapon,Serenaca,1,17
+733006,Ain Serenaca,1,false,Main Weapon,Serenaca,1,17
+733007,Seleth Serenaca,1,false,Main Weapon,Serenaca,1,17
+733009,Liverto Serenaca,2,false,Main Weapon,Serenaca,1,17
+733010,Kzarka Serenaca,3,false,Main Weapon,Serenaca,1,17
+733012,Kalis Serenaca,1,false,Main Weapon,Serenaca,1,17
+733013,Bares Serenaca,1,false,Main Weapon,Serenaca,1,17
+733014,Yuria Serenaca,1,false,Main Weapon,Serenaca,1,17
+733015,Krea Serenaca,1,false,Main Weapon,Serenaca,1,17
+733016,Rosar Serenaca,1,false,Main Weapon,Serenaca,1,17
+733017,Styd Serenaca,1,false,Main Weapon,Serenaca,1,17
+733018,Ultimate Styd Serenaca,2,false,Main Weapon,Serenaca,1,17
+733038,Offin Tett's Radiant Serenaca,3,false,Main Weapon,Serenaca,1,17
+733063,Blackstar Serenaca,4,false,Main Weapon,Serenaca,1,17
+736031,Godr-Ayed Serenaca,4,true,Main Weapon,Serenaca,1,17

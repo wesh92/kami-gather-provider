@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-731121,4,Blackstar Kibelius,4,false,497000000,Awakening Weapon,Kibelius,10,22
-732651,3,Stura Kibelius,2,false,1770000,Awakening Weapon,Kibelius,10,22
-732652,6,Dandelion Kibelius,3,false,241000000,Awakening Weapon,Kibelius,10,22
-732653,1,Abahn Kibelius,1,false,107000,Awakening Weapon,Kibelius,10,22
-732662,1,Dragon Slayer Kibelius,3,false,91000000,Awakening Weapon,Kibelius,10,22
-732663,0,Hughol's Kibelius,2,false,52000000,Awakening Weapon,Kibelius,10,22
-736135,0,Godr-Ayed Kibelius,4,true,14000000000,Awakening Weapon,Kibelius,10,22
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+731121,Blackstar Kibelius,4,false,Awakening Weapon,Kibelius,10,22
+732651,Stura Kibelius,2,false,Awakening Weapon,Kibelius,10,22
+732652,Dandelion Kibelius,3,false,Awakening Weapon,Kibelius,10,22
+732653,Abahn Kibelius,1,false,Awakening Weapon,Kibelius,10,22
+732662,Dragon Slayer Kibelius,3,false,Awakening Weapon,Kibelius,10,22
+732663,Hughol's Kibelius,2,false,Awakening Weapon,Kibelius,10,22
+736135,Godr-Ayed Kibelius,4,true,Awakening Weapon,Kibelius,10,22

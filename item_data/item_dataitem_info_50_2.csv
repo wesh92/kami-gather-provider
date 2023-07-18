@@ -1,55 +1,55 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-15006,0,Magic Crystal of Abundance - Armor,1,false,107000,Magic Crystal,Sub-weapon,50,2
-15007,0,Magic Crystal of Abundance - Vigor,1,false,32200,Magic Crystal,Sub-weapon,50,2
-15009,0,Magic Crystal of Abundance - Healing,1,false,32200,Magic Crystal,Sub-weapon,50,2
-15012,0,Magic Crystal of Nature - Adamantine,1,false,32200,Magic Crystal,Sub-weapon,50,2
-15015,0,Magic Crystal of the Sun - Sturdiness,1,false,32200,Magic Crystal,Sub-weapon,50,2
-15018,0,Magic Crystal of Enchantment - Intimidation,1,false,32200,Magic Crystal,Sub-weapon,50,2
-15020,0,Magic Crystal of Enchantment - Agility,1,false,32200,Magic Crystal,Sub-weapon,50,2
-15106,0,Magic Crystal of Infinity - Armor,2,false,28000000,Magic Crystal,Sub-weapon,50,2
-15107,0,Magic Crystal of Infinity - Vigor,2,false,55000,Magic Crystal,Sub-weapon,50,2
-15109,54,Magic Crystal of Infinity - Heal,2,false,87500,Magic Crystal,Sub-weapon,50,2
-15112,48,Magic Crystal of Infinity - Adamantine,2,false,50500,Magic Crystal,Sub-weapon,50,2
-15117,2,Magic Crystal of Infinity - Sturdiness,2,false,78000,Magic Crystal,Sub-weapon,50,2
-15122,13,Magic Crystal of Infinity - Intimidation,2,false,210000,Magic Crystal,Sub-weapon,50,2
-15124,39,Magic Crystal of Infinity - Agility,2,false,7200000,Magic Crystal,Sub-weapon,50,2
-15136,270,Magic Crystal of Infinity - Special Evasion,2,false,2420000,Magic Crystal,Sub-weapon,50,2
-15137,87,Magic Crystal of Infinity - Melee Defense,2,false,87500,Magic Crystal,Sub-weapon,50,2
-15138,55,Magic Crystal of Infinity - Ranged Defense,2,false,116000,Magic Crystal,Sub-weapon,50,2
-15139,16,Magic Crystal of Infinity - Magic Defense,2,false,129000,Magic Crystal,Sub-weapon,50,2
-15206,578,Black Magic Crystal - Armor,3,false,5400000,Magic Crystal,Sub-weapon,50,2
-15207,995,Black Magic Crystal - Vigor,3,false,5150000,Magic Crystal,Sub-weapon,50,2
-15211,411,Black Magic Crystal - Swiftness,3,false,4680000,Magic Crystal,Sub-weapon,50,2
-15212,608,Black Magic Crystal - Adamantine,3,false,4770000,Magic Crystal,Sub-weapon,50,2
-15217,494,Black Magic Crystal - Sturdiness,3,false,4780000,Magic Crystal,Sub-weapon,50,2
-15218,583,Black Magic Crystal - Valor,3,false,5600000,Magic Crystal,Sub-weapon,50,2
-15221,266,Black Magic Crystal - Memory,3,false,4570000,Magic Crystal,Sub-weapon,50,2
-15222,456,Black Magic Crystal - Intimidation,3,false,4580000,Magic Crystal,Sub-weapon,50,2
-15224,592,Black Magic Crystal - Agility,3,false,4780000,Magic Crystal,Sub-weapon,50,2
-15255,11,Crystal of Frozen Bitterness,4,false,610000000,Magic Crystal,Sub-weapon,50,2
-15601,77,Ancient Magic Crystal - Harphia,4,false,143000,Magic Crystal,Sub-weapon,50,2
-15602,30,Ancient Magic Crystal - Cobelinus,4,false,10500000,Magic Crystal,Sub-weapon,50,2
-15610,35,Ancient Magic Crystal of Abundance - Armor,3,false,8750000,Magic Crystal,Sub-weapon,50,2
-15613,5,Ancient Magic Crystal of Abundance - Healing,3,false,820000,Magic Crystal,Sub-weapon,50,2
-15614,0,Ancient Magic Crystal of Abundance - Resonance,3,false,540000,Magic Crystal,Sub-weapon,50,2
-15616,7,Ancient Magic Crystal of Nature - Adamantine,3,false,431000,Magic Crystal,Sub-weapon,50,2
-15624,131,Ancient Magic Crystal of Enchantment - Agility,3,false,7550000,Magic Crystal,Sub-weapon,50,2
-15628,19,Black Magic Crystal - Harphia,4,false,46800000,Magic Crystal,Sub-weapon,50,2
-15629,14,Black Magic Crystal - Cobelinus,4,false,20500000,Magic Crystal,Sub-weapon,50,2
-15640,38,Red Battlefield Crystal: Adamantine,4,false,206000000,Magic Crystal,Sub-weapon,50,2
-15670,35,Dark Red Fang Crystal - Armor,4,false,222000000,Magic Crystal,Sub-weapon,50,2
-15687,64,WON Glorious Crystal of Honor - Special Evasion,4,false,27500000,Magic Crystal,Sub-weapon,50,2
-15688,52,BON Glorious Crystal of Honor - Special Evasion,4,false,54500000,Magic Crystal,Sub-weapon,50,2
-15689,8,JIN Glorious Crystal of Honor - Special Evasion,4,false,840000000,Magic Crystal,Sub-weapon,50,2
-15712,2,Ancient Magic Crystal of Nature - Fighting Spirit,3,false,423000,Magic Crystal,Sub-weapon,50,2
-15713,26,Ancient Magic Crystal of Nature - Sturdiness,3,false,333000,Magic Crystal,Sub-weapon,50,2
-15714,34,Ancient Magic Crystal of Nature - Giant,3,false,4210000,Magic Crystal,Sub-weapon,50,2
-15715,3,Red Battlefield Crystal: Fighting Spirit,4,false,150000000,Magic Crystal,Sub-weapon,50,2
-15716,11,Red Battlefield Crystal: Sturdiness,4,false,174000000,Magic Crystal,Sub-weapon,50,2
-15717,42,Red Battlefield Crystal: Giant,4,false,215000000,Magic Crystal,Sub-weapon,50,2
-15801,26,JIN Magic Crystal - Harphia,4,false,418000000,Magic Crystal,Sub-weapon,50,2
-15802,2,BON Magic Crystal - Harphia,4,false,52000000,Magic Crystal,Sub-weapon,50,2
-15803,35,WON Magic Crystal - Harphia,4,false,53000000,Magic Crystal,Sub-weapon,50,2
-15804,42,JIN Magic Crystal - Cobelinus,4,false,77000000,Magic Crystal,Sub-weapon,50,2
-15805,42,BON Magic Crystal - Cobelinus,4,false,127000000,Magic Crystal,Sub-weapon,50,2
-15806,35,WON Magic Crystal - Cobelinus,4,false,52000000,Magic Crystal,Sub-weapon,50,2
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+15006,Magic Crystal of Abundance - Armor,1,false,Magic Crystal,Sub-weapon,50,2
+15007,Magic Crystal of Abundance - Vigor,1,false,Magic Crystal,Sub-weapon,50,2
+15009,Magic Crystal of Abundance - Healing,1,false,Magic Crystal,Sub-weapon,50,2
+15012,Magic Crystal of Nature - Adamantine,1,false,Magic Crystal,Sub-weapon,50,2
+15015,Magic Crystal of the Sun - Sturdiness,1,false,Magic Crystal,Sub-weapon,50,2
+15018,Magic Crystal of Enchantment - Intimidation,1,false,Magic Crystal,Sub-weapon,50,2
+15020,Magic Crystal of Enchantment - Agility,1,false,Magic Crystal,Sub-weapon,50,2
+15106,Magic Crystal of Infinity - Armor,2,false,Magic Crystal,Sub-weapon,50,2
+15107,Magic Crystal of Infinity - Vigor,2,false,Magic Crystal,Sub-weapon,50,2
+15109,Magic Crystal of Infinity - Heal,2,false,Magic Crystal,Sub-weapon,50,2
+15112,Magic Crystal of Infinity - Adamantine,2,false,Magic Crystal,Sub-weapon,50,2
+15117,Magic Crystal of Infinity - Sturdiness,2,false,Magic Crystal,Sub-weapon,50,2
+15122,Magic Crystal of Infinity - Intimidation,2,false,Magic Crystal,Sub-weapon,50,2
+15124,Magic Crystal of Infinity - Agility,2,false,Magic Crystal,Sub-weapon,50,2
+15136,Magic Crystal of Infinity - Special Evasion,2,false,Magic Crystal,Sub-weapon,50,2
+15137,Magic Crystal of Infinity - Melee Defense,2,false,Magic Crystal,Sub-weapon,50,2
+15138,Magic Crystal of Infinity - Ranged Defense,2,false,Magic Crystal,Sub-weapon,50,2
+15139,Magic Crystal of Infinity - Magic Defense,2,false,Magic Crystal,Sub-weapon,50,2
+15206,Black Magic Crystal - Armor,3,false,Magic Crystal,Sub-weapon,50,2
+15207,Black Magic Crystal - Vigor,3,false,Magic Crystal,Sub-weapon,50,2
+15211,Black Magic Crystal - Swiftness,3,false,Magic Crystal,Sub-weapon,50,2
+15212,Black Magic Crystal - Adamantine,3,false,Magic Crystal,Sub-weapon,50,2
+15217,Black Magic Crystal - Sturdiness,3,false,Magic Crystal,Sub-weapon,50,2
+15218,Black Magic Crystal - Valor,3,false,Magic Crystal,Sub-weapon,50,2
+15221,Black Magic Crystal - Memory,3,false,Magic Crystal,Sub-weapon,50,2
+15222,Black Magic Crystal - Intimidation,3,false,Magic Crystal,Sub-weapon,50,2
+15224,Black Magic Crystal - Agility,3,false,Magic Crystal,Sub-weapon,50,2
+15255,Crystal of Frozen Bitterness,4,false,Magic Crystal,Sub-weapon,50,2
+15601,Ancient Magic Crystal - Harphia,4,false,Magic Crystal,Sub-weapon,50,2
+15602,Ancient Magic Crystal - Cobelinus,4,false,Magic Crystal,Sub-weapon,50,2
+15610,Ancient Magic Crystal of Abundance - Armor,3,false,Magic Crystal,Sub-weapon,50,2
+15613,Ancient Magic Crystal of Abundance - Healing,3,false,Magic Crystal,Sub-weapon,50,2
+15614,Ancient Magic Crystal of Abundance - Resonance,3,false,Magic Crystal,Sub-weapon,50,2
+15616,Ancient Magic Crystal of Nature - Adamantine,3,false,Magic Crystal,Sub-weapon,50,2
+15624,Ancient Magic Crystal of Enchantment - Agility,3,false,Magic Crystal,Sub-weapon,50,2
+15628,Black Magic Crystal - Harphia,4,false,Magic Crystal,Sub-weapon,50,2
+15629,Black Magic Crystal - Cobelinus,4,false,Magic Crystal,Sub-weapon,50,2
+15640,Red Battlefield Crystal: Adamantine,4,false,Magic Crystal,Sub-weapon,50,2
+15670,Dark Red Fang Crystal - Armor,4,false,Magic Crystal,Sub-weapon,50,2
+15687,WON Glorious Crystal of Honor - Special Evasion,4,false,Magic Crystal,Sub-weapon,50,2
+15688,BON Glorious Crystal of Honor - Special Evasion,4,false,Magic Crystal,Sub-weapon,50,2
+15689,JIN Glorious Crystal of Honor - Special Evasion,4,false,Magic Crystal,Sub-weapon,50,2
+15712,Ancient Magic Crystal of Nature - Fighting Spirit,3,false,Magic Crystal,Sub-weapon,50,2
+15713,Ancient Magic Crystal of Nature - Sturdiness,3,false,Magic Crystal,Sub-weapon,50,2
+15714,Ancient Magic Crystal of Nature - Giant,3,false,Magic Crystal,Sub-weapon,50,2
+15715,Red Battlefield Crystal: Fighting Spirit,4,false,Magic Crystal,Sub-weapon,50,2
+15716,Red Battlefield Crystal: Sturdiness,4,false,Magic Crystal,Sub-weapon,50,2
+15717,Red Battlefield Crystal: Giant,4,false,Magic Crystal,Sub-weapon,50,2
+15801,JIN Magic Crystal - Harphia,4,false,Magic Crystal,Sub-weapon,50,2
+15802,BON Magic Crystal - Harphia,4,false,Magic Crystal,Sub-weapon,50,2
+15803,WON Magic Crystal - Harphia,4,false,Magic Crystal,Sub-weapon,50,2
+15804,JIN Magic Crystal - Cobelinus,4,false,Magic Crystal,Sub-weapon,50,2
+15805,BON Magic Crystal - Cobelinus,4,false,Magic Crystal,Sub-weapon,50,2
+15806,WON Magic Crystal - Cobelinus,4,false,Magic Crystal,Sub-weapon,50,2

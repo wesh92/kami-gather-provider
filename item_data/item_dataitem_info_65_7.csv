@@ -1,15 +1,15 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-52901,0,Weak Iron Horseshoe,0,false,112000,Mount,Horseshoe,65,7
-52902,38,Light Iron Horseshoe,1,false,498000,Mount,Horseshoe,65,7
-52903,26,Steel Combat Horseshoe,1,false,550000,Mount,Horseshoe,65,7
-52904,0,Light Steel Horseshoe of Storm,1,false,2240000,Mount,Horseshoe,65,7
-52905,0,Steel Horseshoe of Fighting Spirit,1,false,720000,Mount,Horseshoe,65,7
-52906,0,Granverre Metal Horseshoe,2,false,87000000,Mount,Horseshoe,65,7
-52909,0,Krogdalo's Horseshoe - Earth,3,false,905000000,Mount,Horseshoe,65,7
-52912,0,Krogdalo's Horseshoe - Wind,3,false,1120000000,Mount,Horseshoe,65,7
-52915,0,Krogdalo's Horseshoe - Sea,3,false,1120000000,Mount,Horseshoe,65,7
-52918,0,[Donkey] Light Iron Horseshoe,1,false,498000,Mount,Horseshoe,65,7
-52919,0,[Donkey] Weak Iron Horseshoe,0,false,60000,Mount,Horseshoe,65,7
-52920,0,[Donkey] Steel Combat Horseshoe,1,false,550000,Mount,Horseshoe,65,7
-52921,0,[Donkey] Granverre Metal Horseshoe,2,false,11700000,Mount,Horseshoe,65,7
-52922,0,[Donkey] Krogdalo's Horseshoe,3,false,84000000,Mount,Horseshoe,65,7
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+52901,Weak Iron Horseshoe,0,false,Mount,Horseshoe,65,7
+52902,Light Iron Horseshoe,1,false,Mount,Horseshoe,65,7
+52903,Steel Combat Horseshoe,1,false,Mount,Horseshoe,65,7
+52904,Light Steel Horseshoe of Storm,1,false,Mount,Horseshoe,65,7
+52905,Steel Horseshoe of Fighting Spirit,1,false,Mount,Horseshoe,65,7
+52906,Granverre Metal Horseshoe,2,false,Mount,Horseshoe,65,7
+52909,Krogdalo's Horseshoe - Earth,3,false,Mount,Horseshoe,65,7
+52912,Krogdalo's Horseshoe - Wind,3,false,Mount,Horseshoe,65,7
+52915,Krogdalo's Horseshoe - Sea,3,false,Mount,Horseshoe,65,7
+52918,[Donkey] Light Iron Horseshoe,1,false,Mount,Horseshoe,65,7
+52919,[Donkey] Weak Iron Horseshoe,0,false,Mount,Horseshoe,65,7
+52920,[Donkey] Steel Combat Horseshoe,1,false,Mount,Horseshoe,65,7
+52921,[Donkey] Granverre Metal Horseshoe,2,false,Mount,Horseshoe,65,7
+52922,[Donkey] Krogdalo's Horseshoe,3,false,Mount,Horseshoe,65,7

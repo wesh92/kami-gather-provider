@@ -15,7 +15,7 @@ for file in files:
 
     df_item_data.write_database(
         table_name="item_data",
-        if_exists="replace",
+        if_exists="append",
         connection_uri=connection_uri,
     )
     info(f"Finished writing {file}")

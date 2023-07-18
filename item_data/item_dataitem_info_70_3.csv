@@ -1,9 +1,9 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-49301,0,Rowboat Prow,0,false,244000,Ship,Prow,70,3
-49302,0,Calpheon Rowboat Prow,0,false,293000,Ship,Prow,70,3
-49303,0,Altinova Rowboat Prow,0,false,272000,Ship,Prow,70,3
-49304,0,Fishing Boat Prow,0,false,326000,Ship,Prow,70,3
-49306,0,Fishing Boat Prow of Abundance,1,false,407000,Ship,Prow,70,3
-49307,0,Valencia Rowboat Prow,0,false,410000,Ship,Prow,70,3
-49310,0,Kaia Fishing Boat Prow,2,false,11200000,Ship,Prow,70,3
-49311,0,Kaia Rowboat Prow,2,false,7000000,Ship,Prow,70,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+49301,Rowboat Prow,0,false,Ship,Prow,70,3
+49302,Calpheon Rowboat Prow,0,false,Ship,Prow,70,3
+49303,Altinova Rowboat Prow,0,false,Ship,Prow,70,3
+49304,Fishing Boat Prow,0,false,Ship,Prow,70,3
+49306,Fishing Boat Prow of Abundance,1,false,Ship,Prow,70,3
+49307,Valencia Rowboat Prow,0,false,Ship,Prow,70,3
+49310,Kaia Fishing Boat Prow,2,false,Ship,Prow,70,3
+49311,Kaia Rowboat Prow,2,false,Ship,Prow,70,3

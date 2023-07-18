@@ -1,9 +1,9 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-49401,0,Rowboat Decoration,0,false,280000,Ship,Decoration,70,4
-49402,0,Calpheon Rowboat Decoration,0,false,323000,Ship,Decoration,70,4
-49403,0,Altinova Rowboat Decoration,0,false,299000,Ship,Decoration,70,4
-49404,0,Fishing Boat Decoration,0,false,515000,Ship,Decoration,70,4
-49405,4,Fishing Boat Decoration of Abundance,1,false,375000,Ship,Decoration,70,4
-49406,0,Valencia Rowboat Decoration,0,false,323000,Ship,Decoration,70,4
-49410,0,Kaia Fishing Boat Decoration,2,false,16800000,Ship,Decoration,70,4
-49411,0,Kaia Rowboat Decoration,2,false,7000000,Ship,Decoration,70,4
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+49401,Rowboat Decoration,0,false,Ship,Decoration,70,4
+49402,Calpheon Rowboat Decoration,0,false,Ship,Decoration,70,4
+49403,Altinova Rowboat Decoration,0,false,Ship,Decoration,70,4
+49404,Fishing Boat Decoration,0,false,Ship,Decoration,70,4
+49405,Fishing Boat Decoration of Abundance,1,false,Ship,Decoration,70,4
+49406,Valencia Rowboat Decoration,0,false,Ship,Decoration,70,4
+49410,Kaia Fishing Boat Decoration,2,false,Ship,Decoration,70,4
+49411,Kaia Rowboat Decoration,2,false,Ship,Decoration,70,4

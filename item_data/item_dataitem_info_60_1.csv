@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-17128,0,[Basic Dye] Real Red,3,false,20900000,Dye,Basic,60,1
-17200,0,[Basic Dye] Real Yellow,3,false,20900000,Dye,Basic,60,1
-17272,0,[Basic Dye] Real Blue,3,false,20900000,Dye,Basic,60,1
-17312,0,[Basic Dye] Snow White,3,false,20900000,Dye,Basic,60,1
-17313,0,[Basic Dye] Blade Silver,3,false,20900000,Dye,Basic,60,1
-17315,0,[Basic Dye] Deep Bronze,3,false,20900000,Dye,Basic,60,1
-17316,0,[Basic Dye] Dark Black,3,false,20900000,Dye,Basic,60,1
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+17128,[Basic Dye] Real Red,3,false,Dye,Basic,60,1
+17200,[Basic Dye] Real Yellow,3,false,Dye,Basic,60,1
+17272,[Basic Dye] Real Blue,3,false,Dye,Basic,60,1
+17312,[Basic Dye] Snow White,3,false,Dye,Basic,60,1
+17313,[Basic Dye] Blade Silver,3,false,Dye,Basic,60,1
+17315,[Basic Dye] Deep Bronze,3,false,Dye,Basic,60,1
+17316,[Basic Dye] Dark Black,3,false,Dye,Basic,60,1

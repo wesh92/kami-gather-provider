@@ -1,9 +1,9 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-44948,0,Karlstein Classic Set,4,false,630000000,Pearl Items,Class-based Apparel (Set),55,5
-44950,0,Lahr Arcien Classic Set,4,false,441000000,Pearl Items,Class-based Apparel (Set),55,5
-44972,0,New Year Hanbok Outfit Box,4,false,424000000,Pearl Items,Class-based Apparel (Set),55,5
-44979,0,[Event] Classic Outfit Box,4,false,630000000,Pearl Items,Class-based Apparel (Set),55,5
-45820,0,[Event] Classic Outfit Box,4,false,630000000,Pearl Items,Class-based Apparel (Set),55,5
-45880,0,Vediras Outfit Box,4,false,424000000,Pearl Items,Class-based Apparel (Set),55,5
-45881,0,Succession Classic Box,4,false,630000000,Pearl Items,Class-based Apparel (Set),55,5
-45885,0,[Event] Succession Classic Box,4,false,630000000,Pearl Items,Class-based Apparel (Set),55,5
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+44948,Karlstein Classic Set,4,false,Pearl Items,Class-based Apparel (Set),55,5
+44950,Lahr Arcien Classic Set,4,false,Pearl Items,Class-based Apparel (Set),55,5
+44972,New Year Hanbok Outfit Box,4,false,Pearl Items,Class-based Apparel (Set),55,5
+44979,[Event] Classic Outfit Box,4,false,Pearl Items,Class-based Apparel (Set),55,5
+45820,[Event] Classic Outfit Box,4,false,Pearl Items,Class-based Apparel (Set),55,5
+45880,Vediras Outfit Box,4,false,Pearl Items,Class-based Apparel (Set),55,5
+45881,Succession Classic Box,4,false,Pearl Items,Class-based Apparel (Set),55,5
+45885,[Event] Succession Classic Box,4,false,Pearl Items,Class-based Apparel (Set),55,5

@@ -1,63 +1,63 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-15008,0,Magic Crystal of Abundance - Patience,1,false,32200,Magic Crystal,Helmet,50,3
-15010,0,Magic Crystal of Abundance - Resonance,1,false,107000,Magic Crystal,Helmet,50,3
-15011,0,Magic Crystal of Nature - Swiftness,1,false,107000,Magic Crystal,Helmet,50,3
-15013,0,Magic Crystal of Nature - Ascension,1,false,32200,Magic Crystal,Helmet,50,3
-15019,0,Magic Crystal of Enchantment - Vision,1,false,32200,Magic Crystal,Helmet,50,3
-15021,15,Magic Crystal of Perfection,3,false,79500,Magic Crystal,Helmet,50,3
-15028,0,Magic Crystal of Nature - Endurance,1,false,107000,Magic Crystal,Helmet,50,3
-15030,0,Magic Crystal of the Sun - Boulder,1,false,107000,Magic Crystal,Helmet,50,3
-15034,0,Dim Magic Crystal: Karma,0,false,17900,Magic Crystal,Helmet,50,3
-15035,0,Dim Magic Crystal: Combat,0,false,17900,Magic Crystal,Helmet,50,3
-15036,0,Dim Magic Crystal: Gathering,0,false,17900,Magic Crystal,Helmet,50,3
-15037,0,Dim Magic Crystal: Fishing,0,false,17900,Magic Crystal,Helmet,50,3
-15038,0,Dim Magic Crystal: Hunting,0,false,17900,Magic Crystal,Helmet,50,3
-15039,0,Dim Magic Crystal: Cooking,0,false,17900,Magic Crystal,Helmet,50,3
-15040,0,Dim Magic Crystal: Alchemy,0,false,17900,Magic Crystal,Helmet,50,3
-15041,0,Dim Magic Crystal: Processing,0,false,17900,Magic Crystal,Helmet,50,3
-15042,0,Dim Magic Crystal: Training,0,false,17900,Magic Crystal,Helmet,50,3
-15043,0,Dim Magic Crystal: Trade,0,false,17900,Magic Crystal,Helmet,50,3
-15044,0,Dim Magic Crystal: Farming,0,false,17900,Magic Crystal,Helmet,50,3
-15045,0,Dim Magic Crystal: Sailing,0,false,17900,Magic Crystal,Helmet,50,3
-15108,29,Magic Crystal of Infinity - Patience,2,false,73000,Magic Crystal,Helmet,50,3
-15110,37,Magic Crystal of Infinity - Resonance,2,false,83500,Magic Crystal,Helmet,50,3
-15111,3,Magic Crystal of Infinity - Swiftness,2,false,54500,Magic Crystal,Helmet,50,3
-15113,0,Magic Crystal of Infinity - Ascension,2,false,3490000,Magic Crystal,Helmet,50,3
-15114,0,Magic Crystal of Infinity - Descent,2,false,905000,Magic Crystal,Helmet,50,3
-15115,0,Magic Crystal of Infinity - Endurance,2,false,28000000,Magic Crystal,Helmet,50,3
-15120,20,Magic Crystal of Infinity - Strength,2,false,2910000,Magic Crystal,Helmet,50,3
-15123,129,Magic Crystal of Infinity - Vision,2,false,4240000,Magic Crystal,Helmet,50,3
-15125,26,Magic Crystal of Infinity - Experience,2,false,66500000,Magic Crystal,Helmet,50,3
-15126,48,Magic Crystal of Infinity - Durability,2,false,68500,Magic Crystal,Helmet,50,3
-15127,188,Magic Crystal of Infinity - Absorption,2,false,5800000,Magic Crystal,Helmet,50,3
-15128,35,Magic Crystal of Infinity - MP Recovery,2,false,42800,Magic Crystal,Helmet,50,3
-15135,17,Magic Crystal of Infinity - Siege,2,false,75000,Magic Crystal,Helmet,50,3
-15146,77,Magic Crystal of Infinity - Energy,2,false,4060000,Magic Crystal,Helmet,50,3
-15147,390,Magic Crystal of Infinity - Submergence,2,false,4790000,Magic Crystal,Helmet,50,3
-15156,0,Magic Crystal of Infinity - Skill,2,false,73000000,Magic Crystal,Helmet,50,3
-15213,577,Black Magic Crystal - Ascension,3,false,4680000,Magic Crystal,Helmet,50,3
-15214,180,Black Magic Crystal - Descent,3,false,4530000,Magic Crystal,Helmet,50,3
-15228,15,Life Crystal: Gathering,3,false,134000000,Magic Crystal,Helmet,50,3
-15229,11,Life Crystal: Fishing,3,false,438000000,Magic Crystal,Helmet,50,3
-15230,7,Life Crystal: Hunting,3,false,292000000,Magic Crystal,Helmet,50,3
-15231,0,Life Crystal: Cooking,3,false,356000000,Magic Crystal,Helmet,50,3
-15232,0,Life Crystal: Alchemy,3,false,466000000,Magic Crystal,Helmet,50,3
-15233,0,Life Crystal: Processing,3,false,162000000,Magic Crystal,Helmet,50,3
-15234,0,Life Crystal: Training,3,false,466000000,Magic Crystal,Helmet,50,3
-15235,0,Life Crystal: Trade,3,false,466000000,Magic Crystal,Helmet,50,3
-15236,0,Life Crystal: Farming,3,false,287000000,Magic Crystal,Helmet,50,3
-15237,0,Life Crystal: Sailing,3,false,355000000,Magic Crystal,Helmet,50,3
-15238,0,Life Crystal: Barter,3,false,409000000,Magic Crystal,Helmet,50,3
-15239,14,Vital Crystal: Gathering,3,false,449000000,Magic Crystal,Helmet,50,3
-15240,31,Vital Crystal: Fishing,3,false,336000000,Magic Crystal,Helmet,50,3
-15241,0,Vital Crystal: Hunting,3,false,466000000,Magic Crystal,Helmet,50,3
-15242,0,Vital Crystal: Cooking,3,false,466000000,Magic Crystal,Helmet,50,3
-15243,0,Vital Crystal: Alchemy,3,false,466000000,Magic Crystal,Helmet,50,3
-15244,0,Vital Crystal: Processing,3,false,232000000,Magic Crystal,Helmet,50,3
-15245,8,Vital Crystal: Training,3,false,466000000,Magic Crystal,Helmet,50,3
-15246,0,Vital Crystal: Sailing,3,false,466000000,Magic Crystal,Helmet,50,3
-15604,65,Ancient Magic Crystal - Hystria,4,false,5950000,Magic Crystal,Helmet,50,3
-15631,7,Black Magic Crystal - Hystria,4,false,26700000,Magic Crystal,Helmet,50,3
-15810,4,JIN Magic Crystal - Hystria,4,false,164000000,Magic Crystal,Helmet,50,3
-15811,14,BON Magic Crystal - Hystria,4,false,159000000,Magic Crystal,Helmet,50,3
-15812,1,WON Magic Crystal - Hystria,4,false,54500000,Magic Crystal,Helmet,50,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+15008,Magic Crystal of Abundance - Patience,1,false,Magic Crystal,Helmet,50,3
+15010,Magic Crystal of Abundance - Resonance,1,false,Magic Crystal,Helmet,50,3
+15011,Magic Crystal of Nature - Swiftness,1,false,Magic Crystal,Helmet,50,3
+15013,Magic Crystal of Nature - Ascension,1,false,Magic Crystal,Helmet,50,3
+15019,Magic Crystal of Enchantment - Vision,1,false,Magic Crystal,Helmet,50,3
+15021,Magic Crystal of Perfection,3,false,Magic Crystal,Helmet,50,3
+15028,Magic Crystal of Nature - Endurance,1,false,Magic Crystal,Helmet,50,3
+15030,Magic Crystal of the Sun - Boulder,1,false,Magic Crystal,Helmet,50,3
+15034,Dim Magic Crystal: Karma,0,false,Magic Crystal,Helmet,50,3
+15035,Dim Magic Crystal: Combat,0,false,Magic Crystal,Helmet,50,3
+15036,Dim Magic Crystal: Gathering,0,false,Magic Crystal,Helmet,50,3
+15037,Dim Magic Crystal: Fishing,0,false,Magic Crystal,Helmet,50,3
+15038,Dim Magic Crystal: Hunting,0,false,Magic Crystal,Helmet,50,3
+15039,Dim Magic Crystal: Cooking,0,false,Magic Crystal,Helmet,50,3
+15040,Dim Magic Crystal: Alchemy,0,false,Magic Crystal,Helmet,50,3
+15041,Dim Magic Crystal: Processing,0,false,Magic Crystal,Helmet,50,3
+15042,Dim Magic Crystal: Training,0,false,Magic Crystal,Helmet,50,3
+15043,Dim Magic Crystal: Trade,0,false,Magic Crystal,Helmet,50,3
+15044,Dim Magic Crystal: Farming,0,false,Magic Crystal,Helmet,50,3
+15045,Dim Magic Crystal: Sailing,0,false,Magic Crystal,Helmet,50,3
+15108,Magic Crystal of Infinity - Patience,2,false,Magic Crystal,Helmet,50,3
+15110,Magic Crystal of Infinity - Resonance,2,false,Magic Crystal,Helmet,50,3
+15111,Magic Crystal of Infinity - Swiftness,2,false,Magic Crystal,Helmet,50,3
+15113,Magic Crystal of Infinity - Ascension,2,false,Magic Crystal,Helmet,50,3
+15114,Magic Crystal of Infinity - Descent,2,false,Magic Crystal,Helmet,50,3
+15115,Magic Crystal of Infinity - Endurance,2,false,Magic Crystal,Helmet,50,3
+15120,Magic Crystal of Infinity - Strength,2,false,Magic Crystal,Helmet,50,3
+15123,Magic Crystal of Infinity - Vision,2,false,Magic Crystal,Helmet,50,3
+15125,Magic Crystal of Infinity - Experience,2,false,Magic Crystal,Helmet,50,3
+15126,Magic Crystal of Infinity - Durability,2,false,Magic Crystal,Helmet,50,3
+15127,Magic Crystal of Infinity - Absorption,2,false,Magic Crystal,Helmet,50,3
+15128,Magic Crystal of Infinity - MP Recovery,2,false,Magic Crystal,Helmet,50,3
+15135,Magic Crystal of Infinity - Siege,2,false,Magic Crystal,Helmet,50,3
+15146,Magic Crystal of Infinity - Energy,2,false,Magic Crystal,Helmet,50,3
+15147,Magic Crystal of Infinity - Submergence,2,false,Magic Crystal,Helmet,50,3
+15156,Magic Crystal of Infinity - Skill,2,false,Magic Crystal,Helmet,50,3
+15213,Black Magic Crystal - Ascension,3,false,Magic Crystal,Helmet,50,3
+15214,Black Magic Crystal - Descent,3,false,Magic Crystal,Helmet,50,3
+15228,Life Crystal: Gathering,3,false,Magic Crystal,Helmet,50,3
+15229,Life Crystal: Fishing,3,false,Magic Crystal,Helmet,50,3
+15230,Life Crystal: Hunting,3,false,Magic Crystal,Helmet,50,3
+15231,Life Crystal: Cooking,3,false,Magic Crystal,Helmet,50,3
+15232,Life Crystal: Alchemy,3,false,Magic Crystal,Helmet,50,3
+15233,Life Crystal: Processing,3,false,Magic Crystal,Helmet,50,3
+15234,Life Crystal: Training,3,false,Magic Crystal,Helmet,50,3
+15235,Life Crystal: Trade,3,false,Magic Crystal,Helmet,50,3
+15236,Life Crystal: Farming,3,false,Magic Crystal,Helmet,50,3
+15237,Life Crystal: Sailing,3,false,Magic Crystal,Helmet,50,3
+15238,Life Crystal: Barter,3,false,Magic Crystal,Helmet,50,3
+15239,Vital Crystal: Gathering,3,false,Magic Crystal,Helmet,50,3
+15240,Vital Crystal: Fishing,3,false,Magic Crystal,Helmet,50,3
+15241,Vital Crystal: Hunting,3,false,Magic Crystal,Helmet,50,3
+15242,Vital Crystal: Cooking,3,false,Magic Crystal,Helmet,50,3
+15243,Vital Crystal: Alchemy,3,false,Magic Crystal,Helmet,50,3
+15244,Vital Crystal: Processing,3,false,Magic Crystal,Helmet,50,3
+15245,Vital Crystal: Training,3,false,Magic Crystal,Helmet,50,3
+15246,Vital Crystal: Sailing,3,false,Magic Crystal,Helmet,50,3
+15604,Ancient Magic Crystal - Hystria,4,false,Magic Crystal,Helmet,50,3
+15631,Black Magic Crystal - Hystria,4,false,Magic Crystal,Helmet,50,3
+15810,JIN Magic Crystal - Hystria,4,false,Magic Crystal,Helmet,50,3
+15811,BON Magic Crystal - Hystria,4,false,Magic Crystal,Helmet,50,3
+15812,WON Magic Crystal - Hystria,4,false,Magic Crystal,Helmet,50,3

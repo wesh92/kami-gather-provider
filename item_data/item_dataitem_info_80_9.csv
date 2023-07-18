@@ -1,32 +1,32 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-3101,48,[Manor] Janggu,2,false,1190000,Furniture,Others,80,9
-3102,167,Traditional Mattress,2,false,745000,Furniture,Others,80,9
-3103,6,Traditional Cushion,2,false,2220000,Furniture,Others,80,9
-3104,0,Traditional Long Pillow,2,false,1870000,Furniture,Others,80,9
-3105,0,Traditional Backrest,2,false,1890000,Furniture,Others,80,9
-3106,0,Traditional Pillow,2,false,1500000,Furniture,Others,80,9
-3107,854,[Manor] Seesaw,2,false,755000,Furniture,Others,80,9
-3109,0,[Manor] Sundial,2,false,4710000,Furniture,Others,80,9
-3111,0,Muntin Partition,2,false,1930000,Furniture,Others,80,9
-3116,0,High-quality Muntin Partition,2,false,2150000,Furniture,Others,80,9
-3153,0,[Manor] Straw Roll,2,false,4570000,Furniture,Others,80,9
-3166,0,Wooden Baduk Board,2,false,6300000,Furniture,Others,80,9
-3167,0,Black Baduk Stone,1,false,120000,Furniture,Others,80,9
-3168,0,White Baduk Stone,1,false,117000,Furniture,Others,80,9
-3170,0,Fish Wind Chime,2,false,2040000,Furniture,Others,80,9
-3183,0,Ink Wash Painting Folding Screen,2,false,7000000,Furniture,Others,80,9
-3184,0,Four-fold Muntin Screen,2,false,4840000,Furniture,Others,80,9
-3185,0,Six-fold Muntin Screen,2,false,6050000,Furniture,Others,80,9
-3203,0,Ink and Inkstone,2,false,2030000,Furniture,Others,80,9
-3204,0,Calligraphy Brush,1,false,585000,Furniture,Others,80,9
-3205,0,Round Brush Stand,1,false,695000,Furniture,Others,80,9
-3213,9,[Manor] Two Story Fireplace,3,false,11200000,Furniture,Others,80,9
-3254,0,Sagoonja Brush,1,false,498000,Furniture,Others,80,9
-24001,0,[Jukebox] Conch Shell,0,false,294000,Furniture,Others,80,9
-24509,0,Jade Starlight Forest Brazier,1,false,7850000,Furniture,Others,80,9
-24511,0,Eilton Horizontal Partition,1,false,3070000,Furniture,Others,80,9
-24519,0,Eilton Vertical Partition,1,false,7650000,Furniture,Others,80,9
-24529,0,[Manor] Jade Starlight Large Brazier,1,false,10400000,Furniture,Others,80,9
-24533,0,[Manor] Jade Starlight Pagoda Brazier,1,false,8050000,Furniture,Others,80,9
-24536,5,[Manor] Balacs Triangular Outdoor Tent,1,false,8050000,Furniture,Others,80,9
-25002,0,Caged Owl,1,false,46600,Furniture,Others,80,9
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+3101,[Manor] Janggu,2,false,Furniture,Others,80,9
+3102,Traditional Mattress,2,false,Furniture,Others,80,9
+3103,Traditional Cushion,2,false,Furniture,Others,80,9
+3104,Traditional Long Pillow,2,false,Furniture,Others,80,9
+3105,Traditional Backrest,2,false,Furniture,Others,80,9
+3106,Traditional Pillow,2,false,Furniture,Others,80,9
+3107,[Manor] Seesaw,2,false,Furniture,Others,80,9
+3109,[Manor] Sundial,2,false,Furniture,Others,80,9
+3111,Muntin Partition,2,false,Furniture,Others,80,9
+3116,High-quality Muntin Partition,2,false,Furniture,Others,80,9
+3153,[Manor] Straw Roll,2,false,Furniture,Others,80,9
+3166,Wooden Baduk Board,2,false,Furniture,Others,80,9
+3167,Black Baduk Stone,1,false,Furniture,Others,80,9
+3168,White Baduk Stone,1,false,Furniture,Others,80,9
+3170,Fish Wind Chime,2,false,Furniture,Others,80,9
+3183,Ink Wash Painting Folding Screen,2,false,Furniture,Others,80,9
+3184,Four-fold Muntin Screen,2,false,Furniture,Others,80,9
+3185,Six-fold Muntin Screen,2,false,Furniture,Others,80,9
+3203,Ink and Inkstone,2,false,Furniture,Others,80,9
+3204,Calligraphy Brush,1,false,Furniture,Others,80,9
+3205,Round Brush Stand,1,false,Furniture,Others,80,9
+3213,[Manor] Two Story Fireplace,3,false,Furniture,Others,80,9
+3254,Sagoonja Brush,1,false,Furniture,Others,80,9
+24001,[Jukebox] Conch Shell,0,false,Furniture,Others,80,9
+24509,Jade Starlight Forest Brazier,1,false,Furniture,Others,80,9
+24511,Eilton Horizontal Partition,1,false,Furniture,Others,80,9
+24519,Eilton Vertical Partition,1,false,Furniture,Others,80,9
+24529,[Manor] Jade Starlight Large Brazier,1,false,Furniture,Others,80,9
+24533,[Manor] Jade Starlight Pagoda Brazier,1,false,Furniture,Others,80,9
+24536,[Manor] Balacs Triangular Outdoor Tent,1,false,Furniture,Others,80,9
+25002,Caged Owl,1,false,Furniture,Others,80,9

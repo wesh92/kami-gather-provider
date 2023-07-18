@@ -1,61 +1,61 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-507,0,Melee Damage Reducer,0,false,93500,Consumables,Defensive Elixir,35,2
-508,0,Ranged Damage Reducer,0,false,93500,Consumables,Defensive Elixir,35,2
-509,0,Magic Damage Reducer,0,false,93500,Consumables,Defensive Elixir,35,2
-512,0,Grapple Resistance Enhancer,0,false,93500,Consumables,Defensive Elixir,35,2
-603,0,[Party] Elixir of Thorn,1,false,99000,Consumables,Defensive Elixir,35,2
-604,0,[Party] Elixir of Sharp Thorn,2,false,173000,Consumables,Defensive Elixir,35,2
-605,0,[Party] Resurrection Elixir,1,false,32500,Consumables,Defensive Elixir,35,2
-606,0,[Party] Strong Resurrection Elixir,2,false,53500,Consumables,Defensive Elixir,35,2
-619,0,[Party] Elixir of Energy,1,false,26300,Consumables,Defensive Elixir,35,2
-620,0,[Party] Surging Energy Elixir,2,false,93500,Consumables,Defensive Elixir,35,2
-639,0,[Party] Elixir of Will,1,false,58500,Consumables,Defensive Elixir,35,2
-640,0,[Party] Elixir of Remarkable Will,2,false,128000,Consumables,Defensive Elixir,35,2
-643,0,[Party] Elixir of Resistance,1,false,87500,Consumables,Defensive Elixir,35,2
-644,0,[Party] Elixir of Sharp Resistance,2,false,136000,Consumables,Defensive Elixir,35,2
-645,0,[Party] Elixir of Life,1,false,80000,Consumables,Defensive Elixir,35,2
-646,0,[Party] Elixir of Strong Life,2,false,201000,Consumables,Defensive Elixir,35,2
-647,0,[Party] Elixir of Mentality,1,false,20900,Consumables,Defensive Elixir,35,2
-648,0,[Party] Elixir of Clear Mentality,2,false,91500,Consumables,Defensive Elixir,35,2
-653,0,[Party] Defense Elixir,1,false,127000,Consumables,Defensive Elixir,35,2
-654,0,[Party] Elixir of Steel Defense,2,false,196000,Consumables,Defensive Elixir,35,2
-666,0,Elixir of Thorn,1,false,89500,Consumables,Defensive Elixir,35,2
-667,0,Elixir of Sharp Thorn,2,false,154000,Consumables,Defensive Elixir,35,2
-668,0,Resurrection Elixir,1,false,5750,Consumables,Defensive Elixir,35,2
-669,12241,Strong Resurrection Elixir,2,false,30100,Consumables,Defensive Elixir,35,2
-682,5007,Elixir of Energy,1,false,61500,Consumables,Defensive Elixir,35,2
-683,189,Surging Energy Elixir,2,false,54500,Consumables,Defensive Elixir,35,2
-702,33274,Elixir of Will,1,false,18700,Consumables,Defensive Elixir,35,2
-703,2326,Elixir of Remarkable Will,2,false,115000,Consumables,Defensive Elixir,35,2
-706,3267,Elixir of Resistance,1,false,20400,Consumables,Defensive Elixir,35,2
-707,0,Elixir of Sharp Resistance,2,false,121000,Consumables,Defensive Elixir,35,2
-708,942,Elixir of Life,1,false,57000,Consumables,Defensive Elixir,35,2
-709,0,Elixir of Strong Life,2,false,183000,Consumables,Defensive Elixir,35,2
-710,0,Elixir of Mentality,1,false,42300,Consumables,Defensive Elixir,35,2
-711,0,Elixir of Clear Mentality,2,false,73000,Consumables,Defensive Elixir,35,2
-716,16749,Defense Elixir,1,false,83500,Consumables,Defensive Elixir,35,2
-717,0,Elixir of Steel Defense,2,false,178000,Consumables,Defensive Elixir,35,2
-728,3653,Elixir of Burn Removal,1,false,660,Consumables,Defensive Elixir,35,2
-729,57,Antidote Elixir,1,false,525,Consumables,Defensive Elixir,35,2
-730,2515,Elixir of Hemostasis,1,false,820,Consumables,Defensive Elixir,35,2
-732,14,Whale Tendon Elixir,2,false,2630000,Consumables,Defensive Elixir,35,2
-733,6,Tough Whale Tendon Elixir,3,false,6600000,Consumables,Defensive Elixir,35,2
-737,869,[Party] Elixir of Burn Removal,1,false,10800,Consumables,Defensive Elixir,35,2
-738,960,[Party] Antidote Elixir,1,false,7500,Consumables,Defensive Elixir,35,2
-739,0,[Party] Elixir of Hemostasis,1,false,6350,Consumables,Defensive Elixir,35,2
-748,125,Khalk's Elixir,3,false,6650000,Consumables,Defensive Elixir,35,2
-770,0,[Mix] Thorn-Defense Elixir,2,false,515000,Consumables,Defensive Elixir,35,2
-782,0,Helix Elixir,1,false,118000,Consumables,Defensive Elixir,35,2
-783,0,Splendid Helix Elixir,2,false,241000,Consumables,Defensive Elixir,35,2
-784,0,[Party] Helix Elixir,1,false,136000,Consumables,Defensive Elixir,35,2
-785,0,[Party] Splendid Helix Elixir,2,false,266000,Consumables,Defensive Elixir,35,2
-798,0,Armor Draught,3,false,6750000,Consumables,Defensive Elixir,35,2
-876,0,Immortal: Armor Draught,3,false,5550000,Consumables,Defensive Elixir,35,2
-877,0,Immortal: Perfume of Charm,3,false,62000000,Consumables,Defensive Elixir,35,2
-1157,655,Elixir of Armor,1,false,1760000,Consumables,Defensive Elixir,35,2
-1160,0,Elixir of Corrupted Armor,2,false,2620000,Consumables,Defensive Elixir,35,2
-1161,0,Perfume of Charm,3,false,10400000,Consumables,Defensive Elixir,35,2
-1168,0,Immortal: Khalk's Elixir,3,false,73500000,Consumables,Defensive Elixir,35,2
-1356,0,[Party] Elixir of Armor,1,false,89000,Consumables,Defensive Elixir,35,2
-1359,0,[Party] Elixir of Corrupted Armor,2,false,348000,Consumables,Defensive Elixir,35,2
-1361,0,Sturdy Whale Tendon Elixir,3,false,37300000,Consumables,Defensive Elixir,35,2
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+507,Melee Damage Reducer,0,false,Consumables,Defensive Elixir,35,2
+508,Ranged Damage Reducer,0,false,Consumables,Defensive Elixir,35,2
+509,Magic Damage Reducer,0,false,Consumables,Defensive Elixir,35,2
+512,Grapple Resistance Enhancer,0,false,Consumables,Defensive Elixir,35,2
+603,[Party] Elixir of Thorn,1,false,Consumables,Defensive Elixir,35,2
+604,[Party] Elixir of Sharp Thorn,2,false,Consumables,Defensive Elixir,35,2
+605,[Party] Resurrection Elixir,1,false,Consumables,Defensive Elixir,35,2
+606,[Party] Strong Resurrection Elixir,2,false,Consumables,Defensive Elixir,35,2
+619,[Party] Elixir of Energy,1,false,Consumables,Defensive Elixir,35,2
+620,[Party] Surging Energy Elixir,2,false,Consumables,Defensive Elixir,35,2
+639,[Party] Elixir of Will,1,false,Consumables,Defensive Elixir,35,2
+640,[Party] Elixir of Remarkable Will,2,false,Consumables,Defensive Elixir,35,2
+643,[Party] Elixir of Resistance,1,false,Consumables,Defensive Elixir,35,2
+644,[Party] Elixir of Sharp Resistance,2,false,Consumables,Defensive Elixir,35,2
+645,[Party] Elixir of Life,1,false,Consumables,Defensive Elixir,35,2
+646,[Party] Elixir of Strong Life,2,false,Consumables,Defensive Elixir,35,2
+647,[Party] Elixir of Mentality,1,false,Consumables,Defensive Elixir,35,2
+648,[Party] Elixir of Clear Mentality,2,false,Consumables,Defensive Elixir,35,2
+653,[Party] Defense Elixir,1,false,Consumables,Defensive Elixir,35,2
+654,[Party] Elixir of Steel Defense,2,false,Consumables,Defensive Elixir,35,2
+666,Elixir of Thorn,1,false,Consumables,Defensive Elixir,35,2
+667,Elixir of Sharp Thorn,2,false,Consumables,Defensive Elixir,35,2
+668,Resurrection Elixir,1,false,Consumables,Defensive Elixir,35,2
+669,Strong Resurrection Elixir,2,false,Consumables,Defensive Elixir,35,2
+682,Elixir of Energy,1,false,Consumables,Defensive Elixir,35,2
+683,Surging Energy Elixir,2,false,Consumables,Defensive Elixir,35,2
+702,Elixir of Will,1,false,Consumables,Defensive Elixir,35,2
+703,Elixir of Remarkable Will,2,false,Consumables,Defensive Elixir,35,2
+706,Elixir of Resistance,1,false,Consumables,Defensive Elixir,35,2
+707,Elixir of Sharp Resistance,2,false,Consumables,Defensive Elixir,35,2
+708,Elixir of Life,1,false,Consumables,Defensive Elixir,35,2
+709,Elixir of Strong Life,2,false,Consumables,Defensive Elixir,35,2
+710,Elixir of Mentality,1,false,Consumables,Defensive Elixir,35,2
+711,Elixir of Clear Mentality,2,false,Consumables,Defensive Elixir,35,2
+716,Defense Elixir,1,false,Consumables,Defensive Elixir,35,2
+717,Elixir of Steel Defense,2,false,Consumables,Defensive Elixir,35,2
+728,Elixir of Burn Removal,1,false,Consumables,Defensive Elixir,35,2
+729,Antidote Elixir,1,false,Consumables,Defensive Elixir,35,2
+730,Elixir of Hemostasis,1,false,Consumables,Defensive Elixir,35,2
+732,Whale Tendon Elixir,2,false,Consumables,Defensive Elixir,35,2
+733,Tough Whale Tendon Elixir,3,false,Consumables,Defensive Elixir,35,2
+737,[Party] Elixir of Burn Removal,1,false,Consumables,Defensive Elixir,35,2
+738,[Party] Antidote Elixir,1,false,Consumables,Defensive Elixir,35,2
+739,[Party] Elixir of Hemostasis,1,false,Consumables,Defensive Elixir,35,2
+748,Khalk's Elixir,3,false,Consumables,Defensive Elixir,35,2
+770,[Mix] Thorn-Defense Elixir,2,false,Consumables,Defensive Elixir,35,2
+782,Helix Elixir,1,false,Consumables,Defensive Elixir,35,2
+783,Splendid Helix Elixir,2,false,Consumables,Defensive Elixir,35,2
+784,[Party] Helix Elixir,1,false,Consumables,Defensive Elixir,35,2
+785,[Party] Splendid Helix Elixir,2,false,Consumables,Defensive Elixir,35,2
+798,Armor Draught,3,false,Consumables,Defensive Elixir,35,2
+876,Immortal: Armor Draught,3,false,Consumables,Defensive Elixir,35,2
+877,Immortal: Perfume of Charm,3,false,Consumables,Defensive Elixir,35,2
+1157,Elixir of Armor,1,false,Consumables,Defensive Elixir,35,2
+1160,Elixir of Corrupted Armor,2,false,Consumables,Defensive Elixir,35,2
+1161,Perfume of Charm,3,false,Consumables,Defensive Elixir,35,2
+1168,Immortal: Khalk's Elixir,3,false,Consumables,Defensive Elixir,35,2
+1356,[Party] Elixir of Armor,1,false,Consumables,Defensive Elixir,35,2
+1359,[Party] Elixir of Corrupted Armor,2,false,Consumables,Defensive Elixir,35,2
+1361,Sturdy Whale Tendon Elixir,3,false,Consumables,Defensive Elixir,35,2

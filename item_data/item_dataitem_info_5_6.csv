@@ -1,10 +1,10 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-13103,10,Black Warrior Horn Bow,1,false,38100,Sub Weapon,Horn Bow,5,6
-13104,14,White Horn Bow,1,false,75500,Sub Weapon,Horn Bow,5,6
-13105,2,White Warrior Horn Bow,1,false,54000,Sub Weapon,Horn Bow,5,6
-13124,1,Krea Horn Bow,1,false,27200,Sub Weapon,Horn Bow,5,6
-13125,21,Rosar Horn Bow,1,false,261000,Sub Weapon,Horn Bow,5,6
-13138,12,Nouver Horn Bow,3,false,241000000,Sub Weapon,Horn Bow,5,6
-13140,1,Kutum Horn Bow,3,false,241000000,Sub Weapon,Horn Bow,5,6
-735006,4,Blackstar Horn Bow,4,false,458000000,Sub Weapon,Horn Bow,5,6
-738206,2,Godr-Ayed Horn Bow,4,true,12300000000,Sub Weapon,Horn Bow,5,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+13103,Black Warrior Horn Bow,1,false,Sub Weapon,Horn Bow,5,6
+13104,White Horn Bow,1,false,Sub Weapon,Horn Bow,5,6
+13105,White Warrior Horn Bow,1,false,Sub Weapon,Horn Bow,5,6
+13124,Krea Horn Bow,1,false,Sub Weapon,Horn Bow,5,6
+13125,Rosar Horn Bow,1,false,Sub Weapon,Horn Bow,5,6
+13138,Nouver Horn Bow,3,false,Sub Weapon,Horn Bow,5,6
+13140,Kutum Horn Bow,3,false,Sub Weapon,Horn Bow,5,6
+735006,Blackstar Horn Bow,4,false,Sub Weapon,Horn Bow,5,6
+738206,Godr-Ayed Horn Bow,4,true,Sub Weapon,Horn Bow,5,6

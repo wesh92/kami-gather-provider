@@ -1,10 +1,10 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-13503,110,Ascending Noble Sword,1,false,38100,Sub Weapon,Noble Sword,5,10
-13504,109,Crow Noble Sword,1,false,75500,Sub Weapon,Noble Sword,5,10
-13505,149,Mistress Noble Sword,1,false,54000,Sub Weapon,Noble Sword,5,10
-13524,134,Krea Noble Sword,1,false,27200,Sub Weapon,Noble Sword,5,10
-13525,10,Rosar Noble Sword,1,false,261000,Sub Weapon,Noble Sword,5,10
-13538,28,Nouver Noble Sword,3,false,241000000,Sub Weapon,Noble Sword,5,10
-13540,8,Kutum Noble Sword,3,false,241000000,Sub Weapon,Noble Sword,5,10
-735010,5,Blackstar Noble Sword,4,false,458000000,Sub Weapon,Noble Sword,5,10
-738210,2,Godr-Ayed Noble Sword,4,true,12300000000,Sub Weapon,Noble Sword,5,10
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+13503,Ascending Noble Sword,1,false,Sub Weapon,Noble Sword,5,10
+13504,Crow Noble Sword,1,false,Sub Weapon,Noble Sword,5,10
+13505,Mistress Noble Sword,1,false,Sub Weapon,Noble Sword,5,10
+13524,Krea Noble Sword,1,false,Sub Weapon,Noble Sword,5,10
+13525,Rosar Noble Sword,1,false,Sub Weapon,Noble Sword,5,10
+13538,Nouver Noble Sword,3,false,Sub Weapon,Noble Sword,5,10
+13540,Kutum Noble Sword,3,false,Sub Weapon,Noble Sword,5,10
+735010,Blackstar Noble Sword,4,false,Sub Weapon,Noble Sword,5,10
+738210,Godr-Ayed Noble Sword,4,true,Sub Weapon,Noble Sword,5,10

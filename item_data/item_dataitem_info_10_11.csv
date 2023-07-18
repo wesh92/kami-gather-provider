@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14801,7,Alloria Aad Sphera,2,false,1770000,Awakening Weapon,Aad Sphera,10,11
-14802,8,Dandelion Aad Sphera,3,false,241000000,Awakening Weapon,Aad Sphera,10,11
-14803,5,Pri Aad Sphera,1,false,107000,Awakening Weapon,Aad Sphera,10,11
-702511,0,Dragon Slayer Aad Sphera,3,false,91000000,Awakening Weapon,Aad Sphera,10,11
-702527,0,Hughol's Aad Sphera,2,false,52000000,Awakening Weapon,Aad Sphera,10,11
-731111,7,Blackstar Aad Sphera,4,false,497000000,Awakening Weapon,Aad Sphera,10,11
-736125,2,Godr-Ayed Aad Sphera,4,true,14000000000,Awakening Weapon,Aad Sphera,10,11
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14801,Alloria Aad Sphera,2,false,Awakening Weapon,Aad Sphera,10,11
+14802,Dandelion Aad Sphera,3,false,Awakening Weapon,Aad Sphera,10,11
+14803,Pri Aad Sphera,1,false,Awakening Weapon,Aad Sphera,10,11
+702511,Dragon Slayer Aad Sphera,3,false,Awakening Weapon,Aad Sphera,10,11
+702527,Hughol's Aad Sphera,2,false,Awakening Weapon,Aad Sphera,10,11
+731111,Blackstar Aad Sphera,4,false,Awakening Weapon,Aad Sphera,10,11
+736125,Godr-Ayed Aad Sphera,4,true,Awakening Weapon,Aad Sphera,10,11

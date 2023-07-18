@@ -1,65 +1,65 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-17904,0,White Valencian Cat,3,false,153000000,Pearl Items,Pet,55,8
-17905,0,Spotted Valencian Cat,3,false,153000000,Pearl Items,Pet,55,8
-17908,0,White Short-Hair Cat,3,false,153000000,Pearl Items,Pet,55,8
-17909,0,Black Valencian Cat,3,false,153000000,Pearl Items,Pet,55,8
-17910,0,Black Thin Cat,3,false,153000000,Pearl Items,Pet,55,8
-17939,0,Shaggy Dog,3,false,153000000,Pearl Items,Pet,55,8
-17940,0,Curly Dog,3,false,110000000,Pearl Items,Pet,55,8
-17941,0,Shepherd,3,false,153000000,Pearl Items,Pet,55,8
-17942,0,Fluffy Puppy,3,false,152000000,Pearl Items,Pet,55,8
-17944,0,Karlstein Cat,3,false,187000000,Pearl Items,Pet,55,8
-17945,0,Pila Fe Naughty Dog,3,false,186000000,Pearl Items,Pet,55,8
-17946,0,Brown Fighting Dog,3,false,153000000,Pearl Items,Pet,55,8
-17951,0,Batian Dog,3,false,115000000,Pearl Items,Pet,55,8
-17953,0,Snow Wolfdog,3,false,153000000,Pearl Items,Pet,55,8
-17959,0,Mediah Guard Dog,3,false,153000000,Pearl Items,Pet,55,8
-17961,0,Striped Cat,3,false,153000000,Pearl Items,Pet,55,8
-17962,0,Orange Brindle Cat,3,false,111000000,Pearl Items,Pet,55,8
-17963,0,Black Mask Cat,3,false,153000000,Pearl Items,Pet,55,8
-17964,0,Piebald Cat,3,false,121000000,Pearl Items,Pet,55,8
-17965,0,Gray Thin Cat,3,false,105000000,Pearl Items,Pet,55,8
-17966,0,Calpheon Chubby Dog,3,false,130000000,Pearl Items,Pet,55,8
-17967,0,Brown Fighting Dog,3,false,113000000,Pearl Items,Pet,55,8
-17968,0,Naughty Dog,3,false,153000000,Pearl Items,Pet,55,8
-17970,0,Kaia Racing Dog,3,false,96000000,Pearl Items,Pet,55,8
-17971,0,Brown Guide Hawk,3,false,187000000,Pearl Items,Pet,55,8
-17972,0,Gray Moon Cat,3,false,153000000,Pearl Items,Pet,55,8
-17974,0,Sky Hawk,3,false,187000000,Pearl Items,Pet,55,8
-17976,0,Desert Fox,3,false,187000000,Pearl Items,Pet,55,8
-17977,0,Junaid Cat,3,false,153000000,Pearl Items,Pet,55,8
-18067,0,Brown Cream Puppy,3,false,119000000,Pearl Items,Pet,55,8
-18068,0,Kaia Jackal,3,false,105000000,Pearl Items,Pet,55,8
-18081,0,Snowkid,3,false,187000000,Pearl Items,Pet,55,8
-18097,0,Long-Tailed Rosefinch,3,false,187000000,Pearl Items,Pet,55,8
-18098,0,Red Panda,3,false,187000000,Pearl Items,Pet,55,8
-18100,0,Scarlet Macaw,3,false,187000000,Pearl Items,Pet,55,8
-18410,0,Stoneback Crab,3,false,187000000,Pearl Items,Pet,55,8
-18421,0,Carmadun Owl,3,false,187000000,Pearl Items,Pet,55,8
-18425,0,Ribbon Cat,3,false,187000000,Pearl Items,Pet,55,8
-18426,0,Snowball Rosefinch,3,false,187000000,Pearl Items,Pet,55,8
-18427,0,Snowflake Rosefinch,3,false,187000000,Pearl Items,Pet,55,8
-18428,0,Choppy,3,false,187000000,Pearl Items,Pet,55,8
-18429,0,Young Griffon,3,false,187000000,Pearl Items,Pet,55,8
-18435,0,Turtle,3,false,187000000,Pearl Items,Pet,55,8
-18436,0,Little Lamb,3,false,187000000,Pearl Items,Pet,55,8
-18439,0,Crow,3,false,187000000,Pearl Items,Pet,55,8
-18946,0,Winter Snowflake Box,4,false,261000000,Pearl Items,Pet,55,8
-46868,0,Arctic Fox,3,false,306000000,Pearl Items,Pet,55,8
-46869,0,Emperor Hawk,3,false,187000000,Pearl Items,Pet,55,8
-46893,0,Haetae,3,false,153000000,Pearl Items,Pet,55,8
-47017,0,Flondor Duck,3,false,153000000,Pearl Items,Pet,55,8
-47019,0,Jojo,3,false,153000000,Pearl Items,Pet,55,8
-47028,0,Young Baphomet,3,false,187000000,Pearl Items,Pet,55,8
-47651,0,Phoniel Squirrel,3,false,153000000,Pearl Items,Pet,55,8
-48841,0,Clickety-clack 0910,3,false,187000000,Pearl Items,Pet,55,8
-49642,0,Fluffy,3,false,153000000,Pearl Items,Pet,55,8
-290006,0,Snowflake Reindeer Box,4,false,373000000,Pearl Items,Pet,55,8
-331001,0,Marmot,3,false,187000000,Pearl Items,Pet,55,8
-331002,0,Snowflake Reindeer,3,false,187000000,Pearl Items,Pet,55,8
-331006,0,Panda,3,false,187000000,Pearl Items,Pet,55,8
-331007,0,Ferret,3,false,187000000,Pearl Items,Pet,55,8
-331008,0,Welsh Corgi,3,false,187000000,Pearl Items,Pet,55,8
-331050,0,Shudad's Courier,3,false,187000000,Pearl Items,Pet,55,8
-331058,0,Otter,3,false,187000000,Pearl Items,Pet,55,8
-830104,0,Prankkebi,3,false,306000000,Pearl Items,Pet,55,8
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+17904,White Valencian Cat,3,false,Pearl Items,Pet,55,8
+17905,Spotted Valencian Cat,3,false,Pearl Items,Pet,55,8
+17908,White Short-Hair Cat,3,false,Pearl Items,Pet,55,8
+17909,Black Valencian Cat,3,false,Pearl Items,Pet,55,8
+17910,Black Thin Cat,3,false,Pearl Items,Pet,55,8
+17939,Shaggy Dog,3,false,Pearl Items,Pet,55,8
+17940,Curly Dog,3,false,Pearl Items,Pet,55,8
+17941,Shepherd,3,false,Pearl Items,Pet,55,8
+17942,Fluffy Puppy,3,false,Pearl Items,Pet,55,8
+17944,Karlstein Cat,3,false,Pearl Items,Pet,55,8
+17945,Pila Fe Naughty Dog,3,false,Pearl Items,Pet,55,8
+17946,Brown Fighting Dog,3,false,Pearl Items,Pet,55,8
+17951,Batian Dog,3,false,Pearl Items,Pet,55,8
+17953,Snow Wolfdog,3,false,Pearl Items,Pet,55,8
+17959,Mediah Guard Dog,3,false,Pearl Items,Pet,55,8
+17961,Striped Cat,3,false,Pearl Items,Pet,55,8
+17962,Orange Brindle Cat,3,false,Pearl Items,Pet,55,8
+17963,Black Mask Cat,3,false,Pearl Items,Pet,55,8
+17964,Piebald Cat,3,false,Pearl Items,Pet,55,8
+17965,Gray Thin Cat,3,false,Pearl Items,Pet,55,8
+17966,Calpheon Chubby Dog,3,false,Pearl Items,Pet,55,8
+17967,Brown Fighting Dog,3,false,Pearl Items,Pet,55,8
+17968,Naughty Dog,3,false,Pearl Items,Pet,55,8
+17970,Kaia Racing Dog,3,false,Pearl Items,Pet,55,8
+17971,Brown Guide Hawk,3,false,Pearl Items,Pet,55,8
+17972,Gray Moon Cat,3,false,Pearl Items,Pet,55,8
+17974,Sky Hawk,3,false,Pearl Items,Pet,55,8
+17976,Desert Fox,3,false,Pearl Items,Pet,55,8
+17977,Junaid Cat,3,false,Pearl Items,Pet,55,8
+18067,Brown Cream Puppy,3,false,Pearl Items,Pet,55,8
+18068,Kaia Jackal,3,false,Pearl Items,Pet,55,8
+18081,Snowkid,3,false,Pearl Items,Pet,55,8
+18097,Long-Tailed Rosefinch,3,false,Pearl Items,Pet,55,8
+18098,Red Panda,3,false,Pearl Items,Pet,55,8
+18100,Scarlet Macaw,3,false,Pearl Items,Pet,55,8
+18410,Stoneback Crab,3,false,Pearl Items,Pet,55,8
+18421,Carmadun Owl,3,false,Pearl Items,Pet,55,8
+18425,Ribbon Cat,3,false,Pearl Items,Pet,55,8
+18426,Snowball Rosefinch,3,false,Pearl Items,Pet,55,8
+18427,Snowflake Rosefinch,3,false,Pearl Items,Pet,55,8
+18428,Choppy,3,false,Pearl Items,Pet,55,8
+18429,Young Griffon,3,false,Pearl Items,Pet,55,8
+18435,Turtle,3,false,Pearl Items,Pet,55,8
+18436,Little Lamb,3,false,Pearl Items,Pet,55,8
+18439,Crow,3,false,Pearl Items,Pet,55,8
+18946,Winter Snowflake Box,4,false,Pearl Items,Pet,55,8
+46868,Arctic Fox,3,false,Pearl Items,Pet,55,8
+46869,Emperor Hawk,3,false,Pearl Items,Pet,55,8
+46893,Haetae,3,false,Pearl Items,Pet,55,8
+47017,Flondor Duck,3,false,Pearl Items,Pet,55,8
+47019,Jojo,3,false,Pearl Items,Pet,55,8
+47028,Young Baphomet,3,false,Pearl Items,Pet,55,8
+47651,Phoniel Squirrel,3,false,Pearl Items,Pet,55,8
+48841,Clickety-clack 0910,3,false,Pearl Items,Pet,55,8
+49642,Fluffy,3,false,Pearl Items,Pet,55,8
+290006,Snowflake Reindeer Box,4,false,Pearl Items,Pet,55,8
+331001,Marmot,3,false,Pearl Items,Pet,55,8
+331002,Snowflake Reindeer,3,false,Pearl Items,Pet,55,8
+331006,Panda,3,false,Pearl Items,Pet,55,8
+331007,Ferret,3,false,Pearl Items,Pet,55,8
+331008,Welsh Corgi,3,false,Pearl Items,Pet,55,8
+331050,Shudad's Courier,3,false,Pearl Items,Pet,55,8
+331058,Otter,3,false,Pearl Items,Pet,55,8
+830104,Prankkebi,3,false,Pearl Items,Pet,55,8

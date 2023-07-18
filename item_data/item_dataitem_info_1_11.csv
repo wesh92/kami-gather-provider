@@ -1,17 +1,17 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-13703,7,Elsh Crossbow,1,false,72000,Main Weapon,Crossbow,1,11
-13705,0,Azwell Crossbow,1,false,18900,Main Weapon,Crossbow,1,11
-13706,0,Ain Crossbow,1,false,377000,Main Weapon,Crossbow,1,11
-13707,49,Seleth Crossbow,1,false,73500,Main Weapon,Crossbow,1,11
-13709,20,Liverto Crossbow,2,false,5950000,Main Weapon,Crossbow,1,11
-13710,4,Kzarka Crossbow,3,false,241000000,Main Weapon,Crossbow,1,11
-13712,1,Kalis Crossbow,1,false,242000,Main Weapon,Crossbow,1,11
-13713,2,Bares Crossbow,1,false,267000,Main Weapon,Crossbow,1,11
-13714,26,Yuria Crossbow,1,false,246000,Main Weapon,Crossbow,1,11
-13756,22,Krea Crossbow,1,false,39500,Main Weapon,Crossbow,1,11
-13757,3,Rosar Crossbow,1,false,345000,Main Weapon,Crossbow,1,11
-13771,0,Styd Crossbow,1,false,23500,Main Weapon,Crossbow,1,11
-13772,1,Ultimate Styd Crossbow,2,false,55500,Main Weapon,Crossbow,1,11
-13786,4,Offin Tett's Radiant Crossbow,3,false,122000000,Main Weapon,Crossbow,1,11
-715021,6,Blackstar Crossbow,4,false,580000000,Main Weapon,Crossbow,1,11
-736025,2,Godr-Ayed Crossbow,4,true,11600000000,Main Weapon,Crossbow,1,11
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+13703,Elsh Crossbow,1,false,Main Weapon,Crossbow,1,11
+13705,Azwell Crossbow,1,false,Main Weapon,Crossbow,1,11
+13706,Ain Crossbow,1,false,Main Weapon,Crossbow,1,11
+13707,Seleth Crossbow,1,false,Main Weapon,Crossbow,1,11
+13709,Liverto Crossbow,2,false,Main Weapon,Crossbow,1,11
+13710,Kzarka Crossbow,3,false,Main Weapon,Crossbow,1,11
+13712,Kalis Crossbow,1,false,Main Weapon,Crossbow,1,11
+13713,Bares Crossbow,1,false,Main Weapon,Crossbow,1,11
+13714,Yuria Crossbow,1,false,Main Weapon,Crossbow,1,11
+13756,Krea Crossbow,1,false,Main Weapon,Crossbow,1,11
+13757,Rosar Crossbow,1,false,Main Weapon,Crossbow,1,11
+13771,Styd Crossbow,1,false,Main Weapon,Crossbow,1,11
+13772,Ultimate Styd Crossbow,2,false,Main Weapon,Crossbow,1,11
+13786,Offin Tett's Radiant Crossbow,3,false,Main Weapon,Crossbow,1,11
+715021,Blackstar Crossbow,4,false,Main Weapon,Crossbow,1,11
+736025,Godr-Ayed Crossbow,4,true,Main Weapon,Crossbow,1,11

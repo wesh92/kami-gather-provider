@@ -1,9 +1,9 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-3003,0,Bear Hide Carpet,1,false,2470000,Furniture,Floor/Carpet,80,6
-3120,0,Cloud Design Tapestry Carpet,2,false,2560000,Furniture,Floor/Carpet,80,6
-3152,0,[Manor] Straw Mat,2,false,8650000,Furniture,Floor/Carpet,80,6
-3402,0,Artisan's Bear Hide Carpet,2,false,2330000,Furniture,Floor/Carpet,80,6
-3502,0,Master's Bear Hide Carpet,3,false,2210000,Furniture,Floor/Carpet,80,6
-24502,0,Everfrost High-quality Carpet,1,false,4300000,Furniture,Floor/Carpet,80,6
-25129,0,Artisan's Special Bear Hide Carpet,2,false,8600000,Furniture,Floor/Carpet,80,6
-25159,0,Master's Special Bear Hide Carpet,3,false,25700000,Furniture,Floor/Carpet,80,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+3003,Bear Hide Carpet,1,false,Furniture,Floor/Carpet,80,6
+3120,Cloud Design Tapestry Carpet,2,false,Furniture,Floor/Carpet,80,6
+3152,[Manor] Straw Mat,2,false,Furniture,Floor/Carpet,80,6
+3402,Artisan's Bear Hide Carpet,2,false,Furniture,Floor/Carpet,80,6
+3502,Master's Bear Hide Carpet,3,false,Furniture,Floor/Carpet,80,6
+24502,Everfrost High-quality Carpet,1,false,Furniture,Floor/Carpet,80,6
+25129,Artisan's Special Bear Hide Carpet,2,false,Furniture,Floor/Carpet,80,6
+25159,Master's Special Bear Hide Carpet,3,false,Furniture,Floor/Carpet,80,6

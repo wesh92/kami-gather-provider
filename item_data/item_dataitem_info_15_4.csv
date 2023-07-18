@@ -1,17 +1,17 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-10812,44,Agerian Shoes,1,false,13600,Armor,Shoes,15,4
-10816,16,Taritas Shoes,1,false,21100,Armor,Shoes,15,4
-10820,67,Zereth Shoes,1,false,27200,Armor,Shoes,15,4
-10824,50,Talis Shoes,1,false,24200,Armor,Shoes,15,4
-10892,0,Dobart Shoes,1,false,20900,Armor,Shoes,15,4
-10936,18,Grunil Shoes,1,false,116000,Armor,Shoes,15,4
-10940,221,Rocaba Shoes,1,false,33100,Armor,Shoes,15,4
-11004,299,Hercules' Might Shoes,1,false,40500,Armor,Shoes,15,4
-11008,104,Heve's Strength Shoes,1,false,40600,Armor,Shoes,15,4
-11012,74,Fortuna's Luck Shoes,1,false,22700,Armor,Shoes,15,4
-11016,12,Muskan's Shoes,3,false,258000000,Armor,Shoes,15,4
-11073,118710,Lemoria Shoes,2,false,970000,Armor,Shoes,15,4
-11103,81,Urugon's Shoes,3,false,311000000,Armor,Shoes,15,4
-14104,0,Steel Taritas Shoes,1,false,209000,Armor,Shoes,15,4
-701014,7473,Akum Shoes,2,false,970000,Armor,Shoes,15,4
-719904,6,Blackstar Shoes,4,false,540000000,Armor,Shoes,15,4
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+10812,Agerian Shoes,1,false,Armor,Shoes,15,4
+10816,Taritas Shoes,1,false,Armor,Shoes,15,4
+10820,Zereth Shoes,1,false,Armor,Shoes,15,4
+10824,Talis Shoes,1,false,Armor,Shoes,15,4
+10892,Dobart Shoes,1,false,Armor,Shoes,15,4
+10936,Grunil Shoes,1,false,Armor,Shoes,15,4
+10940,Rocaba Shoes,1,false,Armor,Shoes,15,4
+11004,Hercules' Might Shoes,1,false,Armor,Shoes,15,4
+11008,Heve's Strength Shoes,1,false,Armor,Shoes,15,4
+11012,Fortuna's Luck Shoes,1,false,Armor,Shoes,15,4
+11016,Muskan's Shoes,3,false,Armor,Shoes,15,4
+11073,Lemoria Shoes,2,false,Armor,Shoes,15,4
+11103,Urugon's Shoes,3,false,Armor,Shoes,15,4
+14104,Steel Taritas Shoes,1,false,Armor,Shoes,15,4
+701014,Akum Shoes,2,false,Armor,Shoes,15,4
+719904,Blackstar Shoes,4,false,Armor,Shoes,15,4

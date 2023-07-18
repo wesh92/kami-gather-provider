@@ -1,14 +1,14 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-52801,0,Shabby Hide Stirrups,0,false,73000,Mount,Stirrups,65,6
-52802,8,Light Hide Stirrups,1,false,272000,Mount,Stirrups,65,6
-52803,0,Leather Combat Stirrups,1,false,291000,Mount,Stirrups,65,6
-52804,0,Light Leather Stirrups of Storm,1,false,1680000,Mount,Stirrups,65,6
-52805,0,Leather Stirrups of Fighting Spirit,1,false,535000,Mount,Stirrups,65,6
-52806,0,Granverre Leather Stirrups,2,false,87000000,Mount,Stirrups,65,6
-52809,0,Krogdalo's Stirrups - Earth,3,false,790000000,Mount,Stirrups,65,6
-52812,0,Krogdalo's Stirrups - Wind,3,false,1120000000,Mount,Stirrups,65,6
-52815,0,Krogdalo's Stirrups - Sea,3,false,1120000000,Mount,Stirrups,65,6
-52818,0,[Donkey] Light Leather Stirrups,1,false,272000,Mount,Stirrups,65,6
-52819,0,[Donkey] Shabby Leather Stirrups,0,false,74500,Mount,Stirrups,65,6
-52820,0,[Donkey] Leather Combat Stirrups,1,false,288000,Mount,Stirrups,65,6
-52822,0,[Donkey] Krogdalo's Stirrups,3,false,81000000,Mount,Stirrups,65,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+52801,Shabby Hide Stirrups,0,false,Mount,Stirrups,65,6
+52802,Light Hide Stirrups,1,false,Mount,Stirrups,65,6
+52803,Leather Combat Stirrups,1,false,Mount,Stirrups,65,6
+52804,Light Leather Stirrups of Storm,1,false,Mount,Stirrups,65,6
+52805,Leather Stirrups of Fighting Spirit,1,false,Mount,Stirrups,65,6
+52806,Granverre Leather Stirrups,2,false,Mount,Stirrups,65,6
+52809,Krogdalo's Stirrups - Earth,3,false,Mount,Stirrups,65,6
+52812,Krogdalo's Stirrups - Wind,3,false,Mount,Stirrups,65,6
+52815,Krogdalo's Stirrups - Sea,3,false,Mount,Stirrups,65,6
+52818,[Donkey] Light Leather Stirrups,1,false,Mount,Stirrups,65,6
+52819,[Donkey] Shabby Leather Stirrups,0,false,Mount,Stirrups,65,6
+52820,[Donkey] Leather Combat Stirrups,1,false,Mount,Stirrups,65,6
+52822,[Donkey] Krogdalo's Stirrups,3,false,Mount,Stirrups,65,6

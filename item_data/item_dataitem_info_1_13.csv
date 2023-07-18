@@ -1,17 +1,17 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-690506,15,Elsh Battle Axe,1,false,72000,Main Weapon,Battle Axe,1,13
-690508,1,Azwell Battle Axe,1,false,18900,Main Weapon,Battle Axe,1,13
-690509,0,Ain Battle Axe,1,false,377000,Main Weapon,Battle Axe,1,13
-690510,92,Seleth Battle Axe,1,false,73500,Main Weapon,Battle Axe,1,13
-690512,92,Liverto Battle Axe,2,false,5950000,Main Weapon,Battle Axe,1,13
-690513,10,Kzarka Battle Axe,3,false,241000000,Main Weapon,Battle Axe,1,13
-690515,0,Kalis Battle Axe,1,false,242000,Main Weapon,Battle Axe,1,13
-690516,0,Bares Battle Axe,1,false,267000,Main Weapon,Battle Axe,1,13
-690517,23,Yuria Battle Axe,1,false,246000,Main Weapon,Battle Axe,1,13
-690518,22,Krea Battle Axe,1,false,39500,Main Weapon,Battle Axe,1,13
-690519,7,Rosar Battle Axe,1,false,345000,Main Weapon,Battle Axe,1,13
-690520,0,Styd Battle Axe,1,false,23500,Main Weapon,Battle Axe,1,13
-690521,0,Ultimate Styd Battle Axe,2,false,55500,Main Weapon,Battle Axe,1,13
-690541,6,Offin Tett's Radiant Battle Axe,3,false,122000000,Main Weapon,Battle Axe,1,13
-690563,6,Blackstar Battle Axe,4,false,580000000,Main Weapon,Battle Axe,1,13
-736027,3,Godr-Ayed Battle Axe,4,true,11600000000,Main Weapon,Battle Axe,1,13
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+690506,Elsh Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690508,Azwell Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690509,Ain Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690510,Seleth Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690512,Liverto Battle Axe,2,false,Main Weapon,Battle Axe,1,13
+690513,Kzarka Battle Axe,3,false,Main Weapon,Battle Axe,1,13
+690515,Kalis Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690516,Bares Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690517,Yuria Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690518,Krea Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690519,Rosar Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690520,Styd Battle Axe,1,false,Main Weapon,Battle Axe,1,13
+690521,Ultimate Styd Battle Axe,2,false,Main Weapon,Battle Axe,1,13
+690541,Offin Tett's Radiant Battle Axe,3,false,Main Weapon,Battle Axe,1,13
+690563,Blackstar Battle Axe,4,false,Main Weapon,Battle Axe,1,13
+736027,Godr-Ayed Battle Axe,4,true,Main Weapon,Battle Axe,1,13

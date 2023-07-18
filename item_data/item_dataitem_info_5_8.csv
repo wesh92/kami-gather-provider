@@ -1,10 +1,10 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14603,29,Quitar Shuriken,1,false,38100,Sub Weapon,Shuriken,5,8
-14604,34,Estique Shuriken,1,false,75500,Sub Weapon,Shuriken,5,8
-14605,7,Tadd Shuriken,1,false,54000,Sub Weapon,Shuriken,5,8
-14624,9,Krea Shuriken,1,false,27200,Sub Weapon,Shuriken,5,8
-14625,32,Rosar Shuriken,1,false,261000,Sub Weapon,Shuriken,5,8
-14638,8,Nouver Shuriken,3,false,241000000,Sub Weapon,Shuriken,5,8
-14640,11,Kutum Shuriken,3,false,241000000,Sub Weapon,Shuriken,5,8
-735008,2,Blackstar Shuriken,4,false,458000000,Sub Weapon,Shuriken,5,8
-738208,2,Godr-Ayed Shuriken,4,true,12300000000,Sub Weapon,Shuriken,5,8
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14603,Quitar Shuriken,1,false,Sub Weapon,Shuriken,5,8
+14604,Estique Shuriken,1,false,Sub Weapon,Shuriken,5,8
+14605,Tadd Shuriken,1,false,Sub Weapon,Shuriken,5,8
+14624,Krea Shuriken,1,false,Sub Weapon,Shuriken,5,8
+14625,Rosar Shuriken,1,false,Sub Weapon,Shuriken,5,8
+14638,Nouver Shuriken,3,false,Sub Weapon,Shuriken,5,8
+14640,Kutum Shuriken,3,false,Sub Weapon,Shuriken,5,8
+735008,Blackstar Shuriken,4,false,Sub Weapon,Shuriken,5,8
+738208,Godr-Ayed Shuriken,4,true,Sub Weapon,Shuriken,5,8

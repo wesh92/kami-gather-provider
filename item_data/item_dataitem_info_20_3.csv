@@ -1,43 +1,43 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-11801,49,Yuria Earring,1,false,32600,Accessory,Earring,20,3
-11802,128,Bares Earring,1,false,30200,Accessory,Earring,20,3
-11803,51,Hesus Earring,1,false,49600,Accessory,Earring,20,3
-11804,49,Elisha Earring,1,false,30200,Accessory,Earring,20,3
-11805,74,Kalis Earring,1,false,35800,Accessory,Earring,20,3
-11806,66,Talis Earring,1,false,99000,Accessory,Earring,20,3
-11807,0,Token of Friendship,2,false,10900000,Accessory,Earring,20,3
-11808,41,Witch's Earring,2,false,2660000,Accessory,Earring,20,3
-11810,23,Mesto Earring,2,false,1220000,Accessory,Earring,20,3
-11811,43,Ridell Earring,2,false,1150000,Accessory,Earring,20,3
-11815,73,Blue Whale Molar Earring,2,false,51000000,Accessory,Earring,20,3
-11816,240,Blue Coral Earring,2,false,4040000,Accessory,Earring,20,3
-11817,68,Red Coral Earring,2,false,19500000,Accessory,Earring,20,3
-11827,1,Fugitive Khalk's Earring,2,false,65000000,Accessory,Earring,20,3
-11828,261,Tungrad Earring,3,false,83000000,Accessory,Earring,20,3
-11834,32,Narc Ear Accessory,3,false,48300000,Accessory,Earring,20,3
-11853,108,Black Distortion Earring,3,false,319000000,Accessory,Earring,20,3
-11855,68,Dawn Earring,3,false,319000000,Accessory,Earring,20,3
-11856,79,Ethereal Earring,3,false,107000000,Accessory,Earring,20,3
-11875,35,Vaha's Dawn,3,false,319000000,Accessory,Earring,20,3
-11882,0,Deboreka Earring,3,false,489000000,Accessory,Earring,20,3
-11901,0,Ruby Earrings,0,false,5350,Accessory,Earring,20,3
-11902,0,Resplendent Ruby Earrings,0,false,41900,Accessory,Earring,20,3
-11903,0,Blood Ruby Earrings,1,false,107000,Accessory,Earring,20,3
-11904,0,Dark Blood Ruby Earrings,2,false,349000,Accessory,Earring,20,3
-11905,0,Corrupt Ruby Earrings,3,false,2630000,Accessory,Earring,20,3
-11906,0,Sapphire Earring,0,false,10100,Accessory,Earring,20,3
-11907,0,Resplendent Sapphire Earring,0,false,50500,Accessory,Earring,20,3
-11908,0,Ocean Sapphire Earring,1,false,101000,Accessory,Earring,20,3
-11909,0,Translucent Ocean Sapphire Earring,2,false,349000,Accessory,Earring,20,3
-11910,0,Sapphire Earring of Storms,3,false,2500000,Accessory,Earring,20,3
-11911,0,Topaz Earrings,0,false,10100,Accessory,Earring,20,3
-11912,0,Resplendent Topaz Earrings,0,false,50500,Accessory,Earring,20,3
-11913,0,Gold Topaz Earrings,1,false,105000,Accessory,Earring,20,3
-11914,0,Shining Gold Topaz Earrings,2,false,349000,Accessory,Earring,20,3
-11915,0,Topaz Earrings of Regeneration,3,false,2630000,Accessory,Earring,20,3
-11926,55,Manos Ruby Earring,3,false,13900000,Accessory,Earring,20,3
-11927,7,Manos Sapphire Earring,3,false,18200000,Accessory,Earring,20,3
-11928,0,Manos Topaz Earring,3,false,13900000,Accessory,Earring,20,3
-705502,54,Loggia Earring,1,false,820000,Accessory,Earring,20,3
-705506,23,Geranoa Earring,2,false,8200000,Accessory,Earring,20,3
-705510,255,Manos Earring,4,false,241000000,Accessory,Earring,20,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+11801,Yuria Earring,1,false,Accessory,Earring,20,3
+11802,Bares Earring,1,false,Accessory,Earring,20,3
+11803,Hesus Earring,1,false,Accessory,Earring,20,3
+11804,Elisha Earring,1,false,Accessory,Earring,20,3
+11805,Kalis Earring,1,false,Accessory,Earring,20,3
+11806,Talis Earring,1,false,Accessory,Earring,20,3
+11807,Token of Friendship,2,false,Accessory,Earring,20,3
+11808,Witch's Earring,2,false,Accessory,Earring,20,3
+11810,Mesto Earring,2,false,Accessory,Earring,20,3
+11811,Ridell Earring,2,false,Accessory,Earring,20,3
+11815,Blue Whale Molar Earring,2,false,Accessory,Earring,20,3
+11816,Blue Coral Earring,2,false,Accessory,Earring,20,3
+11817,Red Coral Earring,2,false,Accessory,Earring,20,3
+11827,Fugitive Khalk's Earring,2,false,Accessory,Earring,20,3
+11828,Tungrad Earring,3,false,Accessory,Earring,20,3
+11834,Narc Ear Accessory,3,false,Accessory,Earring,20,3
+11853,Black Distortion Earring,3,false,Accessory,Earring,20,3
+11855,Dawn Earring,3,false,Accessory,Earring,20,3
+11856,Ethereal Earring,3,false,Accessory,Earring,20,3
+11875,Vaha's Dawn,3,false,Accessory,Earring,20,3
+11882,Deboreka Earring,3,false,Accessory,Earring,20,3
+11901,Ruby Earrings,0,false,Accessory,Earring,20,3
+11902,Resplendent Ruby Earrings,0,false,Accessory,Earring,20,3
+11903,Blood Ruby Earrings,1,false,Accessory,Earring,20,3
+11904,Dark Blood Ruby Earrings,2,false,Accessory,Earring,20,3
+11905,Corrupt Ruby Earrings,3,false,Accessory,Earring,20,3
+11906,Sapphire Earring,0,false,Accessory,Earring,20,3
+11907,Resplendent Sapphire Earring,0,false,Accessory,Earring,20,3
+11908,Ocean Sapphire Earring,1,false,Accessory,Earring,20,3
+11909,Translucent Ocean Sapphire Earring,2,false,Accessory,Earring,20,3
+11910,Sapphire Earring of Storms,3,false,Accessory,Earring,20,3
+11911,Topaz Earrings,0,false,Accessory,Earring,20,3
+11912,Resplendent Topaz Earrings,0,false,Accessory,Earring,20,3
+11913,Gold Topaz Earrings,1,false,Accessory,Earring,20,3
+11914,Shining Gold Topaz Earrings,2,false,Accessory,Earring,20,3
+11915,Topaz Earrings of Regeneration,3,false,Accessory,Earring,20,3
+11926,Manos Ruby Earring,3,false,Accessory,Earring,20,3
+11927,Manos Sapphire Earring,3,false,Accessory,Earring,20,3
+11928,Manos Topaz Earring,3,false,Accessory,Earring,20,3
+705502,Loggia Earring,1,false,Accessory,Earring,20,3
+705506,Geranoa Earring,2,false,Accessory,Earring,20,3
+705510,Manos Earring,4,false,Accessory,Earring,20,3

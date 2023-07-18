@@ -1,32 +1,32 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-2002,0,Heidelian Handcrafted High-Quality Drawers,1,false,221000,Furniture,Bedside Table/Table,80,2
-2004,0,Velian Handcrafted High-Quality Drawers,1,false,149000,Furniture,Bedside Table/Table,80,2
-2006,0,Calpheon Handcrafted Drawer,1,false,270000,Furniture,Bedside Table/Table,80,2
-2008,0,Mediahn Handcrafted Drawers,1,false,382000,Furniture,Bedside Table/Table,80,2
-2010,0,Mediahn Handcrafted Bedside Table,1,false,182000,Furniture,Bedside Table/Table,80,2
-2012,0,Heidelian Handcrafted High-Quality Bedside Table,1,false,160000,Furniture,Bedside Table/Table,80,2
-2014,0,Velian Handcrafted High-Quality Bedside Table,1,false,140000,Furniture,Bedside Table/Table,80,2
-2016,0,Calpheon Handcrafted Cabinet,1,false,187000,Furniture,Bedside Table/Table,80,2
-2018,0,Valencian Handcrafted Drawers,1,false,424000,Furniture,Bedside Table/Table,80,2
-2020,0,Valencian Handcrafted Bedside Table,1,false,303000,Furniture,Bedside Table/Table,80,2
-2022,0,O'draxxia High-Quality Bedside Table,2,false,8400000,Furniture,Bedside Table/Table,80,2
-2023,0,O'draxxia Drawers,2,false,8400000,Furniture,Bedside Table/Table,80,2
-2202,0,Heidelian Handcrafted Dining Table,1,false,168000,Furniture,Bedside Table/Table,80,2
-2204,0,Velian Handcrafted Dining Table,1,false,136000,Furniture,Bedside Table/Table,80,2
-2206,0,Calpheon Handcrafted Dining Table,1,false,185000,Furniture,Bedside Table/Table,80,2
-2208,0,Mediahn Handcrafted Dining Table,1,false,312000,Furniture,Bedside Table/Table,80,2
-2210,0,Mediahn Handcrafted Table,1,false,289000,Furniture,Bedside Table/Table,80,2
-2212,5,Heidelian Handcrafted Table,1,false,229000,Furniture,Bedside Table/Table,80,2
-2214,0,Velian Handcrafted Table,1,false,238000,Furniture,Bedside Table/Table,80,2
-2216,0,Calpheon Handcrafted Table,1,false,277000,Furniture,Bedside Table/Table,80,2
-2218,0,Valencian Handcrafted Dining Table,1,false,280000,Furniture,Bedside Table/Table,80,2
-2220,0,Valencian Handmade Table,1,false,261000,Furniture,Bedside Table/Table,80,2
-2223,0,O'draxxia Hardwood Dining Table,2,false,1960000,Furniture,Bedside Table/Table,80,2
-2224,0,O'draxxia Fragrant Octagonal Dining Table,2,false,7800000,Furniture,Bedside Table/Table,80,2
-3114,0,High-quality Nacre Dresser,2,false,4360000,Furniture,Bedside Table/Table,80,2
-3172,0,Four-tiered Luxury Wide Cabinet,3,false,6500000,Furniture,Bedside Table/Table,80,2
-3173,0,Four-tiered Wide Cabinet,3,false,6550000,Furniture,Bedside Table/Table,80,2
-3174,0,Corner Decorated Cabinet,2,false,5100000,Furniture,Bedside Table/Table,80,2
-3175,0,High-quality Nacre Cabinet,2,false,5450000,Furniture,Bedside Table/Table,80,2
-24506,0,Everfrost High-quality Bedside Table,1,false,2810000,Furniture,Bedside Table/Table,80,2
-24535,0,Vatu's High-quality Dining Table,1,false,2590000,Furniture,Bedside Table/Table,80,2
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+2002,Heidelian Handcrafted High-Quality Drawers,1,false,Furniture,Bedside Table/Table,80,2
+2004,Velian Handcrafted High-Quality Drawers,1,false,Furniture,Bedside Table/Table,80,2
+2006,Calpheon Handcrafted Drawer,1,false,Furniture,Bedside Table/Table,80,2
+2008,Mediahn Handcrafted Drawers,1,false,Furniture,Bedside Table/Table,80,2
+2010,Mediahn Handcrafted Bedside Table,1,false,Furniture,Bedside Table/Table,80,2
+2012,Heidelian Handcrafted High-Quality Bedside Table,1,false,Furniture,Bedside Table/Table,80,2
+2014,Velian Handcrafted High-Quality Bedside Table,1,false,Furniture,Bedside Table/Table,80,2
+2016,Calpheon Handcrafted Cabinet,1,false,Furniture,Bedside Table/Table,80,2
+2018,Valencian Handcrafted Drawers,1,false,Furniture,Bedside Table/Table,80,2
+2020,Valencian Handcrafted Bedside Table,1,false,Furniture,Bedside Table/Table,80,2
+2022,O'draxxia High-Quality Bedside Table,2,false,Furniture,Bedside Table/Table,80,2
+2023,O'draxxia Drawers,2,false,Furniture,Bedside Table/Table,80,2
+2202,Heidelian Handcrafted Dining Table,1,false,Furniture,Bedside Table/Table,80,2
+2204,Velian Handcrafted Dining Table,1,false,Furniture,Bedside Table/Table,80,2
+2206,Calpheon Handcrafted Dining Table,1,false,Furniture,Bedside Table/Table,80,2
+2208,Mediahn Handcrafted Dining Table,1,false,Furniture,Bedside Table/Table,80,2
+2210,Mediahn Handcrafted Table,1,false,Furniture,Bedside Table/Table,80,2
+2212,Heidelian Handcrafted Table,1,false,Furniture,Bedside Table/Table,80,2
+2214,Velian Handcrafted Table,1,false,Furniture,Bedside Table/Table,80,2
+2216,Calpheon Handcrafted Table,1,false,Furniture,Bedside Table/Table,80,2
+2218,Valencian Handcrafted Dining Table,1,false,Furniture,Bedside Table/Table,80,2
+2220,Valencian Handmade Table,1,false,Furniture,Bedside Table/Table,80,2
+2223,O'draxxia Hardwood Dining Table,2,false,Furniture,Bedside Table/Table,80,2
+2224,O'draxxia Fragrant Octagonal Dining Table,2,false,Furniture,Bedside Table/Table,80,2
+3114,High-quality Nacre Dresser,2,false,Furniture,Bedside Table/Table,80,2
+3172,Four-tiered Luxury Wide Cabinet,3,false,Furniture,Bedside Table/Table,80,2
+3173,Four-tiered Wide Cabinet,3,false,Furniture,Bedside Table/Table,80,2
+3174,Corner Decorated Cabinet,2,false,Furniture,Bedside Table/Table,80,2
+3175,High-quality Nacre Cabinet,2,false,Furniture,Bedside Table/Table,80,2
+24506,Everfrost High-quality Bedside Table,1,false,Furniture,Bedside Table/Table,80,2
+24535,Vatu's High-quality Dining Table,1,false,Furniture,Bedside Table/Table,80,2

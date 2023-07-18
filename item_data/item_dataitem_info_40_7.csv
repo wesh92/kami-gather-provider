@@ -1,15 +1,15 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-12831,553,Crio's Fishing Chair,1,false,995000,Life Tools,Fishing Tools,40,7
-16147,0,Thick Fishing Rod,1,false,6500,Life Tools,Fishing Tools,40,7
-16150,0,Old Fishing Rod,0,false,2460,Life Tools,Fishing Tools,40,7
-16151,0,Steel Fishing Rod,2,false,134000,Life Tools,Fishing Tools,40,7
-16152,257,Golden Fishing Rod,3,false,1070000,Life Tools,Fishing Tools,40,7
-16153,0,Triple-Float Fishing Rod,3,false,8700000,Life Tools,Fishing Tools,40,7
-16154,3570,Thin Harpoon,1,false,9700,Life Tools,Fishing Tools,40,7
-16155,98,Thick Harpoon,2,false,343000,Life Tools,Fishing Tools,40,7
-16162,0,Balenos Fishing Rod,2,false,1180000,Life Tools,Fishing Tools,40,7
-16163,0,Epheria Fishing Rod,2,false,1220000,Life Tools,Fishing Tools,40,7
-16164,106,Calpheon Fishing Rod,2,false,3630000,Life Tools,Fishing Tools,40,7
-16165,118,Mediah Fishing Rod,2,false,4140000,Life Tools,Fishing Tools,40,7
-16167,88,Ash Tree Float,2,false,3780000,Life Tools,Fishing Tools,40,7
-16168,133,Maple Float,2,false,3910000,Life Tools,Fishing Tools,40,7
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+12831,Crio's Fishing Chair,1,false,Life Tools,Fishing Tools,40,7
+16147,Thick Fishing Rod,1,false,Life Tools,Fishing Tools,40,7
+16150,Old Fishing Rod,0,false,Life Tools,Fishing Tools,40,7
+16151,Steel Fishing Rod,2,false,Life Tools,Fishing Tools,40,7
+16152,Golden Fishing Rod,3,false,Life Tools,Fishing Tools,40,7
+16153,Triple-Float Fishing Rod,3,false,Life Tools,Fishing Tools,40,7
+16154,Thin Harpoon,1,false,Life Tools,Fishing Tools,40,7
+16155,Thick Harpoon,2,false,Life Tools,Fishing Tools,40,7
+16162,Balenos Fishing Rod,2,false,Life Tools,Fishing Tools,40,7
+16163,Epheria Fishing Rod,2,false,Life Tools,Fishing Tools,40,7
+16164,Calpheon Fishing Rod,2,false,Life Tools,Fishing Tools,40,7
+16165,Mediah Fishing Rod,2,false,Life Tools,Fishing Tools,40,7
+16167,Ash Tree Float,2,false,Life Tools,Fishing Tools,40,7
+16168,Maple Float,2,false,Life Tools,Fishing Tools,40,7

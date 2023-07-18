@@ -1,17 +1,17 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-13203,4,Elsh Shortsword,1,false,72000,Main Weapon,Shortsword,1,5
-13205,1,Azwell Shortsword,1,false,18900,Main Weapon,Shortsword,1,5
-13206,0,Ain Shortsword,1,false,377000,Main Weapon,Shortsword,1,5
-13207,51,Seleth Shortsword,1,false,73500,Main Weapon,Shortsword,1,5
-13209,18,Liverto Shortsword,2,false,5950000,Main Weapon,Shortsword,1,5
-13210,10,Kzarka Shortsword,3,false,241000000,Main Weapon,Shortsword,1,5
-13212,0,Kalis Shortsword,1,false,242000,Main Weapon,Shortsword,1,5
-13213,2,Bares Shortsword,1,false,267000,Main Weapon,Shortsword,1,5
-13214,24,Yuria Shortsword,1,false,246000,Main Weapon,Shortsword,1,5
-13256,16,Krea Shortsword,1,false,39500,Main Weapon,Shortsword,1,5
-13257,2,Rosar Shortsword,1,false,345000,Main Weapon,Shortsword,1,5
-13271,0,Styd Shortsword,1,false,23500,Main Weapon,Shortsword,1,5
-13272,0,Ultimate Styd Shortsword,2,false,55500,Main Weapon,Shortsword,1,5
-13286,0,Offin Tett's Radiant Shortsword,3,false,122000000,Main Weapon,Shortsword,1,5
-715009,12,Blackstar Shortsword,4,false,580000000,Main Weapon,Shortsword,1,5
-736019,4,Godr-Ayed Shortsword,4,true,11600000000,Main Weapon,Shortsword,1,5
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+13203,Elsh Shortsword,1,false,Main Weapon,Shortsword,1,5
+13205,Azwell Shortsword,1,false,Main Weapon,Shortsword,1,5
+13206,Ain Shortsword,1,false,Main Weapon,Shortsword,1,5
+13207,Seleth Shortsword,1,false,Main Weapon,Shortsword,1,5
+13209,Liverto Shortsword,2,false,Main Weapon,Shortsword,1,5
+13210,Kzarka Shortsword,3,false,Main Weapon,Shortsword,1,5
+13212,Kalis Shortsword,1,false,Main Weapon,Shortsword,1,5
+13213,Bares Shortsword,1,false,Main Weapon,Shortsword,1,5
+13214,Yuria Shortsword,1,false,Main Weapon,Shortsword,1,5
+13256,Krea Shortsword,1,false,Main Weapon,Shortsword,1,5
+13257,Rosar Shortsword,1,false,Main Weapon,Shortsword,1,5
+13271,Styd Shortsword,1,false,Main Weapon,Shortsword,1,5
+13272,Ultimate Styd Shortsword,2,false,Main Weapon,Shortsword,1,5
+13286,Offin Tett's Radiant Shortsword,3,false,Main Weapon,Shortsword,1,5
+715009,Blackstar Shortsword,4,false,Main Weapon,Shortsword,1,5
+736019,Godr-Ayed Shortsword,4,true,Main Weapon,Shortsword,1,5

@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14731,4,Heiress's Kamasylven Sword,2,false,1770000,Awakening Weapon,Kamasylven Sword,10,4
-14732,17,Dandelion Kamasylven Sword,3,false,241000000,Awakening Weapon,Kamasylven Sword,10,4
-14733,8,Small Tree Spirit's Kamasylven Sword,1,false,107000,Awakening Weapon,Kamasylven Sword,10,4
-702504,0,Dragon Slayer Kamasylven Sword,3,false,91000000,Awakening Weapon,Kamasylven Sword,10,4
-702520,0,Hughol's Kamasylven Sword,2,false,52000000,Awakening Weapon,Kamasylven Sword,10,4
-731104,4,Blackstar Kamasylven Sword,4,false,497000000,Awakening Weapon,Kamasylven Sword,10,4
-736118,0,Godr-Ayed Kamasylven Sword,4,true,14000000000,Awakening Weapon,Kamasylven Sword,10,4
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14731,Heiress's Kamasylven Sword,2,false,Awakening Weapon,Kamasylven Sword,10,4
+14732,Dandelion Kamasylven Sword,3,false,Awakening Weapon,Kamasylven Sword,10,4
+14733,Small Tree Spirit's Kamasylven Sword,1,false,Awakening Weapon,Kamasylven Sword,10,4
+702504,Dragon Slayer Kamasylven Sword,3,false,Awakening Weapon,Kamasylven Sword,10,4
+702520,Hughol's Kamasylven Sword,2,false,Awakening Weapon,Kamasylven Sword,10,4
+731104,Blackstar Kamasylven Sword,4,false,Awakening Weapon,Kamasylven Sword,10,4
+736118,Godr-Ayed Kamasylven Sword,4,true,Awakening Weapon,Kamasylven Sword,10,4

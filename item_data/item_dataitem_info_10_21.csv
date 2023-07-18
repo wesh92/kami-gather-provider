@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-730902,1002,Dark Thorn Sting,2,false,1770000,Awakening Weapon,Sting,10,21
-730903,8,Dandelion Sting,3,false,241000000,Awakening Weapon,Sting,10,21
-730904,85,Crimson Thorn Sting,1,false,107000,Awakening Weapon,Sting,10,21
-730913,0,Dragon Slayer Sting,3,false,91000000,Awakening Weapon,Sting,10,21
-730914,0,Hughol's Sting,2,false,52000000,Awakening Weapon,Sting,10,21
-731120,3,Blackstar Sting,4,false,497000000,Awakening Weapon,Sting,10,21
-736134,1,Godr-Ayed Sting,4,true,14000000000,Awakening Weapon,Sting,10,21
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+730902,Dark Thorn Sting,2,false,Awakening Weapon,Sting,10,21
+730903,Dandelion Sting,3,false,Awakening Weapon,Sting,10,21
+730904,Crimson Thorn Sting,1,false,Awakening Weapon,Sting,10,21
+730913,Dragon Slayer Sting,3,false,Awakening Weapon,Sting,10,21
+730914,Hughol's Sting,2,false,Awakening Weapon,Sting,10,21
+731120,Blackstar Sting,4,false,Awakening Weapon,Sting,10,21
+736134,Godr-Ayed Sting,4,true,Awakening Weapon,Sting,10,21

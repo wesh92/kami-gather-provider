@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-13901,0,Greatbow of Fate,1,false,107000,Awakening Weapon,Greatbow,10,17
-13902,1,Saiphir Greatbow,2,false,1770000,Awakening Weapon,Greatbow,10,17
-13903,7,Dandelion Greatbow,3,false,241000000,Awakening Weapon,Greatbow,10,17
-702533,0,Dragon Slayer Greatbow,3,false,91000000,Awakening Weapon,Greatbow,10,17
-702534,0,Hughol's Greatbow,2,false,52000000,Awakening Weapon,Greatbow,10,17
-731116,2,Blackstar Greatbow,4,false,497000000,Awakening Weapon,Greatbow,10,17
-736130,1,Godr-Ayed Greatbow,4,true,14000000000,Awakening Weapon,Greatbow,10,17
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+13901,Greatbow of Fate,1,false,Awakening Weapon,Greatbow,10,17
+13902,Saiphir Greatbow,2,false,Awakening Weapon,Greatbow,10,17
+13903,Dandelion Greatbow,3,false,Awakening Weapon,Greatbow,10,17
+702533,Dragon Slayer Greatbow,3,false,Awakening Weapon,Greatbow,10,17
+702534,Hughol's Greatbow,2,false,Awakening Weapon,Greatbow,10,17
+731116,Blackstar Greatbow,4,false,Awakening Weapon,Greatbow,10,17
+736130,Godr-Ayed Greatbow,4,true,Awakening Weapon,Greatbow,10,17

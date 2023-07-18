@@ -1,762 +1,762 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-19890,0,[Tamer] Rising Dragon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-20199,0,[Kunoichi] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-20200,0,[Kunoichi] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-20450,0,[Maehwa] Rising Dragon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-20458,0,[Maehwa] Scarlet Destiny Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-20459,0,[Maehwa] Scarlet Destiny Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-20461,0,[Maehwa] Scarlet Destiny Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21041,0,[Ranger] Bern Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21042,0,[Ranger] Kyrill Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21045,0,[Ranger] Cavaro Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21046,0,[Ranger] Clead Classic Set,4,false,505000000,Pearl Items,Female Apparels (Set),55,2
-21047,0,[Ranger] Lahr Arcien Classic Set (W),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21050,0,[Ranger] Ignis Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21052,0,[Ranger] Puff Mini Classic Set,4,false,615000000,Pearl Items,Female Apparels (Set),55,2
-21053,0,[Ranger] Atanis Classic Set,4,false,409000000,Pearl Items,Female Apparels (Set),55,2
-21054,0,[Ranger] Tyrie Classic Set (Long),4,false,409000000,Pearl Items,Female Apparels (Set),55,2
-21055,0,[Ranger] Tyrie Classic Set (Short),4,false,409000000,Pearl Items,Female Apparels (Set),55,2
-21056,0,[Ranger] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21057,0,[Ranger] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21058,0,[Ranger] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21060,0,[Ranger] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21061,0,[Sorceress] Lumik Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21062,0,[Sorceress] Eckett Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21064,0,[Sorceress] Cavaro Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21065,0,[Sorceress] Clead Classic Set,4,false,555000000,Pearl Items,Female Apparels (Set),55,2
-21066,0,[Sorceress] Lahr Arcien Classic Set (R),4,false,489000000,Pearl Items,Female Apparels (Set),55,2
-21069,0,[Sorceress] Bern Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21071,0,[Sorceress] Puff Mini Classic Set,4,false,625000000,Pearl Items,Female Apparels (Set),55,2
-21072,0,[Sorceress] Atanis Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21073,0,[Sorceress] Tyrie Classic Set (Long),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21074,0,[Sorceress] Tyrie Classic Set (Short),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21075,0,[Sorceress] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21076,0,[Sorceress] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21077,0,[Sorceress] Lahr Arcien Classic Set (W),4,false,489000000,Pearl Items,Female Apparels (Set),55,2
-21078,0,[Sorceress] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21080,0,[Sorceress] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21101,0,[Tamer] Puff Mini Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21102,0,[Tamer] Binari Classic Set,4,false,590000000,Pearl Items,Female Apparels (Set),55,2
-21103,0,[Tamer] Jegrina Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21104,0,[Tamer] Violet Vulpes Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21108,0,[Tamer] Lahr Arcien Classic Set (W),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21109,0,[Tamer] Cavaro Classic Set (R),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21110,0,[Tamer] Cavaro Classic Set (W),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21111,0,[Tamer] Atanis Classic Set,4,false,355000000,Pearl Items,Female Apparels (Set),55,2
-21112,0,[Tamer] Tyrie Classic Set (Long),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21113,0,[Tamer] Tyrie Classic Set (Short),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21114,0,[Tamer] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21115,0,[Tamer] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21116,0,[Tamer] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21118,0,[Tamer] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21119,0,[Tamer] Lahr Arcien Classic Set (R),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21137,0,[Tamer] White Dragon Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21138,0,[Tamer] White Dragon Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21140,0,[Witch] Lahr Arcien Classic Set (R),4,false,580000000,Pearl Items,Female Apparels (Set),55,2
-21144,0,[Valkyrie] Venslar Classic Set (Long),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21145,0,[Valkyrie] Venslar Classic Set (Short),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21146,0,[Valkyrie] Lahr Arcien Classic Set (R),4,false,535000000,Pearl Items,Female Apparels (Set),55,2
-21147,0,[Valkyrie] Puff Mini Classic Set,4,false,435000000,Pearl Items,Female Apparels (Set),55,2
-21150,0,[Valkyrie] Atanis Classic Set,4,false,355000000,Pearl Items,Female Apparels (Set),55,2
-21151,0,[Valkyrie] Tyrie Classic Set (Long),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21152,0,[Valkyrie] Tyrie Classic Set (Short),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21153,0,[Valkyrie] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21154,0,[Valkyrie] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21155,0,[Valkyrie] Cavaro Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21156,0,[Valkyrie] Lahr Arcien Classic Set (W),4,false,535000000,Pearl Items,Female Apparels (Set),55,2
-21157,0,[Valkyrie] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21159,0,[Valkyrie] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21164,0,[Maehwa] Red Moon Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21165,0,[Maehwa] Puff Mini Classic Set,4,false,455000000,Pearl Items,Female Apparels (Set),55,2
-21166,0,[Maehwa] Jegrina Classic Set,4,false,408000000,Pearl Items,Female Apparels (Set),55,2
-21167,0,[Maehwa] Cavaro Classic Set,4,false,433000000,Pearl Items,Female Apparels (Set),55,2
-21168,0,[Maehwa] Lahr Arcien Classic Set (W),4,false,471000000,Pearl Items,Female Apparels (Set),55,2
-21169,0,[Maehwa] Tyrie Classic Set (Long),4,false,525000000,Pearl Items,Female Apparels (Set),55,2
-21170,0,[Maehwa] Tyrie Classic Set (Short),4,false,525000000,Pearl Items,Female Apparels (Set),55,2
-21171,0,[Maehwa] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21172,0,[Maehwa] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21173,0,[Maehwa] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21175,0,[Maehwa] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21176,0,[Maehwa] Lahr Arcien Classic Set (R),4,false,471000000,Pearl Items,Female Apparels (Set),55,2
-21178,0,[Maehwa] Atanis Classic Set,4,false,355000000,Pearl Items,Female Apparels (Set),55,2
-21195,0,[Maehwa] Hwasun Valley Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21196,0,[Maehwa] Hwasun Valley Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21205,0,[Witch] Dreaming Star Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21206,0,[Witch] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21207,0,[Witch] Lahr Arcien Classic Set (W),4,false,580000000,Pearl Items,Female Apparels (Set),55,2
-21208,0,[Witch] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21209,0,[Witch] Puff Mini Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21210,0,[Witch] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21212,0,[Witch] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21218,0,[Ranger] Ladellin Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21220,0,[Witch] Weenie Looney Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21221,0,[Kunoichi] Sicarios Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21223,0,[Kunoichi] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21228,0,[Kunoichi] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21229,0,[Kunoichi] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21230,0,[Kunoichi] Puff Mini Classic Set,4,false,449000000,Pearl Items,Female Apparels (Set),55,2
-21237,0,[Ranger] New Year Hanbok Outfit Set,4,false,295000000,Pearl Items,Female Apparels (Set),55,2
-21238,0,[Sorceress] New Year Hanbok Outfit Set,4,false,304000000,Pearl Items,Female Apparels (Set),55,2
-21240,0,[Tamer] New Year Hanbok Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21242,0,[Valkyrie] New Year Hanbok Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21243,0,[Maehwa] New Year Hanbok Outfit Set,4,false,270000000,Pearl Items,Female Apparels (Set),55,2
-21245,0,[Witch] New Year Hanbok Outfit Set,4,false,323000000,Pearl Items,Female Apparels (Set),55,2
-21246,0,[Kunoichi] New Year Hanbok Outfit Set,4,false,267000000,Pearl Items,Female Apparels (Set),55,2
-21250,0,[Ranger] Gotha Rensa Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21251,0,[Ranger] Gotha Rensa Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21260,0,[Maehwa] Trumpet Creeper Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21262,0,[Witch] Deneve Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21263,0,[Tamer] Daru Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21264,0,[Tamer] Daru Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21274,0,[Valkyrie] Enslar Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21275,0,[Valkyrie] Enslar Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21279,0,[Sorceress] Papillio Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21280,0,[Sorceress] Papillio Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21282,0,[Kunoichi] Golden Scale Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21308,0,[Witch] Labreve Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21309,0,[Witch] Labreve Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21314,0,[Ranger] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21315,0,[Sorceress] Marine Romance Outfit Set,4,false,267000000,Pearl Items,Female Apparels (Set),55,2
-21317,0,[Tamer] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21319,0,[Valkyrie] Marine Romance Outfit Set,4,false,337000000,Pearl Items,Female Apparels (Set),55,2
-21320,0,[Maehwa] Marine Romance Outfit Set,4,false,392000000,Pearl Items,Female Apparels (Set),55,2
-21322,0,[Witch] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21323,0,[Kunoichi] Marine Romance Outfit Set,4,false,295000000,Pearl Items,Female Apparels (Set),55,2
-21352,0,[Sorceress] Kisleev Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21353,0,[Sorceress] Kisleev Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21361,0,[Valkyrie] Fallen Garzar Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21362,0,[Valkyrie] Fallen Garzar Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21364,0,[Witch] Cavaro Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21365,0,[Kunoichi] Ayo Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21366,0,[Kunoichi] Ayo Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21376,0,[Sorceress] Karin Classic Set,4,false,590000000,Pearl Items,Female Apparels (Set),55,2
-21377,0,[Sorceress] Karin Premium Set,4,false,730000000,Pearl Items,Female Apparels (Set),55,2
-21379,0,[Ranger] Karin Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21380,0,[Ranger] Karin Premium Set,4,false,780000000,Pearl Items,Female Apparels (Set),55,2
-21385,0,[Tamer] Karin Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21386,0,[Tamer] Karin Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21391,0,[Valkyrie] Karin Classic Set,4,false,590000000,Pearl Items,Female Apparels (Set),55,2
-21392,0,[Valkyrie] Karin Premium Set,4,false,730000000,Pearl Items,Female Apparels (Set),55,2
-21394,0,[Maehwa] Karin Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21395,0,[Maehwa] Karin Premium Set,4,false,780000000,Pearl Items,Female Apparels (Set),55,2
-21398,0,[Witch] Karin Classic Set,4,false,438000000,Pearl Items,Female Apparels (Set),55,2
-21399,0,[Kunoichi] Karin Classic Set,4,false,409000000,Pearl Items,Female Apparels (Set),55,2
-21604,0,[Sorceress] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21605,0,[Ranger] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21606,0,[Tamer] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21607,0,[Valkyrie] Spring Blossom Outfit Set,4,false,275000000,Pearl Items,Female Apparels (Set),55,2
-21608,0,[Maehwa] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21609,0,[Witch] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21622,0,[Ranger] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21623,0,[Sorceress] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21624,0,[Tamer] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21625,0,[Maehwa] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21626,0,[Valkyrie] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21627,0,[Witch] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21628,0,[Kunoichi] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21631,0,[Valkyrie] Clead Classic Set,4,false,620000000,Pearl Items,Female Apparels (Set),55,2
-21636,0,[Sorceress] Cartian Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21637,0,[Sorceress] Cartian Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21644,0,[Ranger] Acher Guard Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21645,0,[Sorceress] Acher Guard Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21647,0,[Tamer] Acher Guard Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21649,0,[Maehwa] Acher Guard Classic Set,4,false,555000000,Pearl Items,Female Apparels (Set),55,2
-21650,0,[Valkyrie] Acher Guard Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21652,0,[Witch] Acher Guard Classic Set,4,false,490000000,Pearl Items,Female Apparels (Set),55,2
-21653,0,[Kunoichi] Acher Guard Classic Set,4,false,449000000,Pearl Items,Female Apparels (Set),55,2
-21656,0,[Sorceress] Acher Guard Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21659,0,[Ranger] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21660,0,[Sorceress] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21662,0,[Tamer] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21664,0,[Maehwa] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21665,0,[Valkyrie] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21667,0,[Witch] Noel Outfit Set,4,false,393000000,Pearl Items,Female Apparels (Set),55,2
-21668,0,[Kunoichi] Noel Outfit Set,4,false,340000000,Pearl Items,Female Apparels (Set),55,2
-21684,0,[Kunoichi] Lahr Arcien Classic Set (R),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21691,0,[Sorceress] Millen Fedora Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21692,0,[Sorceress] Millen Fedora Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21694,0,[Valkyrie] Kylia Classic Set,4,false,590000000,Pearl Items,Female Apparels (Set),55,2
-21695,0,[Kunoichi] Cokro Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21698,0,[Ranger] Sylvia Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21699,0,[Ranger] Sylvia Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21901,0,[Maehwa] Blushing Maiden Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21902,0,[Maehwa] Blushing Maiden Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21904,0,[Witch] Rakshande Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-21905,0,[Witch] Rakshande Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-21908,0,[Ranger] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21909,0,[Sorceress] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21911,0,[Tamer] Fairy Jackie Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21913,0,[Maehwa] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21914,0,[Valkyrie] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21916,0,[Witch] Ghost Bride Outfit Set,4,false,422000000,Pearl Items,Female Apparels (Set),55,2
-21917,0,[Kunoichi] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21919,0,[Ranger] Gloomy Fox Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21920,0,[Sorceress] Gloomy Fox Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21921,0,[Valkyrie] Gloomy Fox Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21922,0,[Maehwa] Gloomy Fox Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-21923,0,[Kunoichi] Gloomy Fox Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-22225,0,[Ranger] Lahr Arcien Classic Set (R),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23728,0,[Sorceress] Kyrill Classic Set,4,false,505000000,Pearl Items,Female Apparels (Set),55,2
-23735,0,[Ranger] Red Moon Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23740,0,[Tamer] Kyrill Classic Set,4,false,600000000,Pearl Items,Female Apparels (Set),55,2
-23745,0,[Valkyrie] Kyrill Classic Set,4,false,400000000,Pearl Items,Female Apparels (Set),55,2
-23750,0,[Maehwa] Kyrill Classic Set,4,false,605000000,Pearl Items,Female Apparels (Set),55,2
-23755,0,[Witch] Kyrill Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23761,0,[Kunoichi] Violet Vulpes Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23770,0,[Sorceress] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23776,0,[Ranger] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23782,0,[Tamer] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23788,0,[Valkyrie] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23794,0,[Maehwa] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23800,0,[Witch] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-23806,0,[Kunoichi] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26033,0,[Mystic] Dhyana Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26039,0,[Mystic] Karlstein Classic Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-26045,0,[Mystic] Lahr Arcien Classic Set,4,false,600000000,Pearl Items,Female Apparels (Set),55,2
-26053,0,[Mystic] Banha Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26054,0,[Mystic] Banha Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-26082,0,[Mystic] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26083,0,[Mystic] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26099,0,[Mystic] Gloomy Fox Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-26106,0,[Mystic] Puff Mini Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26113,0,[Mystic] Cavaro Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26123,0,[Mystic] Yeoubi Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-26127,0,[Mystic] Terrminé Outfit Set,4,false,406000000,Pearl Items,Female Apparels (Set),55,2
-28633,0,[Ranger] Eternal Snow Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-28634,0,[Ranger] Eternal Snow Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-28643,0,[Ranger] Stella Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-28644,0,[Ranger] Stella Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-28651,0,[Ranger] Heidel Masquerade Outfit Set,4,false,375000000,Pearl Items,Female Apparels (Set),55,2
-28654,0,[Ranger] Anemos Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-28661,0,[Ranger] Marod Star Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-28662,0,[Ranger] Marod Star Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-28666,0,[Ranger] Terrminé Outfit Set,4,false,294000000,Pearl Items,Female Apparels (Set),55,2
-28671,0,[Ranger] Audria Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-28674,0,[Ranger] Tea Flower Outfit Set,4,false,295000000,Pearl Items,Female Apparels (Set),55,2
-28679,0,[Ranger] White Owl Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-28687,0,[Ranger] Kamashella Delore Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-28688,0,[Ranger] Kamashella Delore Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-28690,0,[Ranger] Kamashella Delore Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-28761,0,[Sorceress] Lucien Blanc Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-28762,0,[Sorceress] Lucien Blanc Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-28773,0,[Sorceress] Heidel Masquerade Outfit Set,4,false,336000000,Pearl Items,Female Apparels (Set),55,2
-28776,0,[Sorceress] Anemos Outfit Set,4,false,340000000,Pearl Items,Female Apparels (Set),55,2
-28782,0,[Sorceress] Khilath Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-28783,0,[Sorceress] Khilath Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-28787,0,[Sorceress] Terrminé Outfit Set,4,false,341000000,Pearl Items,Female Apparels (Set),55,2
-28790,0,[Sorceress] Tea Flower Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-28793,0,[Sorceress] Sekrah Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-29008,0,[Tamer] Blushing Maiden Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29009,0,[Tamer] Blushing Maiden Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29018,0,[Tamer] Eternal Snow Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29019,0,[Tamer] Eternal Snow Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29027,0,[Tamer] Night Cat Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29028,0,[Tamer] Night Cat Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29035,0,[Tamer] Heidel Masquerade Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-29038,0,[Tamer] Anemos Outfit Set,4,false,356000000,Pearl Items,Female Apparels (Set),55,2
-29045,0,[Tamer] Water Lily Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29046,0,[Tamer] Water Lily Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29050,0,[Tamer] Terrminé Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-29053,0,[Tamer] Tea Flower Outfit Set,4,false,318000000,Pearl Items,Female Apparels (Set),55,2
-29260,0,[Valkyrie] Jousting Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29261,0,[Valkyrie] Jousting Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29276,0,[Valkyrie] Heidel Masquerade Outfit Set,4,false,326000000,Pearl Items,Female Apparels (Set),55,2
-29279,0,[Valkyrie] Anemos Outfit Set,4,false,356000000,Pearl Items,Female Apparels (Set),55,2
-29286,0,[Valkyrie] Dante Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29290,0,[Valkyrie] Terrminé Outfit Set,4,false,317000000,Pearl Items,Female Apparels (Set),55,2
-29297,0,[Valkyrie] Arrendo Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29298,0,[Valkyrie] Arrendo Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29303,0,[Valkyrie] Gunnr Lucirian Outfit Set,4,false,421000000,Pearl Items,Female Apparels (Set),55,2
-29306,0,[Valkyrie] Tea Flower Outfit Set,4,false,239000000,Pearl Items,Female Apparels (Set),55,2
-29389,0,[Maehwa] Heidel Masquerade Outfit Set,4,false,306000000,Pearl Items,Female Apparels (Set),55,2
-29396,0,[Maehwa] Ladybell Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29397,0,[Maehwa] Ladybell Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29401,0,[Maehwa] Anemos Outfit Set,4,false,372000000,Pearl Items,Female Apparels (Set),55,2
-29409,0,[Maehwa] Peach Blossom Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29410,0,[Maehwa] Peach Blossom Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29414,0,[Maehwa] Terrminé Outfit Set,4,false,418000000,Pearl Items,Female Apparels (Set),55,2
-29424,0,[Maehwa] Tea Flower Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-29628,0,[Witch] Heidel Masquerade Outfit Set,4,false,322000000,Pearl Items,Female Apparels (Set),55,2
-29635,0,[Witch] Weeping Willow Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29636,0,[Witch] Weeping Willow Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29640,0,[Witch] Anemos Outfit Set,4,false,337000000,Pearl Items,Female Apparels (Set),55,2
-29643,0,[Witch] Terrminé Outfit Set,4,false,346000000,Pearl Items,Female Apparels (Set),55,2
-29649,0,[Witch] Tea Flower Outfit Set,4,false,239000000,Pearl Items,Female Apparels (Set),55,2
-29655,0,[Witch] Tritch Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29656,0,[Witch] Tritch Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29708,0,[Kunoichi] Eunyoo Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29709,0,[Kunoichi] Eunyoo Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29720,0,[Kunoichi] Crimson Sable Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-29856,0,[Kunoichi] Night Cat Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-29857,0,[Kunoichi] Night Cat Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-29864,0,[Kunoichi] Heidel Masquerade Outfit Set,4,false,237000000,Pearl Items,Female Apparels (Set),55,2
-29867,0,[Kunoichi] Anemos Outfit Set,4,false,256000000,Pearl Items,Female Apparels (Set),55,2
-29870,0,[Kunoichi] Terrminé Outfit Set,4,false,322000000,Pearl Items,Female Apparels (Set),55,2
-29873,0,[Kunoichi] Tea Flower Outfit Set,4,false,269000000,Pearl Items,Female Apparels (Set),55,2
-54306,0,[Dark Knight] Rosa Cassius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54330,0,[Dark Knight] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-54344,0,[Dark Knight] Lahr Arcien Classic Set (R),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54358,0,[Dark Knight] Puff Mini Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54365,0,[Dark Knight] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54366,0,[Dark Knight] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54378,0,[Dark Knight] Karlstein Classic Set,4,false,555000000,Pearl Items,Female Apparels (Set),55,2
-54387,0,[Dark Knight] Heidel Masquerade Outfit Set,4,false,407000000,Pearl Items,Female Apparels (Set),55,2
-54391,0,[Dark Knight] New Year Hanbok Outfit Set,4,false,339000000,Pearl Items,Female Apparels (Set),55,2
-54404,0,[Dark Knight] Sin Terrna Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54405,0,[Dark Knight] Sin Terrna Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-54416,0,[Dark Knight] Anemos Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-54419,0,[Dark Knight] Terrminé Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-54425,0,[Dark Knight] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54429,0,[Dark Knight] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-54436,0,[Dark Knight] Heled Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-54437,0,[Dark Knight] Heled Premium Set ,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-54451,0,[Dark Knight] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-54455,0,[Dark Knight] Skoll Tempia Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-57814,0,[Ranger] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57815,0,[Ranger] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-57822,0,[Sorceress] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57823,0,[Sorceress] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-57838,0,[Tamer] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57839,0,[Tamer] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-57854,0,[Valkyrie] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57855,0,[Valkyrie] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-57862,0,[Maehwa] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57863,0,[Maehwa] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-57878,0,[Witch] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57879,0,[Witch] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-57886,0,[Kunoichi] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57887,0,[Kunoichi] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-57902,0,[Dark Knight] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-57903,0,[Dark Knight] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-340040,0,[Ranger] Demonic Queen Outfit Set,4,false,393000000,Pearl Items,Female Apparels (Set),55,2
-340046,0,[Ranger] Angelic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340048,0,[Ranger] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340052,0,[Sorceress] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340054,0,[Sorceress] Demonic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340058,0,[Sorceress] Angelic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340060,0,[Sorceress] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340064,0,[Tamer] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340072,0,[Tamer] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340076,0,[Valkyrie] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340078,0,[Valkyrie] Demonic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340082,0,[Valkyrie] Angelic Queen Outfit Set,4,false,413000000,Pearl Items,Female Apparels (Set),55,2
-340084,0,[Valkyrie] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340088,0,[Maehwa] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340094,0,[Maehwa] Angelic Queen Outfit Set,4,false,408000000,Pearl Items,Female Apparels (Set),55,2
-340096,0,[Maehwa] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340100,0,[Kunoichi] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340108,0,[Kunoichi] Angelic Queen Outfit Set (No Stockings),4,false,396000000,Pearl Items,Female Apparels (Set),55,2
-340112,0,[Witch] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340118,0,[Witch] Angelic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340120,0,[Witch] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340124,0,[Dark Knight] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340132,0,[Dark Knight] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340136,0,[Mystic] Demonic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340138,0,[Mystic] Demonic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340142,0,[Mystic] Angelic Queen Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340144,0,[Mystic] Angelic Queen Outfit Set (No Stockings),4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340354,0,[Ranger] Floree Outfit Set,4,false,361000000,Pearl Items,Female Apparels (Set),55,2
-340357,0,[Sorceress] Floree Outfit Set,4,false,295000000,Pearl Items,Female Apparels (Set),55,2
-340360,0,[Tamer] Floree Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340363,0,[Valkyrie] Floree Outfit Set,4,false,270000000,Pearl Items,Female Apparels (Set),55,2
-340366,0,[Maehwa] Floree Outfit Set,4,false,353000000,Pearl Items,Female Apparels (Set),55,2
-340369,0,[Witch] Floree Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340372,0,[Kunoichi] Floree Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340375,0,[Dark Knight] Floree Outfit Set,4,false,323000000,Pearl Items,Female Apparels (Set),55,2
-340378,0,[Mystic] Floree Outfit Set,4,false,418000000,Pearl Items,Female Apparels (Set),55,2
-340381,0,[Lahn] Floree Outfit Set,4,false,388000000,Pearl Items,Female Apparels (Set),55,2
-340512,0,[Ranger] Valoren Outfit Set,4,false,265000000,Pearl Items,Female Apparels (Set),55,2
-340515,0,[Sorceress] Valoren Outfit Set,4,false,344000000,Pearl Items,Female Apparels (Set),55,2
-340518,0,[Tamer] Valoren Outfit Set,4,false,285000000,Pearl Items,Female Apparels (Set),55,2
-340521,0,[Valkyrie] Valoren Outfit Set,4,false,395000000,Pearl Items,Female Apparels (Set),55,2
-340524,0,[Maehwa] Valoren Outfit Set,4,false,271000000,Pearl Items,Female Apparels (Set),55,2
-340527,0,[Witch] Valoren Outfit Set,4,false,239000000,Pearl Items,Female Apparels (Set),55,2
-340530,0,[Kunoichi] Valoren Outfit Set,4,false,335000000,Pearl Items,Female Apparels (Set),55,2
-340533,0,[Dark Knight] Valoren Outfit Set,4,false,310000000,Pearl Items,Female Apparels (Set),55,2
-340536,0,[Mystic] Valoren Outfit Set,4,false,266000000,Pearl Items,Female Apparels (Set),55,2
-340539,0,[Lahn] Valoren Outfit Set,4,false,368000000,Pearl Items,Female Apparels (Set),55,2
-340613,0,[Ranger] Vespena Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340616,0,[Sorceress] Vespena Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340619,0,[Tamer] Vespena Outfit Set,4,false,420000000,Pearl Items,Female Apparels (Set),55,2
-340622,0,[Valkyrie] Vespena Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340625,0,[Maehwa] Vespena Outfit Set,4,false,421000000,Pearl Items,Female Apparels (Set),55,2
-340628,0,[Witch] Vespena Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340631,0,[Kunoichi] Vespena Outfit Set,4,false,334000000,Pearl Items,Female Apparels (Set),55,2
-340634,0,[Dark Knight] Vespena Outfit Set,4,false,423000000,Pearl Items,Female Apparels (Set),55,2
-340637,0,[Mystic] Vespena Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340640,0,[Lahn] Vespena Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-340647,0,[Ranger] Arethel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-410018,0,[Ranger] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-420013,0,[Sorceress] Fallen Garzar Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-420014,0,[Sorceress] Fallen Garzar Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-420034,0,[Sorceress] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-420045,0,[Sorceress] Dahlia Nocturna Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-440018,0,[Tamer] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-440030,0,[Tamer] Aran Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-440035,0,[Tamer] Golden Phoenix Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-440042,0,[Tamer] Autumn Leaf Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-440043,0,[Tamer] Autumn Leaf Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-440052,0,[Tamer] Celestial Tides Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-440053,0,[Tamer] Celestial Tides Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-460022,0,[Valkyrie] Rosa De Sharon Outfit Set,4,false,392000000,Pearl Items,Female Apparels (Set),55,2
-460032,0,[Valkyrie] Conquistadora Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-470007,0,[Maehwa] Rakshande Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-470008,0,[Maehwa] Rakshande Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-470017,0,[Maehwa] Lucien Blanc Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-470036,0,[Maehwa] Rosa De Sharon Outfit Set,4,false,383000000,Pearl Items,Female Apparels (Set),55,2
-470047,0,[Maehwa] Orient Allure Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-490018,0,[Witch] Rosa De Sharon Outfit Set,4,false,326000000,Pearl Items,Female Apparels (Set),55,2
-500005,0,[Kunoichi] Kitsune Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-500023,0,[Kunoichi] Rosa De Sharon Outfit Set,4,false,329000000,Pearl Items,Female Apparels (Set),55,2
-500039,0,[Kunoichi] White Wildcat Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-500048,0,[Kunoichi] Cloud Umbra Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-500049,0,[Kunoichi] Cloud Umbra Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-500051,0,[Kunoichi] Cloud Umbra Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-520007,0,[Dark Knight] Stella Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-520008,0,[Dark Knight] Stella Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-520013,0,[Dark Knight] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-520031,0,[Dark Knight] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-520039,0,[Dark Knight] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-520045,0,[Dark Knight] Arethel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-520052,0,[Dark Knight] Checkmate Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-520053,0,[Dark Knight] Checkmate Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-520063,0,[Dark Knight] Darkborne Rose Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-520064,0,[Dark Knight] Darkborne Rose Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-520066,0,[Dark Knight] Darkborne Rose Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-540007,0,[Mystic] Rakshande Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-540008,0,[Mystic] Rakshande Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-540013,0,[Mystic] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-540017,0,[Mystic] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-540021,0,[Mystic] New Year Hanbok Outfit Set,4,false,333000000,Pearl Items,Female Apparels (Set),55,2
-540024,0,[Mystic] Heidel Masquerade Outfit Set,4,false,303000000,Pearl Items,Female Apparels (Set),55,2
-540027,0,[Mystic] Anemos Outfit Set,4,false,303000000,Pearl Items,Female Apparels (Set),55,2
-540033,0,[Mystic] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-540039,0,[Mystic] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-540043,0,[Mystic] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-540061,0,[Mystic] Rosa De Sharon Outfit Set,4,false,423000000,Pearl Items,Female Apparels (Set),55,2
-540069,0,[Mystic] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-540075,0,[Mystic] Crown Eagle Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-540076,0,[Mystic] Crown Eagle Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-540085,0,[Mystic] Lupine Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-540094,0,[Mystic] Makalu Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-540095,0,[Mystic] Makalu Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-551007,0,[Lahn] Orchid Fall Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551046,0,[Lahn] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551060,0,[Lahn] Sanguine Petal Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551061,0,[Lahn] Sanguine Petal Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-551069,0,[Lahn] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551072,0,[Lahn] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551085,0,[Lahn] Lahr Arcien Classic Set (R),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551091,0,[Lahn] Charles Rene Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551101,0,[Lahn] Spring Blossom Outfit Set,4,false,399000000,Pearl Items,Female Apparels (Set),55,2
-551105,0,[Lahn] New Year Hanbok Outfit Set,4,false,395000000,Pearl Items,Female Apparels (Set),55,2
-551108,0,[Lahn] Heidel Masquerade Outfit Set,4,false,395000000,Pearl Items,Female Apparels (Set),55,2
-551111,0,[Lahn] Anemos Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551117,0,[Lahn] Epheria Marine Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551121,0,[Lahn] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551139,0,[Lahn] Rosa De Sharon Outfit Set,4,false,322000000,Pearl Items,Female Apparels (Set),55,2
-551146,0,[Lahn] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551150,0,[Lahn] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551157,0,[Lahn] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551162,0,[Lahn] Garnet Marniera Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551170,0,[Lahn] Jade Navillera Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551173,0,[Lahn] Terrminé Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551181,0,[Lahn] Checkmate Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551182,0,[Lahn] Checkmate Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-551184,0,[Lahn] Checkmate Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-551192,0,[Lahn] Everwaltz Blossom Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-551193,0,[Lahn] Everwaltz Blossom Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-551195,0,[Lahn] Everwaltz Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-580001,0,[Shai] Whimsical Alchemist Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-580008,0,[Shai] Twinkle Star Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-580014,0,[Shai] Curious Gatherer Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-580021,0,[Shai] Marigold Sunset Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590164,0,[Ranger] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590165,0,[Witch] Vediras Outfit Set,4,false,300000000,Pearl Items,Female Apparels (Set),55,2
-590166,0,[Valkyrie] Vediras Outfit Set,4,false,363000000,Pearl Items,Female Apparels (Set),55,2
-590167,0,[Dark Knight] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590168,0,[Sorceress] Vediras Outfit Set,4,false,287000000,Pearl Items,Female Apparels (Set),55,2
-590169,0,[Tamer] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590170,0,[Kunoichi] Vediras Outfit Set,4,false,271000000,Pearl Items,Female Apparels (Set),55,2
-590171,0,[Lahn] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590172,0,[Mystic] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590173,0,[Maehwa] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590274,0,[Dark Knight] Eclipse Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590277,0,[Witch] Fairybleu Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-590282,0,[Dark Knight] Ataraxia Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590303,0,[Sorceress] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590308,0,[Ranger] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590313,0,[Witch] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590369,0,[Maehwa] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590374,0,[Tamer] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590379,0,[Dark Knight] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590384,0,[Kunoichi] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590389,0,[Valkyrie] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590394,0,[Mystic] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590398,0,Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590399,0,Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590423,0,[Lahn] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590464,0,[Sorceress] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590465,0,[Ranger] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590466,0,[Witch] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590470,0,[Maehwa] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590471,0,[Tamer] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590472,0,[Dark Knight] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590473,0,[Kunoichi] Glorious Shudad Premium Set,4,false,780000000,Pearl Items,Female Apparels (Set),55,2
-590474,0,[Valkyrie] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590475,0,[Mystic] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590476,0,[Lahn] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-590534,0,[Ranger] Lephria Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590538,0,[Valkyrie] Solaria Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590541,0,[Maehwa] Te'enah Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-590576,0,[Tamer] Moonlight Faerie Classic Set,4,false,355000000,Pearl Items,Female Apparels (Set),55,2
-600081,0,[Shai] Florchestra Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-600097,0,[Shai] Whimsical Alchemist Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-600117,0,[Shai] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600235,0,[Kunoichi] Giha Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-600239,0,[Sorceress] Iron Thorn Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-600263,0,[Ranger] Crayodel Soldier Outfit Set,4,false,355000000,Pearl Items,Female Apparels (Set),55,2
-600266,0,[Sorceress] Crayodel Soldier Outfit Set,4,false,317000000,Pearl Items,Female Apparels (Set),55,2
-600269,0,[Tamer] Crayodel Soldier Outfit Set,4,false,327000000,Pearl Items,Female Apparels (Set),55,2
-600272,0,[Valkyrie] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600275,0,[Maehwa] Crayodel Soldier Outfit Set,4,false,340000000,Pearl Items,Female Apparels (Set),55,2
-600278,0,[Kunoichi] Crayodel Soldier Outfit Set,4,false,304000000,Pearl Items,Female Apparels (Set),55,2
-600281,0,[Witch] Crayodel Soldier Outfit Set,4,false,391000000,Pearl Items,Female Apparels (Set),55,2
-600284,0,[Dark Knight] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600287,0,[Mystic] Crayodel Soldier Outfit Set,4,false,317000000,Pearl Items,Female Apparels (Set),55,2
-600290,0,[Lahn] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600293,0,[Shai] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600525,0,[Lahn] Ruby Floretta Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-600533,0,[Mystic] Khamsin Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-600536,0,[Witch] Arcanis Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-600577,0,[Guardian] Crayodel Soldier Outfit Set,4,false,304000000,Pearl Items,Female Apparels (Set),55,2
-600580,0,[Nova] Crayodel Soldier Outfit Set,4,false,337000000,Pearl Items,Female Apparels (Set),55,2
-600584,0,[Guardian] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600588,0,[Nova] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600595,0,[Shai] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-600599,0,[Shai] Tick-Tock Great Detective Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601001,0,[Guardian] Mueburus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601127,0,[Guardian] Ynixtra Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601128,0,[Guardian] Ynixtra Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-601133,0,[Guardian] Marine Romance Outfit Set,4,false,335000000,Pearl Items,Female Apparels (Set),55,2
-601136,0,[Guardian] Terrminé Outfit Set,4,false,362000000,Pearl Items,Female Apparels (Set),55,2
-601148,0,[Guardian] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601149,0,[Guardian] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601154,0,[Guardian] Mountain Guardian Spirit Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601172,0,[Guardian] Karlstein Classic Set,4,false,525000000,Pearl Items,Female Apparels (Set),55,2
-601179,0,[Guardian] Leporem Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601180,0,[Guardian] Leporem Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-601190,0,[Guardian] Winter Mountain Guardian Spirit Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-601192,0,[Guardian] Winter Mountain Guardian Spirit Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601210,0,[Shai] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601213,0,[Guardian] Vediras Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601219,0,[Guardian] Kharoxia Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601225,0,[Shai] New Year Hanbok Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601229,0,[Guardian] New Year Hanbok Outfit Set,4,false,261000000,Pearl Items,Female Apparels (Set),55,2
-601380,0,[Shai] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601381,0,[Shai] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-601470,0,[Kunoichi] Aconite Outfit Set,4,false,403000000,Pearl Items,Female Apparels (Set),55,2
-601477,0,[Witch] Ivies Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601481,0,[Lahn] Clead Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601492,0,[Shai] Terrminé Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601663,0,[Ranger] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601666,0,[Sorceress] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601669,0,[Tamer] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601672,0,[Valkyrie] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601675,0,[Maehwa] Cantabile Outfit Set,4,false,393000000,Pearl Items,Female Apparels (Set),55,2
-601678,0,[Witch] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601681,0,[Kunoichi] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601684,0,[Dark Knight] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601687,0,[Mystic] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601690,0,[Lahn] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601693,0,[Shai] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-601696,0,[Guardian] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-603009,0,[Nova] Aquila Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-603107,0,[Nova] Adamant Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-603113,0,[Nova] Sephia Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-603115,0,[Nova] Sephia Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-603118,0,[Nova] Adamant Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-604180,0,[Witch] Aether Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604184,0,[Valkyrie] Aether Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604220,0,[Nova] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-604284,0,[Shai] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-604290,0,[Guardian] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-604308,0,[Nova] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-604309,0,[Nova] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-604324,0,[Lahn] Prowling Tiger Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604333,0,[Nova] New Year Hanbok Outfit Set,4,false,260000000,Pearl Items,Female Apparels (Set),55,2
-604340,0,[Nova] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-604343,0,[Nova] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-604348,0,[Guardian] Heidel Masquerade Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604351,0,[Nova] Heidel Masquerade Outfit Set,4,false,408000000,Pearl Items,Female Apparels (Set),55,2
-604354,0,[Shai] Heidel Masquerade Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604377,0,[Guardian] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604387,0,[Ranger] Pieris Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604596,0,[Shai] Skippity Hoppity Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-604603,0,[Guardian] Conquistadora Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604613,0,[Shai] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604617,0,[Nova] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604629,0,[Shai] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-604633,0,[Nova] Spring Blossom Outfit Set,4,false,414000000,Pearl Items,Female Apparels (Set),55,2
-604637,0,[Guardian] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-605005,0,[Corsair] Maretakant Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-605124,0,[Corsair] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-605136,0,[Corsair] Maretakant Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-605137,0,[Corsair] Karlstein Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-605145,0,[Corsair] Desperada Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-605146,0,[Corsair] Desperada Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-605148,0,[Corsair] Desperada Outfit Set,4,false,423000000,Pearl Items,Female Apparels (Set),55,2
-606321,0,[Nova] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-606325,0,[Corsair] Marine Romance Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-606507,0,[Corsair] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-606510,0,[Corsair] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-606586,0,[Corsair] New Year Hanbok Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-606595,0,[Sorceress] Lunar Halo Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-606596,0,[Sorceress] Lunar Halo Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-606897,0,[Corsair] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607043,0,[Mystic] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607046,0,[Guardian] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607049,0,[Nova] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607052,0,[Corsair] Ram Horn Witch Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607071,0,[Shai] Fairy Jackie Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607084,0,[Valkyrie] Innocentis Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607085,0,[Valkyrie] Innocentis Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607087,0,[Valkyrie] Innocentis Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607160,0,[Witch] Starseeker Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607161,0,[Witch] Starseeker Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607163,0,[Witch] Starseeker Outfit Set,4,false,422000000,Pearl Items,Female Apparels (Set),55,2
-607169,0,[Corsair] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607194,0,[Corsair] Noel Outfit Set,4,false,366000000,Pearl Items,Female Apparels (Set),55,2
-607357,0,[Nova] Imperium Ortum Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607368,0,[Witch] Navillera Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607506,0,[Nova] Imperium Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607524,0,[Corsair] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607528,0,[Corsair] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607536,0,[Maehwa] Lunar Blue Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607537,0,[Maehwa] Lunar Blue Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607539,0,[Maehwa] Lunar Blue Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607549,0,[Drakania] Exclaire Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607550,0,[Drakania] Exclaire Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607561,0,[Tamer] Vermillion Lotus Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607595,0,[Valkyrie] Hyperion Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607822,0,[Drakania] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607829,0,[Corsair] Kibelius Divinus Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607831,0,[Nova] Kibelius Divinus Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607832,0,[Shai] Hop Hop Troupe Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607842,0,[Shai] Hop Hop Troupe: Tour Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607843,0,[Shai] Hop Hop Troupe: Tour Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607857,0,[Corsair] Nereid Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607858,0,[Corsair] Nereid Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607903,0,[Drakania] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607904,0,[Drakania] Kibelius Divinus Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607905,0,[Drakania] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607936,0,[Sorceress] Hemomancer Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607937,0,[Sorceress] Hemomancer Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607961,0,[Drakania] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607976,0,[Nova] Blood Countess Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-607977,0,[Nova] Blood Countess Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-607979,0,[Nova] Blood Countess Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-607999,0,[Mystic] Sapphire Storm Classic Set (Squall),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608000,0,[Mystic] Sapphire Storm Premium Set (Squall),4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608004,0,[Mystic] Sapphire Storm Classic Set (Calm),4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608005,0,[Mystic] Sapphire Storm Premium Set (Calm),4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608015,0,[Valkyrie] Ossa Cerberi Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608016,0,[Valkyrie] Ossa Cerberi Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608018,0,[Valkyrie] Ossa Cerberi Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608034,0,[Drakania] Lethena Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608035,0,[Drakania] Lethena Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608037,0,[Drakania] Lethena Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608061,0,[Guardian] Parthenoa Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608062,0,[Guardian] Parthenoa Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608064,0,[Guardian] Parthenoa Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608066,0,[Drakania] Glorious Shudad Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608072,0,[Drakania] Kibelius Divinus Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608088,0,[Dark Knight] Violetta Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608090,0,[Dark Knight] Violetta Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608132,0,[Ranger] Ryfina Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608133,0,[Ranger] Ryfina Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608153,0,[Nova] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608156,0,[Corsair] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608159,0,[Drakania] Cantabile Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608303,0,[Kunoichi] Autumna Brilliance Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608304,0,[Kunoichi] Autumna Brilliance Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608627,0,[Witch] Salanar Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608629,0,[Witch] Salanar Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608638,0,[Sorceress] Salanar Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608640,0,[Sorceress] Salanar Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608647,0,[Shai] Salanar Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608648,0,[Shai] Salanar Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608819,0,[Guardian] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608823,0,[Nova] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608827,0,[Corsair] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608831,0,[Drakania] Bloody Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608852,0,[Dark Knight] Secrua Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608854,0,[Dark Knight] Secrua Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608863,0,[Guardian] Secrua Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608865,0,[Guardian] Secrua Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608873,0,[Nova] Secrua Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608874,0,[Nova] Secrua Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608876,0,[Nova] Secrua Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608884,0,[Drakania] Secrua Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608885,0,[Drakania] Secrua Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608887,0,[Drakania] Secrua Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608907,0,[Valkyrie] Coco-Nutty Pirates Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608909,0,[Valkyrie] Coco-Nutty Pirates Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608918,0,[Mystic] Coco-Nutty Pirates Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608920,0,[Mystic] Coco-Nutty Pirates Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608929,0,[Lahn] Coco-Nutty Pirates Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608931,0,[Lahn] Coco-Nutty Pirates Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608940,0,[Corsair] Coco-Nutty Pirates Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-608942,0,[Corsair] Coco-Nutty Pirates Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-608964,0,[Woosa] Mookhyang Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-608965,0,[Woosa] Mookhyang Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609103,0,[Woosa] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-609113,0,[Drakania] Noel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609116,0,[Drakania] Crayodel Soldier Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609264,0,[Maegu] Moonlit Silver Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-609265,0,[Maegu] Moonlit Silver Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609403,0,[Maegu] Karlstein Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-609424,0,[Woosa] Prowling Tiger Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609431,0,[Woosa] Twilight Prowler Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-609432,0,[Woosa] Twilight Prowler Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609441,0,[Maehwa] Twilight Prowler Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-609443,0,[Maehwa] Twilight Prowler Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609462,0,[Kunoichi] Twilight Prowler Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-609463,0,[Kunoichi] Twilight Prowler Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-609465,0,[Kunoichi] Twilight Prowler Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609488,0,[Maegu] Salanar Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609493,0,[Drakania] Ossa Cerberi Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609497,0,[Corsair] Arethel Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609501,0,[Woosa] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609505,0,[Maegu] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-609531,0,[Woosa] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-609549,0,[Maegu] Glorious Shudad Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-609552,0,[Maegu] Glorious Shudad Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610166,0,[Woosa] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-610167,0,[Woosa] Kibelius Divinus Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-610170,0,[Woosa] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-610171,0,[Woosa] Kibelius Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-610173,0,[Woosa] Kibelius Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610181,0,[Maegu] Kibelius Divinus Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-610182,0,[Maegu] Kibelius Divinus Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-610185,0,[Maegu] Kibelius Classic Set,4,false,630000000,Pearl Items,Female Apparels (Set),55,2
-610188,0,[Maegu] Kibelius Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610200,0,[Drakania] Rosa De Sharon Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610353,0,[Drakania] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610357,0,[Maegu] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610361,0,[Woosa] Spring Blossom Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610367,0,[Valkyrie] Arditeir Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610372,0,[Drakania] Arditeir Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610377,0,[Guardian] Arditeir Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610382,0,[Ranger] Arditeir Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610388,0,[Lahn] Maiden of Wisteria Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610393,0,[Woosa] Maiden of Wisteria Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610398,0,[Maegu] Maiden of Wisteria Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610403,0,[Tamer] Maiden of Wisteria Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610414,0,[Woosa] Moonflower Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-610448,0,[Maegu] Flamekissed Premium Set,4,false,785000000,Pearl Items,Female Apparels (Set),55,2
-610641,0,[Woosa] Lunar Blue Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610646,0,[Maegu] Lunar Blue Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610792,0,[Woosa] Salanar Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610797,0,[Maegu] Ossa Cerberi Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
-610802,0,[Woosa] Ossa Cerberi Outfit Set,4,false,424000000,Pearl Items,Female Apparels (Set),55,2
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+19890,[Tamer] Rising Dragon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+20199,[Kunoichi] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+20200,[Kunoichi] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+20450,[Maehwa] Rising Dragon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+20458,[Maehwa] Scarlet Destiny Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+20459,[Maehwa] Scarlet Destiny Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+20461,[Maehwa] Scarlet Destiny Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21041,[Ranger] Bern Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21042,[Ranger] Kyrill Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21045,[Ranger] Cavaro Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21046,[Ranger] Clead Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21047,[Ranger] Lahr Arcien Classic Set (W),4,false,Pearl Items,Female Apparels (Set),55,2
+21050,[Ranger] Ignis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21052,[Ranger] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21053,[Ranger] Atanis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21054,[Ranger] Tyrie Classic Set (Long),4,false,Pearl Items,Female Apparels (Set),55,2
+21055,[Ranger] Tyrie Classic Set (Short),4,false,Pearl Items,Female Apparels (Set),55,2
+21056,[Ranger] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21057,[Ranger] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21058,[Ranger] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21060,[Ranger] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21061,[Sorceress] Lumik Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21062,[Sorceress] Eckett Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21064,[Sorceress] Cavaro Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21065,[Sorceress] Clead Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21066,[Sorceress] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+21069,[Sorceress] Bern Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21071,[Sorceress] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21072,[Sorceress] Atanis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21073,[Sorceress] Tyrie Classic Set (Long),4,false,Pearl Items,Female Apparels (Set),55,2
+21074,[Sorceress] Tyrie Classic Set (Short),4,false,Pearl Items,Female Apparels (Set),55,2
+21075,[Sorceress] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21076,[Sorceress] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21077,[Sorceress] Lahr Arcien Classic Set (W),4,false,Pearl Items,Female Apparels (Set),55,2
+21078,[Sorceress] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21080,[Sorceress] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21101,[Tamer] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21102,[Tamer] Binari Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21103,[Tamer] Jegrina Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21104,[Tamer] Violet Vulpes Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21108,[Tamer] Lahr Arcien Classic Set (W),4,false,Pearl Items,Female Apparels (Set),55,2
+21109,[Tamer] Cavaro Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+21110,[Tamer] Cavaro Classic Set (W),4,false,Pearl Items,Female Apparels (Set),55,2
+21111,[Tamer] Atanis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21112,[Tamer] Tyrie Classic Set (Long),4,false,Pearl Items,Female Apparels (Set),55,2
+21113,[Tamer] Tyrie Classic Set (Short),4,false,Pearl Items,Female Apparels (Set),55,2
+21114,[Tamer] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21115,[Tamer] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21116,[Tamer] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21118,[Tamer] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21119,[Tamer] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+21137,[Tamer] White Dragon Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21138,[Tamer] White Dragon Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21140,[Witch] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+21144,[Valkyrie] Venslar Classic Set (Long),4,false,Pearl Items,Female Apparels (Set),55,2
+21145,[Valkyrie] Venslar Classic Set (Short),4,false,Pearl Items,Female Apparels (Set),55,2
+21146,[Valkyrie] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+21147,[Valkyrie] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21150,[Valkyrie] Atanis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21151,[Valkyrie] Tyrie Classic Set (Long),4,false,Pearl Items,Female Apparels (Set),55,2
+21152,[Valkyrie] Tyrie Classic Set (Short),4,false,Pearl Items,Female Apparels (Set),55,2
+21153,[Valkyrie] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21154,[Valkyrie] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21155,[Valkyrie] Cavaro Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21156,[Valkyrie] Lahr Arcien Classic Set (W),4,false,Pearl Items,Female Apparels (Set),55,2
+21157,[Valkyrie] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21159,[Valkyrie] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21164,[Maehwa] Red Moon Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21165,[Maehwa] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21166,[Maehwa] Jegrina Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21167,[Maehwa] Cavaro Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21168,[Maehwa] Lahr Arcien Classic Set (W),4,false,Pearl Items,Female Apparels (Set),55,2
+21169,[Maehwa] Tyrie Classic Set (Long),4,false,Pearl Items,Female Apparels (Set),55,2
+21170,[Maehwa] Tyrie Classic Set (Short),4,false,Pearl Items,Female Apparels (Set),55,2
+21171,[Maehwa] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21172,[Maehwa] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21173,[Maehwa] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21175,[Maehwa] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21176,[Maehwa] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+21178,[Maehwa] Atanis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21195,[Maehwa] Hwasun Valley Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21196,[Maehwa] Hwasun Valley Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21205,[Witch] Dreaming Star Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21206,[Witch] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21207,[Witch] Lahr Arcien Classic Set (W),4,false,Pearl Items,Female Apparels (Set),55,2
+21208,[Witch] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21209,[Witch] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21210,[Witch] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21212,[Witch] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21218,[Ranger] Ladellin Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21220,[Witch] Weenie Looney Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21221,[Kunoichi] Sicarios Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21223,[Kunoichi] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21228,[Kunoichi] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21229,[Kunoichi] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21230,[Kunoichi] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21237,[Ranger] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21238,[Sorceress] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21240,[Tamer] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21242,[Valkyrie] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21243,[Maehwa] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21245,[Witch] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21246,[Kunoichi] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21250,[Ranger] Gotha Rensa Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21251,[Ranger] Gotha Rensa Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21260,[Maehwa] Trumpet Creeper Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21262,[Witch] Deneve Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21263,[Tamer] Daru Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21264,[Tamer] Daru Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21274,[Valkyrie] Enslar Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21275,[Valkyrie] Enslar Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21279,[Sorceress] Papillio Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21280,[Sorceress] Papillio Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21282,[Kunoichi] Golden Scale Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21308,[Witch] Labreve Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21309,[Witch] Labreve Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21314,[Ranger] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21315,[Sorceress] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21317,[Tamer] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21319,[Valkyrie] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21320,[Maehwa] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21322,[Witch] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21323,[Kunoichi] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21352,[Sorceress] Kisleev Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21353,[Sorceress] Kisleev Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21361,[Valkyrie] Fallen Garzar Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21362,[Valkyrie] Fallen Garzar Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21364,[Witch] Cavaro Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21365,[Kunoichi] Ayo Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21366,[Kunoichi] Ayo Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21376,[Sorceress] Karin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21377,[Sorceress] Karin Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21379,[Ranger] Karin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21380,[Ranger] Karin Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21385,[Tamer] Karin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21386,[Tamer] Karin Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21391,[Valkyrie] Karin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21392,[Valkyrie] Karin Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21394,[Maehwa] Karin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21395,[Maehwa] Karin Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21398,[Witch] Karin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21399,[Kunoichi] Karin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21604,[Sorceress] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21605,[Ranger] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21606,[Tamer] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21607,[Valkyrie] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21608,[Maehwa] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21609,[Witch] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21622,[Ranger] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21623,[Sorceress] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21624,[Tamer] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21625,[Maehwa] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21626,[Valkyrie] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21627,[Witch] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21628,[Kunoichi] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21631,[Valkyrie] Clead Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21636,[Sorceress] Cartian Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21637,[Sorceress] Cartian Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21644,[Ranger] Acher Guard Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21645,[Sorceress] Acher Guard Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21647,[Tamer] Acher Guard Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21649,[Maehwa] Acher Guard Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21650,[Valkyrie] Acher Guard Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21652,[Witch] Acher Guard Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21653,[Kunoichi] Acher Guard Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21656,[Sorceress] Acher Guard Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21659,[Ranger] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21660,[Sorceress] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21662,[Tamer] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21664,[Maehwa] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21665,[Valkyrie] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21667,[Witch] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21668,[Kunoichi] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21684,[Kunoichi] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+21691,[Sorceress] Millen Fedora Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21692,[Sorceress] Millen Fedora Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21694,[Valkyrie] Kylia Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21695,[Kunoichi] Cokro Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21698,[Ranger] Sylvia Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21699,[Ranger] Sylvia Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21901,[Maehwa] Blushing Maiden Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21902,[Maehwa] Blushing Maiden Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21904,[Witch] Rakshande Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21905,[Witch] Rakshande Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21908,[Ranger] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21909,[Sorceress] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21911,[Tamer] Fairy Jackie Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21913,[Maehwa] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21914,[Valkyrie] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21916,[Witch] Ghost Bride Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21917,[Kunoichi] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21919,[Ranger] Gloomy Fox Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21920,[Sorceress] Gloomy Fox Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21921,[Valkyrie] Gloomy Fox Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21922,[Maehwa] Gloomy Fox Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+21923,[Kunoichi] Gloomy Fox Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+22225,[Ranger] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+23728,[Sorceress] Kyrill Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23735,[Ranger] Red Moon Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23740,[Tamer] Kyrill Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23745,[Valkyrie] Kyrill Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23750,[Maehwa] Kyrill Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23755,[Witch] Kyrill Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23761,[Kunoichi] Violet Vulpes Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23770,[Sorceress] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23776,[Ranger] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23782,[Tamer] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23788,[Valkyrie] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23794,[Maehwa] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23800,[Witch] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+23806,[Kunoichi] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26033,[Mystic] Dhyana Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26039,[Mystic] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26045,[Mystic] Lahr Arcien Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26053,[Mystic] Banha Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26054,[Mystic] Banha Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26082,[Mystic] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26083,[Mystic] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26099,[Mystic] Gloomy Fox Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26106,[Mystic] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26113,[Mystic] Cavaro Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26123,[Mystic] Yeoubi Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+26127,[Mystic] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28633,[Ranger] Eternal Snow Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28634,[Ranger] Eternal Snow Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28643,[Ranger] Stella Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28644,[Ranger] Stella Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28651,[Ranger] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28654,[Ranger] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28661,[Ranger] Marod Star Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28662,[Ranger] Marod Star Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28666,[Ranger] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28671,[Ranger] Audria Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28674,[Ranger] Tea Flower Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28679,[Ranger] White Owl Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28687,[Ranger] Kamashella Delore Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28688,[Ranger] Kamashella Delore Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28690,[Ranger] Kamashella Delore Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28761,[Sorceress] Lucien Blanc Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28762,[Sorceress] Lucien Blanc Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28773,[Sorceress] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28776,[Sorceress] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28782,[Sorceress] Khilath Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28783,[Sorceress] Khilath Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28787,[Sorceress] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28790,[Sorceress] Tea Flower Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+28793,[Sorceress] Sekrah Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29008,[Tamer] Blushing Maiden Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29009,[Tamer] Blushing Maiden Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29018,[Tamer] Eternal Snow Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29019,[Tamer] Eternal Snow Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29027,[Tamer] Night Cat Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29028,[Tamer] Night Cat Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29035,[Tamer] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29038,[Tamer] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29045,[Tamer] Water Lily Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29046,[Tamer] Water Lily Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29050,[Tamer] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29053,[Tamer] Tea Flower Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29260,[Valkyrie] Jousting Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29261,[Valkyrie] Jousting Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29276,[Valkyrie] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29279,[Valkyrie] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29286,[Valkyrie] Dante Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29290,[Valkyrie] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29297,[Valkyrie] Arrendo Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29298,[Valkyrie] Arrendo Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29303,[Valkyrie] Gunnr Lucirian Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29306,[Valkyrie] Tea Flower Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29389,[Maehwa] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29396,[Maehwa] Ladybell Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29397,[Maehwa] Ladybell Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29401,[Maehwa] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29409,[Maehwa] Peach Blossom Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29410,[Maehwa] Peach Blossom Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29414,[Maehwa] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29424,[Maehwa] Tea Flower Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29628,[Witch] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29635,[Witch] Weeping Willow Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29636,[Witch] Weeping Willow Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29640,[Witch] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29643,[Witch] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29649,[Witch] Tea Flower Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29655,[Witch] Tritch Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29656,[Witch] Tritch Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29708,[Kunoichi] Eunyoo Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29709,[Kunoichi] Eunyoo Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29720,[Kunoichi] Crimson Sable Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29856,[Kunoichi] Night Cat Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29857,[Kunoichi] Night Cat Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29864,[Kunoichi] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29867,[Kunoichi] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29870,[Kunoichi] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+29873,[Kunoichi] Tea Flower Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54306,[Dark Knight] Rosa Cassius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54330,[Dark Knight] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54344,[Dark Knight] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+54358,[Dark Knight] Puff Mini Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54365,[Dark Knight] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54366,[Dark Knight] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54378,[Dark Knight] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54387,[Dark Knight] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54391,[Dark Knight] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54404,[Dark Knight] Sin Terrna Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54405,[Dark Knight] Sin Terrna Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54416,[Dark Knight] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54419,[Dark Knight] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54425,[Dark Knight] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54429,[Dark Knight] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54436,[Dark Knight] Heled Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54437,[Dark Knight] Heled Premium Set ,4,false,Pearl Items,Female Apparels (Set),55,2
+54451,[Dark Knight] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+54455,[Dark Knight] Skoll Tempia Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57814,[Ranger] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57815,[Ranger] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57822,[Sorceress] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57823,[Sorceress] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57838,[Tamer] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57839,[Tamer] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57854,[Valkyrie] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57855,[Valkyrie] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57862,[Maehwa] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57863,[Maehwa] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57878,[Witch] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57879,[Witch] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57886,[Kunoichi] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57887,[Kunoichi] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57902,[Dark Knight] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+57903,[Dark Knight] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340040,[Ranger] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340046,[Ranger] Angelic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340048,[Ranger] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340052,[Sorceress] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340054,[Sorceress] Demonic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340058,[Sorceress] Angelic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340060,[Sorceress] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340064,[Tamer] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340072,[Tamer] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340076,[Valkyrie] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340078,[Valkyrie] Demonic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340082,[Valkyrie] Angelic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340084,[Valkyrie] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340088,[Maehwa] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340094,[Maehwa] Angelic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340096,[Maehwa] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340100,[Kunoichi] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340108,[Kunoichi] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340112,[Witch] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340118,[Witch] Angelic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340120,[Witch] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340124,[Dark Knight] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340132,[Dark Knight] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340136,[Mystic] Demonic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340138,[Mystic] Demonic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340142,[Mystic] Angelic Queen Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340144,[Mystic] Angelic Queen Outfit Set (No Stockings),4,false,Pearl Items,Female Apparels (Set),55,2
+340354,[Ranger] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340357,[Sorceress] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340360,[Tamer] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340363,[Valkyrie] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340366,[Maehwa] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340369,[Witch] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340372,[Kunoichi] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340375,[Dark Knight] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340378,[Mystic] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340381,[Lahn] Floree Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340512,[Ranger] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340515,[Sorceress] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340518,[Tamer] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340521,[Valkyrie] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340524,[Maehwa] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340527,[Witch] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340530,[Kunoichi] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340533,[Dark Knight] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340536,[Mystic] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340539,[Lahn] Valoren Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340613,[Ranger] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340616,[Sorceress] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340619,[Tamer] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340622,[Valkyrie] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340625,[Maehwa] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340628,[Witch] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340631,[Kunoichi] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340634,[Dark Knight] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340637,[Mystic] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340640,[Lahn] Vespena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+340647,[Ranger] Arethel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+410018,[Ranger] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+420013,[Sorceress] Fallen Garzar Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+420014,[Sorceress] Fallen Garzar Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+420034,[Sorceress] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+420045,[Sorceress] Dahlia Nocturna Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+440018,[Tamer] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+440030,[Tamer] Aran Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+440035,[Tamer] Golden Phoenix Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+440042,[Tamer] Autumn Leaf Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+440043,[Tamer] Autumn Leaf Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+440052,[Tamer] Celestial Tides Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+440053,[Tamer] Celestial Tides Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+460022,[Valkyrie] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+460032,[Valkyrie] Conquistadora Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+470007,[Maehwa] Rakshande Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+470008,[Maehwa] Rakshande Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+470017,[Maehwa] Lucien Blanc Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+470036,[Maehwa] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+470047,[Maehwa] Orient Allure Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+490018,[Witch] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+500005,[Kunoichi] Kitsune Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+500023,[Kunoichi] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+500039,[Kunoichi] White Wildcat Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+500048,[Kunoichi] Cloud Umbra Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+500049,[Kunoichi] Cloud Umbra Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+500051,[Kunoichi] Cloud Umbra Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520007,[Dark Knight] Stella Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520008,[Dark Knight] Stella Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520013,[Dark Knight] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520031,[Dark Knight] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520039,[Dark Knight] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520045,[Dark Knight] Arethel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520052,[Dark Knight] Checkmate Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520053,[Dark Knight] Checkmate Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520063,[Dark Knight] Darkborne Rose Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520064,[Dark Knight] Darkborne Rose Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+520066,[Dark Knight] Darkborne Rose Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540007,[Mystic] Rakshande Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540008,[Mystic] Rakshande Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540013,[Mystic] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540017,[Mystic] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540021,[Mystic] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540024,[Mystic] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540027,[Mystic] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540033,[Mystic] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540039,[Mystic] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540043,[Mystic] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540061,[Mystic] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540069,[Mystic] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540075,[Mystic] Crown Eagle Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540076,[Mystic] Crown Eagle Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540085,[Mystic] Lupine Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540094,[Mystic] Makalu Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+540095,[Mystic] Makalu Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551007,[Lahn] Orchid Fall Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551046,[Lahn] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551060,[Lahn] Sanguine Petal Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551061,[Lahn] Sanguine Petal Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551069,[Lahn] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551072,[Lahn] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551085,[Lahn] Lahr Arcien Classic Set (R),4,false,Pearl Items,Female Apparels (Set),55,2
+551091,[Lahn] Charles Rene Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551101,[Lahn] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551105,[Lahn] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551108,[Lahn] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551111,[Lahn] Anemos Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551117,[Lahn] Epheria Marine Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551121,[Lahn] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551139,[Lahn] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551146,[Lahn] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551150,[Lahn] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551157,[Lahn] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551162,[Lahn] Garnet Marniera Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551170,[Lahn] Jade Navillera Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551173,[Lahn] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551181,[Lahn] Checkmate Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551182,[Lahn] Checkmate Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551184,[Lahn] Checkmate Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551192,[Lahn] Everwaltz Blossom Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551193,[Lahn] Everwaltz Blossom Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+551195,[Lahn] Everwaltz Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+580001,[Shai] Whimsical Alchemist Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+580008,[Shai] Twinkle Star Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+580014,[Shai] Curious Gatherer Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+580021,[Shai] Marigold Sunset Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590164,[Ranger] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590165,[Witch] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590166,[Valkyrie] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590167,[Dark Knight] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590168,[Sorceress] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590169,[Tamer] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590170,[Kunoichi] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590171,[Lahn] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590172,[Mystic] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590173,[Maehwa] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590274,[Dark Knight] Eclipse Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590277,[Witch] Fairybleu Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590282,[Dark Knight] Ataraxia Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590303,[Sorceress] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590308,[Ranger] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590313,[Witch] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590369,[Maehwa] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590374,[Tamer] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590379,[Dark Knight] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590384,[Kunoichi] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590389,[Valkyrie] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590394,[Mystic] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590398,Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590399,Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590423,[Lahn] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590464,[Sorceress] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590465,[Ranger] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590466,[Witch] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590470,[Maehwa] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590471,[Tamer] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590472,[Dark Knight] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590473,[Kunoichi] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590474,[Valkyrie] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590475,[Mystic] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590476,[Lahn] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590534,[Ranger] Lephria Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590538,[Valkyrie] Solaria Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590541,[Maehwa] Te'enah Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+590576,[Tamer] Moonlight Faerie Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600081,[Shai] Florchestra Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600097,[Shai] Whimsical Alchemist Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600117,[Shai] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600235,[Kunoichi] Giha Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600239,[Sorceress] Iron Thorn Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600263,[Ranger] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600266,[Sorceress] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600269,[Tamer] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600272,[Valkyrie] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600275,[Maehwa] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600278,[Kunoichi] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600281,[Witch] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600284,[Dark Knight] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600287,[Mystic] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600290,[Lahn] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600293,[Shai] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600525,[Lahn] Ruby Floretta Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600533,[Mystic] Khamsin Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600536,[Witch] Arcanis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600577,[Guardian] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600580,[Nova] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600584,[Guardian] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600588,[Nova] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600595,[Shai] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+600599,[Shai] Tick-Tock Great Detective Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601001,[Guardian] Mueburus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601127,[Guardian] Ynixtra Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601128,[Guardian] Ynixtra Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601133,[Guardian] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601136,[Guardian] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601148,[Guardian] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601149,[Guardian] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601154,[Guardian] Mountain Guardian Spirit Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601172,[Guardian] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601179,[Guardian] Leporem Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601180,[Guardian] Leporem Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601190,[Guardian] Winter Mountain Guardian Spirit Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601192,[Guardian] Winter Mountain Guardian Spirit Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601210,[Shai] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601213,[Guardian] Vediras Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601219,[Guardian] Kharoxia Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601225,[Shai] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601229,[Guardian] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601380,[Shai] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601381,[Shai] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601470,[Kunoichi] Aconite Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601477,[Witch] Ivies Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601481,[Lahn] Clead Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601492,[Shai] Terrminé Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601663,[Ranger] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601666,[Sorceress] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601669,[Tamer] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601672,[Valkyrie] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601675,[Maehwa] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601678,[Witch] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601681,[Kunoichi] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601684,[Dark Knight] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601687,[Mystic] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601690,[Lahn] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601693,[Shai] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+601696,[Guardian] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+603009,[Nova] Aquila Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+603107,[Nova] Adamant Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+603113,[Nova] Sephia Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+603115,[Nova] Sephia Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+603118,[Nova] Adamant Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604180,[Witch] Aether Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604184,[Valkyrie] Aether Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604220,[Nova] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604284,[Shai] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604290,[Guardian] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604308,[Nova] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604309,[Nova] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604324,[Lahn] Prowling Tiger Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604333,[Nova] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604340,[Nova] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604343,[Nova] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604348,[Guardian] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604351,[Nova] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604354,[Shai] Heidel Masquerade Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604377,[Guardian] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604387,[Ranger] Pieris Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604596,[Shai] Skippity Hoppity Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604603,[Guardian] Conquistadora Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604613,[Shai] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604617,[Nova] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604629,[Shai] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604633,[Nova] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+604637,[Guardian] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+605005,[Corsair] Maretakant Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+605124,[Corsair] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+605136,[Corsair] Maretakant Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+605137,[Corsair] Karlstein Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+605145,[Corsair] Desperada Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+605146,[Corsair] Desperada Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+605148,[Corsair] Desperada Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606321,[Nova] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606325,[Corsair] Marine Romance Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606507,[Corsair] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606510,[Corsair] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606586,[Corsair] New Year Hanbok Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606595,[Sorceress] Lunar Halo Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606596,[Sorceress] Lunar Halo Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+606897,[Corsair] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607043,[Mystic] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607046,[Guardian] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607049,[Nova] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607052,[Corsair] Ram Horn Witch Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607071,[Shai] Fairy Jackie Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607084,[Valkyrie] Innocentis Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607085,[Valkyrie] Innocentis Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607087,[Valkyrie] Innocentis Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607160,[Witch] Starseeker Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607161,[Witch] Starseeker Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607163,[Witch] Starseeker Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607169,[Corsair] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607194,[Corsair] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607357,[Nova] Imperium Ortum Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607368,[Witch] Navillera Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607506,[Nova] Imperium Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607524,[Corsair] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607528,[Corsair] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607536,[Maehwa] Lunar Blue Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607537,[Maehwa] Lunar Blue Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607539,[Maehwa] Lunar Blue Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607549,[Drakania] Exclaire Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607550,[Drakania] Exclaire Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607561,[Tamer] Vermillion Lotus Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607595,[Valkyrie] Hyperion Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607822,[Drakania] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607829,[Corsair] Kibelius Divinus Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607831,[Nova] Kibelius Divinus Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607832,[Shai] Hop Hop Troupe Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607842,[Shai] Hop Hop Troupe: Tour Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607843,[Shai] Hop Hop Troupe: Tour Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607857,[Corsair] Nereid Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607858,[Corsair] Nereid Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607903,[Drakania] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607904,[Drakania] Kibelius Divinus Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607905,[Drakania] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607936,[Sorceress] Hemomancer Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607937,[Sorceress] Hemomancer Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607961,[Drakania] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607976,[Nova] Blood Countess Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607977,[Nova] Blood Countess Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607979,[Nova] Blood Countess Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+607999,[Mystic] Sapphire Storm Classic Set (Squall),4,false,Pearl Items,Female Apparels (Set),55,2
+608000,[Mystic] Sapphire Storm Premium Set (Squall),4,false,Pearl Items,Female Apparels (Set),55,2
+608004,[Mystic] Sapphire Storm Classic Set (Calm),4,false,Pearl Items,Female Apparels (Set),55,2
+608005,[Mystic] Sapphire Storm Premium Set (Calm),4,false,Pearl Items,Female Apparels (Set),55,2
+608015,[Valkyrie] Ossa Cerberi Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608016,[Valkyrie] Ossa Cerberi Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608018,[Valkyrie] Ossa Cerberi Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608034,[Drakania] Lethena Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608035,[Drakania] Lethena Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608037,[Drakania] Lethena Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608061,[Guardian] Parthenoa Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608062,[Guardian] Parthenoa Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608064,[Guardian] Parthenoa Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608066,[Drakania] Glorious Shudad Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608072,[Drakania] Kibelius Divinus Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608088,[Dark Knight] Violetta Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608090,[Dark Knight] Violetta Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608132,[Ranger] Ryfina Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608133,[Ranger] Ryfina Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608153,[Nova] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608156,[Corsair] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608159,[Drakania] Cantabile Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608303,[Kunoichi] Autumna Brilliance Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608304,[Kunoichi] Autumna Brilliance Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608627,[Witch] Salanar Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608629,[Witch] Salanar Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608638,[Sorceress] Salanar Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608640,[Sorceress] Salanar Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608647,[Shai] Salanar Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608648,[Shai] Salanar Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608819,[Guardian] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608823,[Nova] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608827,[Corsair] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608831,[Drakania] Bloody Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608852,[Dark Knight] Secrua Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608854,[Dark Knight] Secrua Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608863,[Guardian] Secrua Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608865,[Guardian] Secrua Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608873,[Nova] Secrua Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608874,[Nova] Secrua Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608876,[Nova] Secrua Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608884,[Drakania] Secrua Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608885,[Drakania] Secrua Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608887,[Drakania] Secrua Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608907,[Valkyrie] Coco-Nutty Pirates Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608909,[Valkyrie] Coco-Nutty Pirates Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608918,[Mystic] Coco-Nutty Pirates Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608920,[Mystic] Coco-Nutty Pirates Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608929,[Lahn] Coco-Nutty Pirates Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608931,[Lahn] Coco-Nutty Pirates Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608940,[Corsair] Coco-Nutty Pirates Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608942,[Corsair] Coco-Nutty Pirates Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608964,[Woosa] Mookhyang Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+608965,[Woosa] Mookhyang Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609103,[Woosa] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609113,[Drakania] Noel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609116,[Drakania] Crayodel Soldier Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609264,[Maegu] Moonlit Silver Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609265,[Maegu] Moonlit Silver Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609403,[Maegu] Karlstein Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609424,[Woosa] Prowling Tiger Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609431,[Woosa] Twilight Prowler Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609432,[Woosa] Twilight Prowler Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609441,[Maehwa] Twilight Prowler Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609443,[Maehwa] Twilight Prowler Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609462,[Kunoichi] Twilight Prowler Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609463,[Kunoichi] Twilight Prowler Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609465,[Kunoichi] Twilight Prowler Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609488,[Maegu] Salanar Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609493,[Drakania] Ossa Cerberi Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609497,[Corsair] Arethel Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609501,[Woosa] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609505,[Maegu] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609531,[Woosa] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609549,[Maegu] Glorious Shudad Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+609552,[Maegu] Glorious Shudad Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610166,[Woosa] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610167,[Woosa] Kibelius Divinus Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610170,[Woosa] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610171,[Woosa] Kibelius Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610173,[Woosa] Kibelius Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610181,[Maegu] Kibelius Divinus Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610182,[Maegu] Kibelius Divinus Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610185,[Maegu] Kibelius Classic Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610188,[Maegu] Kibelius Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610200,[Drakania] Rosa De Sharon Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610353,[Drakania] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610357,[Maegu] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610361,[Woosa] Spring Blossom Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610367,[Valkyrie] Arditeir Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610372,[Drakania] Arditeir Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610377,[Guardian] Arditeir Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610382,[Ranger] Arditeir Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610388,[Lahn] Maiden of Wisteria Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610393,[Woosa] Maiden of Wisteria Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610398,[Maegu] Maiden of Wisteria Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610403,[Tamer] Maiden of Wisteria Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610414,[Woosa] Moonflower Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610448,[Maegu] Flamekissed Premium Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610641,[Woosa] Lunar Blue Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610646,[Maegu] Lunar Blue Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610792,[Woosa] Salanar Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610797,[Maegu] Ossa Cerberi Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2
+610802,[Woosa] Ossa Cerberi Outfit Set,4,false,Pearl Items,Female Apparels (Set),55,2

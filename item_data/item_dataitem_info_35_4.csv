@@ -1,284 +1,284 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-6394,0,Chowder,2,false,82000,Consumables,Food,35,4
-9201,30583,Fruit Wine,1,false,1900,Consumables,Food,35,4
-9202,55464,Pickled Vegetables,1,false,2830,Consumables,Food,35,4
-9203,76418,Cheese Gratin,1,false,31000,Consumables,Food,35,4
-9204,2498,Aloe Yogurt,1,false,4150,Consumables,Food,35,4
-9205,16214,Aloe Cookie,1,false,1970,Consumables,Food,35,4
-9206,56179,Honey Wine,1,false,1790,Consumables,Food,35,4
-9207,60224,Sute Tea,2,false,22100,Consumables,Food,35,4
-9208,0,Fish Fillet Chips,1,false,13300,Consumables,Food,35,4
-9209,41196,Assorted Side Dishes,1,false,20800,Consumables,Food,35,4
-9210,9332,High-Quality Carrot Juice,1,false,2680,Consumables,Food,35,4
-9211,489,Special Carrot Juice,2,false,1040,Consumables,Food,35,4
-9213,9006,Beer,1,false,2360,Consumables,Food,35,4
-9214,35002,Teff Bread,1,false,2130,Consumables,Food,35,4
-9215,10252,Freekeh Snake Stew,1,false,39900,Consumables,Food,35,4
-9216,34458,Fig Pie,1,false,5650,Consumables,Food,35,4
-9217,92800,Pistachio Fried Rice,1,false,1530,Consumables,Food,35,4
-9218,65992,Teff Sandwich,2,false,59000,Consumables,Food,35,4
-9219,142118,Date Palm Wine,1,false,2690,Consumables,Food,35,4
-9220,10000,Couscous,2,false,28500,Consumables,Food,35,4
-9241,0,Stir-Fried Vegetables,1,false,7650,Consumables,Food,35,4
-9255,0,Grain Soup,1,false,435,Consumables,Food,35,4
-9256,18,Fried Vegetables,1,false,1460,Consumables,Food,35,4
-9257,137257,Fruit Juice,1,false,585,Consumables,Food,35,4
-9258,3814,Fruit and Vegetable Salad,1,false,1380,Consumables,Food,35,4
-9259,2115,Fruit Pudding,1,false,4010,Consumables,Food,35,4
-9260,0,Soft Bread,1,false,18700,Consumables,Food,35,4
-9261,0,Oatmeal,1,false,16300,Consumables,Food,35,4
-9262,0,Makgeolli,1,false,1600,Consumables,Food,35,4
-9263,43348,Milk Tea,2,false,26400,Consumables,Food,35,4
-9264,14282,Fruit Pie,1,false,4560,Consumables,Food,35,4
-9265,21165,Meat Pie,1,false,19300,Consumables,Food,35,4
-9266,0,Honeycomb Cookie,1,false,18700,Consumables,Food,35,4
-9267,6156,Ham Sandwich,2,false,42400,Consumables,Food,35,4
-9268,0,Cheese Pie,1,false,14000,Consumables,Food,35,4
-9269,10616,Omelet,1,false,1230,Consumables,Food,35,4
-9270,36263,Tea With Fine Scent,1,false,8600,Consumables,Food,35,4
-9271,390,Crispy Fried Vegetables,2,false,8050,Consumables,Food,35,4
-9273,0,High-Quality Cheese Pie,2,false,18300,Consumables,Food,35,4
-9274,2101,Special Fruit Pudding,2,false,12100,Consumables,Food,35,4
-9275,37,Special Grain Soup,2,false,1050,Consumables,Food,35,4
-9276,0,Refined Oatmeal,2,false,29400,Consumables,Food,35,4
-9277,0,Smooth Milk Tea,3,false,45600,Consumables,Food,35,4
-9278,3407,Thick Fruit Juice,2,false,1170,Consumables,Food,35,4
-9279,551,Full-bodied Makgeolli,2,false,5600,Consumables,Food,35,4
-9280,32285,Luscious Fruit Wine,2,false,9850,Consumables,Food,35,4
-9281,55227,Sweet and Sour Pickled Vegetable,2,false,8450,Consumables,Food,35,4
-9282,119150,Chewy Cheese Gratin,2,false,48500,Consumables,Food,35,4
-9283,33788,Cold Draft Beer,2,false,6200,Consumables,Food,35,4
-9284,0,Crispy Stir-Fried Vegetables,2,false,15300,Consumables,Food,35,4
-9285,3946,Fresh Fruit and Vegetable Salad,2,false,2490,Consumables,Food,35,4
-9286,0,Moist Milk Bread,2,false,19900,Consumables,Food,35,4
-9287,22,Sweet Fruit Pie,2,false,6900,Consumables,Food,35,4
-9288,381,Lean Meat Pie,2,false,14300,Consumables,Food,35,4
-9289,0,Crispy Honeycomb Cookie,2,false,33700,Consumables,Food,35,4
-9290,27787,High-Quality Ham Sandwich,3,false,63000,Consumables,Food,35,4
-9291,362,Soft Omelet,2,false,1370,Consumables,Food,35,4
-9292,25479,Tea with Strong Scent,2,false,17100,Consumables,Food,35,4
-9293,273,Thick Aloe Yogurt,2,false,11800,Consumables,Food,35,4
-9294,5802,Sweet Aloe Cookie,2,false,3960,Consumables,Food,35,4
-9295,3431,Tangy Honey Wine,2,false,4060,Consumables,Food,35,4
-9296,11507,Healthy Sute Tea,3,false,64000,Consumables,Food,35,4
-9297,0,Mouth-watering Fish Fillet Chips,2,false,21600,Consumables,Food,35,4
-9298,12036,Plentiful Assorted Side Dishes,2,false,48400,Consumables,Food,35,4
-9299,42574,Spongy Teff Bread,2,false,4180,Consumables,Food,35,4
-9300,14941,Thick Freekeh Snake Stew,2,false,42800,Consumables,Food,35,4
-9301,29153,Sweet Fig Pie,2,false,13000,Consumables,Food,35,4
-9302,39275,Savory Pistachio Fried Rice,2,false,2300,Consumables,Food,35,4
-9303,30176,Spicy Teff Sandwich,3,false,51000,Consumables,Food,35,4
-9304,8197,Mild Date Palm Wine,2,false,5350,Consumables,Food,35,4
-9305,0,Classic Couscous,3,false,22100,Consumables,Food,35,4
-9306,165,Star Anise Tea,0,false,5300,Consumables,Food,35,4
-9307,60755,Coconut Cocktail,1,false,3510,Consumables,Food,35,4
-9308,534,Coconut Pasta,1,false,27900,Consumables,Food,35,4
-9309,539,Coconut Fried Fish,1,false,11600,Consumables,Food,35,4
-9310,17306,Chilled Coconut Cocktail,2,false,11900,Consumables,Food,35,4
-9311,45,Sweet Coconut Pasta,2,false,24200,Consumables,Food,35,4
-9312,2881,Crispy Coconut Fried Fish,2,false,14400,Consumables,Food,35,4
-9313,0,Spirit Essence of Wind,1,false,102000,Consumables,Food,35,4
-9314,0,Spirit Essence of Earth,1,false,102000,Consumables,Food,35,4
-9315,0,Spirit Essence of Water,1,false,102000,Consumables,Food,35,4
-9316,0,Rainbow Button Mushroom Sandwich,1,false,33500,Consumables,Food,35,4
-9317,0,Sweet Rainbow Button Mushroom Sandwich,2,false,49400,Consumables,Food,35,4
-9318,1235,Stir-Fried Bracken,1,false,28500,Consumables,Food,35,4
-9319,0,Savory Stir-Fried Bracken,2,false,42700,Consumables,Food,35,4
-9321,0,Carrot Confit,3,false,74000,Consumables,Food,35,4
-9323,95,Delotia Tart,1,false,16200,Consumables,Food,35,4
-9324,16,High-Quality Delotia Tart,2,false,29300,Consumables,Food,35,4
-9325,17562,Delotia Pudding,2,false,47300,Consumables,Food,35,4
-9326,33440,Blood Red Delotia Pudding,3,false,48100,Consumables,Food,35,4
-9327,0,Delotia Juice,1,false,9250,Consumables,Food,35,4
-9328,0,Chilled Delotia Juice,2,false,16600,Consumables,Food,35,4
-9329,6687,Delotia Milk Tea,1,false,22500,Consumables,Food,35,4
-9330,0,Fragrant Delotia Milk Tea,2,false,40200,Consumables,Food,35,4
-9331,0,Stir-Fried Bird,1,false,10300,Consumables,Food,35,4
-9332,0,Savory Stir-Fried Bird,2,false,18500,Consumables,Food,35,4
-9333,0,Stir-Fried Bracken and Meat,2,false,52000,Consumables,Food,35,4
-9334,55096,Light Stir-Fried Bracken and Meat,3,false,61000,Consumables,Food,35,4
-9335,0,Chicken Breast Salad,1,false,8300,Consumables,Food,35,4
-9336,0,Fresh Chicken Breast Salad,2,false,21300,Consumables,Food,35,4
-9337,4,Frank Sandwich,2,false,18200,Consumables,Food,35,4
-9338,0,High-Quality Frank Sandwich,3,false,41900,Consumables,Food,35,4
-9339,17383,Chanterelle Stew,1,false,12000,Consumables,Food,35,4
-9340,5013,Spicy Chanterelle Stew,2,false,21900,Consumables,Food,35,4
-9341,36,Chanterelle and Potato Stew,1,false,13200,Consumables,Food,35,4
-9342,22406,Nutritious Chanterelle and Potato Stew,2,false,37000,Consumables,Food,35,4
-9343,13094,Stir-Fried Chanterelle and Meat,1,false,39500,Consumables,Food,35,4
-9344,4035,Hearty Stir-fried Chanterelle and Meat,2,false,59500,Consumables,Food,35,4
-9345,9903,Chanterelle Porridge,1,false,14400,Consumables,Food,35,4
-9346,9766,Savory Chanterelle Porridge,2,false,27700,Consumables,Food,35,4
-9349,0,Chanterelle Risotto,2,false,11300,Consumables,Food,35,4
-9350,0,Aromatic Chanterelle Risotto,3,false,20400,Consumables,Food,35,4
-9351,0,Citron Cider,1,false,2940,Consumables,Food,35,4
-9352,0,Sour Citron Cider,2,false,5300,Consumables,Food,35,4
-9355,0,Citron Juice,1,false,2470,Consumables,Food,35,4
-9356,0,Sweet Citron Juice,2,false,4470,Consumables,Food,35,4
-9357,11,Citron Tea,1,false,299,Consumables,Food,35,4
-9359,34347,Balacs Lunchbox,3,false,30700,Consumables,Food,35,4
-9360,9745,Special Eilton Specialty Meal,3,false,32300,Consumables,Food,35,4
-9361,7955,Pickled Citron and Onions,1,false,7400,Consumables,Food,35,4
-9362,8725,Crisp Pickled Citron and Onions,2,false,8200,Consumables,Food,35,4
-9366,53,Well-brewed Mesima Tea,2,false,600,Consumables,Food,35,4
-9367,0,Mesima Rice Wine,1,false,6150,Consumables,Food,35,4
-9368,0,Mild Mesima Rice Wine,2,false,11000,Consumables,Food,35,4
-9369,104,Eilton Sandwich,2,false,33800,Consumables,Food,35,4
-9370,2,High-quality Eilton Sandwich,3,false,64000,Consumables,Food,35,4
-9371,6211,Mesima Chicken Soup,2,false,19100,Consumables,Food,35,4
-9376,0,Fruit Sherbet,3,false,18300,Consumables,Food,35,4
-9378,0,Citron Candy,1,false,2240,Consumables,Food,35,4
-9379,0,Sour Citron Candy,2,false,4050,Consumables,Food,35,4
-9401,0,Steak,1,false,30500,Consumables,Food,35,4
-9402,0,Boiled Bird Eggs,1,false,3050,Consumables,Food,35,4
-9403,6241,Fried Bird,1,false,18400,Consumables,Food,35,4
-9404,0,Meat Croquette,1,false,47000,Consumables,Food,35,4
-9405,79879,Steamed Bird,1,false,2150,Consumables,Food,35,4
-9406,14261,Lizard Kebab,1,false,21000,Consumables,Food,35,4
-9407,19247,Fried Fish,1,false,705,Consumables,Food,35,4
-9408,0,Borscht,1,false,15300,Consumables,Food,35,4
-9409,2941,Steamed Fish,1,false,570,Consumables,Food,35,4
-9410,121,Desert Dumpling,1,false,6400,Consumables,Food,35,4
-9411,2,Steamed Seafood,1,false,1950,Consumables,Food,35,4
-9412,38510,Pickled Fish,1,false,705,Consumables,Food,35,4
-9413,10,Seafood Pasta,1,false,1720,Consumables,Food,35,4
-9414,12,Meat Stew,1,false,18300,Consumables,Food,35,4
-9415,7077,Meat Sandwich,1,false,42000,Consumables,Food,35,4
-9416,0,Meat Pasta,1,false,31400,Consumables,Food,35,4
-9417,70400,Smoked Fish Steak,1,false,4710,Consumables,Food,35,4
-9418,89,Fish Soup,1,false,785,Consumables,Food,35,4
-9419,75,Seafood Mushroom Salad,1,false,865,Consumables,Food,35,4
-9420,4,Stir-Fried Seafood,1,false,3220,Consumables,Food,35,4
-9421,3558,Seafood Grilled with Butter,1,false,1000,Consumables,Food,35,4
-9422,73134,Dark Pudding,2,false,23400,Consumables,Food,35,4
-9423,0,Fish Fillet Salad,1,false,12700,Consumables,Food,35,4
-9424,9,Meat Soup,1,false,10900,Consumables,Food,35,4
-9425,0,Lean Meat Salad,1,false,29900,Consumables,Food,35,4
-9426,1623,Stir-Fried Meat,1,false,21300,Consumables,Food,35,4
-9427,0,Grilled Sausage,1,false,31300,Consumables,Food,35,4
-9428,333,Special Fish Soup,2,false,1500,Consumables,Food,35,4
-9429,17181,Crispy Fried Fish,2,false,1020,Consumables,Food,35,4
-9430,813,Juicy Steak,2,false,37900,Consumables,Food,35,4
-9431,0,Smoked Sausage,2,false,63000,Consumables,Food,35,4
-9432,21,Special Stir-Fried Meat,2,false,62500,Consumables,Food,35,4
-9433,268,Savory Seafood Grilled with Butter,2,false,5800,Consumables,Food,35,4
-9434,96,Special Meat Soup,2,false,45900,Consumables,Food,35,4
-9435,0,Top Grade Lean Meat Salad,2,false,54000,Consumables,Food,35,4
-9436,0,Appealing Boiled Bird Egg,2,false,6200,Consumables,Food,35,4
-9437,4107,Divine Fried Bird,2,false,10300,Consumables,Food,35,4
-9438,33213,Crispy Meat Croquette,2,false,49700,Consumables,Food,35,4
-9439,6,Lean Steamed Fish,2,false,1110,Consumables,Food,35,4
-9440,0,Plentiful Steamed Seafood,2,false,5650,Consumables,Food,35,4
-9441,512,High-Quality Seafood Pasta,2,false,9600,Consumables,Food,35,4
-9442,2190,Thick Meat Stew,2,false,17800,Consumables,Food,35,4
-9443,967,High-Quality Meat Sandwich,2,false,76000,Consumables,Food,35,4
-9444,27322,Spaghetti alla Bolognese,2,false,47200,Consumables,Food,35,4
-9445,30194,Golden Smoked Fish Steak,2,false,4510,Consumables,Food,35,4
-9446,174,Special Seafood Mushroom Salad,2,false,1610,Consumables,Food,35,4
-9447,12,Special Stir-Fried Seafood,2,false,9000,Consumables,Food,35,4
-9448,15286,Bloody Dark Pudding,3,false,56500,Consumables,Food,35,4
-9449,258,Fresh Fish Fillet Salad,2,false,17400,Consumables,Food,35,4
-9450,58311,Well-aged Steamed Bird,2,false,4300,Consumables,Food,35,4
-9451,2170,Lean Lizard Kebab,2,false,51500,Consumables,Food,35,4
-9452,0,Fragrant Borscht,2,false,27700,Consumables,Food,35,4
-9453,270,Chewy Desert Dumpling,2,false,10000,Consumables,Food,35,4
-9454,6933,Sour Pickled Fish,2,false,1260,Consumables,Food,35,4
-9455,721,Steamed Whale Meat,1,false,42700,Consumables,Food,35,4
-9456,42769,Whale Meat Salad,1,false,57500,Consumables,Food,35,4
-9457,0,Chewy Steamed Whale Meat,2,false,332000,Consumables,Food,35,4
-9458,5518,Fresh Whale Meat Salad,2,false,2380000,Consumables,Food,35,4
-9459,80,Hunter's Salad,2,false,25900,Consumables,Food,35,4
-9460,0,Fresh Hunter's Salad,2,false,70000,Consumables,Food,35,4
-9461,0,Grilled Scorpion,2,false,38500,Consumables,Food,35,4
-9462,0,Crispy Grilled Scorpion,3,false,58000,Consumables,Food,35,4
-9463,60603,King of Jungle Hamburg,2,false,60500,Consumables,Food,35,4
-9464,17441,Jumbo King of Jungle Hamburg,3,false,62500,Consumables,Food,35,4
-9469,0,Khalk's Fermented Wine,3,false,231000,Consumables,Food,35,4
-9470,0,Khalk's Strong Fermented Wine,4,false,463000,Consumables,Food,35,4
-9471,761,Prawn Salad,1,false,19700,Consumables,Food,35,4
-9472,230,Sweet and Sour Prawn Salad,2,false,18800,Consumables,Food,35,4
-9473,3452,Steamed Prawn,1,false,27100,Consumables,Food,35,4
-9474,981,Hearty Steamed Prawn,2,false,25300,Consumables,Food,35,4
-9475,0,Pan-Fried Oyster,1,false,33300,Consumables,Food,35,4
-9476,0,Aromatic Pan-Fried Oyster,2,false,55500,Consumables,Food,35,4
-9477,0,Butter-roasted Lobster,1,false,52500,Consumables,Food,35,4
-9478,0,Golden Butter-roasted Lobster,2,false,93500,Consumables,Food,35,4
-9479,0,Hard-Boiled Shellfish,1,false,81500,Consumables,Food,35,4
-9480,0,Big Hard-Boiled Shellfish,2,false,147000,Consumables,Food,35,4
-9483,0,Rainbow Button Mushroom Cheese Melt,1,false,33900,Consumables,Food,35,4
-9484,0,Mild Rainbow Button Mushroom Cheese Melt,2,false,48200,Consumables,Food,35,4
-9486,0,Ghormeh Sabzi,1,false,18900,Consumables,Food,35,4
-9487,0,Thick Ghormeh Sabzi,2,false,53500,Consumables,Food,35,4
-9488,120,Roast Marmot,1,false,37900,Consumables,Food,35,4
-9489,9,Golden Roast Marmot,2,false,27500,Consumables,Food,35,4
-9490,234,Skewered Llama Cheese Melt,1,false,22400,Consumables,Food,35,4
-9491,59,Spicy Skewered Llama Cheese Melt,2,false,57000,Consumables,Food,35,4
-9492,74574,Grilled Bird Meat,1,false,925,Consumables,Food,35,4
-9493,54068,Steaming Hot Grilled Bird Meat,2,false,4890,Consumables,Food,35,4
-9494,15305,Five-Grain Chicken Porridge,1,false,555,Consumables,Food,35,4
-9495,4951,Thick Five-Grain Chicken Porridge,2,false,1130,Consumables,Food,35,4
-9496,0,Savory Steak,2,false,49400,Consumables,Food,35,4
-9601,121352,Balenos Meal,3,false,23400,Consumables,Food,35,4
-9602,66894,Special Balenos Meal,4,false,70000,Consumables,Food,35,4
-9603,21794,Serendia Meal,3,false,30000,Consumables,Food,35,4
-9604,30219,Special Serendia Meal,4,false,87500,Consumables,Food,35,4
-9605,16473,Calpheon Meal,3,false,31900,Consumables,Food,35,4
-9606,5733,Special Calpheon Meal,4,false,97000,Consumables,Food,35,4
-9607,70292,Mediah Meal,3,false,39600,Consumables,Food,35,4
-9608,60700,Special Mediah Meal,4,false,114000,Consumables,Food,35,4
-9609,138495,Valencia Meal,3,false,31600,Consumables,Food,35,4
-9610,142530,Special Valencia Meal,4,false,95500,Consumables,Food,35,4
-9631,18169,Knight Combat Rations,3,false,35000,Consumables,Food,35,4
-9632,12104,Special Arehaza Meal,3,false,41500,Consumables,Food,35,4
-9634,328,Margoria Seafood Meal,3,false,162000,Consumables,Food,35,4
-9635,26425,Kamasylvia Meal,3,false,32300,Consumables,Food,35,4
-9636,1853,Special Kamasylvia Meal,4,false,99000,Consumables,Food,35,4
-9637,22320,Special Drieghanese Meal,3,false,43900,Consumables,Food,35,4
-9638,134375,O'dyllita Meal,3,false,38700,Consumables,Food,35,4
-9639,81266,Special O'dyllita Meal,4,false,119000,Consumables,Food,35,4
-9640,22365,Eilton Meal,3,false,40900,Consumables,Food,35,4
-9641,0,Special Eilton Meal,4,false,160000,Consumables,Food,35,4
-9642,286,Marvelous Eilton Meal,4,false,19700000,Consumables,Food,35,4
-9643,0,Marvelous Balacs Lunchbox,4,false,18700000,Consumables,Food,35,4
-9644,0,Marvelous Special Eilton Specialty Meal,4,false,15200000,Consumables,Food,35,4
-9645,18,Marvelous Mesima Chicken Soup,4,false,11300000,Consumables,Food,35,4
-9691,22736,Seafood Cron Meal,4,false,399000,Consumables,Food,35,4
-9692,28980,Simple Cron Meal,4,false,406000,Consumables,Food,35,4
-9693,18953,Exquisite Cron Meal,4,false,382000,Consumables,Food,35,4
-757032,0,Stonetail Wind's Meal,4,false,37300000,Consumables,Food,35,4
-820146,567,Miraculous Nourishing Soup,4,false,16200000,Consumables,Food,35,4
-820148,106,Iridescent Maehwa Liquor,4,false,33600000,Consumables,Food,35,4
-820801,0,White Kimchi,1,false,18600,Consumables,Food,35,4
-820802,0,Fresh White Kimchi,2,false,38100,Consumables,Food,35,4
-820805,0,Dongchimi,1,false,13500,Consumables,Food,35,4
-820806,0,Sour Dongchimi,2,false,25300,Consumables,Food,35,4
-820811,0,Bean Sprout Salad,1,false,9200,Consumables,Food,35,4
-820812,0,Crunchy Bean Sprout Salad,2,false,17500,Consumables,Food,35,4
-820815,921,Cooked Rice,1,false,8950,Consumables,Food,35,4
-820816,111996,Steaming Cooked Rice,2,false,14300,Consumables,Food,35,4
-820819,0,Soybean Jjigae,1,false,19200,Consumables,Food,35,4
-820820,0,Savory Soybean Jjigae,2,false,35900,Consumables,Food,35,4
-820821,13505,Mungbean Jeon,1,false,62000,Consumables,Food,35,4
-820822,9,Crispy Mungbean Jeon,2,false,32400,Consumables,Food,35,4
-820823,0,Buckwheat Jelly,1,false,21600,Consumables,Food,35,4
-820824,0,Chewy Buckwheat Jelly,2,false,10700,Consumables,Food,35,4
-820825,310,Red Bean Porridge,1,false,5700,Consumables,Food,35,4
-820826,0,Red Bean Porridge Full of Tteok,2,false,12600,Consumables,Food,35,4
-820829,0,Skewer,1,false,69500,Consumables,Food,35,4
-820830,1,Soft Skewer,2,false,72000,Consumables,Food,35,4
-820831,10038,Nurungji,1,false,4340,Consumables,Food,35,4
-820832,86,Crispy Nurungji,2,false,8100,Consumables,Food,35,4
-820833,7320,Sungnyung,1,false,4060,Consumables,Food,35,4
-820834,892,Savory Sungnyung,2,false,7250,Consumables,Food,35,4
-820839,1064,Jujube Tea,1,false,6250,Consumables,Food,35,4
-820840,3629,Fragrant Jujube Tea,2,false,10300,Consumables,Food,35,4
-820841,0,Dried Persimmon,1,false,490,Consumables,Food,35,4
-820843,5957,Roasted Ginkgo,1,false,6800,Consumables,Food,35,4
-820844,576,Savory Roasted Ginkgo,2,false,14100,Consumables,Food,35,4
-820845,7363,Garaetteok,1,false,7400,Consumables,Food,35,4
-820846,536,Chewy Garaetteok,2,false,9200,Consumables,Food,35,4
-820849,1443,Red Bean Sirutteok,1,false,4030,Consumables,Food,35,4
-820850,154,Soft Red Bean Sirutteok,2,false,8050,Consumables,Food,35,4
-820856,10716,Moodle Gukbap,3,false,86500,Consumables,Food,35,4
-820857,0,Dalbeol Gukbap,3,false,176000,Consumables,Food,35,4
-820858,24561,Byeot County Gukbap,3,false,60000,Consumables,Food,35,4
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+6394,Chowder,2,false,Consumables,Food,35,4
+9201,Fruit Wine,1,false,Consumables,Food,35,4
+9202,Pickled Vegetables,1,false,Consumables,Food,35,4
+9203,Cheese Gratin,1,false,Consumables,Food,35,4
+9204,Aloe Yogurt,1,false,Consumables,Food,35,4
+9205,Aloe Cookie,1,false,Consumables,Food,35,4
+9206,Honey Wine,1,false,Consumables,Food,35,4
+9207,Sute Tea,2,false,Consumables,Food,35,4
+9208,Fish Fillet Chips,1,false,Consumables,Food,35,4
+9209,Assorted Side Dishes,1,false,Consumables,Food,35,4
+9210,High-Quality Carrot Juice,1,false,Consumables,Food,35,4
+9211,Special Carrot Juice,2,false,Consumables,Food,35,4
+9213,Beer,1,false,Consumables,Food,35,4
+9214,Teff Bread,1,false,Consumables,Food,35,4
+9215,Freekeh Snake Stew,1,false,Consumables,Food,35,4
+9216,Fig Pie,1,false,Consumables,Food,35,4
+9217,Pistachio Fried Rice,1,false,Consumables,Food,35,4
+9218,Teff Sandwich,2,false,Consumables,Food,35,4
+9219,Date Palm Wine,1,false,Consumables,Food,35,4
+9220,Couscous,2,false,Consumables,Food,35,4
+9241,Stir-Fried Vegetables,1,false,Consumables,Food,35,4
+9255,Grain Soup,1,false,Consumables,Food,35,4
+9256,Fried Vegetables,1,false,Consumables,Food,35,4
+9257,Fruit Juice,1,false,Consumables,Food,35,4
+9258,Fruit and Vegetable Salad,1,false,Consumables,Food,35,4
+9259,Fruit Pudding,1,false,Consumables,Food,35,4
+9260,Soft Bread,1,false,Consumables,Food,35,4
+9261,Oatmeal,1,false,Consumables,Food,35,4
+9262,Makgeolli,1,false,Consumables,Food,35,4
+9263,Milk Tea,2,false,Consumables,Food,35,4
+9264,Fruit Pie,1,false,Consumables,Food,35,4
+9265,Meat Pie,1,false,Consumables,Food,35,4
+9266,Honeycomb Cookie,1,false,Consumables,Food,35,4
+9267,Ham Sandwich,2,false,Consumables,Food,35,4
+9268,Cheese Pie,1,false,Consumables,Food,35,4
+9269,Omelet,1,false,Consumables,Food,35,4
+9270,Tea With Fine Scent,1,false,Consumables,Food,35,4
+9271,Crispy Fried Vegetables,2,false,Consumables,Food,35,4
+9273,High-Quality Cheese Pie,2,false,Consumables,Food,35,4
+9274,Special Fruit Pudding,2,false,Consumables,Food,35,4
+9275,Special Grain Soup,2,false,Consumables,Food,35,4
+9276,Refined Oatmeal,2,false,Consumables,Food,35,4
+9277,Smooth Milk Tea,3,false,Consumables,Food,35,4
+9278,Thick Fruit Juice,2,false,Consumables,Food,35,4
+9279,Full-bodied Makgeolli,2,false,Consumables,Food,35,4
+9280,Luscious Fruit Wine,2,false,Consumables,Food,35,4
+9281,Sweet and Sour Pickled Vegetable,2,false,Consumables,Food,35,4
+9282,Chewy Cheese Gratin,2,false,Consumables,Food,35,4
+9283,Cold Draft Beer,2,false,Consumables,Food,35,4
+9284,Crispy Stir-Fried Vegetables,2,false,Consumables,Food,35,4
+9285,Fresh Fruit and Vegetable Salad,2,false,Consumables,Food,35,4
+9286,Moist Milk Bread,2,false,Consumables,Food,35,4
+9287,Sweet Fruit Pie,2,false,Consumables,Food,35,4
+9288,Lean Meat Pie,2,false,Consumables,Food,35,4
+9289,Crispy Honeycomb Cookie,2,false,Consumables,Food,35,4
+9290,High-Quality Ham Sandwich,3,false,Consumables,Food,35,4
+9291,Soft Omelet,2,false,Consumables,Food,35,4
+9292,Tea with Strong Scent,2,false,Consumables,Food,35,4
+9293,Thick Aloe Yogurt,2,false,Consumables,Food,35,4
+9294,Sweet Aloe Cookie,2,false,Consumables,Food,35,4
+9295,Tangy Honey Wine,2,false,Consumables,Food,35,4
+9296,Healthy Sute Tea,3,false,Consumables,Food,35,4
+9297,Mouth-watering Fish Fillet Chips,2,false,Consumables,Food,35,4
+9298,Plentiful Assorted Side Dishes,2,false,Consumables,Food,35,4
+9299,Spongy Teff Bread,2,false,Consumables,Food,35,4
+9300,Thick Freekeh Snake Stew,2,false,Consumables,Food,35,4
+9301,Sweet Fig Pie,2,false,Consumables,Food,35,4
+9302,Savory Pistachio Fried Rice,2,false,Consumables,Food,35,4
+9303,Spicy Teff Sandwich,3,false,Consumables,Food,35,4
+9304,Mild Date Palm Wine,2,false,Consumables,Food,35,4
+9305,Classic Couscous,3,false,Consumables,Food,35,4
+9306,Star Anise Tea,0,false,Consumables,Food,35,4
+9307,Coconut Cocktail,1,false,Consumables,Food,35,4
+9308,Coconut Pasta,1,false,Consumables,Food,35,4
+9309,Coconut Fried Fish,1,false,Consumables,Food,35,4
+9310,Chilled Coconut Cocktail,2,false,Consumables,Food,35,4
+9311,Sweet Coconut Pasta,2,false,Consumables,Food,35,4
+9312,Crispy Coconut Fried Fish,2,false,Consumables,Food,35,4
+9313,Spirit Essence of Wind,1,false,Consumables,Food,35,4
+9314,Spirit Essence of Earth,1,false,Consumables,Food,35,4
+9315,Spirit Essence of Water,1,false,Consumables,Food,35,4
+9316,Rainbow Button Mushroom Sandwich,1,false,Consumables,Food,35,4
+9317,Sweet Rainbow Button Mushroom Sandwich,2,false,Consumables,Food,35,4
+9318,Stir-Fried Bracken,1,false,Consumables,Food,35,4
+9319,Savory Stir-Fried Bracken,2,false,Consumables,Food,35,4
+9321,Carrot Confit,3,false,Consumables,Food,35,4
+9323,Delotia Tart,1,false,Consumables,Food,35,4
+9324,High-Quality Delotia Tart,2,false,Consumables,Food,35,4
+9325,Delotia Pudding,2,false,Consumables,Food,35,4
+9326,Blood Red Delotia Pudding,3,false,Consumables,Food,35,4
+9327,Delotia Juice,1,false,Consumables,Food,35,4
+9328,Chilled Delotia Juice,2,false,Consumables,Food,35,4
+9329,Delotia Milk Tea,1,false,Consumables,Food,35,4
+9330,Fragrant Delotia Milk Tea,2,false,Consumables,Food,35,4
+9331,Stir-Fried Bird,1,false,Consumables,Food,35,4
+9332,Savory Stir-Fried Bird,2,false,Consumables,Food,35,4
+9333,Stir-Fried Bracken and Meat,2,false,Consumables,Food,35,4
+9334,Light Stir-Fried Bracken and Meat,3,false,Consumables,Food,35,4
+9335,Chicken Breast Salad,1,false,Consumables,Food,35,4
+9336,Fresh Chicken Breast Salad,2,false,Consumables,Food,35,4
+9337,Frank Sandwich,2,false,Consumables,Food,35,4
+9338,High-Quality Frank Sandwich,3,false,Consumables,Food,35,4
+9339,Chanterelle Stew,1,false,Consumables,Food,35,4
+9340,Spicy Chanterelle Stew,2,false,Consumables,Food,35,4
+9341,Chanterelle and Potato Stew,1,false,Consumables,Food,35,4
+9342,Nutritious Chanterelle and Potato Stew,2,false,Consumables,Food,35,4
+9343,Stir-Fried Chanterelle and Meat,1,false,Consumables,Food,35,4
+9344,Hearty Stir-fried Chanterelle and Meat,2,false,Consumables,Food,35,4
+9345,Chanterelle Porridge,1,false,Consumables,Food,35,4
+9346,Savory Chanterelle Porridge,2,false,Consumables,Food,35,4
+9349,Chanterelle Risotto,2,false,Consumables,Food,35,4
+9350,Aromatic Chanterelle Risotto,3,false,Consumables,Food,35,4
+9351,Citron Cider,1,false,Consumables,Food,35,4
+9352,Sour Citron Cider,2,false,Consumables,Food,35,4
+9355,Citron Juice,1,false,Consumables,Food,35,4
+9356,Sweet Citron Juice,2,false,Consumables,Food,35,4
+9357,Citron Tea,1,false,Consumables,Food,35,4
+9359,Balacs Lunchbox,3,false,Consumables,Food,35,4
+9360,Special Eilton Specialty Meal,3,false,Consumables,Food,35,4
+9361,Pickled Citron and Onions,1,false,Consumables,Food,35,4
+9362,Crisp Pickled Citron and Onions,2,false,Consumables,Food,35,4
+9366,Well-brewed Mesima Tea,2,false,Consumables,Food,35,4
+9367,Mesima Rice Wine,1,false,Consumables,Food,35,4
+9368,Mild Mesima Rice Wine,2,false,Consumables,Food,35,4
+9369,Eilton Sandwich,2,false,Consumables,Food,35,4
+9370,High-quality Eilton Sandwich,3,false,Consumables,Food,35,4
+9371,Mesima Chicken Soup,2,false,Consumables,Food,35,4
+9376,Fruit Sherbet,3,false,Consumables,Food,35,4
+9378,Citron Candy,1,false,Consumables,Food,35,4
+9379,Sour Citron Candy,2,false,Consumables,Food,35,4
+9401,Steak,1,false,Consumables,Food,35,4
+9402,Boiled Bird Eggs,1,false,Consumables,Food,35,4
+9403,Fried Bird,1,false,Consumables,Food,35,4
+9404,Meat Croquette,1,false,Consumables,Food,35,4
+9405,Steamed Bird,1,false,Consumables,Food,35,4
+9406,Lizard Kebab,1,false,Consumables,Food,35,4
+9407,Fried Fish,1,false,Consumables,Food,35,4
+9408,Borscht,1,false,Consumables,Food,35,4
+9409,Steamed Fish,1,false,Consumables,Food,35,4
+9410,Desert Dumpling,1,false,Consumables,Food,35,4
+9411,Steamed Seafood,1,false,Consumables,Food,35,4
+9412,Pickled Fish,1,false,Consumables,Food,35,4
+9413,Seafood Pasta,1,false,Consumables,Food,35,4
+9414,Meat Stew,1,false,Consumables,Food,35,4
+9415,Meat Sandwich,1,false,Consumables,Food,35,4
+9416,Meat Pasta,1,false,Consumables,Food,35,4
+9417,Smoked Fish Steak,1,false,Consumables,Food,35,4
+9418,Fish Soup,1,false,Consumables,Food,35,4
+9419,Seafood Mushroom Salad,1,false,Consumables,Food,35,4
+9420,Stir-Fried Seafood,1,false,Consumables,Food,35,4
+9421,Seafood Grilled with Butter,1,false,Consumables,Food,35,4
+9422,Dark Pudding,2,false,Consumables,Food,35,4
+9423,Fish Fillet Salad,1,false,Consumables,Food,35,4
+9424,Meat Soup,1,false,Consumables,Food,35,4
+9425,Lean Meat Salad,1,false,Consumables,Food,35,4
+9426,Stir-Fried Meat,1,false,Consumables,Food,35,4
+9427,Grilled Sausage,1,false,Consumables,Food,35,4
+9428,Special Fish Soup,2,false,Consumables,Food,35,4
+9429,Crispy Fried Fish,2,false,Consumables,Food,35,4
+9430,Juicy Steak,2,false,Consumables,Food,35,4
+9431,Smoked Sausage,2,false,Consumables,Food,35,4
+9432,Special Stir-Fried Meat,2,false,Consumables,Food,35,4
+9433,Savory Seafood Grilled with Butter,2,false,Consumables,Food,35,4
+9434,Special Meat Soup,2,false,Consumables,Food,35,4
+9435,Top Grade Lean Meat Salad,2,false,Consumables,Food,35,4
+9436,Appealing Boiled Bird Egg,2,false,Consumables,Food,35,4
+9437,Divine Fried Bird,2,false,Consumables,Food,35,4
+9438,Crispy Meat Croquette,2,false,Consumables,Food,35,4
+9439,Lean Steamed Fish,2,false,Consumables,Food,35,4
+9440,Plentiful Steamed Seafood,2,false,Consumables,Food,35,4
+9441,High-Quality Seafood Pasta,2,false,Consumables,Food,35,4
+9442,Thick Meat Stew,2,false,Consumables,Food,35,4
+9443,High-Quality Meat Sandwich,2,false,Consumables,Food,35,4
+9444,Spaghetti alla Bolognese,2,false,Consumables,Food,35,4
+9445,Golden Smoked Fish Steak,2,false,Consumables,Food,35,4
+9446,Special Seafood Mushroom Salad,2,false,Consumables,Food,35,4
+9447,Special Stir-Fried Seafood,2,false,Consumables,Food,35,4
+9448,Bloody Dark Pudding,3,false,Consumables,Food,35,4
+9449,Fresh Fish Fillet Salad,2,false,Consumables,Food,35,4
+9450,Well-aged Steamed Bird,2,false,Consumables,Food,35,4
+9451,Lean Lizard Kebab,2,false,Consumables,Food,35,4
+9452,Fragrant Borscht,2,false,Consumables,Food,35,4
+9453,Chewy Desert Dumpling,2,false,Consumables,Food,35,4
+9454,Sour Pickled Fish,2,false,Consumables,Food,35,4
+9455,Steamed Whale Meat,1,false,Consumables,Food,35,4
+9456,Whale Meat Salad,1,false,Consumables,Food,35,4
+9457,Chewy Steamed Whale Meat,2,false,Consumables,Food,35,4
+9458,Fresh Whale Meat Salad,2,false,Consumables,Food,35,4
+9459,Hunter's Salad,2,false,Consumables,Food,35,4
+9460,Fresh Hunter's Salad,2,false,Consumables,Food,35,4
+9461,Grilled Scorpion,2,false,Consumables,Food,35,4
+9462,Crispy Grilled Scorpion,3,false,Consumables,Food,35,4
+9463,King of Jungle Hamburg,2,false,Consumables,Food,35,4
+9464,Jumbo King of Jungle Hamburg,3,false,Consumables,Food,35,4
+9469,Khalk's Fermented Wine,3,false,Consumables,Food,35,4
+9470,Khalk's Strong Fermented Wine,4,false,Consumables,Food,35,4
+9471,Prawn Salad,1,false,Consumables,Food,35,4
+9472,Sweet and Sour Prawn Salad,2,false,Consumables,Food,35,4
+9473,Steamed Prawn,1,false,Consumables,Food,35,4
+9474,Hearty Steamed Prawn,2,false,Consumables,Food,35,4
+9475,Pan-Fried Oyster,1,false,Consumables,Food,35,4
+9476,Aromatic Pan-Fried Oyster,2,false,Consumables,Food,35,4
+9477,Butter-roasted Lobster,1,false,Consumables,Food,35,4
+9478,Golden Butter-roasted Lobster,2,false,Consumables,Food,35,4
+9479,Hard-Boiled Shellfish,1,false,Consumables,Food,35,4
+9480,Big Hard-Boiled Shellfish,2,false,Consumables,Food,35,4
+9483,Rainbow Button Mushroom Cheese Melt,1,false,Consumables,Food,35,4
+9484,Mild Rainbow Button Mushroom Cheese Melt,2,false,Consumables,Food,35,4
+9486,Ghormeh Sabzi,1,false,Consumables,Food,35,4
+9487,Thick Ghormeh Sabzi,2,false,Consumables,Food,35,4
+9488,Roast Marmot,1,false,Consumables,Food,35,4
+9489,Golden Roast Marmot,2,false,Consumables,Food,35,4
+9490,Skewered Llama Cheese Melt,1,false,Consumables,Food,35,4
+9491,Spicy Skewered Llama Cheese Melt,2,false,Consumables,Food,35,4
+9492,Grilled Bird Meat,1,false,Consumables,Food,35,4
+9493,Steaming Hot Grilled Bird Meat,2,false,Consumables,Food,35,4
+9494,Five-Grain Chicken Porridge,1,false,Consumables,Food,35,4
+9495,Thick Five-Grain Chicken Porridge,2,false,Consumables,Food,35,4
+9496,Savory Steak,2,false,Consumables,Food,35,4
+9601,Balenos Meal,3,false,Consumables,Food,35,4
+9602,Special Balenos Meal,4,false,Consumables,Food,35,4
+9603,Serendia Meal,3,false,Consumables,Food,35,4
+9604,Special Serendia Meal,4,false,Consumables,Food,35,4
+9605,Calpheon Meal,3,false,Consumables,Food,35,4
+9606,Special Calpheon Meal,4,false,Consumables,Food,35,4
+9607,Mediah Meal,3,false,Consumables,Food,35,4
+9608,Special Mediah Meal,4,false,Consumables,Food,35,4
+9609,Valencia Meal,3,false,Consumables,Food,35,4
+9610,Special Valencia Meal,4,false,Consumables,Food,35,4
+9631,Knight Combat Rations,3,false,Consumables,Food,35,4
+9632,Special Arehaza Meal,3,false,Consumables,Food,35,4
+9634,Margoria Seafood Meal,3,false,Consumables,Food,35,4
+9635,Kamasylvia Meal,3,false,Consumables,Food,35,4
+9636,Special Kamasylvia Meal,4,false,Consumables,Food,35,4
+9637,Special Drieghanese Meal,3,false,Consumables,Food,35,4
+9638,O'dyllita Meal,3,false,Consumables,Food,35,4
+9639,Special O'dyllita Meal,4,false,Consumables,Food,35,4
+9640,Eilton Meal,3,false,Consumables,Food,35,4
+9641,Special Eilton Meal,4,false,Consumables,Food,35,4
+9642,Marvelous Eilton Meal,4,false,Consumables,Food,35,4
+9643,Marvelous Balacs Lunchbox,4,false,Consumables,Food,35,4
+9644,Marvelous Special Eilton Specialty Meal,4,false,Consumables,Food,35,4
+9645,Marvelous Mesima Chicken Soup,4,false,Consumables,Food,35,4
+9691,Seafood Cron Meal,4,false,Consumables,Food,35,4
+9692,Simple Cron Meal,4,false,Consumables,Food,35,4
+9693,Exquisite Cron Meal,4,false,Consumables,Food,35,4
+757032,Stonetail Wind's Meal,4,false,Consumables,Food,35,4
+820146,Miraculous Nourishing Soup,4,false,Consumables,Food,35,4
+820148,Iridescent Maehwa Liquor,4,false,Consumables,Food,35,4
+820801,White Kimchi,1,false,Consumables,Food,35,4
+820802,Fresh White Kimchi,2,false,Consumables,Food,35,4
+820805,Dongchimi,1,false,Consumables,Food,35,4
+820806,Sour Dongchimi,2,false,Consumables,Food,35,4
+820811,Bean Sprout Salad,1,false,Consumables,Food,35,4
+820812,Crunchy Bean Sprout Salad,2,false,Consumables,Food,35,4
+820815,Cooked Rice,1,false,Consumables,Food,35,4
+820816,Steaming Cooked Rice,2,false,Consumables,Food,35,4
+820819,Soybean Jjigae,1,false,Consumables,Food,35,4
+820820,Savory Soybean Jjigae,2,false,Consumables,Food,35,4
+820821,Mungbean Jeon,1,false,Consumables,Food,35,4
+820822,Crispy Mungbean Jeon,2,false,Consumables,Food,35,4
+820823,Buckwheat Jelly,1,false,Consumables,Food,35,4
+820824,Chewy Buckwheat Jelly,2,false,Consumables,Food,35,4
+820825,Red Bean Porridge,1,false,Consumables,Food,35,4
+820826,Red Bean Porridge Full of Tteok,2,false,Consumables,Food,35,4
+820829,Skewer,1,false,Consumables,Food,35,4
+820830,Soft Skewer,2,false,Consumables,Food,35,4
+820831,Nurungji,1,false,Consumables,Food,35,4
+820832,Crispy Nurungji,2,false,Consumables,Food,35,4
+820833,Sungnyung,1,false,Consumables,Food,35,4
+820834,Savory Sungnyung,2,false,Consumables,Food,35,4
+820839,Jujube Tea,1,false,Consumables,Food,35,4
+820840,Fragrant Jujube Tea,2,false,Consumables,Food,35,4
+820841,Dried Persimmon,1,false,Consumables,Food,35,4
+820843,Roasted Ginkgo,1,false,Consumables,Food,35,4
+820844,Savory Roasted Ginkgo,2,false,Consumables,Food,35,4
+820845,Garaetteok,1,false,Consumables,Food,35,4
+820846,Chewy Garaetteok,2,false,Consumables,Food,35,4
+820849,Red Bean Sirutteok,1,false,Consumables,Food,35,4
+820850,Soft Red Bean Sirutteok,2,false,Consumables,Food,35,4
+820856,Moodle Gukbap,3,false,Consumables,Food,35,4
+820857,Dalbeol Gukbap,3,false,Consumables,Food,35,4
+820858,Byeot County Gukbap,3,false,Consumables,Food,35,4

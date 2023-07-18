@@ -1,100 +1,100 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-17973,0,Trainer's Flute (Permanent),3,false,255000000,Pearl Items,Mount,55,7
-18001,0,Calpheon Chargers' Champron,4,false,85000000,Pearl Items,Mount,55,7
-18002,0,Knight's Champron,4,false,84500000,Pearl Items,Mount,55,7
-18003,0,Commander's Champron,4,false,85000000,Pearl Items,Mount,55,7
-18004,0,Iron Scale Champron,4,false,84500000,Pearl Items,Mount,55,7
-18005,0,Dark Thorn Champron,4,false,85000000,Pearl Items,Mount,55,7
-18006,0,Cavaro Champron,4,false,85000000,Pearl Items,Mount,55,7
-18007,0,Lahr Arcien Champron,4,false,85000000,Pearl Items,Mount,55,7
-18008,0,Karlstein Champron,4,false,85000000,Pearl Items,Mount,55,7
-18011,0,Katan Combat Iron Mask for Camel,4,false,85000000,Pearl Items,Mount,55,7
-18012,0,Trina Knight Champron,4,false,85000000,Pearl Items,Mount,55,7
-18013,0,Dragon Scale Champron,4,false,85000000,Pearl Items,Mount,55,7
-18014,0,Skeletal Champron,4,false,85000000,Pearl Items,Mount,55,7
-18015,0,Krenvatz Champron,4,false,85000000,Pearl Items,Mount,55,7
-18016,0,Anemos Champron,4,false,85000000,Pearl Items,Mount,55,7
-18017,0,Terrminé Champron,4,false,85000000,Pearl Items,Mount,55,7
-18019,0,Blitzen Champron,4,false,85000000,Pearl Items,Mount,55,7
-18101,0,Calpheon Chargers' Barding,4,false,153000000,Pearl Items,Mount,55,7
-18102,0,Knight's Barding,4,false,153000000,Pearl Items,Mount,55,7
-18103,0,Commander's Barding,4,false,153000000,Pearl Items,Mount,55,7
-18104,0,Iron Scale Barding,4,false,152000000,Pearl Items,Mount,55,7
-18105,0,Dark Thorn Barding,4,false,153000000,Pearl Items,Mount,55,7
-18106,0,Cavaro Barding,4,false,153000000,Pearl Items,Mount,55,7
-18107,0,Lahr Arcien Barding,4,false,153000000,Pearl Items,Mount,55,7
-18108,0,Karlstein Barding,4,false,153000000,Pearl Items,Mount,55,7
-18111,0,Katan Combat Iron Armor for Camel,4,false,153000000,Pearl Items,Mount,55,7
-18112,0,Trina Knight Barding,4,false,153000000,Pearl Items,Mount,55,7
-18113,0,Dragon Scale Barding,4,false,153000000,Pearl Items,Mount,55,7
-18114,0,Skeletal Barding,4,false,153000000,Pearl Items,Mount,55,7
-18115,0,Krenvatz Barding,4,false,153000000,Pearl Items,Mount,55,7
-18116,0,Anemos Barding,4,false,153000000,Pearl Items,Mount,55,7
-18117,0,Terrminé Barding,4,false,153000000,Pearl Items,Mount,55,7
-18119,0,Blitzen Barding,4,false,153000000,Pearl Items,Mount,55,7
-18201,0,Calpheon Chargers' Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18202,0,Knight's Saddle,4,false,101000000,Pearl Items,Mount,55,7
-18203,0,Commander's Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18204,0,Iron Scale Saddle,4,false,101000000,Pearl Items,Mount,55,7
-18205,0,Dark Thorn Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18206,0,Cavaro Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18207,0,Lahr Arcien Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18208,0,Karlstein Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18211,0,Katan Combat Saddle for Camel,4,false,102000000,Pearl Items,Mount,55,7
-18212,0,Trina Knight Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18213,0,Dragon Scale Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18214,0,Skeletal Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18215,0,Krenvatz Saddle,4,false,101000000,Pearl Items,Mount,55,7
-18216,0,Anemos Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18217,0,Terrminé Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18219,0,Blitzen Saddle,4,false,102000000,Pearl Items,Mount,55,7
-18301,0,Calpheon Chargers' Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18302,0,Knight's Stirrups,4,false,50500000,Pearl Items,Mount,55,7
-18303,0,Commander's Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18304,0,Iron Scale Stirrups,4,false,50500000,Pearl Items,Mount,55,7
-18305,0,Dark Thorn Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18306,0,Cavaro Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18307,0,Lahr Arcien Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18308,0,Karlstein Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18311,0,Katan Combat Stirrups for Camel,4,false,51000000,Pearl Items,Mount,55,7
-18312,0,Trina Knight Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18313,0,Dragon Scale Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18314,0,Skeletal Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18315,0,Krenvatz Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18316,0,Anemos Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18317,0,Terrminé Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18319,0,Blitzen Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-18374,0,Bellucian Champron,4,false,85000000,Pearl Items,Mount,55,7
-18375,0,Bellucian Barding,4,false,153000000,Pearl Items,Mount,55,7
-18376,0,Bellucian Saddle,4,false,101000000,Pearl Items,Mount,55,7
-18377,0,Bellucian Stirrups,4,false,50500000,Pearl Items,Mount,55,7
-18378,0,Bellucian Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21003,0,Iron Scale Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21004,0,Dark Thorn Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21008,0,Karlstein Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21012,0,Trina Knight Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21018,0,Skeletal Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21019,0,Krenvatz Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21020,0,Anemos Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21970,0,Terrminé Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-21972,0,Blitzen Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-336001,0,[Donkey] Wild Carrot Champron,4,false,85000000,Pearl Items,Mount,55,7
-336002,0,[Donkey] Wild Carrot Barding,4,false,153000000,Pearl Items,Mount,55,7
-336003,0,[Donkey] Wild Carrot Saddle,4,false,102000000,Pearl Items,Mount,55,7
-336004,0,[Donkey] Wild Carrot Stirrups,4,false,50500000,Pearl Items,Mount,55,7
-336005,0,[Donkey] Wild Carrot Donkey Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-336011,0,[Donkey] Clip-Clop Champron,4,false,85000000,Pearl Items,Mount,55,7
-336012,0,[Donkey] Clip-Clop Barding,4,false,153000000,Pearl Items,Mount,55,7
-336013,0,[Donkey] Clip-Clop Saddle,4,false,102000000,Pearl Items,Mount,55,7
-336014,0,[Donkey] Clip-Clop Stirrups,4,false,50500000,Pearl Items,Mount,55,7
-336015,0,[Donkey] Clip-Clop Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-336021,0,Christa Champron,4,false,84000000,Pearl Items,Mount,55,7
-336022,0,Christa Barding,4,false,150000000,Pearl Items,Mount,55,7
-336023,0,Christa Saddle,4,false,102000000,Pearl Items,Mount,55,7
-336024,0,Christa Stirrups,4,false,50500000,Pearl Items,Mount,55,7
-336025,0,Christa Donkey Gear Set,4,false,390000000,Pearl Items,Mount,55,7
-336035,0,Oquilla Dream Champron,4,false,85000000,Pearl Items,Mount,55,7
-336036,0,Oquilla Dream Barding,4,false,153000000,Pearl Items,Mount,55,7
-336037,0,Oquilla Dream Saddle,4,false,102000000,Pearl Items,Mount,55,7
-336038,0,Oquilla Dream Stirrups,4,false,51000000,Pearl Items,Mount,55,7
-336039,0,Oquilla Dream Horse Gear Set,4,false,390000000,Pearl Items,Mount,55,7
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+17973,Trainer's Flute (Permanent),3,false,Pearl Items,Mount,55,7
+18001,Calpheon Chargers' Champron,4,false,Pearl Items,Mount,55,7
+18002,Knight's Champron,4,false,Pearl Items,Mount,55,7
+18003,Commander's Champron,4,false,Pearl Items,Mount,55,7
+18004,Iron Scale Champron,4,false,Pearl Items,Mount,55,7
+18005,Dark Thorn Champron,4,false,Pearl Items,Mount,55,7
+18006,Cavaro Champron,4,false,Pearl Items,Mount,55,7
+18007,Lahr Arcien Champron,4,false,Pearl Items,Mount,55,7
+18008,Karlstein Champron,4,false,Pearl Items,Mount,55,7
+18011,Katan Combat Iron Mask for Camel,4,false,Pearl Items,Mount,55,7
+18012,Trina Knight Champron,4,false,Pearl Items,Mount,55,7
+18013,Dragon Scale Champron,4,false,Pearl Items,Mount,55,7
+18014,Skeletal Champron,4,false,Pearl Items,Mount,55,7
+18015,Krenvatz Champron,4,false,Pearl Items,Mount,55,7
+18016,Anemos Champron,4,false,Pearl Items,Mount,55,7
+18017,Terrminé Champron,4,false,Pearl Items,Mount,55,7
+18019,Blitzen Champron,4,false,Pearl Items,Mount,55,7
+18101,Calpheon Chargers' Barding,4,false,Pearl Items,Mount,55,7
+18102,Knight's Barding,4,false,Pearl Items,Mount,55,7
+18103,Commander's Barding,4,false,Pearl Items,Mount,55,7
+18104,Iron Scale Barding,4,false,Pearl Items,Mount,55,7
+18105,Dark Thorn Barding,4,false,Pearl Items,Mount,55,7
+18106,Cavaro Barding,4,false,Pearl Items,Mount,55,7
+18107,Lahr Arcien Barding,4,false,Pearl Items,Mount,55,7
+18108,Karlstein Barding,4,false,Pearl Items,Mount,55,7
+18111,Katan Combat Iron Armor for Camel,4,false,Pearl Items,Mount,55,7
+18112,Trina Knight Barding,4,false,Pearl Items,Mount,55,7
+18113,Dragon Scale Barding,4,false,Pearl Items,Mount,55,7
+18114,Skeletal Barding,4,false,Pearl Items,Mount,55,7
+18115,Krenvatz Barding,4,false,Pearl Items,Mount,55,7
+18116,Anemos Barding,4,false,Pearl Items,Mount,55,7
+18117,Terrminé Barding,4,false,Pearl Items,Mount,55,7
+18119,Blitzen Barding,4,false,Pearl Items,Mount,55,7
+18201,Calpheon Chargers' Saddle,4,false,Pearl Items,Mount,55,7
+18202,Knight's Saddle,4,false,Pearl Items,Mount,55,7
+18203,Commander's Saddle,4,false,Pearl Items,Mount,55,7
+18204,Iron Scale Saddle,4,false,Pearl Items,Mount,55,7
+18205,Dark Thorn Saddle,4,false,Pearl Items,Mount,55,7
+18206,Cavaro Saddle,4,false,Pearl Items,Mount,55,7
+18207,Lahr Arcien Saddle,4,false,Pearl Items,Mount,55,7
+18208,Karlstein Saddle,4,false,Pearl Items,Mount,55,7
+18211,Katan Combat Saddle for Camel,4,false,Pearl Items,Mount,55,7
+18212,Trina Knight Saddle,4,false,Pearl Items,Mount,55,7
+18213,Dragon Scale Saddle,4,false,Pearl Items,Mount,55,7
+18214,Skeletal Saddle,4,false,Pearl Items,Mount,55,7
+18215,Krenvatz Saddle,4,false,Pearl Items,Mount,55,7
+18216,Anemos Saddle,4,false,Pearl Items,Mount,55,7
+18217,Terrminé Saddle,4,false,Pearl Items,Mount,55,7
+18219,Blitzen Saddle,4,false,Pearl Items,Mount,55,7
+18301,Calpheon Chargers' Stirrups,4,false,Pearl Items,Mount,55,7
+18302,Knight's Stirrups,4,false,Pearl Items,Mount,55,7
+18303,Commander's Stirrups,4,false,Pearl Items,Mount,55,7
+18304,Iron Scale Stirrups,4,false,Pearl Items,Mount,55,7
+18305,Dark Thorn Stirrups,4,false,Pearl Items,Mount,55,7
+18306,Cavaro Stirrups,4,false,Pearl Items,Mount,55,7
+18307,Lahr Arcien Stirrups,4,false,Pearl Items,Mount,55,7
+18308,Karlstein Stirrups,4,false,Pearl Items,Mount,55,7
+18311,Katan Combat Stirrups for Camel,4,false,Pearl Items,Mount,55,7
+18312,Trina Knight Stirrups,4,false,Pearl Items,Mount,55,7
+18313,Dragon Scale Stirrups,4,false,Pearl Items,Mount,55,7
+18314,Skeletal Stirrups,4,false,Pearl Items,Mount,55,7
+18315,Krenvatz Stirrups,4,false,Pearl Items,Mount,55,7
+18316,Anemos Stirrups,4,false,Pearl Items,Mount,55,7
+18317,Terrminé Stirrups,4,false,Pearl Items,Mount,55,7
+18319,Blitzen Stirrups,4,false,Pearl Items,Mount,55,7
+18374,Bellucian Champron,4,false,Pearl Items,Mount,55,7
+18375,Bellucian Barding,4,false,Pearl Items,Mount,55,7
+18376,Bellucian Saddle,4,false,Pearl Items,Mount,55,7
+18377,Bellucian Stirrups,4,false,Pearl Items,Mount,55,7
+18378,Bellucian Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21003,Iron Scale Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21004,Dark Thorn Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21008,Karlstein Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21012,Trina Knight Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21018,Skeletal Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21019,Krenvatz Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21020,Anemos Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21970,Terrminé Horse Gear Set,4,false,Pearl Items,Mount,55,7
+21972,Blitzen Horse Gear Set,4,false,Pearl Items,Mount,55,7
+336001,[Donkey] Wild Carrot Champron,4,false,Pearl Items,Mount,55,7
+336002,[Donkey] Wild Carrot Barding,4,false,Pearl Items,Mount,55,7
+336003,[Donkey] Wild Carrot Saddle,4,false,Pearl Items,Mount,55,7
+336004,[Donkey] Wild Carrot Stirrups,4,false,Pearl Items,Mount,55,7
+336005,[Donkey] Wild Carrot Donkey Gear Set,4,false,Pearl Items,Mount,55,7
+336011,[Donkey] Clip-Clop Champron,4,false,Pearl Items,Mount,55,7
+336012,[Donkey] Clip-Clop Barding,4,false,Pearl Items,Mount,55,7
+336013,[Donkey] Clip-Clop Saddle,4,false,Pearl Items,Mount,55,7
+336014,[Donkey] Clip-Clop Stirrups,4,false,Pearl Items,Mount,55,7
+336015,[Donkey] Clip-Clop Gear Set,4,false,Pearl Items,Mount,55,7
+336021,Christa Champron,4,false,Pearl Items,Mount,55,7
+336022,Christa Barding,4,false,Pearl Items,Mount,55,7
+336023,Christa Saddle,4,false,Pearl Items,Mount,55,7
+336024,Christa Stirrups,4,false,Pearl Items,Mount,55,7
+336025,Christa Donkey Gear Set,4,false,Pearl Items,Mount,55,7
+336035,Oquilla Dream Champron,4,false,Pearl Items,Mount,55,7
+336036,Oquilla Dream Barding,4,false,Pearl Items,Mount,55,7
+336037,Oquilla Dream Saddle,4,false,Pearl Items,Mount,55,7
+336038,Oquilla Dream Stirrups,4,false,Pearl Items,Mount,55,7
+336039,Oquilla Dream Horse Gear Set,4,false,Pearl Items,Mount,55,7

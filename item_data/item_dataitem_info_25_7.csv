@@ -1,180 +1,180 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-6515,0,Oyster,0,false,19600,Material,Seafood,25,7
-6516,0,Shrimp,0,false,18700,Material,Seafood,25,7
-6520,0,Dried Pearl Oyster Flesh,0,false,60500,Material,Seafood,25,7
-6521,0,Dried Lobster,0,false,117000,Material,Seafood,25,7
-6535,0,Tridana Giant Clam Shellfish,2,false,177000,Material,Seafood,25,7
-8501,0,Dried Mudskipper,0,false,3190,Material,Seafood,25,7
-8502,0,Dried Tuna,0,false,79500,Material,Seafood,25,7
-8503,0,Dried Beltfish,0,false,6750,Material,Seafood,25,7
-8504,0,Dried Flounder,0,false,5850,Material,Seafood,25,7
-8505,0,Dried Salmon,0,false,4800,Material,Seafood,25,7
-8506,0,Dried Amberjack,0,false,5150,Material,Seafood,25,7
-8507,0,Dried Porgy,0,false,75500,Material,Seafood,25,7
-8508,419,Dried Swellfish,0,false,17200,Material,Seafood,25,7
-8509,0,Dried Saurel,0,false,2540,Material,Seafood,25,7
-8510,0,Dried Rockfish,0,false,5800,Material,Seafood,25,7
-8511,0,Dried Squid,0,false,5800,Material,Seafood,25,7
-8512,196,Dried Octopus,0,false,6050,Material,Seafood,25,7
-8513,0,Dried Crab,0,false,2100,Material,Seafood,25,7
-8514,0,Dried Jellyfish,0,false,2880,Material,Seafood,25,7
-8515,0,Dried Shellfish,0,false,2780,Material,Seafood,25,7
-8516,71,Dried Carp,0,false,11700,Material,Seafood,25,7
-8517,0,Dried Crucian Carp,0,false,4440,Material,Seafood,25,7
-8518,0,Dried Trout,0,false,6350,Material,Seafood,25,7
-8519,0,Dried Catfish,0,false,6400,Material,Seafood,25,7
-8520,27,Dried Freshwater Eel,0,false,10400,Material,Seafood,25,7
-8521,30,Dried Snakehead,0,false,20500,Material,Seafood,25,7
-8522,0,Dried Cherry Salmon,0,false,16300,Material,Seafood,25,7
-8523,6,Dried Cuvier,0,false,24900,Material,Seafood,25,7
-8524,0,Dried Sunfish,0,false,42600,Material,Seafood,25,7
-8525,51,Dried Sea Bass,0,false,23800,Material,Seafood,25,7
-8526,0,Dried Angler,0,false,13800,Material,Seafood,25,7
-8527,30,Dried Swordfish,0,false,19100,Material,Seafood,25,7
-8528,0,Dried Mackerel,0,false,5600,Material,Seafood,25,7
-8529,0,Dried Flying Fish,0,false,6050,Material,Seafood,25,7
-8530,0,Dried Skipjack,0,false,7050,Material,Seafood,25,7
-8531,0,Dried Ray,0,false,6300,Material,Seafood,25,7
-8532,0,Dried Seahorse,0,false,3300,Material,Seafood,25,7
-8533,0,Dried Starfish,0,false,2070,Material,Seafood,25,7
-8534,0,Dried Filefish,0,false,3160,Material,Seafood,25,7
-8535,0,Dried Scorpion Fish,0,false,2780,Material,Seafood,25,7
-8536,0,Dried Mullet,0,false,3160,Material,Seafood,25,7
-8537,3,Dried Swiri,0,false,67500,Material,Seafood,25,7
-8538,0,Dried Sturgeon,0,false,54000,Material,Seafood,25,7
-8539,0,Dried Piranha,0,false,17700,Material,Seafood,25,7
-8540,0,Dried Mandarin Fish,0,false,43600,Material,Seafood,25,7
-8541,48,Dried Lenok,0,false,10200,Material,Seafood,25,7
-8542,202,Dried Arowana,0,false,9700,Material,Seafood,25,7
-8543,0,Dried Sweetfish,0,false,6400,Material,Seafood,25,7
-8544,0,Dried Terrapin,0,false,6250,Material,Seafood,25,7
-8545,0,Dried Bass,0,false,5450,Material,Seafood,25,7
-8546,106,Dried Crawfish,0,false,5600,Material,Seafood,25,7
-8547,0,Dried Dace,0,false,2390,Material,Seafood,25,7
-8548,0,Dried Bluegill,0,false,2690,Material,Seafood,25,7
-8549,0,Dried Perch,0,false,3270,Material,Seafood,25,7
-8550,0,Dried Notch Jaw,0,false,2690,Material,Seafood,25,7
-8551,0,Dried Mudfish,0,false,2780,Material,Seafood,25,7
-8552,0,Dried Goby Minnow,0,false,2570,Material,Seafood,25,7
-8553,0,Dried Bitterling,0,false,2880,Material,Seafood,25,7
-8554,0,Dried Bleeker,0,false,2720,Material,Seafood,25,7
-8555,0,Dried Yellowfin Sculpin,0,false,8400,Material,Seafood,25,7
-8556,1427,Dried Cero,0,false,18700,Material,Seafood,25,7
-8557,240,Dried Sea Eel,0,false,11500,Material,Seafood,25,7
-8558,0,Dried Croaker,0,false,7200,Material,Seafood,25,7
-8559,0,Dried Greenling,0,false,3490,Material,Seafood,25,7
-8560,0,Dried Flatfish,0,false,3270,Material,Seafood,25,7
-8561,0,Dried Grunt,0,false,18200,Material,Seafood,25,7
-8562,0,Dried Herring,0,false,16700,Material,Seafood,25,7
-8563,0,Dried Sardine,0,false,6650,Material,Seafood,25,7
-8564,0,Dried Round Herring,0,false,2690,Material,Seafood,25,7
-8565,0,Dried Silver Stripe Round Herring,0,false,2820,Material,Seafood,25,7
-8566,0,Dried Whiting,0,false,2540,Material,Seafood,25,7
-8567,0,Dried Dolphinfish,0,false,3440,Material,Seafood,25,7
-8568,0,Dried Striped Catfish,0,false,3050,Material,Seafood,25,7
-8569,0,Dried Gunnel,0,false,5550,Material,Seafood,25,7
-8570,1299,Dried Golden-thread,0,false,21100,Material,Seafood,25,7
-8571,18,Dried Nibbler,0,false,30000,Material,Seafood,25,7
-8572,0,Dried Siganid,0,false,17900,Material,Seafood,25,7
-8573,0,Dried Bluefish,0,false,6100,Material,Seafood,25,7
-8574,0,Dried Surfperch,0,false,2300,Material,Seafood,25,7
-8575,0,Dried Blackfin Sweeper,0,false,3100,Material,Seafood,25,7
-8576,0,Dried Smokey Chromis,0,false,23700,Material,Seafood,25,7
-8577,1065,Dried Maomao,0,false,18500,Material,Seafood,25,7
-8578,0,Dried Pintado,0,false,5650,Material,Seafood,25,7
-8579,0,Dried Gurnard,0,false,3270,Material,Seafood,25,7
-8581,732,Dried John Dory,0,false,19400,Material,Seafood,25,7
-8582,0,Dried Sandfish,0,false,2960,Material,Seafood,25,7
-8583,0,Dried Rosefish,0,false,2630,Material,Seafood,25,7
-8584,327,Dried Grouper,0,false,16300,Material,Seafood,25,7
-8585,0,Dried Bigeye,0,false,6900,Material,Seafood,25,7
-8586,0,Dried Fourfinger Threadfin,0,false,2000,Material,Seafood,25,7
-8587,44,Dried Leather Carp,0,false,15800,Material,Seafood,25,7
-8588,0,Dried Striped Shiner,0,false,12000,Material,Seafood,25,7
-8589,0,Dried Barbel Steed,0,false,4550,Material,Seafood,25,7
-8590,0,Dried Soho Bitterling,0,false,2210,Material,Seafood,25,7
-8591,0,Dried Bubble Eye,0,false,2300,Material,Seafood,25,7
-8592,1,Dried Pacu,0,false,15100,Material,Seafood,25,7
-8593,44,Dried Yellow-head Catfish,0,false,13300,Material,Seafood,25,7
-8594,0,Dried Smelt,0,false,5200,Material,Seafood,25,7
-8595,0,Dried Rosy Bitterling,0,false,3160,Material,Seafood,25,7
-8596,0,Dried Roundtail Paradisefish,0,false,3300,Material,Seafood,25,7
-8597,0,Dried Grayling,0,false,5850,Material,Seafood,25,7
-8598,436,Dried Tapertail Anchovy,0,false,15900,Material,Seafood,25,7
-8599,0,Dried Kuhlia Marginata,0,false,4840,Material,Seafood,25,7
-8600,0,Dried Rock Hind,0,false,2570,Material,Seafood,25,7
-8601,0,Dried Butterflyfish,0,false,3020,Material,Seafood,25,7
-8602,0,Dried Clownfish,0,false,4700,Material,Seafood,25,7
-8603,0,Dried Blue Tang,0,false,6850,Material,Seafood,25,7
-8604,1750,Dried Checkerboard Wrasse,0,false,19700,Material,Seafood,25,7
-8605,0,Dried Pomfret,0,false,8200,Material,Seafood,25,7
-8629,0,Dried Moray,0,false,18500,Material,Seafood,25,7
-8630,34,Dried Tilefish,0,false,31500,Material,Seafood,25,7
-8631,0,Dried Porcupine Fish,0,false,11500,Material,Seafood,25,7
-8632,0,Dried Tongue Sole,0,false,2990,Material,Seafood,25,7
-8633,0,Dried Atka Mackerel,0,false,8150,Material,Seafood,25,7
-8634,0,Dried Cuttlefish,0,false,5400,Material,Seafood,25,7
-8635,0,Dried Mackerel Pike,0,false,2150,Material,Seafood,25,7
-8636,0,Dried Horn Fish,0,false,4800,Material,Seafood,25,7
-8637,0,Dried Dollarfish,0,false,5550,Material,Seafood,25,7
-8638,0,Dried Sandeel,0,false,3130,Material,Seafood,25,7
-8639,21,Dried Spotted Barbel,0,false,17200,Material,Seafood,25,7
-8640,45,Dried Miho Spine Loach,0,false,26500,Material,Seafood,25,7
-8641,0,Dried Diamond Minnow,0,false,20900,Material,Seafood,25,7
-8642,0,Dried Amur Minnow,0,false,22700,Material,Seafood,25,7
-8643,0,Dried Common Minnow,0,false,6100,Material,Seafood,25,7
-8644,0,Dried Stumpy Bullhead,0,false,7050,Material,Seafood,25,7
-8645,0,Dried Shuttles Hoppfish,0,false,7550,Material,Seafood,25,7
-8646,0,Dried Oily Shiner,0,false,6400,Material,Seafood,25,7
-8647,0,Dried Korean Loach,0,false,6900,Material,Seafood,25,7
-8648,0,Dried Minnow,0,false,6900,Material,Seafood,25,7
-8649,0,Dried Cherry Icefish,0,false,8100,Material,Seafood,25,7
-8650,0,Dried Spined Loach,0,false,6900,Material,Seafood,25,7
-8651,21,Dried Amur Ide,0,false,7550,Material,Seafood,25,7
-8652,0,Dried Stone Moroko,0,false,14600,Material,Seafood,25,7
-8653,0,Dried Amur Goby,0,false,10500,Material,Seafood,25,7
-8654,15,Dried Stickleback,0,false,9900,Material,Seafood,25,7
-8655,13,Dried Mori,0,false,12300,Material,Seafood,25,7
-8656,3,Dried Grass Carp,0,false,8850,Material,Seafood,25,7
-8657,8,Dried Black Shiner,0,false,17900,Material,Seafood,25,7
-8658,0,Dried Burbot,0,false,16900,Material,Seafood,25,7
-8659,0,Dried Dark Chub,0,false,16200,Material,Seafood,25,7
-8660,0,Dried Flower Icefish,0,false,36100,Material,Seafood,25,7
-8661,0,Dried Charr,0,false,16500,Material,Seafood,25,7
-8662,0,Dried Yellowfin Sole,0,false,15200,Material,Seafood,25,7
-8663,0,Dried Stippled Gunnel,0,false,15500,Material,Seafood,25,7
-8664,0,Dried Red Snow Crab,0,false,17600,Material,Seafood,25,7
-8665,4,Dried Redbreasted Wrasse,0,false,17300,Material,Seafood,25,7
-8666,0,Dried Green Sturgeon,0,false,17100,Material,Seafood,25,7
-8667,0,Dried Thresher Shark,0,false,36600,Material,Seafood,25,7
-8668,0,Dried Tiger Shark,0,false,41700,Material,Seafood,25,7
-8669,0,Dried Basking Shark,0,false,86000,Material,Seafood,25,7
-8670,0,Dried Sharpbelly,0,false,8800,Material,Seafood,25,7
-8671,0,Dried Lamprey,0,false,26900,Material,Seafood,25,7
-8672,0,Dried Yalu Grayling,0,false,11900,Material,Seafood,25,7
-8673,0,Dried Pike,0,false,6450,Material,Seafood,25,7
-8674,0,Dried Dark Sleeper,0,false,11400,Material,Seafood,25,7
-8675,0,Dried Bowfin,0,false,31400,Material,Seafood,25,7
-8676,0,Dried Longsnout Catfish,0,false,23900,Material,Seafood,25,7
-8677,0,Dried Spined Bittering,0,false,9250,Material,Seafood,25,7
-8678,0,Dried Silver Carp,0,false,11700,Material,Seafood,25,7
-8679,0,Dried Chameleon Goby,0,false,6250,Material,Seafood,25,7
-8680,0,Dried Ussurian Bullhead,0,false,8450,Material,Seafood,25,7
-8681,0,Dried Common Bleak,0,false,10200,Material,Seafood,25,7
-820526,0,Dried Morning River Goby,0,false,1410,Material,Seafood,25,7
-820527,0,Dried Rapid Goby,0,false,17900,Material,Seafood,25,7
-820529,0,Dried Short Ninespine Stickleback,0,false,452,Material,Seafood,25,7
-820530,0,Dried South Torrent Catfish,0,false,1000,Material,Seafood,25,7
-820531,0,Dried Dwarf Gudgeon,0,false,12600,Material,Seafood,25,7
-820532,0,Dried Short Barbel Gudgeon,0,false,14000,Material,Seafood,25,7
-820533,0,Dried King Spine Loach,0,false,14100,Material,Seafood,25,7
-820534,0,Dried Large-headed Goby,0,false,14100,Material,Seafood,25,7
-820538,0,Dried Neon Damselfish,0,false,15900,Material,Seafood,25,7
-820539,0,Dried Ransonnet's Surfperch,0,false,16000,Material,Seafood,25,7
-820540,0,Dried Pollack,0,false,745,Material,Seafood,25,7
-820541,0,Dried Boxfish,0,false,2920,Material,Seafood,25,7
-820543,0,Dried Cuttlefish,0,false,420,Material,Seafood,25,7
-820544,0,Dried Dark-banded Rockfish,0,false,355,Material,Seafood,25,7
-820545,15,Dried Lionfish,0,false,2680,Material,Seafood,25,7
-820547,0,Dried Blacktip Chromis,0,false,15000,Material,Seafood,25,7
-820548,0,Dried Red Seabream,0,false,14300,Material,Seafood,25,7
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+6515,Oyster,0,false,Material,Seafood,25,7
+6516,Shrimp,0,false,Material,Seafood,25,7
+6520,Dried Pearl Oyster Flesh,0,false,Material,Seafood,25,7
+6521,Dried Lobster,0,false,Material,Seafood,25,7
+6535,Tridana Giant Clam Shellfish,2,false,Material,Seafood,25,7
+8501,Dried Mudskipper,0,false,Material,Seafood,25,7
+8502,Dried Tuna,0,false,Material,Seafood,25,7
+8503,Dried Beltfish,0,false,Material,Seafood,25,7
+8504,Dried Flounder,0,false,Material,Seafood,25,7
+8505,Dried Salmon,0,false,Material,Seafood,25,7
+8506,Dried Amberjack,0,false,Material,Seafood,25,7
+8507,Dried Porgy,0,false,Material,Seafood,25,7
+8508,Dried Swellfish,0,false,Material,Seafood,25,7
+8509,Dried Saurel,0,false,Material,Seafood,25,7
+8510,Dried Rockfish,0,false,Material,Seafood,25,7
+8511,Dried Squid,0,false,Material,Seafood,25,7
+8512,Dried Octopus,0,false,Material,Seafood,25,7
+8513,Dried Crab,0,false,Material,Seafood,25,7
+8514,Dried Jellyfish,0,false,Material,Seafood,25,7
+8515,Dried Shellfish,0,false,Material,Seafood,25,7
+8516,Dried Carp,0,false,Material,Seafood,25,7
+8517,Dried Crucian Carp,0,false,Material,Seafood,25,7
+8518,Dried Trout,0,false,Material,Seafood,25,7
+8519,Dried Catfish,0,false,Material,Seafood,25,7
+8520,Dried Freshwater Eel,0,false,Material,Seafood,25,7
+8521,Dried Snakehead,0,false,Material,Seafood,25,7
+8522,Dried Cherry Salmon,0,false,Material,Seafood,25,7
+8523,Dried Cuvier,0,false,Material,Seafood,25,7
+8524,Dried Sunfish,0,false,Material,Seafood,25,7
+8525,Dried Sea Bass,0,false,Material,Seafood,25,7
+8526,Dried Angler,0,false,Material,Seafood,25,7
+8527,Dried Swordfish,0,false,Material,Seafood,25,7
+8528,Dried Mackerel,0,false,Material,Seafood,25,7
+8529,Dried Flying Fish,0,false,Material,Seafood,25,7
+8530,Dried Skipjack,0,false,Material,Seafood,25,7
+8531,Dried Ray,0,false,Material,Seafood,25,7
+8532,Dried Seahorse,0,false,Material,Seafood,25,7
+8533,Dried Starfish,0,false,Material,Seafood,25,7
+8534,Dried Filefish,0,false,Material,Seafood,25,7
+8535,Dried Scorpion Fish,0,false,Material,Seafood,25,7
+8536,Dried Mullet,0,false,Material,Seafood,25,7
+8537,Dried Swiri,0,false,Material,Seafood,25,7
+8538,Dried Sturgeon,0,false,Material,Seafood,25,7
+8539,Dried Piranha,0,false,Material,Seafood,25,7
+8540,Dried Mandarin Fish,0,false,Material,Seafood,25,7
+8541,Dried Lenok,0,false,Material,Seafood,25,7
+8542,Dried Arowana,0,false,Material,Seafood,25,7
+8543,Dried Sweetfish,0,false,Material,Seafood,25,7
+8544,Dried Terrapin,0,false,Material,Seafood,25,7
+8545,Dried Bass,0,false,Material,Seafood,25,7
+8546,Dried Crawfish,0,false,Material,Seafood,25,7
+8547,Dried Dace,0,false,Material,Seafood,25,7
+8548,Dried Bluegill,0,false,Material,Seafood,25,7
+8549,Dried Perch,0,false,Material,Seafood,25,7
+8550,Dried Notch Jaw,0,false,Material,Seafood,25,7
+8551,Dried Mudfish,0,false,Material,Seafood,25,7
+8552,Dried Goby Minnow,0,false,Material,Seafood,25,7
+8553,Dried Bitterling,0,false,Material,Seafood,25,7
+8554,Dried Bleeker,0,false,Material,Seafood,25,7
+8555,Dried Yellowfin Sculpin,0,false,Material,Seafood,25,7
+8556,Dried Cero,0,false,Material,Seafood,25,7
+8557,Dried Sea Eel,0,false,Material,Seafood,25,7
+8558,Dried Croaker,0,false,Material,Seafood,25,7
+8559,Dried Greenling,0,false,Material,Seafood,25,7
+8560,Dried Flatfish,0,false,Material,Seafood,25,7
+8561,Dried Grunt,0,false,Material,Seafood,25,7
+8562,Dried Herring,0,false,Material,Seafood,25,7
+8563,Dried Sardine,0,false,Material,Seafood,25,7
+8564,Dried Round Herring,0,false,Material,Seafood,25,7
+8565,Dried Silver Stripe Round Herring,0,false,Material,Seafood,25,7
+8566,Dried Whiting,0,false,Material,Seafood,25,7
+8567,Dried Dolphinfish,0,false,Material,Seafood,25,7
+8568,Dried Striped Catfish,0,false,Material,Seafood,25,7
+8569,Dried Gunnel,0,false,Material,Seafood,25,7
+8570,Dried Golden-thread,0,false,Material,Seafood,25,7
+8571,Dried Nibbler,0,false,Material,Seafood,25,7
+8572,Dried Siganid,0,false,Material,Seafood,25,7
+8573,Dried Bluefish,0,false,Material,Seafood,25,7
+8574,Dried Surfperch,0,false,Material,Seafood,25,7
+8575,Dried Blackfin Sweeper,0,false,Material,Seafood,25,7
+8576,Dried Smokey Chromis,0,false,Material,Seafood,25,7
+8577,Dried Maomao,0,false,Material,Seafood,25,7
+8578,Dried Pintado,0,false,Material,Seafood,25,7
+8579,Dried Gurnard,0,false,Material,Seafood,25,7
+8581,Dried John Dory,0,false,Material,Seafood,25,7
+8582,Dried Sandfish,0,false,Material,Seafood,25,7
+8583,Dried Rosefish,0,false,Material,Seafood,25,7
+8584,Dried Grouper,0,false,Material,Seafood,25,7
+8585,Dried Bigeye,0,false,Material,Seafood,25,7
+8586,Dried Fourfinger Threadfin,0,false,Material,Seafood,25,7
+8587,Dried Leather Carp,0,false,Material,Seafood,25,7
+8588,Dried Striped Shiner,0,false,Material,Seafood,25,7
+8589,Dried Barbel Steed,0,false,Material,Seafood,25,7
+8590,Dried Soho Bitterling,0,false,Material,Seafood,25,7
+8591,Dried Bubble Eye,0,false,Material,Seafood,25,7
+8592,Dried Pacu,0,false,Material,Seafood,25,7
+8593,Dried Yellow-head Catfish,0,false,Material,Seafood,25,7
+8594,Dried Smelt,0,false,Material,Seafood,25,7
+8595,Dried Rosy Bitterling,0,false,Material,Seafood,25,7
+8596,Dried Roundtail Paradisefish,0,false,Material,Seafood,25,7
+8597,Dried Grayling,0,false,Material,Seafood,25,7
+8598,Dried Tapertail Anchovy,0,false,Material,Seafood,25,7
+8599,Dried Kuhlia Marginata,0,false,Material,Seafood,25,7
+8600,Dried Rock Hind,0,false,Material,Seafood,25,7
+8601,Dried Butterflyfish,0,false,Material,Seafood,25,7
+8602,Dried Clownfish,0,false,Material,Seafood,25,7
+8603,Dried Blue Tang,0,false,Material,Seafood,25,7
+8604,Dried Checkerboard Wrasse,0,false,Material,Seafood,25,7
+8605,Dried Pomfret,0,false,Material,Seafood,25,7
+8629,Dried Moray,0,false,Material,Seafood,25,7
+8630,Dried Tilefish,0,false,Material,Seafood,25,7
+8631,Dried Porcupine Fish,0,false,Material,Seafood,25,7
+8632,Dried Tongue Sole,0,false,Material,Seafood,25,7
+8633,Dried Atka Mackerel,0,false,Material,Seafood,25,7
+8634,Dried Cuttlefish,0,false,Material,Seafood,25,7
+8635,Dried Mackerel Pike,0,false,Material,Seafood,25,7
+8636,Dried Horn Fish,0,false,Material,Seafood,25,7
+8637,Dried Dollarfish,0,false,Material,Seafood,25,7
+8638,Dried Sandeel,0,false,Material,Seafood,25,7
+8639,Dried Spotted Barbel,0,false,Material,Seafood,25,7
+8640,Dried Miho Spine Loach,0,false,Material,Seafood,25,7
+8641,Dried Diamond Minnow,0,false,Material,Seafood,25,7
+8642,Dried Amur Minnow,0,false,Material,Seafood,25,7
+8643,Dried Common Minnow,0,false,Material,Seafood,25,7
+8644,Dried Stumpy Bullhead,0,false,Material,Seafood,25,7
+8645,Dried Shuttles Hoppfish,0,false,Material,Seafood,25,7
+8646,Dried Oily Shiner,0,false,Material,Seafood,25,7
+8647,Dried Korean Loach,0,false,Material,Seafood,25,7
+8648,Dried Minnow,0,false,Material,Seafood,25,7
+8649,Dried Cherry Icefish,0,false,Material,Seafood,25,7
+8650,Dried Spined Loach,0,false,Material,Seafood,25,7
+8651,Dried Amur Ide,0,false,Material,Seafood,25,7
+8652,Dried Stone Moroko,0,false,Material,Seafood,25,7
+8653,Dried Amur Goby,0,false,Material,Seafood,25,7
+8654,Dried Stickleback,0,false,Material,Seafood,25,7
+8655,Dried Mori,0,false,Material,Seafood,25,7
+8656,Dried Grass Carp,0,false,Material,Seafood,25,7
+8657,Dried Black Shiner,0,false,Material,Seafood,25,7
+8658,Dried Burbot,0,false,Material,Seafood,25,7
+8659,Dried Dark Chub,0,false,Material,Seafood,25,7
+8660,Dried Flower Icefish,0,false,Material,Seafood,25,7
+8661,Dried Charr,0,false,Material,Seafood,25,7
+8662,Dried Yellowfin Sole,0,false,Material,Seafood,25,7
+8663,Dried Stippled Gunnel,0,false,Material,Seafood,25,7
+8664,Dried Red Snow Crab,0,false,Material,Seafood,25,7
+8665,Dried Redbreasted Wrasse,0,false,Material,Seafood,25,7
+8666,Dried Green Sturgeon,0,false,Material,Seafood,25,7
+8667,Dried Thresher Shark,0,false,Material,Seafood,25,7
+8668,Dried Tiger Shark,0,false,Material,Seafood,25,7
+8669,Dried Basking Shark,0,false,Material,Seafood,25,7
+8670,Dried Sharpbelly,0,false,Material,Seafood,25,7
+8671,Dried Lamprey,0,false,Material,Seafood,25,7
+8672,Dried Yalu Grayling,0,false,Material,Seafood,25,7
+8673,Dried Pike,0,false,Material,Seafood,25,7
+8674,Dried Dark Sleeper,0,false,Material,Seafood,25,7
+8675,Dried Bowfin,0,false,Material,Seafood,25,7
+8676,Dried Longsnout Catfish,0,false,Material,Seafood,25,7
+8677,Dried Spined Bittering,0,false,Material,Seafood,25,7
+8678,Dried Silver Carp,0,false,Material,Seafood,25,7
+8679,Dried Chameleon Goby,0,false,Material,Seafood,25,7
+8680,Dried Ussurian Bullhead,0,false,Material,Seafood,25,7
+8681,Dried Common Bleak,0,false,Material,Seafood,25,7
+820526,Dried Morning River Goby,0,false,Material,Seafood,25,7
+820527,Dried Rapid Goby,0,false,Material,Seafood,25,7
+820529,Dried Short Ninespine Stickleback,0,false,Material,Seafood,25,7
+820530,Dried South Torrent Catfish,0,false,Material,Seafood,25,7
+820531,Dried Dwarf Gudgeon,0,false,Material,Seafood,25,7
+820532,Dried Short Barbel Gudgeon,0,false,Material,Seafood,25,7
+820533,Dried King Spine Loach,0,false,Material,Seafood,25,7
+820534,Dried Large-headed Goby,0,false,Material,Seafood,25,7
+820538,Dried Neon Damselfish,0,false,Material,Seafood,25,7
+820539,Dried Ransonnet's Surfperch,0,false,Material,Seafood,25,7
+820540,Dried Pollack,0,false,Material,Seafood,25,7
+820541,Dried Boxfish,0,false,Material,Seafood,25,7
+820543,Dried Cuttlefish,0,false,Material,Seafood,25,7
+820544,Dried Dark-banded Rockfish,0,false,Material,Seafood,25,7
+820545,Dried Lionfish,0,false,Material,Seafood,25,7
+820547,Dried Blacktip Chromis,0,false,Material,Seafood,25,7
+820548,Dried Red Seabream,0,false,Material,Seafood,25,7

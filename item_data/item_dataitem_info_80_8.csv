@@ -1,323 +1,323 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-3002,388,Stuffed Bear Head,1,false,4320,Furniture,Decoration,80,8
-3006,4402,Stuffed Fox Head,1,false,1510,Furniture,Decoration,80,8
-3007,17,Goblin Chief Helmet,2,false,92500000,Furniture,Decoration,80,8
-3013,12,Imp Boss's Knife,2,false,73000000,Furniture,Decoration,80,8
-3017,2090,Stuffed Weasel,1,false,1080,Furniture,Decoration,80,8
-3018,7665,Stuffed Gray Wolf Head,1,false,2590,Furniture,Decoration,80,8
-3019,2782,Stuffed Wolf Head,1,false,1720,Furniture,Decoration,80,8
-3020,0,Statue of Blind Faith Ornament,1,false,675000,Furniture,Decoration,80,8
-3021,0,Grotesque Flag Ornament,1,false,170000,Furniture,Decoration,80,8
-3023,17,Jack-O'-Lantern Ornament,1,false,422000,Furniture,Decoration,80,8
-3025,4852,Halberd of the Swamp Ornament,1,false,5400,Furniture,Decoration,80,8
-3026,38,Scrapper's Gloves Ornament,1,false,8700,Furniture,Decoration,80,8
-3037,111,Bheg's Shining Helmet,2,false,225000,Furniture,Decoration,80,8
-3038,45,Karanda's Plume Ornament,2,false,344000,Furniture,Decoration,80,8
-3039,2,Witch's Shoulder Piece,2,false,11200000,Furniture,Decoration,80,8
-3040,0,Muskan's Bloody Steel Helmet,2,false,93500000,Furniture,Decoration,80,8
-3041,0,Purified Tree Spirit Sprout,2,false,4660000,Furniture,Decoration,80,8
-3042,0,Khalk's Wings,2,false,93500000,Furniture,Decoration,80,8
-3051,0,Quint Statue,2,false,28000000,Furniture,Decoration,80,8
-3053,371,Stuffed Giant Boar Head,1,false,2370,Furniture,Decoration,80,8
-3054,1484,Stuffed Elk Head,1,false,1510,Furniture,Decoration,80,8
-3061,720,Stuffed Valencia Mountain Sheep Head,1,false,10500,Furniture,Decoration,80,8
-3062,1821,Stuffed Giant Lion Head,1,false,27600,Furniture,Decoration,80,8
-3063,6566,Stuffed Valencian Lioness Head,1,false,14200,Furniture,Decoration,80,8
-3070,0,Stuffed King Brown Bear Head,2,false,93500000,Furniture,Decoration,80,8
-3071,0,Stuffed White Wolf Head,2,false,37300000,Furniture,Decoration,80,8
-3073,47,Stuffed Drieghan Male Goat Head,1,false,45300,Furniture,Decoration,80,8
-3074,53,Stuffed Drieghan Female Goat Head,1,false,84000,Furniture,Decoration,80,8
-3075,33,Stuffed Yak Head,1,false,22400,Furniture,Decoration,80,8
-3076,0,Stuffed Llama,1,false,9350000,Furniture,Decoration,80,8
-3077,0,Stuffed Belladonna Elephant Head,1,false,9350000,Furniture,Decoration,80,8
-3078,0,Stuffed Baby Belladonna Elephant Head,1,false,4660000,Furniture,Decoration,80,8
-3079,0,Stuffed Gazelle Head,1,false,870000,Furniture,Decoration,80,8
-3080,10,Stuffed Black Leopard Head,1,false,440000,Furniture,Decoration,80,8
-3081,37308,Stuffed Feather Wolf Head,1,false,19000,Furniture,Decoration,80,8
-3082,4825,Stuffed Phnyl Head,1,false,53500,Furniture,Decoration,80,8
-3083,0,Stuffed Ferrica Head,1,false,935000,Furniture,Decoration,80,8
-3084,0,Stuffed Ferrina Head,1,false,935000,Furniture,Decoration,80,8
-3086,0,Stuffed Kamasylvia Weasel,1,false,9350000,Furniture,Decoration,80,8
-3100,209,Corner Decorated Vanity,2,false,825000,Furniture,Decoration,80,8
-3401,0,Artisan's Stuffed Bear Head,2,false,5600000,Furniture,Decoration,80,8
-3405,0,Artisan's Stuffed Fox Head,2,false,11200000,Furniture,Decoration,80,8
-3406,7,Artisan's Stuffed Weasel,2,false,11200000,Furniture,Decoration,80,8
-3407,0,Artisan's Stuffed Gray Wolf Head,2,false,3730000,Furniture,Decoration,80,8
-3408,0,Artisan's Stuffed Wolf Head,2,false,1870000,Furniture,Decoration,80,8
-3409,0,Artisan's Stuffed Giant Boar Head,2,false,7800000,Furniture,Decoration,80,8
-3410,0,Artisan's Stuffed Elk Head,2,false,8550000,Furniture,Decoration,80,8
-3411,0,Artisan's Stuffed Valencia Mountain Sheep Head,2,false,8150000,Furniture,Decoration,80,8
-3412,8,Artisan's Stuffed Giant Lion Head,2,false,7200000,Furniture,Decoration,80,8
-3413,0,Artisan's Stuffed Valencian Lioness Head,2,false,3730000,Furniture,Decoration,80,8
-3416,0,Artisan's Stuffed Drieghan Male Goat Head,2,false,5600000,Furniture,Decoration,80,8
-3417,5,Artisan's Stuffed Drieghan Female Goat Head,2,false,10400000,Furniture,Decoration,80,8
-3418,2,Artisan's Stuffed Yak Head,2,false,6650000,Furniture,Decoration,80,8
-3419,0,Artisan's Stuffed Llama,2,false,17000000,Furniture,Decoration,80,8
-3501,0,Master's Stuffed Bear Head,3,false,1150000,Furniture,Decoration,80,8
-3505,0,Master's Stuffed Fox Head,3,false,2530000,Furniture,Decoration,80,8
-3506,0,Master's Stuffed Weasel,3,false,1780000,Furniture,Decoration,80,8
-3507,2,Master's Stuffed Gray Wolf Head,3,false,650000,Furniture,Decoration,80,8
-3508,5,Master's Stuffed Wolf Head,3,false,585000,Furniture,Decoration,80,8
-3509,2,Master's Stuffed Giant Boar Head,3,false,945000,Furniture,Decoration,80,8
-3510,3,Master's Stuffed Elk Head,3,false,835000,Furniture,Decoration,80,8
-3511,0,Master's Stuffed Valencia Mountain Sheep Head,3,false,810000,Furniture,Decoration,80,8
-3512,0,Master's Stuffed Giant Lion Head,3,false,3800000,Furniture,Decoration,80,8
-3513,0,Master's Stuffed Valencian Lioness Head,3,false,950000,Furniture,Decoration,80,8
-3516,5,Master's Stuffed Drieghan Male Goat Head,3,false,1380000,Furniture,Decoration,80,8
-3517,2,Master's Stuffed Drieghan Female Goat Head,3,false,1940000,Furniture,Decoration,80,8
-3518,5,Master's Stuffed Yak Head,3,false,2170000,Furniture,Decoration,80,8
-3519,0,Master's Stuffed Llama,3,false,31300000,Furniture,Decoration,80,8
-3520,0,Artisan's Stuffed Belladonna Elephant Head,2,false,23300000,Furniture,Decoration,80,8
-3521,0,Artisan's Stuffed Baby Belladonna Elephant Head,2,false,11400000,Furniture,Decoration,80,8
-3522,0,Artisan's Stuffed Gazelle Head,2,false,3730000,Furniture,Decoration,80,8
-3523,0,Artisan's Stuffed Black Leopard Head,2,false,23300000,Furniture,Decoration,80,8
-3524,91,Artisan's Stuffed Feather Wolf Head,2,false,9150000,Furniture,Decoration,80,8
-3525,0,Artisan's Stuffed Phnyl Head,2,false,18700000,Furniture,Decoration,80,8
-3526,0,Artisan's Stuffed Ferrica Head,2,false,10700000,Furniture,Decoration,80,8
-3527,0,Artisan's Stuffed Ferrina Head,2,false,10500000,Furniture,Decoration,80,8
-3528,0,Artisan's Stuffed Kamasylvia Weasel,2,false,18000000,Furniture,Decoration,80,8
-3529,0,Master's Stuffed Belladonna Elephant Head,3,false,10200000,Furniture,Decoration,80,8
-3530,0,Master's Stuffed Baby Belladonna Elephant Head,3,false,6600000,Furniture,Decoration,80,8
-3531,0,Master's Stuffed Gazelle Head,3,false,2090000,Furniture,Decoration,80,8
-3532,14,Master's Stuffed Black Leopard Head,3,false,29100000,Furniture,Decoration,80,8
-3533,5,Master's Stuffed Feather Wolf Head,3,false,9050000,Furniture,Decoration,80,8
-3534,0,Master's Stuffed Phnyl Head,3,false,18300000,Furniture,Decoration,80,8
-3535,0,Master's Stuffed Ferrica Head,3,false,3850000,Furniture,Decoration,80,8
-3536,0,Master's Stuffed Ferrina Head,3,false,3770000,Furniture,Decoration,80,8
-3537,4,Master's Stuffed Kamasylvia Weasel,3,false,37000000,Furniture,Decoration,80,8
-3538,0,Kutum Lamp,3,false,466000000,Furniture,Decoration,80,8
-3539,0,Nouver Statue,3,false,466000000,Furniture,Decoration,80,8
-3540,33668,Stuffed Grass Rhino Head,1,false,428000,Furniture,Decoration,80,8
-3541,0,Stuffed Verdure Buck,1,false,18700000,Furniture,Decoration,80,8
-3542,0,Stuffed Verdure Doe,1,false,7450000,Furniture,Decoration,80,8
-3543,10088,Stuffed Shadow Wolf Head,1,false,432000,Furniture,Decoration,80,8
-3544,0,Stuffed Shadow Lion Head,1,false,18700000,Furniture,Decoration,80,8
-3545,0,Artisan's Stuffed Grass Rhino Head,2,false,4700000,Furniture,Decoration,80,8
-3546,0,Artisan's Stuffed Verdure Buck,2,false,35200000,Furniture,Decoration,80,8
-3547,0,Artisan's Stuffed Verdure Doe,2,false,32600000,Furniture,Decoration,80,8
-3548,8,Artisan's Stuffed Shadow Wolf Head,2,false,16700000,Furniture,Decoration,80,8
-3549,0,Artisan's Stuffed Shadow Lion Head,2,false,25800000,Furniture,Decoration,80,8
-3550,0,Master's Stuffed Grass Rhino Head,3,false,7400000,Furniture,Decoration,80,8
-3551,0,Master's Stuffed Verdure Buck,3,false,39300000,Furniture,Decoration,80,8
-3552,0,Master's Stuffed Verdure Doe,3,false,93500000,Furniture,Decoration,80,8
-3553,1,Master's Stuffed Shadow Wolf Head,3,false,16800000,Furniture,Decoration,80,8
-3554,114,Master's Stuffed Shadow Lion Head,3,false,77000000,Furniture,Decoration,80,8
-3555,0,Artisan's Special Stuffed Grass Rhino Head,2,false,92000000,Furniture,Decoration,80,8
-3556,0,Artisan's Special Stuffed Verdure Buck,2,false,70500000,Furniture,Decoration,80,8
-3557,0,Artisan's Special Stuffed Verdure Doe,2,false,89500000,Furniture,Decoration,80,8
-3558,31,Artisan's Special Stuffed Shadow Wolf Head,2,false,122000000,Furniture,Decoration,80,8
-3559,0,Artisan's Special Stuffed Shadow Lion Head,2,false,158000000,Furniture,Decoration,80,8
-3560,0,Master's Special Stuffed Grass Rhino Head,3,false,134000000,Furniture,Decoration,80,8
-3561,34,Master's Special Stuffed Verdure Buck,3,false,291000000,Furniture,Decoration,80,8
-3562,41,Master's Special Stuffed Verdure Doe,3,false,373000000,Furniture,Decoration,80,8
-3563,12,Master's Special Stuffed Shadow Wolf Head,3,false,211000000,Furniture,Decoration,80,8
-3564,83,Master's Special Stuffed Shadow Lion Head,3,false,236000000,Furniture,Decoration,80,8
-3565,7,Blue Whale Wall Decoration,3,false,650000000,Furniture,Decoration,80,8
-24106,0,Straw Basket With Handles,0,false,128000,Furniture,Decoration,80,8
-24107,9,Two-Handled Basket,0,false,91000,Furniture,Decoration,80,8
-24108,93,Straw Pot,0,false,196000,Furniture,Decoration,80,8
-24109,37,Square Basket with Cover,0,false,319000,Furniture,Decoration,80,8
-24144,5250,Pan with a Fried Egg,0,false,8100,Furniture,Decoration,80,8
-24145,4,Plate of Fish,0,false,3850,Furniture,Decoration,80,8
-24146,4,Plate of Assorted Fruits,0,false,24400,Furniture,Decoration,80,8
-24147,8881,Plate of Big Chunk of Meat,0,false,2830,Furniture,Decoration,80,8
-24148,0,Plate of Chopped Meat,0,false,51500,Furniture,Decoration,80,8
-24149,1,Plate of Soup,0,false,24400,Furniture,Decoration,80,8
-24151,0,Pot of Soup,0,false,24400,Furniture,Decoration,80,8
-24153,298,Plate of Turkey,0,false,3000,Furniture,Decoration,80,8
-24155,0,Standing Beer Keg,0,false,24400,Furniture,Decoration,80,8
-24160,0,Long Neck Vase,0,false,24400,Furniture,Decoration,80,8
-24189,0,Map Cabinet,0,false,74500,Furniture,Decoration,80,8
-24193,39,Doll,0,false,211000,Furniture,Decoration,80,8
-24203,0,Round Pottery,0,false,280000,Furniture,Decoration,80,8
-24204,0,Quagmire Pottery,0,false,289000,Furniture,Decoration,80,8
-24205,0,Long Pottery,0,false,286000,Furniture,Decoration,80,8
-24206,0,Ruby Gourd Bottle,0,false,2750000,Furniture,Decoration,80,8
-24207,0,Fancy Sapphire Vase,0,false,3910000,Furniture,Decoration,80,8
-24208,0,Emerald Gourd Bottle,0,false,2950000,Furniture,Decoration,80,8
-24209,0,Fancy Topaz Kettle,0,false,3170000,Furniture,Decoration,80,8
-24210,0,Beautiful Opal Vase,0,false,5450000,Furniture,Decoration,80,8
-24211,0,Golden Hand Vase,0,false,5500000,Furniture,Decoration,80,8
-24212,0,Imperial Platinum Kettle,0,false,5850000,Furniture,Decoration,80,8
-24213,0,Ancient Artifact China,1,false,28000000,Furniture,Decoration,80,8
-24214,70,Ancient Artifact Pot,1,false,8700000,Furniture,Decoration,80,8
-24217,0,Loria's Hand Mirror,0,false,505000,Furniture,Decoration,80,8
-24218,0,Onion Pickle Jar,0,false,1090000,Furniture,Decoration,80,8
-24219,0,Olive Pickle Jar,0,false,940000,Furniture,Decoration,80,8
-24220,0,Green Herb Pot,0,false,1290000,Furniture,Decoration,80,8
-24221,0,Florin Dawn Wall Carpet,0,false,1070000,Furniture,Decoration,80,8
-24222,0,Florin Autumn Leaves Wall Carpet,0,false,1210000,Furniture,Decoration,80,8
-24223,0,Florin Sunset Wall Carpet,0,false,1960000,Furniture,Decoration,80,8
-24224,0,Tarif Gourd Bottle,0,false,1100000,Furniture,Decoration,80,8
-24225,0,Tarif Pot,0,false,1370000,Furniture,Decoration,80,8
-24226,0,Yisar Pjetyo Amulet,0,false,680000,Furniture,Decoration,80,8
-24227,0,Allan Serbin Amulet,0,false,1070000,Furniture,Decoration,80,8
-24228,0,Nantusa Letusa Amulet,0,false,755000,Furniture,Decoration,80,8
-24229,0,Tarif White Cedar Jewelry Box,0,false,5250000,Furniture,Decoration,80,8
-24230,0,Tarif Blue Stone Jewelry Box,0,false,4420000,Furniture,Decoration,80,8
-24231,0,Desert Fogan Flower Pot,0,false,3040000,Furniture,Decoration,80,8
-24232,0,Desert Fogan Lamp,0,false,7450000,Furniture,Decoration,80,8
-24233,0,Arehaza Semicircle Carpet,0,false,3140000,Furniture,Decoration,80,8
-24234,22,Arehaza Round Carpet,0,false,3490000,Furniture,Decoration,80,8
-24235,0,Over the Rocky Mountain,0,false,4940000,Furniture,Decoration,80,8
-24236,0,Arehaza Scenery,0,false,4700000,Furniture,Decoration,80,8
-24237,0,Areha Palm Forest,0,false,4750000,Furniture,Decoration,80,8
-24242,0,Duvencrune Bronk Lamp,0,false,4470000,Furniture,Decoration,80,8
-24243,0,Duvencrune Crescent Lamp,0,false,8050000,Furniture,Decoration,80,8
-24252,34,Oddly Patterned Flower Pot,2,false,1120000,Furniture,Decoration,80,8
-24255,0,Candle on a Pile of Books,2,false,1680000,Furniture,Decoration,80,8
-24257,0,O'draxxia Candle Stand,2,false,3630000,Furniture,Decoration,80,8
-24259,0,Glamorous Patterned Pot,2,false,3350000,Furniture,Decoration,80,8
-24260,0,Blinding Opalescent Pot,2,false,4190000,Furniture,Decoration,80,8
-24261,0,Experimental Alchemy Tool,2,false,4190000,Furniture,Decoration,80,8
-24262,0,Experimental Alchemy Tool Rack,2,false,1400000,Furniture,Decoration,80,8
-24526,0,Jade Starlight Candle Stand,1,false,3910000,Furniture,Decoration,80,8
-24527,0,Jade Starlight Wall Candle Stand,1,false,3930000,Furniture,Decoration,80,8
-24610,906,Cauldron on a Holder,0,false,2830,Furniture,Decoration,80,8
-24619,0,Bunch of Dried Roses,0,false,70000,Furniture,Decoration,80,8
-24620,0,Tulip Lantern,0,false,140000,Furniture,Decoration,80,8
-24621,0,Bunch of Garlic,0,false,103000,Furniture,Decoration,80,8
-24661,53,O'draxxian Tapestry,2,false,3350000,Furniture,Decoration,80,8
-24662,40,Oddly Marked Tapestry,2,false,4530000,Furniture,Decoration,80,8
-24801,31,Single Display Stand,0,false,4110,Furniture,Decoration,80,8
-24823,0,Vase,0,false,24400,Furniture,Decoration,80,8
-24829,53,Red Rose Vase,0,false,101000,Furniture,Decoration,80,8
-24830,0,Yellow Tulip Pot,0,false,103000,Furniture,Decoration,80,8
-24831,0,Sunflower Vase,0,false,140000,Furniture,Decoration,80,8
-24832,10,Strawberry Basket,0,false,22200,Furniture,Decoration,80,8
-24833,59,Olive Tree Pot,0,false,144000,Furniture,Decoration,80,8
-24834,4,Oddly Shaped Pumpkin,0,false,38300,Furniture,Decoration,80,8
-24835,809,Pickled Onion,0,false,4810,Furniture,Decoration,80,8
-24836,5133,Giant Fish Bone,2,false,5650,Furniture,Decoration,80,8
-24837,0,Bronze Goblet,1,false,32800,Furniture,Decoration,80,8
-24839,453,King Clam,1,false,2830,Furniture,Decoration,80,8
-24840,1692,Turban Shell,1,false,1870,Furniture,Decoration,80,8
-24841,118,Ancient Kamel Statue,1,false,8850000,Furniture,Decoration,80,8
-24847,0,Duvencrune Three Wood Display Stand,2,false,3880000,Furniture,Decoration,80,8
-24848,0,Duvencrune Beam Stand,2,false,2590000,Furniture,Decoration,80,8
-24849,0,Duvencrune Multipurpose Toolbox,2,false,3730000,Furniture,Decoration,80,8
-24850,0,Duvencrune Fabric Holder,2,false,5600000,Furniture,Decoration,80,8
-24851,0,Duvencrune Decoration Holder,2,false,2980000,Furniture,Decoration,80,8
-24852,0,Duvencrune Rhomboid Holder,2,false,2980000,Furniture,Decoration,80,8
-24853,0,Duvencrune Small Thuja Bookshelf,2,false,5050000,Furniture,Decoration,80,8
-24854,0,Duvencrune Large Thuja Bookshelf,2,false,6000000,Furniture,Decoration,80,8
-24855,0,Duvencrune Fragrant Bedside Table,2,false,3020000,Furniture,Decoration,80,8
-24856,0,Duvencrune Hardwood Bedside Table,2,false,3000000,Furniture,Decoration,80,8
-24857,0,Duvencrune Lamp Bedside Table,2,false,3020000,Furniture,Decoration,80,8
-24858,0,Duvencrune Leaf Bedside Table,2,false,3500000,Furniture,Decoration,80,8
-24859,0,Duvencrune Giant Wood Wardrobe,2,false,3740000,Furniture,Decoration,80,8
-24860,0,Duvencrune Target Dining Table,2,false,3000000,Furniture,Decoration,80,8
-24861,0,Duvencrune Wooden Dining Table,2,false,3000000,Furniture,Decoration,80,8
-24862,0,Kamasylvian Lemoria Drawers,2,false,3970000,Furniture,Decoration,80,8
-24863,0,Kamasylvian Grace Bedside Table,2,false,4750000,Furniture,Decoration,80,8
-24864,0,Kamasylvian Clock Stand,2,false,3810000,Furniture,Decoration,80,8
-24865,0,Kamasylvian Patterned Bedside Table,2,false,5450000,Furniture,Decoration,80,8
-24866,0,Kamasylvian Webbed Bedside Table,2,false,5600000,Furniture,Decoration,80,8
-24867,0,Kamasylvian Carved Bedside Table,2,false,3990000,Furniture,Decoration,80,8
-24868,0,Kamasylvian Grove Partition,2,false,4020000,Furniture,Decoration,80,8
-24869,0,Kamasylvian Old Moon Round Table,2,false,4890000,Furniture,Decoration,80,8
-24870,0,Smooth Kamasylvian Wooden Side Table,2,false,3430000,Furniture,Decoration,80,8
-24871,0,Kamasylvian Melody Side Table,2,false,2960000,Furniture,Decoration,80,8
-24872,0,Kamasylvian Compact Wine Jar,2,false,4040000,Furniture,Decoration,80,8
-24873,0,Kamasylvian Basic Wine Jar,2,false,2810000,Furniture,Decoration,80,8
-24874,0,Kamasylvian Wine Jar,2,false,2550000,Furniture,Decoration,80,8
-24875,0,Kamasylvian Single Tiered Wine Rack,2,false,4750000,Furniture,Decoration,80,8
-24876,0,Kamasylvian Two-Tiered Wine Rack,2,false,3770000,Furniture,Decoration,80,8
-24877,0,Kamasylvian Multi-Tiered Wine Rack,2,false,3910000,Furniture,Decoration,80,8
-24878,207,O'draxxia Glamorous Patterned Carpet,2,false,6450000,Furniture,Decoration,80,8
-25101,108,Stuffed Winter Bear Head,1,false,645000,Furniture,Decoration,80,8
-25102,49,Stuffed Snowfield Yak Head,1,false,216000,Furniture,Decoration,80,8
-25103,54,Stuffed Black Snowfield Yak Head,1,false,434000,Furniture,Decoration,80,8
-25104,398,Stuffed Snowfield Markhor Head,1,false,540000,Furniture,Decoration,80,8
-25105,8,Artisan's Stuffed Winter Bear Head,2,false,4680000,Furniture,Decoration,80,8
-25106,0,Artisan's Stuffed Snowfield Yak Head,2,false,1620000,Furniture,Decoration,80,8
-25107,0,Artisan's Stuffed Black Snowfield Yak Head,2,false,1620000,Furniture,Decoration,80,8
-25108,0,Artisan's Stuffed Snowfield Markhor Head,2,false,7700000,Furniture,Decoration,80,8
-25109,0,Master's Stuffed Winter Bear Head,3,false,9150000,Furniture,Decoration,80,8
-25110,4,Master's Stuffed Snowfield Yak Head,3,false,10800000,Furniture,Decoration,80,8
-25111,0,Master's Stuffed Black Snowfield Yak Head,3,false,8350000,Furniture,Decoration,80,8
-25112,0,Master's Stuffed Snowfield Markhor Head,3,false,12400000,Furniture,Decoration,80,8
-25113,8408,Stuffed Frost Wolf,1,false,216000,Furniture,Decoration,80,8
-25114,98,Artisan's Stuffed Frost Wolf,2,false,2460000,Furniture,Decoration,80,8
-25115,0,Master's Stuffed Frost Wolf,3,false,7900000,Furniture,Decoration,80,8
-25116,0,Stuffed Snow Leopard,1,false,9350000,Furniture,Decoration,80,8
-25117,0,Artisan's Stuffed Snow Leopard,2,false,12600000,Furniture,Decoration,80,8
-25118,0,Master's Stuffed Snow Leopard,3,false,32000000,Furniture,Decoration,80,8
-25119,26,Stuffed Snowfield Ili Pika,1,false,1570000,Furniture,Decoration,80,8
-25120,3,Artisan's Stuffed Snowfield Ili Pika,2,false,5900000,Furniture,Decoration,80,8
-25121,0,Master's Stuffed Snowfield Ili Pika,3,false,16700000,Furniture,Decoration,80,8
-25122,0,Artisan's Special Stuffed Winter Bear Head,2,false,10800000,Furniture,Decoration,80,8
-25123,0,Artisan's Special Stuffed Snowfield Yak Head,2,false,4030000,Furniture,Decoration,80,8
-25124,0,Artisan's Special Stuffed Black Snowfield Yak Head,2,false,4020000,Furniture,Decoration,80,8
-25125,0,Artisan's Special Stuffed Snowfield Markhor Head,2,false,20600000,Furniture,Decoration,80,8
-25126,0,Artisan's Special Stuffed Frost Wolf,2,false,21700000,Furniture,Decoration,80,8
-25128,0,Artisan's Special Stuffed Bear Head,2,false,5400000,Furniture,Decoration,80,8
-25130,0,Artisan's Special Stuffed Boar Head,2,false,16700000,Furniture,Decoration,80,8
-25131,0,Artisan's Special Stuffed Fox Head,2,false,13100000,Furniture,Decoration,80,8
-25132,0,Artisan's Special Stuffed Weasel,2,false,11400000,Furniture,Decoration,80,8
-25133,0,Artisan's Special Stuffed Gray Wolf Head,2,false,3830000,Furniture,Decoration,80,8
-25134,0,Artisan's Special Stuffed Wolf Head,2,false,2110000,Furniture,Decoration,80,8
-25135,0,Artisan's Special Stuffed Giant Boar Head,2,false,9500000,Furniture,Decoration,80,8
-25136,0,Artisan's Special Stuffed Elk Head,2,false,9100000,Furniture,Decoration,80,8
-25137,0,Artisan's Special Stuffed Valencia Mountain Sheep Head,2,false,9050000,Furniture,Decoration,80,8
-25138,0,Artisan's Special Stuffed Giant Lion Head,2,false,20800000,Furniture,Decoration,80,8
-25139,0,Artisan's Special Stuffed Valencian Lioness Head,2,false,4190000,Furniture,Decoration,80,8
-25140,0,Artisan's Special Stuffed Drieghan Male Goat Head,2,false,5350000,Furniture,Decoration,80,8
-25141,0,Artisan's Special Stuffed Drieghan Female Goat Head,2,false,8350000,Furniture,Decoration,80,8
-25142,0,Artisan's Special Stuffed Yak Head,2,false,9000000,Furniture,Decoration,80,8
-25143,0,Artisan's Special Stuffed Llama,2,false,23900000,Furniture,Decoration,80,8
-25144,0,Artisan's Special Stuffed Belladonna Elephant Head,2,false,25400000,Furniture,Decoration,80,8
-25145,0,Artisan's Special Stuffed Baby Belladonna Elephant Head,2,false,17500000,Furniture,Decoration,80,8
-25146,0,Artisan's Special Stuffed Gazelle Head,2,false,4110000,Furniture,Decoration,80,8
-25147,0,Artisan's Special Stuffed Black Leopard Head,2,false,27100000,Furniture,Decoration,80,8
-25148,0,Artisan's Special Stuffed Feather Wolf Head,2,false,18900000,Furniture,Decoration,80,8
-25149,0,Artisan's Special Stuffed Phnyl Head,2,false,33600000,Furniture,Decoration,80,8
-25150,0,Artisan's Special Stuffed Ferrica Head,2,false,28900000,Furniture,Decoration,80,8
-25151,0,Artisan's Special Stuffed Ferrina Head,2,false,18100000,Furniture,Decoration,80,8
-25152,0,Artisan's Special Stuffed Kamasylvia Weasel,2,false,28100000,Furniture,Decoration,80,8
-25153,0,Master's Special Stuffed Winter Bear Head,3,false,38100000,Furniture,Decoration,80,8
-25154,0,Master's Special Stuffed Snowfield Yak Head,3,false,39300000,Furniture,Decoration,80,8
-25155,0,Master's Special Stuffed Black Snowfield Yak Head,3,false,21600000,Furniture,Decoration,80,8
-25156,0,Master's Special Stuffed Snowfield Markhor Head,3,false,56000000,Furniture,Decoration,80,8
-25157,0,Master's Special Stuffed Frost Wolf,3,false,80000000,Furniture,Decoration,80,8
-25158,0,Master's Special Stuffed Bear Head,3,false,8600000,Furniture,Decoration,80,8
-25160,0,Master's Special Stuffed Boar Head,3,false,37000000,Furniture,Decoration,80,8
-25161,0,Master's Special Stuffed Fox Head,3,false,30400000,Furniture,Decoration,80,8
-25162,0,Master's Special Stuffed Weasel,3,false,20400000,Furniture,Decoration,80,8
-25163,0,Master's Special Stuffed Gray Wolf Head,3,false,5650000,Furniture,Decoration,80,8
-25164,0,Master's Special Stuffed Wolf Head,3,false,3960000,Furniture,Decoration,80,8
-25165,0,Master's Special Stuffed Giant Boar Head,3,false,23700000,Furniture,Decoration,80,8
-25166,0,Master's Special Stuffed Elk Head,3,false,22500000,Furniture,Decoration,80,8
-25167,0,Master's Special Stuffed Valencia Mountain Sheep Head,3,false,22500000,Furniture,Decoration,80,8
-25168,0,Master's Special Stuffed Giant Lion Head,3,false,56500000,Furniture,Decoration,80,8
-25169,0,Master's Special Stuffed Valencian Lioness Head,3,false,5700000,Furniture,Decoration,80,8
-25170,0,Master's Special Stuffed Drieghan Male Goat Head,3,false,8500000,Furniture,Decoration,80,8
-25171,0,Master's Special Stuffed Drieghan Female Goat Head,3,false,21000000,Furniture,Decoration,80,8
-25172,0,Master's Special Stuffed Yak Head,3,false,24000000,Furniture,Decoration,80,8
-25173,0,Master's Special Stuffed Llama,3,false,88500000,Furniture,Decoration,80,8
-25174,0,Master's Special Stuffed Belladonna Elephant Head,3,false,52500000,Furniture,Decoration,80,8
-25175,0,Master's Special Stuffed Baby Belladonna Elephant Head,3,false,32500000,Furniture,Decoration,80,8
-25176,0,Master's Special Stuffed Gazelle Head,3,false,6300000,Furniture,Decoration,80,8
-25177,0,Master's Special Stuffed Black Leopard Head,3,false,80000000,Furniture,Decoration,80,8
-25178,0,Master's Special Stuffed Feather Wolf Head,3,false,115000000,Furniture,Decoration,80,8
-25179,0,Master's Special Stuffed Phnyl Head,3,false,149000000,Furniture,Decoration,80,8
-25180,0,Master's Special Stuffed Ferrica Head,3,false,49500000,Furniture,Decoration,80,8
-25181,0,Master's Special Stuffed Ferrina Head,3,false,37700000,Furniture,Decoration,80,8
-25182,0,Master's Special Stuffed Kamasylvia Weasel,3,false,52000000,Furniture,Decoration,80,8
-25183,0,Artisan's Special Stuffed Snow Leopard,2,false,35700000,Furniture,Decoration,80,8
-25184,0,Artisan's Special Stuffed Snowfield Ili Pika,2,false,20300000,Furniture,Decoration,80,8
-25185,0,Master's Special Stuffed Snow Leopard,3,false,149000000,Furniture,Decoration,80,8
-25186,0,Master's Special Stuffed Snowfield Ili Pika,3,false,51000000,Furniture,Decoration,80,8
-25197,0,Stuffed Boar Head,2,false,23500000,Furniture,Decoration,80,8
-25198,0,[Manor] Stuffed Tiger,2,false,140000000,Furniture,Decoration,80,8
-25199,77,Sensitive Stuffed Bear Head,2,false,33400000,Furniture,Decoration,80,8
-25200,0,[Manor] Stuffed Hawk,2,false,89500000,Furniture,Decoration,80,8
-25201,88,Stuffed Ferocious Boar Head,2,false,46800000,Furniture,Decoration,80,8
-25202,0,Stuffed Ferocious Bear Head,2,false,52000000,Furniture,Decoration,80,8
-25203,0,Stuffed Thunderpaw Head,3,false,440000000,Furniture,Decoration,80,8
-25211,3,Breath-imbued Stuffed Boar Head,3,false,204000000,Furniture,Decoration,80,8
-25212,0,[Manor] Breath-imbued Stuffed Tiger,3,false,140000000,Furniture,Decoration,80,8
-25213,1,Breath-imbued Sensitive Stuffed Bear Head,3,false,115000000,Furniture,Decoration,80,8
-25214,0,[Manor] Breath-imbued Stuffed Hawk,3,false,121000000,Furniture,Decoration,80,8
-25215,3,Breath-imbued Stuffed Ferocious Boar Head,3,false,92000000,Furniture,Decoration,80,8
-25216,0,Breath-imbued Stuffed Ferocious Bear Head,3,false,101000000,Furniture,Decoration,80,8
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+3002,Stuffed Bear Head,1,false,Furniture,Decoration,80,8
+3006,Stuffed Fox Head,1,false,Furniture,Decoration,80,8
+3007,Goblin Chief Helmet,2,false,Furniture,Decoration,80,8
+3013,Imp Boss's Knife,2,false,Furniture,Decoration,80,8
+3017,Stuffed Weasel,1,false,Furniture,Decoration,80,8
+3018,Stuffed Gray Wolf Head,1,false,Furniture,Decoration,80,8
+3019,Stuffed Wolf Head,1,false,Furniture,Decoration,80,8
+3020,Statue of Blind Faith Ornament,1,false,Furniture,Decoration,80,8
+3021,Grotesque Flag Ornament,1,false,Furniture,Decoration,80,8
+3023,Jack-O'-Lantern Ornament,1,false,Furniture,Decoration,80,8
+3025,Halberd of the Swamp Ornament,1,false,Furniture,Decoration,80,8
+3026,Scrapper's Gloves Ornament,1,false,Furniture,Decoration,80,8
+3037,Bheg's Shining Helmet,2,false,Furniture,Decoration,80,8
+3038,Karanda's Plume Ornament,2,false,Furniture,Decoration,80,8
+3039,Witch's Shoulder Piece,2,false,Furniture,Decoration,80,8
+3040,Muskan's Bloody Steel Helmet,2,false,Furniture,Decoration,80,8
+3041,Purified Tree Spirit Sprout,2,false,Furniture,Decoration,80,8
+3042,Khalk's Wings,2,false,Furniture,Decoration,80,8
+3051,Quint Statue,2,false,Furniture,Decoration,80,8
+3053,Stuffed Giant Boar Head,1,false,Furniture,Decoration,80,8
+3054,Stuffed Elk Head,1,false,Furniture,Decoration,80,8
+3061,Stuffed Valencia Mountain Sheep Head,1,false,Furniture,Decoration,80,8
+3062,Stuffed Giant Lion Head,1,false,Furniture,Decoration,80,8
+3063,Stuffed Valencian Lioness Head,1,false,Furniture,Decoration,80,8
+3070,Stuffed King Brown Bear Head,2,false,Furniture,Decoration,80,8
+3071,Stuffed White Wolf Head,2,false,Furniture,Decoration,80,8
+3073,Stuffed Drieghan Male Goat Head,1,false,Furniture,Decoration,80,8
+3074,Stuffed Drieghan Female Goat Head,1,false,Furniture,Decoration,80,8
+3075,Stuffed Yak Head,1,false,Furniture,Decoration,80,8
+3076,Stuffed Llama,1,false,Furniture,Decoration,80,8
+3077,Stuffed Belladonna Elephant Head,1,false,Furniture,Decoration,80,8
+3078,Stuffed Baby Belladonna Elephant Head,1,false,Furniture,Decoration,80,8
+3079,Stuffed Gazelle Head,1,false,Furniture,Decoration,80,8
+3080,Stuffed Black Leopard Head,1,false,Furniture,Decoration,80,8
+3081,Stuffed Feather Wolf Head,1,false,Furniture,Decoration,80,8
+3082,Stuffed Phnyl Head,1,false,Furniture,Decoration,80,8
+3083,Stuffed Ferrica Head,1,false,Furniture,Decoration,80,8
+3084,Stuffed Ferrina Head,1,false,Furniture,Decoration,80,8
+3086,Stuffed Kamasylvia Weasel,1,false,Furniture,Decoration,80,8
+3100,Corner Decorated Vanity,2,false,Furniture,Decoration,80,8
+3401,Artisan's Stuffed Bear Head,2,false,Furniture,Decoration,80,8
+3405,Artisan's Stuffed Fox Head,2,false,Furniture,Decoration,80,8
+3406,Artisan's Stuffed Weasel,2,false,Furniture,Decoration,80,8
+3407,Artisan's Stuffed Gray Wolf Head,2,false,Furniture,Decoration,80,8
+3408,Artisan's Stuffed Wolf Head,2,false,Furniture,Decoration,80,8
+3409,Artisan's Stuffed Giant Boar Head,2,false,Furniture,Decoration,80,8
+3410,Artisan's Stuffed Elk Head,2,false,Furniture,Decoration,80,8
+3411,Artisan's Stuffed Valencia Mountain Sheep Head,2,false,Furniture,Decoration,80,8
+3412,Artisan's Stuffed Giant Lion Head,2,false,Furniture,Decoration,80,8
+3413,Artisan's Stuffed Valencian Lioness Head,2,false,Furniture,Decoration,80,8
+3416,Artisan's Stuffed Drieghan Male Goat Head,2,false,Furniture,Decoration,80,8
+3417,Artisan's Stuffed Drieghan Female Goat Head,2,false,Furniture,Decoration,80,8
+3418,Artisan's Stuffed Yak Head,2,false,Furniture,Decoration,80,8
+3419,Artisan's Stuffed Llama,2,false,Furniture,Decoration,80,8
+3501,Master's Stuffed Bear Head,3,false,Furniture,Decoration,80,8
+3505,Master's Stuffed Fox Head,3,false,Furniture,Decoration,80,8
+3506,Master's Stuffed Weasel,3,false,Furniture,Decoration,80,8
+3507,Master's Stuffed Gray Wolf Head,3,false,Furniture,Decoration,80,8
+3508,Master's Stuffed Wolf Head,3,false,Furniture,Decoration,80,8
+3509,Master's Stuffed Giant Boar Head,3,false,Furniture,Decoration,80,8
+3510,Master's Stuffed Elk Head,3,false,Furniture,Decoration,80,8
+3511,Master's Stuffed Valencia Mountain Sheep Head,3,false,Furniture,Decoration,80,8
+3512,Master's Stuffed Giant Lion Head,3,false,Furniture,Decoration,80,8
+3513,Master's Stuffed Valencian Lioness Head,3,false,Furniture,Decoration,80,8
+3516,Master's Stuffed Drieghan Male Goat Head,3,false,Furniture,Decoration,80,8
+3517,Master's Stuffed Drieghan Female Goat Head,3,false,Furniture,Decoration,80,8
+3518,Master's Stuffed Yak Head,3,false,Furniture,Decoration,80,8
+3519,Master's Stuffed Llama,3,false,Furniture,Decoration,80,8
+3520,Artisan's Stuffed Belladonna Elephant Head,2,false,Furniture,Decoration,80,8
+3521,Artisan's Stuffed Baby Belladonna Elephant Head,2,false,Furniture,Decoration,80,8
+3522,Artisan's Stuffed Gazelle Head,2,false,Furniture,Decoration,80,8
+3523,Artisan's Stuffed Black Leopard Head,2,false,Furniture,Decoration,80,8
+3524,Artisan's Stuffed Feather Wolf Head,2,false,Furniture,Decoration,80,8
+3525,Artisan's Stuffed Phnyl Head,2,false,Furniture,Decoration,80,8
+3526,Artisan's Stuffed Ferrica Head,2,false,Furniture,Decoration,80,8
+3527,Artisan's Stuffed Ferrina Head,2,false,Furniture,Decoration,80,8
+3528,Artisan's Stuffed Kamasylvia Weasel,2,false,Furniture,Decoration,80,8
+3529,Master's Stuffed Belladonna Elephant Head,3,false,Furniture,Decoration,80,8
+3530,Master's Stuffed Baby Belladonna Elephant Head,3,false,Furniture,Decoration,80,8
+3531,Master's Stuffed Gazelle Head,3,false,Furniture,Decoration,80,8
+3532,Master's Stuffed Black Leopard Head,3,false,Furniture,Decoration,80,8
+3533,Master's Stuffed Feather Wolf Head,3,false,Furniture,Decoration,80,8
+3534,Master's Stuffed Phnyl Head,3,false,Furniture,Decoration,80,8
+3535,Master's Stuffed Ferrica Head,3,false,Furniture,Decoration,80,8
+3536,Master's Stuffed Ferrina Head,3,false,Furniture,Decoration,80,8
+3537,Master's Stuffed Kamasylvia Weasel,3,false,Furniture,Decoration,80,8
+3538,Kutum Lamp,3,false,Furniture,Decoration,80,8
+3539,Nouver Statue,3,false,Furniture,Decoration,80,8
+3540,Stuffed Grass Rhino Head,1,false,Furniture,Decoration,80,8
+3541,Stuffed Verdure Buck,1,false,Furniture,Decoration,80,8
+3542,Stuffed Verdure Doe,1,false,Furniture,Decoration,80,8
+3543,Stuffed Shadow Wolf Head,1,false,Furniture,Decoration,80,8
+3544,Stuffed Shadow Lion Head,1,false,Furniture,Decoration,80,8
+3545,Artisan's Stuffed Grass Rhino Head,2,false,Furniture,Decoration,80,8
+3546,Artisan's Stuffed Verdure Buck,2,false,Furniture,Decoration,80,8
+3547,Artisan's Stuffed Verdure Doe,2,false,Furniture,Decoration,80,8
+3548,Artisan's Stuffed Shadow Wolf Head,2,false,Furniture,Decoration,80,8
+3549,Artisan's Stuffed Shadow Lion Head,2,false,Furniture,Decoration,80,8
+3550,Master's Stuffed Grass Rhino Head,3,false,Furniture,Decoration,80,8
+3551,Master's Stuffed Verdure Buck,3,false,Furniture,Decoration,80,8
+3552,Master's Stuffed Verdure Doe,3,false,Furniture,Decoration,80,8
+3553,Master's Stuffed Shadow Wolf Head,3,false,Furniture,Decoration,80,8
+3554,Master's Stuffed Shadow Lion Head,3,false,Furniture,Decoration,80,8
+3555,Artisan's Special Stuffed Grass Rhino Head,2,false,Furniture,Decoration,80,8
+3556,Artisan's Special Stuffed Verdure Buck,2,false,Furniture,Decoration,80,8
+3557,Artisan's Special Stuffed Verdure Doe,2,false,Furniture,Decoration,80,8
+3558,Artisan's Special Stuffed Shadow Wolf Head,2,false,Furniture,Decoration,80,8
+3559,Artisan's Special Stuffed Shadow Lion Head,2,false,Furniture,Decoration,80,8
+3560,Master's Special Stuffed Grass Rhino Head,3,false,Furniture,Decoration,80,8
+3561,Master's Special Stuffed Verdure Buck,3,false,Furniture,Decoration,80,8
+3562,Master's Special Stuffed Verdure Doe,3,false,Furniture,Decoration,80,8
+3563,Master's Special Stuffed Shadow Wolf Head,3,false,Furniture,Decoration,80,8
+3564,Master's Special Stuffed Shadow Lion Head,3,false,Furniture,Decoration,80,8
+3565,Blue Whale Wall Decoration,3,false,Furniture,Decoration,80,8
+24106,Straw Basket With Handles,0,false,Furniture,Decoration,80,8
+24107,Two-Handled Basket,0,false,Furniture,Decoration,80,8
+24108,Straw Pot,0,false,Furniture,Decoration,80,8
+24109,Square Basket with Cover,0,false,Furniture,Decoration,80,8
+24144,Pan with a Fried Egg,0,false,Furniture,Decoration,80,8
+24145,Plate of Fish,0,false,Furniture,Decoration,80,8
+24146,Plate of Assorted Fruits,0,false,Furniture,Decoration,80,8
+24147,Plate of Big Chunk of Meat,0,false,Furniture,Decoration,80,8
+24148,Plate of Chopped Meat,0,false,Furniture,Decoration,80,8
+24149,Plate of Soup,0,false,Furniture,Decoration,80,8
+24151,Pot of Soup,0,false,Furniture,Decoration,80,8
+24153,Plate of Turkey,0,false,Furniture,Decoration,80,8
+24155,Standing Beer Keg,0,false,Furniture,Decoration,80,8
+24160,Long Neck Vase,0,false,Furniture,Decoration,80,8
+24189,Map Cabinet,0,false,Furniture,Decoration,80,8
+24193,Doll,0,false,Furniture,Decoration,80,8
+24203,Round Pottery,0,false,Furniture,Decoration,80,8
+24204,Quagmire Pottery,0,false,Furniture,Decoration,80,8
+24205,Long Pottery,0,false,Furniture,Decoration,80,8
+24206,Ruby Gourd Bottle,0,false,Furniture,Decoration,80,8
+24207,Fancy Sapphire Vase,0,false,Furniture,Decoration,80,8
+24208,Emerald Gourd Bottle,0,false,Furniture,Decoration,80,8
+24209,Fancy Topaz Kettle,0,false,Furniture,Decoration,80,8
+24210,Beautiful Opal Vase,0,false,Furniture,Decoration,80,8
+24211,Golden Hand Vase,0,false,Furniture,Decoration,80,8
+24212,Imperial Platinum Kettle,0,false,Furniture,Decoration,80,8
+24213,Ancient Artifact China,1,false,Furniture,Decoration,80,8
+24214,Ancient Artifact Pot,1,false,Furniture,Decoration,80,8
+24217,Loria's Hand Mirror,0,false,Furniture,Decoration,80,8
+24218,Onion Pickle Jar,0,false,Furniture,Decoration,80,8
+24219,Olive Pickle Jar,0,false,Furniture,Decoration,80,8
+24220,Green Herb Pot,0,false,Furniture,Decoration,80,8
+24221,Florin Dawn Wall Carpet,0,false,Furniture,Decoration,80,8
+24222,Florin Autumn Leaves Wall Carpet,0,false,Furniture,Decoration,80,8
+24223,Florin Sunset Wall Carpet,0,false,Furniture,Decoration,80,8
+24224,Tarif Gourd Bottle,0,false,Furniture,Decoration,80,8
+24225,Tarif Pot,0,false,Furniture,Decoration,80,8
+24226,Yisar Pjetyo Amulet,0,false,Furniture,Decoration,80,8
+24227,Allan Serbin Amulet,0,false,Furniture,Decoration,80,8
+24228,Nantusa Letusa Amulet,0,false,Furniture,Decoration,80,8
+24229,Tarif White Cedar Jewelry Box,0,false,Furniture,Decoration,80,8
+24230,Tarif Blue Stone Jewelry Box,0,false,Furniture,Decoration,80,8
+24231,Desert Fogan Flower Pot,0,false,Furniture,Decoration,80,8
+24232,Desert Fogan Lamp,0,false,Furniture,Decoration,80,8
+24233,Arehaza Semicircle Carpet,0,false,Furniture,Decoration,80,8
+24234,Arehaza Round Carpet,0,false,Furniture,Decoration,80,8
+24235,Over the Rocky Mountain,0,false,Furniture,Decoration,80,8
+24236,Arehaza Scenery,0,false,Furniture,Decoration,80,8
+24237,Areha Palm Forest,0,false,Furniture,Decoration,80,8
+24242,Duvencrune Bronk Lamp,0,false,Furniture,Decoration,80,8
+24243,Duvencrune Crescent Lamp,0,false,Furniture,Decoration,80,8
+24252,Oddly Patterned Flower Pot,2,false,Furniture,Decoration,80,8
+24255,Candle on a Pile of Books,2,false,Furniture,Decoration,80,8
+24257,O'draxxia Candle Stand,2,false,Furniture,Decoration,80,8
+24259,Glamorous Patterned Pot,2,false,Furniture,Decoration,80,8
+24260,Blinding Opalescent Pot,2,false,Furniture,Decoration,80,8
+24261,Experimental Alchemy Tool,2,false,Furniture,Decoration,80,8
+24262,Experimental Alchemy Tool Rack,2,false,Furniture,Decoration,80,8
+24526,Jade Starlight Candle Stand,1,false,Furniture,Decoration,80,8
+24527,Jade Starlight Wall Candle Stand,1,false,Furniture,Decoration,80,8
+24610,Cauldron on a Holder,0,false,Furniture,Decoration,80,8
+24619,Bunch of Dried Roses,0,false,Furniture,Decoration,80,8
+24620,Tulip Lantern,0,false,Furniture,Decoration,80,8
+24621,Bunch of Garlic,0,false,Furniture,Decoration,80,8
+24661,O'draxxian Tapestry,2,false,Furniture,Decoration,80,8
+24662,Oddly Marked Tapestry,2,false,Furniture,Decoration,80,8
+24801,Single Display Stand,0,false,Furniture,Decoration,80,8
+24823,Vase,0,false,Furniture,Decoration,80,8
+24829,Red Rose Vase,0,false,Furniture,Decoration,80,8
+24830,Yellow Tulip Pot,0,false,Furniture,Decoration,80,8
+24831,Sunflower Vase,0,false,Furniture,Decoration,80,8
+24832,Strawberry Basket,0,false,Furniture,Decoration,80,8
+24833,Olive Tree Pot,0,false,Furniture,Decoration,80,8
+24834,Oddly Shaped Pumpkin,0,false,Furniture,Decoration,80,8
+24835,Pickled Onion,0,false,Furniture,Decoration,80,8
+24836,Giant Fish Bone,2,false,Furniture,Decoration,80,8
+24837,Bronze Goblet,1,false,Furniture,Decoration,80,8
+24839,King Clam,1,false,Furniture,Decoration,80,8
+24840,Turban Shell,1,false,Furniture,Decoration,80,8
+24841,Ancient Kamel Statue,1,false,Furniture,Decoration,80,8
+24847,Duvencrune Three Wood Display Stand,2,false,Furniture,Decoration,80,8
+24848,Duvencrune Beam Stand,2,false,Furniture,Decoration,80,8
+24849,Duvencrune Multipurpose Toolbox,2,false,Furniture,Decoration,80,8
+24850,Duvencrune Fabric Holder,2,false,Furniture,Decoration,80,8
+24851,Duvencrune Decoration Holder,2,false,Furniture,Decoration,80,8
+24852,Duvencrune Rhomboid Holder,2,false,Furniture,Decoration,80,8
+24853,Duvencrune Small Thuja Bookshelf,2,false,Furniture,Decoration,80,8
+24854,Duvencrune Large Thuja Bookshelf,2,false,Furniture,Decoration,80,8
+24855,Duvencrune Fragrant Bedside Table,2,false,Furniture,Decoration,80,8
+24856,Duvencrune Hardwood Bedside Table,2,false,Furniture,Decoration,80,8
+24857,Duvencrune Lamp Bedside Table,2,false,Furniture,Decoration,80,8
+24858,Duvencrune Leaf Bedside Table,2,false,Furniture,Decoration,80,8
+24859,Duvencrune Giant Wood Wardrobe,2,false,Furniture,Decoration,80,8
+24860,Duvencrune Target Dining Table,2,false,Furniture,Decoration,80,8
+24861,Duvencrune Wooden Dining Table,2,false,Furniture,Decoration,80,8
+24862,Kamasylvian Lemoria Drawers,2,false,Furniture,Decoration,80,8
+24863,Kamasylvian Grace Bedside Table,2,false,Furniture,Decoration,80,8
+24864,Kamasylvian Clock Stand,2,false,Furniture,Decoration,80,8
+24865,Kamasylvian Patterned Bedside Table,2,false,Furniture,Decoration,80,8
+24866,Kamasylvian Webbed Bedside Table,2,false,Furniture,Decoration,80,8
+24867,Kamasylvian Carved Bedside Table,2,false,Furniture,Decoration,80,8
+24868,Kamasylvian Grove Partition,2,false,Furniture,Decoration,80,8
+24869,Kamasylvian Old Moon Round Table,2,false,Furniture,Decoration,80,8
+24870,Smooth Kamasylvian Wooden Side Table,2,false,Furniture,Decoration,80,8
+24871,Kamasylvian Melody Side Table,2,false,Furniture,Decoration,80,8
+24872,Kamasylvian Compact Wine Jar,2,false,Furniture,Decoration,80,8
+24873,Kamasylvian Basic Wine Jar,2,false,Furniture,Decoration,80,8
+24874,Kamasylvian Wine Jar,2,false,Furniture,Decoration,80,8
+24875,Kamasylvian Single Tiered Wine Rack,2,false,Furniture,Decoration,80,8
+24876,Kamasylvian Two-Tiered Wine Rack,2,false,Furniture,Decoration,80,8
+24877,Kamasylvian Multi-Tiered Wine Rack,2,false,Furniture,Decoration,80,8
+24878,O'draxxia Glamorous Patterned Carpet,2,false,Furniture,Decoration,80,8
+25101,Stuffed Winter Bear Head,1,false,Furniture,Decoration,80,8
+25102,Stuffed Snowfield Yak Head,1,false,Furniture,Decoration,80,8
+25103,Stuffed Black Snowfield Yak Head,1,false,Furniture,Decoration,80,8
+25104,Stuffed Snowfield Markhor Head,1,false,Furniture,Decoration,80,8
+25105,Artisan's Stuffed Winter Bear Head,2,false,Furniture,Decoration,80,8
+25106,Artisan's Stuffed Snowfield Yak Head,2,false,Furniture,Decoration,80,8
+25107,Artisan's Stuffed Black Snowfield Yak Head,2,false,Furniture,Decoration,80,8
+25108,Artisan's Stuffed Snowfield Markhor Head,2,false,Furniture,Decoration,80,8
+25109,Master's Stuffed Winter Bear Head,3,false,Furniture,Decoration,80,8
+25110,Master's Stuffed Snowfield Yak Head,3,false,Furniture,Decoration,80,8
+25111,Master's Stuffed Black Snowfield Yak Head,3,false,Furniture,Decoration,80,8
+25112,Master's Stuffed Snowfield Markhor Head,3,false,Furniture,Decoration,80,8
+25113,Stuffed Frost Wolf,1,false,Furniture,Decoration,80,8
+25114,Artisan's Stuffed Frost Wolf,2,false,Furniture,Decoration,80,8
+25115,Master's Stuffed Frost Wolf,3,false,Furniture,Decoration,80,8
+25116,Stuffed Snow Leopard,1,false,Furniture,Decoration,80,8
+25117,Artisan's Stuffed Snow Leopard,2,false,Furniture,Decoration,80,8
+25118,Master's Stuffed Snow Leopard,3,false,Furniture,Decoration,80,8
+25119,Stuffed Snowfield Ili Pika,1,false,Furniture,Decoration,80,8
+25120,Artisan's Stuffed Snowfield Ili Pika,2,false,Furniture,Decoration,80,8
+25121,Master's Stuffed Snowfield Ili Pika,3,false,Furniture,Decoration,80,8
+25122,Artisan's Special Stuffed Winter Bear Head,2,false,Furniture,Decoration,80,8
+25123,Artisan's Special Stuffed Snowfield Yak Head,2,false,Furniture,Decoration,80,8
+25124,Artisan's Special Stuffed Black Snowfield Yak Head,2,false,Furniture,Decoration,80,8
+25125,Artisan's Special Stuffed Snowfield Markhor Head,2,false,Furniture,Decoration,80,8
+25126,Artisan's Special Stuffed Frost Wolf,2,false,Furniture,Decoration,80,8
+25128,Artisan's Special Stuffed Bear Head,2,false,Furniture,Decoration,80,8
+25130,Artisan's Special Stuffed Boar Head,2,false,Furniture,Decoration,80,8
+25131,Artisan's Special Stuffed Fox Head,2,false,Furniture,Decoration,80,8
+25132,Artisan's Special Stuffed Weasel,2,false,Furniture,Decoration,80,8
+25133,Artisan's Special Stuffed Gray Wolf Head,2,false,Furniture,Decoration,80,8
+25134,Artisan's Special Stuffed Wolf Head,2,false,Furniture,Decoration,80,8
+25135,Artisan's Special Stuffed Giant Boar Head,2,false,Furniture,Decoration,80,8
+25136,Artisan's Special Stuffed Elk Head,2,false,Furniture,Decoration,80,8
+25137,Artisan's Special Stuffed Valencia Mountain Sheep Head,2,false,Furniture,Decoration,80,8
+25138,Artisan's Special Stuffed Giant Lion Head,2,false,Furniture,Decoration,80,8
+25139,Artisan's Special Stuffed Valencian Lioness Head,2,false,Furniture,Decoration,80,8
+25140,Artisan's Special Stuffed Drieghan Male Goat Head,2,false,Furniture,Decoration,80,8
+25141,Artisan's Special Stuffed Drieghan Female Goat Head,2,false,Furniture,Decoration,80,8
+25142,Artisan's Special Stuffed Yak Head,2,false,Furniture,Decoration,80,8
+25143,Artisan's Special Stuffed Llama,2,false,Furniture,Decoration,80,8
+25144,Artisan's Special Stuffed Belladonna Elephant Head,2,false,Furniture,Decoration,80,8
+25145,Artisan's Special Stuffed Baby Belladonna Elephant Head,2,false,Furniture,Decoration,80,8
+25146,Artisan's Special Stuffed Gazelle Head,2,false,Furniture,Decoration,80,8
+25147,Artisan's Special Stuffed Black Leopard Head,2,false,Furniture,Decoration,80,8
+25148,Artisan's Special Stuffed Feather Wolf Head,2,false,Furniture,Decoration,80,8
+25149,Artisan's Special Stuffed Phnyl Head,2,false,Furniture,Decoration,80,8
+25150,Artisan's Special Stuffed Ferrica Head,2,false,Furniture,Decoration,80,8
+25151,Artisan's Special Stuffed Ferrina Head,2,false,Furniture,Decoration,80,8
+25152,Artisan's Special Stuffed Kamasylvia Weasel,2,false,Furniture,Decoration,80,8
+25153,Master's Special Stuffed Winter Bear Head,3,false,Furniture,Decoration,80,8
+25154,Master's Special Stuffed Snowfield Yak Head,3,false,Furniture,Decoration,80,8
+25155,Master's Special Stuffed Black Snowfield Yak Head,3,false,Furniture,Decoration,80,8
+25156,Master's Special Stuffed Snowfield Markhor Head,3,false,Furniture,Decoration,80,8
+25157,Master's Special Stuffed Frost Wolf,3,false,Furniture,Decoration,80,8
+25158,Master's Special Stuffed Bear Head,3,false,Furniture,Decoration,80,8
+25160,Master's Special Stuffed Boar Head,3,false,Furniture,Decoration,80,8
+25161,Master's Special Stuffed Fox Head,3,false,Furniture,Decoration,80,8
+25162,Master's Special Stuffed Weasel,3,false,Furniture,Decoration,80,8
+25163,Master's Special Stuffed Gray Wolf Head,3,false,Furniture,Decoration,80,8
+25164,Master's Special Stuffed Wolf Head,3,false,Furniture,Decoration,80,8
+25165,Master's Special Stuffed Giant Boar Head,3,false,Furniture,Decoration,80,8
+25166,Master's Special Stuffed Elk Head,3,false,Furniture,Decoration,80,8
+25167,Master's Special Stuffed Valencia Mountain Sheep Head,3,false,Furniture,Decoration,80,8
+25168,Master's Special Stuffed Giant Lion Head,3,false,Furniture,Decoration,80,8
+25169,Master's Special Stuffed Valencian Lioness Head,3,false,Furniture,Decoration,80,8
+25170,Master's Special Stuffed Drieghan Male Goat Head,3,false,Furniture,Decoration,80,8
+25171,Master's Special Stuffed Drieghan Female Goat Head,3,false,Furniture,Decoration,80,8
+25172,Master's Special Stuffed Yak Head,3,false,Furniture,Decoration,80,8
+25173,Master's Special Stuffed Llama,3,false,Furniture,Decoration,80,8
+25174,Master's Special Stuffed Belladonna Elephant Head,3,false,Furniture,Decoration,80,8
+25175,Master's Special Stuffed Baby Belladonna Elephant Head,3,false,Furniture,Decoration,80,8
+25176,Master's Special Stuffed Gazelle Head,3,false,Furniture,Decoration,80,8
+25177,Master's Special Stuffed Black Leopard Head,3,false,Furniture,Decoration,80,8
+25178,Master's Special Stuffed Feather Wolf Head,3,false,Furniture,Decoration,80,8
+25179,Master's Special Stuffed Phnyl Head,3,false,Furniture,Decoration,80,8
+25180,Master's Special Stuffed Ferrica Head,3,false,Furniture,Decoration,80,8
+25181,Master's Special Stuffed Ferrina Head,3,false,Furniture,Decoration,80,8
+25182,Master's Special Stuffed Kamasylvia Weasel,3,false,Furniture,Decoration,80,8
+25183,Artisan's Special Stuffed Snow Leopard,2,false,Furniture,Decoration,80,8
+25184,Artisan's Special Stuffed Snowfield Ili Pika,2,false,Furniture,Decoration,80,8
+25185,Master's Special Stuffed Snow Leopard,3,false,Furniture,Decoration,80,8
+25186,Master's Special Stuffed Snowfield Ili Pika,3,false,Furniture,Decoration,80,8
+25197,Stuffed Boar Head,2,false,Furniture,Decoration,80,8
+25198,[Manor] Stuffed Tiger,2,false,Furniture,Decoration,80,8
+25199,Sensitive Stuffed Bear Head,2,false,Furniture,Decoration,80,8
+25200,[Manor] Stuffed Hawk,2,false,Furniture,Decoration,80,8
+25201,Stuffed Ferocious Boar Head,2,false,Furniture,Decoration,80,8
+25202,Stuffed Ferocious Bear Head,2,false,Furniture,Decoration,80,8
+25203,Stuffed Thunderpaw Head,3,false,Furniture,Decoration,80,8
+25211,Breath-imbued Stuffed Boar Head,3,false,Furniture,Decoration,80,8
+25212,[Manor] Breath-imbued Stuffed Tiger,3,false,Furniture,Decoration,80,8
+25213,Breath-imbued Sensitive Stuffed Bear Head,3,false,Furniture,Decoration,80,8
+25214,[Manor] Breath-imbued Stuffed Hawk,3,false,Furniture,Decoration,80,8
+25215,Breath-imbued Stuffed Ferocious Boar Head,3,false,Furniture,Decoration,80,8
+25216,Breath-imbued Stuffed Ferocious Bear Head,3,false,Furniture,Decoration,80,8

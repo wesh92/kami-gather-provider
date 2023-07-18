@@ -1,17 +1,17 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-10403,12,Elsh Amulet,1,false,72000,Main Weapon,Amulet,1,3
-10405,0,Azwell Amulet,1,false,18900,Main Weapon,Amulet,1,3
-10406,0,Ain Amulet,1,false,377000,Main Weapon,Amulet,1,3
-10407,30,Seleth Amulet,1,false,73500,Main Weapon,Amulet,1,3
-10409,22,Liverto Amulet,2,false,5950000,Main Weapon,Amulet,1,3
-10410,12,Kzarka Amulet,3,false,241000000,Main Weapon,Amulet,1,3
-10412,1,Kalis Amulet,1,false,242000,Main Weapon,Amulet,1,3
-10413,0,Bares Amulet,1,false,267000,Main Weapon,Amulet,1,3
-10414,19,Yuria Amulet,1,false,246000,Main Weapon,Amulet,1,3
-10456,19,Krea Amulet,1,false,39500,Main Weapon,Amulet,1,3
-10457,7,Rosar Amulet,1,false,345000,Main Weapon,Amulet,1,3
-10471,1,Styd Amulet,1,false,23500,Main Weapon,Amulet,1,3
-10472,0,Ultimate Styd Amulet,2,false,55500,Main Weapon,Amulet,1,3
-10486,2,Offin Tett's Radiant Amulet,3,false,122000000,Main Weapon,Amulet,1,3
-715005,11,Blackstar Amulet,4,false,580000000,Main Weapon,Amulet,1,3
-736017,1,Godr-Ayed Amulet,4,true,11600000000,Main Weapon,Amulet,1,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+10403,Elsh Amulet,1,false,Main Weapon,Amulet,1,3
+10405,Azwell Amulet,1,false,Main Weapon,Amulet,1,3
+10406,Ain Amulet,1,false,Main Weapon,Amulet,1,3
+10407,Seleth Amulet,1,false,Main Weapon,Amulet,1,3
+10409,Liverto Amulet,2,false,Main Weapon,Amulet,1,3
+10410,Kzarka Amulet,3,false,Main Weapon,Amulet,1,3
+10412,Kalis Amulet,1,false,Main Weapon,Amulet,1,3
+10413,Bares Amulet,1,false,Main Weapon,Amulet,1,3
+10414,Yuria Amulet,1,false,Main Weapon,Amulet,1,3
+10456,Krea Amulet,1,false,Main Weapon,Amulet,1,3
+10457,Rosar Amulet,1,false,Main Weapon,Amulet,1,3
+10471,Styd Amulet,1,false,Main Weapon,Amulet,1,3
+10472,Ultimate Styd Amulet,2,false,Main Weapon,Amulet,1,3
+10486,Offin Tett's Radiant Amulet,3,false,Main Weapon,Amulet,1,3
+715005,Blackstar Amulet,4,false,Main Weapon,Amulet,1,3
+736017,Godr-Ayed Amulet,4,true,Main Weapon,Amulet,1,3

@@ -1,12 +1,12 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-16118,0,Sharp Butcher Knife,1,false,74500,Life Tools,Butcher Knife,40,3
-16119,64,Steel Butcher Knife,2,false,134000,Life Tools,Butcher Knife,40,3
-16120,0,Shining Steel Butcher Knife,3,false,256000,Life Tools,Butcher Knife,40,3
-16487,3,Manos Butcher Knife,4,false,241000000,Life Tools,Butcher Knife,40,3
-16817,0,Lucky Butcher Knife,0,false,8100,Life Tools,Butcher Knife,40,3
-16818,0,Lucky Sharp Butcher Knife,1,false,174000,Life Tools,Butcher Knife,40,3
-16819,0,Lucky Steel Butcher Knife,2,false,525000,Life Tools,Butcher Knife,40,3
-16820,0,Lucky Shining Steel Butcher Knife,3,false,1050000,Life Tools,Butcher Knife,40,3
-16831,28,Magic Butcher Knife,3,false,192000,Life Tools,Butcher Knife,40,3
-720511,0,Dostter Steel Butcher Knife,2,false,8200000,Life Tools,Butcher Knife,40,3
-720523,0,Loggia Butcher Knife,1,false,560000,Life Tools,Butcher Knife,40,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+16118,Sharp Butcher Knife,1,false,Life Tools,Butcher Knife,40,3
+16119,Steel Butcher Knife,2,false,Life Tools,Butcher Knife,40,3
+16120,Shining Steel Butcher Knife,3,false,Life Tools,Butcher Knife,40,3
+16487,Manos Butcher Knife,4,false,Life Tools,Butcher Knife,40,3
+16817,Lucky Butcher Knife,0,false,Life Tools,Butcher Knife,40,3
+16818,Lucky Sharp Butcher Knife,1,false,Life Tools,Butcher Knife,40,3
+16819,Lucky Steel Butcher Knife,2,false,Life Tools,Butcher Knife,40,3
+16820,Lucky Shining Steel Butcher Knife,3,false,Life Tools,Butcher Knife,40,3
+16831,Magic Butcher Knife,3,false,Life Tools,Butcher Knife,40,3
+720511,Dostter Steel Butcher Knife,2,false,Life Tools,Butcher Knife,40,3
+720523,Loggia Butcher Knife,1,false,Life Tools,Butcher Knife,40,3

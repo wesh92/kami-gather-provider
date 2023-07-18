@@ -1,13 +1,13 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-16102,34324,Transparent Empty Bottle,1,false,3240,Life Tools,Other Tools,40,10
-16103,30283,Hardened Empty Bottle,2,false,8500,Life Tools,Other Tools,40,10
-16104,58191,Shining Empty Bottle,3,false,20500,Life Tools,Other Tools,40,10
-49804,0,Sealed Old Moon Camping Anvil,0,false,5600000,Life Tools,Other Tools,40,10
-49805,0,Old Moon Camping Shop Contract,0,false,13100000,Life Tools,Other Tools,40,10
-49808,0,Packaged Old Moon Camping Anvil,0,false,3730000,Life Tools,Other Tools,40,10
-705154,1,Loggia Riding Crop,1,false,560000,Life Tools,Other Tools,40,10
-705155,0,Izaro Riding Crop,2,false,8200000,Life Tools,Other Tools,40,10
-705156,1,Manos Riding Crop,4,false,241000000,Life Tools,Other Tools,40,10
-768086,2,Manos Processing Stone,4,false,192000000,Life Tools,Other Tools,40,10
-768087,1,Techthon Processing Stone,2,false,8200000,Life Tools,Other Tools,40,10
-768088,0,Loggia Processing Stone,1,false,560000,Life Tools,Other Tools,40,10
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+16102,Transparent Empty Bottle,1,false,Life Tools,Other Tools,40,10
+16103,Hardened Empty Bottle,2,false,Life Tools,Other Tools,40,10
+16104,Shining Empty Bottle,3,false,Life Tools,Other Tools,40,10
+49804,Sealed Old Moon Camping Anvil,0,false,Life Tools,Other Tools,40,10
+49805,Old Moon Camping Shop Contract,0,false,Life Tools,Other Tools,40,10
+49808,Packaged Old Moon Camping Anvil,0,false,Life Tools,Other Tools,40,10
+705154,Loggia Riding Crop,1,false,Life Tools,Other Tools,40,10
+705155,Izaro Riding Crop,2,false,Life Tools,Other Tools,40,10
+705156,Manos Riding Crop,4,false,Life Tools,Other Tools,40,10
+768086,Manos Processing Stone,4,false,Life Tools,Other Tools,40,10
+768087,Techthon Processing Stone,2,false,Life Tools,Other Tools,40,10
+768088,Loggia Processing Stone,1,false,Life Tools,Other Tools,40,10

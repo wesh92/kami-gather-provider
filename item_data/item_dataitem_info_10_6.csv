@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14751,0,Piece of Purification Lancia,2,false,1770000,Awakening Weapon,Lancia,10,6
-14752,5,Dandelion Lancia,3,false,241000000,Awakening Weapon,Lancia,10,6
-14753,0,Schzeriel Lancia,1,false,107000,Awakening Weapon,Lancia,10,6
-702506,1,Dragon Slayer Lancia,3,false,91000000,Awakening Weapon,Lancia,10,6
-702522,0,Hughol's Lancia,2,false,52000000,Awakening Weapon,Lancia,10,6
-731106,4,Blackstar Lancia,4,false,497000000,Awakening Weapon,Lancia,10,6
-736120,2,Godr-Ayed Lancia,4,true,14000000000,Awakening Weapon,Lancia,10,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14751,Piece of Purification Lancia,2,false,Awakening Weapon,Lancia,10,6
+14752,Dandelion Lancia,3,false,Awakening Weapon,Lancia,10,6
+14753,Schzeriel Lancia,1,false,Awakening Weapon,Lancia,10,6
+702506,Dragon Slayer Lancia,3,false,Awakening Weapon,Lancia,10,6
+702522,Hughol's Lancia,2,false,Awakening Weapon,Lancia,10,6
+731106,Blackstar Lancia,4,false,Awakening Weapon,Lancia,10,6
+736120,Godr-Ayed Lancia,4,true,Awakening Weapon,Lancia,10,6

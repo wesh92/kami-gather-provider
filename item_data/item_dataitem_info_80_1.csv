@@ -1,7 +1,7 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-2702,0,Heidelian Handcrafted Bed,1,false,5350000,Furniture,Bed,80,1
-2704,0,Velian Handcrafted Bed,1,false,2060000,Furniture,Bed,80,1
-2706,0,Calpheon Handcrafted Bed,1,false,2700000,Furniture,Bed,80,1
-2708,0,Mediahn Handcrafted Bed,1,false,3070000,Furniture,Bed,80,1
-2710,0,Valencian Handcrafted Bed,1,false,3510000,Furniture,Bed,80,1
-24516,0,Black Lake Stretcher,1,false,3020000,Furniture,Bed,80,1
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+2702,Heidelian Handcrafted Bed,1,false,Furniture,Bed,80,1
+2704,Velian Handcrafted Bed,1,false,Furniture,Bed,80,1
+2706,Calpheon Handcrafted Bed,1,false,Furniture,Bed,80,1
+2708,Mediahn Handcrafted Bed,1,false,Furniture,Bed,80,1
+2710,Valencian Handcrafted Bed,1,false,Furniture,Bed,80,1
+24516,Black Lake Stretcher,1,false,Furniture,Bed,80,1

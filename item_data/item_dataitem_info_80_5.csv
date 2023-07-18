@@ -1,11 +1,11 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-2814,0,Xian Workshop Chandelier (White),1,false,1310000,Furniture,Chandelier,80,5
-2846,0,Duvencrune Sunset Chandelier,1,false,11200000,Furniture,Chandelier,80,5
-3085,0,Griffon Chandelier,1,false,36900000,Furniture,Chandelier,80,5
-3245,0,Morning Muntin Lamp (Ceiling),2,false,3350000,Furniture,Chandelier,80,5
-3246,0,Morning Muntin Wall Lamp,2,false,2740000,Furniture,Chandelier,80,5
-3247,0,Oil Candle Lamp,2,false,1460000,Furniture,Chandelier,80,5
-3248,0,Wooden Candle Stand,2,false,1400000,Furniture,Chandelier,80,5
-3249,0,Morning Muntin Floor Lamp,2,false,3210000,Furniture,Chandelier,80,5
-3250,0,Hanji Wish Lantern Lamp (Ceiling),2,false,2540000,Furniture,Chandelier,80,5
-3251,0,Three Layer Hanji Wish Lantern Lamp (Ceiling),2,false,2630000,Furniture,Chandelier,80,5
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+2814,Xian Workshop Chandelier (White),1,false,Furniture,Chandelier,80,5
+2846,Duvencrune Sunset Chandelier,1,false,Furniture,Chandelier,80,5
+3085,Griffon Chandelier,1,false,Furniture,Chandelier,80,5
+3245,Morning Muntin Lamp (Ceiling),2,false,Furniture,Chandelier,80,5
+3246,Morning Muntin Wall Lamp,2,false,Furniture,Chandelier,80,5
+3247,Oil Candle Lamp,2,false,Furniture,Chandelier,80,5
+3248,Wooden Candle Stand,2,false,Furniture,Chandelier,80,5
+3249,Morning Muntin Floor Lamp,2,false,Furniture,Chandelier,80,5
+3250,Hanji Wish Lantern Lamp (Ceiling),2,false,Furniture,Chandelier,80,5
+3251,Three Layer Hanji Wish Lantern Lamp (Ceiling),2,false,Furniture,Chandelier,80,5

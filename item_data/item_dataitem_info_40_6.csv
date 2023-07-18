@@ -1,12 +1,12 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-16122,91,Sharp Tanning Knife,1,false,40500,Life Tools,Tanning Knife,40,6
-16123,0,Steel Tanning Knife,2,false,134000,Life Tools,Tanning Knife,40,6
-16124,130,Shining Steel Tanning Knife,3,false,268000,Life Tools,Tanning Knife,40,6
-16486,0,Manos Tanning Knife,4,false,188000000,Life Tools,Tanning Knife,40,6
-16821,0,Lucky Tanning Knife,0,false,7500,Life Tools,Tanning Knife,40,6
-16822,0,Lucky Sharp Tanning Knife,1,false,174000,Life Tools,Tanning Knife,40,6
-16823,0,Lucky Steel Tanning Knife,2,false,525000,Life Tools,Tanning Knife,40,6
-16824,0,Lucky Shining Steel Tanning Knife,3,false,1050000,Life Tools,Tanning Knife,40,6
-16834,0,Magic Tanning Knife,3,false,1160000,Life Tools,Tanning Knife,40,6
-720510,0,Dostter Steel Tanning Knife,2,false,8200000,Life Tools,Tanning Knife,40,6
-720522,0,Loggia Tanning Knife,1,false,560000,Life Tools,Tanning Knife,40,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+16122,Sharp Tanning Knife,1,false,Life Tools,Tanning Knife,40,6
+16123,Steel Tanning Knife,2,false,Life Tools,Tanning Knife,40,6
+16124,Shining Steel Tanning Knife,3,false,Life Tools,Tanning Knife,40,6
+16486,Manos Tanning Knife,4,false,Life Tools,Tanning Knife,40,6
+16821,Lucky Tanning Knife,0,false,Life Tools,Tanning Knife,40,6
+16822,Lucky Sharp Tanning Knife,1,false,Life Tools,Tanning Knife,40,6
+16823,Lucky Steel Tanning Knife,2,false,Life Tools,Tanning Knife,40,6
+16824,Lucky Shining Steel Tanning Knife,3,false,Life Tools,Tanning Knife,40,6
+16834,Magic Tanning Knife,3,false,Life Tools,Tanning Knife,40,6
+720510,Dostter Steel Tanning Knife,2,false,Life Tools,Tanning Knife,40,6
+720522,Loggia Tanning Knife,1,false,Life Tools,Tanning Knife,40,6

@@ -1,291 +1,291 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-5201,0,Fruit of Crimson Flame,0,false,257000,Material,Seed/Fruit,25,3
-5203,0,Fruit of Abundance,0,false,257000,Material,Seed/Fruit,25,3
-5205,0,Fruit of Nature,0,false,257000,Material,Seed/Fruit,25,3
-5207,0,Fruit of the Sun,0,false,257000,Material,Seed/Fruit,25,3
-5209,0,Fruit of Enchantment,0,false,257000,Material,Seed/Fruit,25,3
-5211,0,Fruit of Magic Power,0,false,257000,Material,Seed/Fruit,25,3
-5213,0,Fruit of Perfection,0,false,30700,Material,Seed/Fruit,25,3
-5215,120,Fruit of Destruction,0,false,21200,Material,Seed/Fruit,25,3
-5217,0,Deep Sea Fruit,0,false,391000,Material,Seed/Fruit,25,3
-6701,0,Pepper Seed,0,false,3560,Material,Seed/Fruit,25,3
-6702,0,Garlic Seed,0,false,3140,Material,Seed/Fruit,25,3
-6703,0,Onion Seed,0,false,2950,Material,Seed/Fruit,25,3
-6704,455,Strawberry Seed,0,false,2180,Material,Seed/Fruit,25,3
-6705,0,Hot Pepper Seed,0,false,2670,Material,Seed/Fruit,25,3
-6706,68,Pumpkin Seed,0,false,2770,Material,Seed/Fruit,25,3
-6707,476,Carrot Seed,0,false,2080,Material,Seed/Fruit,25,3
-6708,56,High-Quality Strawberry Seed,1,false,72500,Material,Seed/Fruit,25,3
-6709,0,Special Strawberry Seed,2,false,274000,Material,Seed/Fruit,25,3
-6710,0,High-Quality Pepper Seed,1,false,79000,Material,Seed/Fruit,25,3
-6711,0,High-Quality Garlic Seed,1,false,90500,Material,Seed/Fruit,25,3
-6712,0,High-Quality Onion Seed,1,false,87000,Material,Seed/Fruit,25,3
-6714,0,High-Quality Hot Pepper Seed,1,false,82000,Material,Seed/Fruit,25,3
-6715,58,High-Quality Pumpkin Seed,1,false,84000,Material,Seed/Fruit,25,3
-6716,93,High-Quality Carrot Seed,1,false,78500,Material,Seed/Fruit,25,3
-6717,0,Special Pepper Seed,2,false,268000,Material,Seed/Fruit,25,3
-6718,0,Special Garlic Seed,2,false,307000,Material,Seed/Fruit,25,3
-6719,0,Special Onion Seed,2,false,296000,Material,Seed/Fruit,25,3
-6721,0,Special Hot Pepper Seed,2,false,280000,Material,Seed/Fruit,25,3
-6722,0,Special Pumpkin Seed,2,false,285000,Material,Seed/Fruit,25,3
-6723,0,Special Carrot Seed,2,false,285000,Material,Seed/Fruit,25,3
-6724,0,Flax Seed,0,false,12600,Material,Seed/Fruit,25,3
-6728,0,Delotia Seed,0,false,3610,Material,Seed/Fruit,25,3
-6729,0,High-Quality Delotia Seed,1,false,99000,Material,Seed/Fruit,25,3
-6730,0,Special Delotia Seeds,2,false,335000,Material,Seed/Fruit,25,3
-6733,0,Citron Seed,0,false,3610,Material,Seed/Fruit,25,3
-6734,61,High-quality Citron Seed,1,false,99000,Material,Seed/Fruit,25,3
-6735,598,Special Citron Seed,2,false,310000,Material,Seed/Fruit,25,3
-6801,1980,Grape Seed,0,false,1750,Material,Seed/Fruit,25,3
-6802,0,Sunflower Seed,0,false,3500,Material,Seed/Fruit,25,3
-6803,434,Olive Seed,0,false,1860,Material,Seed/Fruit,25,3
-6804,22,Tomato Seed,0,false,2060,Material,Seed/Fruit,25,3
-6805,0,Paprika Seed,0,false,3140,Material,Seed/Fruit,25,3
-6806,28,Seed Potato,0,false,3350,Material,Seed/Fruit,25,3
-6807,3,Barley Seed,0,false,1290,Material,Seed/Fruit,25,3
-6808,0,Wheat Seed,0,false,2860,Material,Seed/Fruit,25,3
-6809,45,Corn Seed,0,false,1670,Material,Seed/Fruit,25,3
-6810,114,Seed Sweet Potato,0,false,525,Material,Seed/Fruit,25,3
-6811,302,High-Quality Grape Seed,1,false,32200,Material,Seed/Fruit,25,3
-6812,0,High-Quality Sunflower Seed,1,false,97000,Material,Seed/Fruit,25,3
-6813,0,High-Quality Olive Seed,1,false,97000,Material,Seed/Fruit,25,3
-6814,0,High-Quality Tomato Seed,1,false,87000,Material,Seed/Fruit,25,3
-6815,0,High-Quality Paprika Seed,1,false,90500,Material,Seed/Fruit,25,3
-6816,20,High-Quality Seed Potato,1,false,13900,Material,Seed/Fruit,25,3
-6817,0,High-Quality Barley Seed,1,false,15600,Material,Seed/Fruit,25,3
-6818,0,High-Quality Wheat Seed,1,false,10000,Material,Seed/Fruit,25,3
-6819,0,High-Quality Corn Seed,1,false,14400,Material,Seed/Fruit,25,3
-6820,28,High-Quality Seed Sweet Potato,1,false,8850,Material,Seed/Fruit,25,3
-6821,142,Special Grape Seed,2,false,237000,Material,Seed/Fruit,25,3
-6822,467,Special Sunflower Seed,2,false,330000,Material,Seed/Fruit,25,3
-6823,3,Special Olive Seed,2,false,330000,Material,Seed/Fruit,25,3
-6824,0,Special Tomato Seed,2,false,296000,Material,Seed/Fruit,25,3
-6825,0,Special Paprika Seed,2,false,307000,Material,Seed/Fruit,25,3
-6826,512,Special Seed Potato,2,false,180000,Material,Seed/Fruit,25,3
-6827,153,Special Barley Seed,2,false,106000,Material,Seed/Fruit,25,3
-6828,52,Special Wheat Seed,2,false,217000,Material,Seed/Fruit,25,3
-6829,81,Special Corn Seed,2,false,220000,Material,Seed/Fruit,25,3
-6830,35,Special Seed Sweet Potato,2,false,66500,Material,Seed/Fruit,25,3
-6901,35801,Sunrise Herb Seed,0,false,1940,Material,Seed/Fruit,25,3
-6902,11,Silver Azalea Seed,0,false,2390,Material,Seed/Fruit,25,3
-6903,1300,Fire Flake Flower Seed,0,false,2140,Material,Seed/Fruit,25,3
-6904,23924,Dry Mane Grass Seed,0,false,2040,Material,Seed/Fruit,25,3
-6905,0,Silk Honey Grass Seed,0,false,13400,Material,Seed/Fruit,25,3
-6907,0,Fortune Teller Mushroom Hypha,0,false,20100,Material,Seed/Fruit,25,3
-6908,84,Arrow Mushroom Hypha,0,false,22400,Material,Seed/Fruit,25,3
-6909,124,Dwarf Mushroom Hypha,0,false,19300,Material,Seed/Fruit,25,3
-6910,35,Cloud Mushroom Hypha,0,false,3240,Material,Seed/Fruit,25,3
-6911,3,Sky Mushroom Hypha,0,false,6800,Material,Seed/Fruit,25,3
-6912,1,Tiger Mushroom Hypha,0,false,8700,Material,Seed/Fruit,25,3
-6913,213,Emperor Mushroom Hypha,0,false,2910,Material,Seed/Fruit,25,3
-6914,0,Ghost Mushroom Hypha,0,false,22400,Material,Seed/Fruit,25,3
-6915,232,Fog Mushroom Hypha,0,false,15500,Material,Seed/Fruit,25,3
-6916,521,Hump Mushroom Hypha,0,false,22400,Material,Seed/Fruit,25,3
-6917,0,Bluffer Mushroom Hypha,0,false,26100,Material,Seed/Fruit,25,3
-6918,0,Ancient Mushroom Hypha,0,false,22400,Material,Seed/Fruit,25,3
-6919,0,Amanita Mushroom Hypha,0,false,16800,Material,Seed/Fruit,25,3
-6921,826,Withered Wheat Seed,0,false,127,Material,Seed/Fruit,25,3
-6922,1030,Withered Grape Seed,0,false,376,Material,Seed/Fruit,25,3
-6923,1089,Withered Sunrise Herb Seed,0,false,441,Material,Seed/Fruit,25,3
-6924,0,Nolina Seed,0,false,18000,Material,Seed/Fruit,25,3
-6925,8,Penestraria Seed,0,false,13300,Material,Seed/Fruit,25,3
-6926,1,Dalvenia Alrea Seed,0,false,25000,Material,Seed/Fruit,25,3
-6927,59,Bouquet Mushroom Hypha,0,false,5300,Material,Seed/Fruit,25,3
-6928,28,Leccinum Hypha,0,false,10400,Material,Seed/Fruit,25,3
-6929,0,Purple Mushroom Hypha,0,false,30400,Material,Seed/Fruit,25,3
-6930,0,Pie Mushroom Hypha,0,false,10100,Material,Seed/Fruit,25,3
-6931,105,High-Quality Nolina Seed,1,false,43500,Material,Seed/Fruit,25,3
-6932,621,High-Quality Penestraria Seed,1,false,15300,Material,Seed/Fruit,25,3
-6933,164,High-Quality Dalvenia Alrea Seed,1,false,18000,Material,Seed/Fruit,25,3
-6934,2,High-Quality Bouquet Mushroom Hypha,1,false,21300,Material,Seed/Fruit,25,3
-6935,0,High-Quality Leccinum Mushroom Hypha,1,false,31400,Material,Seed/Fruit,25,3
-6936,15246,High-Quality Purple Mushroom Hypha,1,false,21900,Material,Seed/Fruit,25,3
-6937,255,High-Quality Pie Mushroom Hypha,1,false,34500,Material,Seed/Fruit,25,3
-6938,938,Withered Acacia Seed,0,false,419,Material,Seed/Fruit,25,3
-6939,382,Acacia Seed,0,false,4800,Material,Seed/Fruit,25,3
-6940,0,Warm Seed,2,false,650000,Material,Seed/Fruit,25,3
-6941,76,Glossy Seed,0,false,61500,Material,Seed/Fruit,25,3
-6942,10,Dried-Up Seed,0,false,18300,Material,Seed/Fruit,25,3
-6943,11,Shelled Seed,0,false,59000,Material,Seed/Fruit,25,3
-6944,54,Shiny Seed,0,false,60500,Material,Seed/Fruit,25,3
-6945,80,Gigantic Seed,0,false,134000,Material,Seed/Fruit,25,3
-6946,99,Small White Seed,0,false,32400,Material,Seed/Fruit,25,3
-6947,102,Half-Moon Seed,0,false,62000,Material,Seed/Fruit,25,3
-6948,18,Bumpy Seed,0,false,79500,Material,Seed/Fruit,25,3
-6949,0,Contorted Seed,0,false,54000,Material,Seed/Fruit,25,3
-6950,0,Black Seed,0,false,26900,Material,Seed/Fruit,25,3
-6952,5970,High-Quality Sunrise Herb Seed,1,false,9700,Material,Seed/Fruit,25,3
-6953,2069,High-Quality Silver Azalea Seed,1,false,11100,Material,Seed/Fruit,25,3
-6954,3612,High-Quality Fire Flake Flower Seed,1,false,10700,Material,Seed/Fruit,25,3
-6955,15572,High-Quality Dry Mane Grass Seed,1,false,10200,Material,Seed/Fruit,25,3
-6956,16,High-Quality Silk Honey Grass Seed,1,false,37300,Material,Seed/Fruit,25,3
-6958,0,High-Quality Fortune Teller Mushroom Hypha,1,false,101000,Material,Seed/Fruit,25,3
-6959,0,High-Quality Arrow Mushroom Hypha,1,false,103000,Material,Seed/Fruit,25,3
-6960,2,High-Quality Dwarf Mushroom Hypha,1,false,74000,Material,Seed/Fruit,25,3
-6961,468,High-Quality Cloud Mushroom Hypha,1,false,16800,Material,Seed/Fruit,25,3
-6962,0,High-Quality Sky Mushroom Hypha,1,false,72000,Material,Seed/Fruit,25,3
-6963,0,High-Quality Tiger Mushroom Hypha,1,false,51500,Material,Seed/Fruit,25,3
-6964,345,High-Quality Emperor Mushroom Hypha,1,false,14500,Material,Seed/Fruit,25,3
-6965,4,High-Quality Ghost Mushroom Hypha,1,false,112000,Material,Seed/Fruit,25,3
-6966,110,High-Quality Fog Mushroom Hypha,1,false,107000,Material,Seed/Fruit,25,3
-6967,0,High-Quality Hump Mushroom Hypha,1,false,112000,Material,Seed/Fruit,25,3
-6968,0,High-Quality Bluffer Mushroom Hypha,1,false,104000,Material,Seed/Fruit,25,3
-6969,0,High-Quality Ancient Mushroom Hypha,1,false,112000,Material,Seed/Fruit,25,3
-6970,0,High-Quality Amanita Mushroom Hypha,1,false,101000,Material,Seed/Fruit,25,3
-6972,4336,Special Sunrise Herb Seed,2,false,32900,Material,Seed/Fruit,25,3
-6973,0,Special Silver Azalea Seed,2,false,70000,Material,Seed/Fruit,25,3
-6974,0,Special Fire Flake Flower Seed,2,false,63000,Material,Seed/Fruit,25,3
-6975,7691,Special Dry Mane Grass Seed,2,false,34500,Material,Seed/Fruit,25,3
-6976,643,Special Silk Honey Grass Seed,2,false,32900,Material,Seed/Fruit,25,3
-6978,0,Special Fortune Teller Mushroom Hypha,2,false,343000,Material,Seed/Fruit,25,3
-6979,0,Special Arrow Mushroom Hypha,2,false,368000,Material,Seed/Fruit,25,3
-6980,167,Special Dwarf Mushroom Hypha,2,false,361000,Material,Seed/Fruit,25,3
-6981,0,Special Cloud Mushroom Hypha,2,false,352000,Material,Seed/Fruit,25,3
-6982,1,Special Sky Mushroom Hypha,2,false,361000,Material,Seed/Fruit,25,3
-6983,191,Special Tiger Mushroom Hypha,2,false,356000,Material,Seed/Fruit,25,3
-6984,9,Special Emperor Mushroom Hypha,2,false,125000,Material,Seed/Fruit,25,3
-6985,13,Special Ghost Mushroom Hypha,2,false,380000,Material,Seed/Fruit,25,3
-6986,36,Special Fog Mushroom Hypha,2,false,361000,Material,Seed/Fruit,25,3
-6987,956,Special Hump Mushroom Hypha,2,false,144000,Material,Seed/Fruit,25,3
-6988,0,Special Bluffer Mushroom Hypha,2,false,352000,Material,Seed/Fruit,25,3
-6989,0,Special Ancient Mushroom Hypha,2,false,380000,Material,Seed/Fruit,25,3
-6990,0,Special Amanita Mushroom Hypha,2,false,361000,Material,Seed/Fruit,25,3
-6992,0,Special Nolina Seed,2,false,293000,Material,Seed/Fruit,25,3
-6993,366,Special Penestraria Seed,2,false,326000,Material,Seed/Fruit,25,3
-6994,2406,Special Dalvenia Alrea Seed,2,false,49200,Material,Seed/Fruit,25,3
-6995,0,Special Bouquet Mushroom Hypha,2,false,224000,Material,Seed/Fruit,25,3
-6996,0,Special Leccinum Hypha,2,false,184000,Material,Seed/Fruit,25,3
-6997,1692,Special Purple Mushroom Hypha,2,false,141000,Material,Seed/Fruit,25,3
-6998,0,Special Pie Mushroom Hypha,2,false,478000,Material,Seed/Fruit,25,3
-6999,342,High-Quality Acacia Seed,1,false,33300,Material,Seed/Fruit,25,3
-7000,4,Special Acacia Seed,2,false,361000,Material,Seed/Fruit,25,3
-7001,0,Wheat,0,false,1590,Material,Seed/Fruit,25,3
-7002,74198,Barley,0,false,1590,Material,Seed/Fruit,25,3
-7003,39818,Potato,0,false,1410,Material,Seed/Fruit,25,3
-7004,25416,Sweet Potato,0,false,1410,Material,Seed/Fruit,25,3
-7005,49480,Corn,0,false,1670,Material,Seed/Fruit,25,3
-7006,1591,High-Quality Wheat,1,false,7950,Material,Seed/Fruit,25,3
-7007,516,High-Quality Barley,1,false,4420,Material,Seed/Fruit,25,3
-7008,1649,High-Quality Potato,1,false,5150,Material,Seed/Fruit,25,3
-7009,15165,High-Quality Sweet Potato,1,false,4200,Material,Seed/Fruit,25,3
-7010,1620,High-Quality Corn,1,false,6050,Material,Seed/Fruit,25,3
-7011,3560,Special Wheat,2,false,22100,Material,Seed/Fruit,25,3
-7012,3821,Special Barley,2,false,24900,Material,Seed/Fruit,25,3
-7013,25507,Special Potato,2,false,23700,Material,Seed/Fruit,25,3
-7014,14028,Special Sweet Potato,2,false,9850,Material,Seed/Fruit,25,3
-7015,1246,Special Corn,2,false,27500,Material,Seed/Fruit,25,3
-7016,72194,Date Palm,0,false,2240,Material,Seed/Fruit,25,3
-7017,140814,Pistachio,0,false,383,Material,Seed/Fruit,25,3
-7018,208095,Fig,0,false,1810,Material,Seed/Fruit,25,3
-7019,124596,Star Anise,0,false,560,Material,Seed/Fruit,25,3
-7020,153545,Nutmeg,0,false,1230,Material,Seed/Fruit,25,3
-7021,139409,Freekeh,0,false,665,Material,Seed/Fruit,25,3
-7022,168450,Teff,0,false,234,Material,Seed/Fruit,25,3
-7023,107,Haystack,0,false,21000,Material,Seed/Fruit,25,3
-7024,70,High-Quality Haystack,1,false,70500,Material,Seed/Fruit,25,3
-7025,0,Special Haystack,2,false,1540000,Material,Seed/Fruit,25,3
-7026,120219,Coconut,0,false,2230,Material,Seed/Fruit,25,3
-7028,0,Chicken Feed,0,false,127000,Material,Seed/Fruit,25,3
-7029,0,Good Chicken Feed,1,false,482000,Material,Seed/Fruit,25,3
-7030,289,Special Chicken Feed,2,false,428000,Material,Seed/Fruit,25,3
-7101,0,Wheat Flour,0,false,2520,Material,Seed/Fruit,25,3
-7102,499,Barley Flour,0,false,2520,Material,Seed/Fruit,25,3
-7103,281,Potato Flour,0,false,2420,Material,Seed/Fruit,25,3
-7104,2410,Sweet Potato Flour,0,false,2420,Material,Seed/Fruit,25,3
-7105,12000,Corn Flour,0,false,2660,Material,Seed/Fruit,25,3
-7106,61498,Teff Flour,0,false,1830,Material,Seed/Fruit,25,3
-7107,38364,Freekeh Flour,0,false,420,Material,Seed/Fruit,25,3
-7201,267504,Wheat Dough,0,false,2420,Material,Seed/Fruit,25,3
-7202,36577,Barley Dough,0,false,2420,Material,Seed/Fruit,25,3
-7203,1776,Potato Dough,0,false,2270,Material,Seed/Fruit,25,3
-7204,222,Sweet Potato Dough,0,false,2270,Material,Seed/Fruit,25,3
-7205,42199,Corn Dough,0,false,2520,Material,Seed/Fruit,25,3
-7206,54000,Teff Flour Dough,0,false,2520,Material,Seed/Fruit,25,3
-7207,0,Freekeh Flour Dough,0,false,370,Material,Seed/Fruit,25,3
-7301,0,Pepper,0,false,2380,Material,Seed/Fruit,25,3
-7302,0,Garlic,0,false,4190,Material,Seed/Fruit,25,3
-7303,0,Onion,0,false,4190,Material,Seed/Fruit,25,3
-7304,0,Strawberry,0,false,545,Material,Seed/Fruit,25,3
-7305,0,Hot Pepper,0,false,2560,Material,Seed/Fruit,25,3
-7306,103956,Pumpkin,0,false,860,Material,Seed/Fruit,25,3
-7307,36342,Grape,0,false,860,Material,Seed/Fruit,25,3
-7308,0,Sunflower,0,false,3350,Material,Seed/Fruit,25,3
-7309,28799,Olive,0,false,895,Material,Seed/Fruit,25,3
-7311,0,Tomato,0,false,2810,Material,Seed/Fruit,25,3
-7312,0,Paprika,0,false,660,Material,Seed/Fruit,25,3
-7313,1771,Apple,0,false,775,Material,Seed/Fruit,25,3
-7314,0,Cherry,0,false,775,Material,Seed/Fruit,25,3
-7315,0,Pear,0,false,775,Material,Seed/Fruit,25,3
-7316,0,Banana,0,false,775,Material,Seed/Fruit,25,3
-7317,0,Pineapple,0,false,775,Material,Seed/Fruit,25,3
-7318,0,Cabbage,0,false,3510,Material,Seed/Fruit,25,3
-7319,0,Rose,0,false,3510,Material,Seed/Fruit,25,3
-7320,0,Tulip,0,false,3510,Material,Seed/Fruit,25,3
-7321,11144,High-Quality Strawberry,1,false,6050,Material,Seed/Fruit,25,3
-7322,65080,Special Strawberry,2,false,36300,Material,Seed/Fruit,25,3
-7323,0,High-Quality Pepper,1,false,11600,Material,Seed/Fruit,25,3
-7324,0,High-Quality Garlic,1,false,13400,Material,Seed/Fruit,25,3
-7325,0,High-Quality Onion,1,false,12900,Material,Seed/Fruit,25,3
-7327,0,High-Quality Hot Pepper,1,false,12100,Material,Seed/Fruit,25,3
-7328,2394,High-Quality Pumpkin,1,false,11700,Material,Seed/Fruit,25,3
-7329,1417,High-Quality Grape,1,false,13000,Material,Seed/Fruit,25,3
-7330,0,High-Quality Sunflower,1,false,14400,Material,Seed/Fruit,25,3
-7331,12195,High-Quality Olive,1,false,14400,Material,Seed/Fruit,25,3
-7333,2882,High-Quality Tomato,1,false,12000,Material,Seed/Fruit,25,3
-7334,98,High-Quality Paprika,1,false,13400,Material,Seed/Fruit,25,3
-7335,0,Special Pepper,2,false,39500,Material,Seed/Fruit,25,3
-7336,54727,Special Garlic,2,false,43700,Material,Seed/Fruit,25,3
-7337,8986,Special Onion,2,false,43600,Material,Seed/Fruit,25,3
-7339,0,Special Hot Pepper,2,false,41000,Material,Seed/Fruit,25,3
-7340,49781,Special Pumpkin,2,false,34100,Material,Seed/Fruit,25,3
-7341,1159,Special Grape,2,false,30100,Material,Seed/Fruit,25,3
-7342,60557,Special Sunflower,2,false,27000,Material,Seed/Fruit,25,3
-7343,29030,Special Olive,2,false,29600,Material,Seed/Fruit,25,3
-7345,16396,Special Tomato,2,false,28300,Material,Seed/Fruit,25,3
-7346,33620,Special Paprika,2,false,44300,Material,Seed/Fruit,25,3
-7347,47800,Aloe,0,false,1320,Material,Seed/Fruit,25,3
-7348,113148,Cinnamon,0,false,6400,Material,Seed/Fruit,25,3
-7360,0,Citron,0,false,3170,Material,Seed/Fruit,25,3
-7361,0,High-quality Citron,1,false,13800,Material,Seed/Fruit,25,3
-7362,40820,Special Citron,2,false,30900,Material,Seed/Fruit,25,3
-8934,0,Chanterelle Hypha,0,false,20100,Material,Seed/Fruit,25,3
-8935,0,High-quality Chanterelle Hypha,1,false,101000,Material,Seed/Fruit,25,3
-8936,241,Special Chanterelle Hypha,2,false,343000,Material,Seed/Fruit,25,3
-8939,0,Red-spotted Amanita Hypha,0,false,11700,Material,Seed/Fruit,25,3
-8940,0,High-quality Red-spotted Amanita Hypha,1,false,101000,Material,Seed/Fruit,25,3
-8941,0,Special Red-spotted Amanita Hypha,2,false,343000,Material,Seed/Fruit,25,3
-8944,0,Mesima Hypha,0,false,20100,Material,Seed/Fruit,25,3
-8945,0,High-quality Mesima Hypha,1,false,101000,Material,Seed/Fruit,25,3
-8946,198,Special Mesima Hypha,2,false,343000,Material,Seed/Fruit,25,3
-8949,10,Dictyophora Hypha,0,false,10500,Material,Seed/Fruit,25,3
-8950,340,High-quality Dictyophora Hypha,1,false,73000,Material,Seed/Fruit,25,3
-8951,118,Special Dictyophora Hypha,2,false,343000,Material,Seed/Fruit,25,3
-820108,6241,Wild Berry,0,false,400,Material,Seed/Fruit,25,3
-820110,3,Reed,0,false,312,Material,Seed/Fruit,25,3
-820113,8024,Persimmon,0,false,486,Material,Seed/Fruit,25,3
-820117,0,Rice,0,false,1910,Material,Seed/Fruit,25,3
-820118,0,Rice Flour,0,false,2840,Material,Seed/Fruit,25,3
-820119,0,Rice Dough,0,false,890,Material,Seed/Fruit,25,3
-820120,0,Napa Cabbage,0,false,3070,Material,Seed/Fruit,25,3
-820121,0,High-quality Napa Cabbage,1,false,14800,Material,Seed/Fruit,25,3
-820122,22572,Special Napa Cabbage,2,false,41700,Material,Seed/Fruit,25,3
-820123,0,Radish,0,false,2700,Material,Seed/Fruit,25,3
-820124,0,High-quality Radish,1,false,13900,Material,Seed/Fruit,25,3
-820125,389,Special Radish,2,false,41900,Material,Seed/Fruit,25,3
-820126,0,Perilla,0,false,2320,Material,Seed/Fruit,25,3
-820127,0,High-quality Perilla,1,false,5750,Material,Seed/Fruit,25,3
-820128,31,Special Perilla,2,false,17200,Material,Seed/Fruit,25,3
-820129,0,High-quality Rice,1,false,8400,Material,Seed/Fruit,25,3
-820130,55376,Special Rice,2,false,27600,Material,Seed/Fruit,25,3
-820301,0,Napa Cabbage Seed,0,false,3160,Material,Seed/Fruit,25,3
-820302,0,High-quality Napa Cabbage Seed,1,false,87500,Material,Seed/Fruit,25,3
-820303,0,Special Napa Cabbage Seed,2,false,298000,Material,Seed/Fruit,25,3
-820306,0,Radish Seed,0,false,2850,Material,Seed/Fruit,25,3
-820307,0,High-quality Radish Seed,1,false,87000,Material,Seed/Fruit,25,3
-820308,0,Special Radish Seed,2,false,294000,Material,Seed/Fruit,25,3
-820311,609,Perilla Seed,0,false,3340,Material,Seed/Fruit,25,3
-820312,60,High-quality Perilla Seed,1,false,27400,Material,Seed/Fruit,25,3
-820313,18,Special Perilla Seed,2,false,214000,Material,Seed/Fruit,25,3
-820316,0,Rice Seed,0,false,4020,Material,Seed/Fruit,25,3
-820317,0,High-quality Rice Seed,1,false,19400,Material,Seed/Fruit,25,3
-820318,0,Special Rice Seed,2,false,296000,Material,Seed/Fruit,25,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+5201,Fruit of Crimson Flame,0,false,Material,Seed/Fruit,25,3
+5203,Fruit of Abundance,0,false,Material,Seed/Fruit,25,3
+5205,Fruit of Nature,0,false,Material,Seed/Fruit,25,3
+5207,Fruit of the Sun,0,false,Material,Seed/Fruit,25,3
+5209,Fruit of Enchantment,0,false,Material,Seed/Fruit,25,3
+5211,Fruit of Magic Power,0,false,Material,Seed/Fruit,25,3
+5213,Fruit of Perfection,0,false,Material,Seed/Fruit,25,3
+5215,Fruit of Destruction,0,false,Material,Seed/Fruit,25,3
+5217,Deep Sea Fruit,0,false,Material,Seed/Fruit,25,3
+6701,Pepper Seed,0,false,Material,Seed/Fruit,25,3
+6702,Garlic Seed,0,false,Material,Seed/Fruit,25,3
+6703,Onion Seed,0,false,Material,Seed/Fruit,25,3
+6704,Strawberry Seed,0,false,Material,Seed/Fruit,25,3
+6705,Hot Pepper Seed,0,false,Material,Seed/Fruit,25,3
+6706,Pumpkin Seed,0,false,Material,Seed/Fruit,25,3
+6707,Carrot Seed,0,false,Material,Seed/Fruit,25,3
+6708,High-Quality Strawberry Seed,1,false,Material,Seed/Fruit,25,3
+6709,Special Strawberry Seed,2,false,Material,Seed/Fruit,25,3
+6710,High-Quality Pepper Seed,1,false,Material,Seed/Fruit,25,3
+6711,High-Quality Garlic Seed,1,false,Material,Seed/Fruit,25,3
+6712,High-Quality Onion Seed,1,false,Material,Seed/Fruit,25,3
+6714,High-Quality Hot Pepper Seed,1,false,Material,Seed/Fruit,25,3
+6715,High-Quality Pumpkin Seed,1,false,Material,Seed/Fruit,25,3
+6716,High-Quality Carrot Seed,1,false,Material,Seed/Fruit,25,3
+6717,Special Pepper Seed,2,false,Material,Seed/Fruit,25,3
+6718,Special Garlic Seed,2,false,Material,Seed/Fruit,25,3
+6719,Special Onion Seed,2,false,Material,Seed/Fruit,25,3
+6721,Special Hot Pepper Seed,2,false,Material,Seed/Fruit,25,3
+6722,Special Pumpkin Seed,2,false,Material,Seed/Fruit,25,3
+6723,Special Carrot Seed,2,false,Material,Seed/Fruit,25,3
+6724,Flax Seed,0,false,Material,Seed/Fruit,25,3
+6728,Delotia Seed,0,false,Material,Seed/Fruit,25,3
+6729,High-Quality Delotia Seed,1,false,Material,Seed/Fruit,25,3
+6730,Special Delotia Seeds,2,false,Material,Seed/Fruit,25,3
+6733,Citron Seed,0,false,Material,Seed/Fruit,25,3
+6734,High-quality Citron Seed,1,false,Material,Seed/Fruit,25,3
+6735,Special Citron Seed,2,false,Material,Seed/Fruit,25,3
+6801,Grape Seed,0,false,Material,Seed/Fruit,25,3
+6802,Sunflower Seed,0,false,Material,Seed/Fruit,25,3
+6803,Olive Seed,0,false,Material,Seed/Fruit,25,3
+6804,Tomato Seed,0,false,Material,Seed/Fruit,25,3
+6805,Paprika Seed,0,false,Material,Seed/Fruit,25,3
+6806,Seed Potato,0,false,Material,Seed/Fruit,25,3
+6807,Barley Seed,0,false,Material,Seed/Fruit,25,3
+6808,Wheat Seed,0,false,Material,Seed/Fruit,25,3
+6809,Corn Seed,0,false,Material,Seed/Fruit,25,3
+6810,Seed Sweet Potato,0,false,Material,Seed/Fruit,25,3
+6811,High-Quality Grape Seed,1,false,Material,Seed/Fruit,25,3
+6812,High-Quality Sunflower Seed,1,false,Material,Seed/Fruit,25,3
+6813,High-Quality Olive Seed,1,false,Material,Seed/Fruit,25,3
+6814,High-Quality Tomato Seed,1,false,Material,Seed/Fruit,25,3
+6815,High-Quality Paprika Seed,1,false,Material,Seed/Fruit,25,3
+6816,High-Quality Seed Potato,1,false,Material,Seed/Fruit,25,3
+6817,High-Quality Barley Seed,1,false,Material,Seed/Fruit,25,3
+6818,High-Quality Wheat Seed,1,false,Material,Seed/Fruit,25,3
+6819,High-Quality Corn Seed,1,false,Material,Seed/Fruit,25,3
+6820,High-Quality Seed Sweet Potato,1,false,Material,Seed/Fruit,25,3
+6821,Special Grape Seed,2,false,Material,Seed/Fruit,25,3
+6822,Special Sunflower Seed,2,false,Material,Seed/Fruit,25,3
+6823,Special Olive Seed,2,false,Material,Seed/Fruit,25,3
+6824,Special Tomato Seed,2,false,Material,Seed/Fruit,25,3
+6825,Special Paprika Seed,2,false,Material,Seed/Fruit,25,3
+6826,Special Seed Potato,2,false,Material,Seed/Fruit,25,3
+6827,Special Barley Seed,2,false,Material,Seed/Fruit,25,3
+6828,Special Wheat Seed,2,false,Material,Seed/Fruit,25,3
+6829,Special Corn Seed,2,false,Material,Seed/Fruit,25,3
+6830,Special Seed Sweet Potato,2,false,Material,Seed/Fruit,25,3
+6901,Sunrise Herb Seed,0,false,Material,Seed/Fruit,25,3
+6902,Silver Azalea Seed,0,false,Material,Seed/Fruit,25,3
+6903,Fire Flake Flower Seed,0,false,Material,Seed/Fruit,25,3
+6904,Dry Mane Grass Seed,0,false,Material,Seed/Fruit,25,3
+6905,Silk Honey Grass Seed,0,false,Material,Seed/Fruit,25,3
+6907,Fortune Teller Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6908,Arrow Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6909,Dwarf Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6910,Cloud Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6911,Sky Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6912,Tiger Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6913,Emperor Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6914,Ghost Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6915,Fog Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6916,Hump Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6917,Bluffer Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6918,Ancient Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6919,Amanita Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6921,Withered Wheat Seed,0,false,Material,Seed/Fruit,25,3
+6922,Withered Grape Seed,0,false,Material,Seed/Fruit,25,3
+6923,Withered Sunrise Herb Seed,0,false,Material,Seed/Fruit,25,3
+6924,Nolina Seed,0,false,Material,Seed/Fruit,25,3
+6925,Penestraria Seed,0,false,Material,Seed/Fruit,25,3
+6926,Dalvenia Alrea Seed,0,false,Material,Seed/Fruit,25,3
+6927,Bouquet Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6928,Leccinum Hypha,0,false,Material,Seed/Fruit,25,3
+6929,Purple Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6930,Pie Mushroom Hypha,0,false,Material,Seed/Fruit,25,3
+6931,High-Quality Nolina Seed,1,false,Material,Seed/Fruit,25,3
+6932,High-Quality Penestraria Seed,1,false,Material,Seed/Fruit,25,3
+6933,High-Quality Dalvenia Alrea Seed,1,false,Material,Seed/Fruit,25,3
+6934,High-Quality Bouquet Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6935,High-Quality Leccinum Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6936,High-Quality Purple Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6937,High-Quality Pie Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6938,Withered Acacia Seed,0,false,Material,Seed/Fruit,25,3
+6939,Acacia Seed,0,false,Material,Seed/Fruit,25,3
+6940,Warm Seed,2,false,Material,Seed/Fruit,25,3
+6941,Glossy Seed,0,false,Material,Seed/Fruit,25,3
+6942,Dried-Up Seed,0,false,Material,Seed/Fruit,25,3
+6943,Shelled Seed,0,false,Material,Seed/Fruit,25,3
+6944,Shiny Seed,0,false,Material,Seed/Fruit,25,3
+6945,Gigantic Seed,0,false,Material,Seed/Fruit,25,3
+6946,Small White Seed,0,false,Material,Seed/Fruit,25,3
+6947,Half-Moon Seed,0,false,Material,Seed/Fruit,25,3
+6948,Bumpy Seed,0,false,Material,Seed/Fruit,25,3
+6949,Contorted Seed,0,false,Material,Seed/Fruit,25,3
+6950,Black Seed,0,false,Material,Seed/Fruit,25,3
+6952,High-Quality Sunrise Herb Seed,1,false,Material,Seed/Fruit,25,3
+6953,High-Quality Silver Azalea Seed,1,false,Material,Seed/Fruit,25,3
+6954,High-Quality Fire Flake Flower Seed,1,false,Material,Seed/Fruit,25,3
+6955,High-Quality Dry Mane Grass Seed,1,false,Material,Seed/Fruit,25,3
+6956,High-Quality Silk Honey Grass Seed,1,false,Material,Seed/Fruit,25,3
+6958,High-Quality Fortune Teller Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6959,High-Quality Arrow Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6960,High-Quality Dwarf Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6961,High-Quality Cloud Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6962,High-Quality Sky Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6963,High-Quality Tiger Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6964,High-Quality Emperor Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6965,High-Quality Ghost Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6966,High-Quality Fog Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6967,High-Quality Hump Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6968,High-Quality Bluffer Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6969,High-Quality Ancient Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6970,High-Quality Amanita Mushroom Hypha,1,false,Material,Seed/Fruit,25,3
+6972,Special Sunrise Herb Seed,2,false,Material,Seed/Fruit,25,3
+6973,Special Silver Azalea Seed,2,false,Material,Seed/Fruit,25,3
+6974,Special Fire Flake Flower Seed,2,false,Material,Seed/Fruit,25,3
+6975,Special Dry Mane Grass Seed,2,false,Material,Seed/Fruit,25,3
+6976,Special Silk Honey Grass Seed,2,false,Material,Seed/Fruit,25,3
+6978,Special Fortune Teller Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6979,Special Arrow Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6980,Special Dwarf Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6981,Special Cloud Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6982,Special Sky Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6983,Special Tiger Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6984,Special Emperor Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6985,Special Ghost Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6986,Special Fog Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6987,Special Hump Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6988,Special Bluffer Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6989,Special Ancient Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6990,Special Amanita Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6992,Special Nolina Seed,2,false,Material,Seed/Fruit,25,3
+6993,Special Penestraria Seed,2,false,Material,Seed/Fruit,25,3
+6994,Special Dalvenia Alrea Seed,2,false,Material,Seed/Fruit,25,3
+6995,Special Bouquet Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6996,Special Leccinum Hypha,2,false,Material,Seed/Fruit,25,3
+6997,Special Purple Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6998,Special Pie Mushroom Hypha,2,false,Material,Seed/Fruit,25,3
+6999,High-Quality Acacia Seed,1,false,Material,Seed/Fruit,25,3
+7000,Special Acacia Seed,2,false,Material,Seed/Fruit,25,3
+7001,Wheat,0,false,Material,Seed/Fruit,25,3
+7002,Barley,0,false,Material,Seed/Fruit,25,3
+7003,Potato,0,false,Material,Seed/Fruit,25,3
+7004,Sweet Potato,0,false,Material,Seed/Fruit,25,3
+7005,Corn,0,false,Material,Seed/Fruit,25,3
+7006,High-Quality Wheat,1,false,Material,Seed/Fruit,25,3
+7007,High-Quality Barley,1,false,Material,Seed/Fruit,25,3
+7008,High-Quality Potato,1,false,Material,Seed/Fruit,25,3
+7009,High-Quality Sweet Potato,1,false,Material,Seed/Fruit,25,3
+7010,High-Quality Corn,1,false,Material,Seed/Fruit,25,3
+7011,Special Wheat,2,false,Material,Seed/Fruit,25,3
+7012,Special Barley,2,false,Material,Seed/Fruit,25,3
+7013,Special Potato,2,false,Material,Seed/Fruit,25,3
+7014,Special Sweet Potato,2,false,Material,Seed/Fruit,25,3
+7015,Special Corn,2,false,Material,Seed/Fruit,25,3
+7016,Date Palm,0,false,Material,Seed/Fruit,25,3
+7017,Pistachio,0,false,Material,Seed/Fruit,25,3
+7018,Fig,0,false,Material,Seed/Fruit,25,3
+7019,Star Anise,0,false,Material,Seed/Fruit,25,3
+7020,Nutmeg,0,false,Material,Seed/Fruit,25,3
+7021,Freekeh,0,false,Material,Seed/Fruit,25,3
+7022,Teff,0,false,Material,Seed/Fruit,25,3
+7023,Haystack,0,false,Material,Seed/Fruit,25,3
+7024,High-Quality Haystack,1,false,Material,Seed/Fruit,25,3
+7025,Special Haystack,2,false,Material,Seed/Fruit,25,3
+7026,Coconut,0,false,Material,Seed/Fruit,25,3
+7028,Chicken Feed,0,false,Material,Seed/Fruit,25,3
+7029,Good Chicken Feed,1,false,Material,Seed/Fruit,25,3
+7030,Special Chicken Feed,2,false,Material,Seed/Fruit,25,3
+7101,Wheat Flour,0,false,Material,Seed/Fruit,25,3
+7102,Barley Flour,0,false,Material,Seed/Fruit,25,3
+7103,Potato Flour,0,false,Material,Seed/Fruit,25,3
+7104,Sweet Potato Flour,0,false,Material,Seed/Fruit,25,3
+7105,Corn Flour,0,false,Material,Seed/Fruit,25,3
+7106,Teff Flour,0,false,Material,Seed/Fruit,25,3
+7107,Freekeh Flour,0,false,Material,Seed/Fruit,25,3
+7201,Wheat Dough,0,false,Material,Seed/Fruit,25,3
+7202,Barley Dough,0,false,Material,Seed/Fruit,25,3
+7203,Potato Dough,0,false,Material,Seed/Fruit,25,3
+7204,Sweet Potato Dough,0,false,Material,Seed/Fruit,25,3
+7205,Corn Dough,0,false,Material,Seed/Fruit,25,3
+7206,Teff Flour Dough,0,false,Material,Seed/Fruit,25,3
+7207,Freekeh Flour Dough,0,false,Material,Seed/Fruit,25,3
+7301,Pepper,0,false,Material,Seed/Fruit,25,3
+7302,Garlic,0,false,Material,Seed/Fruit,25,3
+7303,Onion,0,false,Material,Seed/Fruit,25,3
+7304,Strawberry,0,false,Material,Seed/Fruit,25,3
+7305,Hot Pepper,0,false,Material,Seed/Fruit,25,3
+7306,Pumpkin,0,false,Material,Seed/Fruit,25,3
+7307,Grape,0,false,Material,Seed/Fruit,25,3
+7308,Sunflower,0,false,Material,Seed/Fruit,25,3
+7309,Olive,0,false,Material,Seed/Fruit,25,3
+7311,Tomato,0,false,Material,Seed/Fruit,25,3
+7312,Paprika,0,false,Material,Seed/Fruit,25,3
+7313,Apple,0,false,Material,Seed/Fruit,25,3
+7314,Cherry,0,false,Material,Seed/Fruit,25,3
+7315,Pear,0,false,Material,Seed/Fruit,25,3
+7316,Banana,0,false,Material,Seed/Fruit,25,3
+7317,Pineapple,0,false,Material,Seed/Fruit,25,3
+7318,Cabbage,0,false,Material,Seed/Fruit,25,3
+7319,Rose,0,false,Material,Seed/Fruit,25,3
+7320,Tulip,0,false,Material,Seed/Fruit,25,3
+7321,High-Quality Strawberry,1,false,Material,Seed/Fruit,25,3
+7322,Special Strawberry,2,false,Material,Seed/Fruit,25,3
+7323,High-Quality Pepper,1,false,Material,Seed/Fruit,25,3
+7324,High-Quality Garlic,1,false,Material,Seed/Fruit,25,3
+7325,High-Quality Onion,1,false,Material,Seed/Fruit,25,3
+7327,High-Quality Hot Pepper,1,false,Material,Seed/Fruit,25,3
+7328,High-Quality Pumpkin,1,false,Material,Seed/Fruit,25,3
+7329,High-Quality Grape,1,false,Material,Seed/Fruit,25,3
+7330,High-Quality Sunflower,1,false,Material,Seed/Fruit,25,3
+7331,High-Quality Olive,1,false,Material,Seed/Fruit,25,3
+7333,High-Quality Tomato,1,false,Material,Seed/Fruit,25,3
+7334,High-Quality Paprika,1,false,Material,Seed/Fruit,25,3
+7335,Special Pepper,2,false,Material,Seed/Fruit,25,3
+7336,Special Garlic,2,false,Material,Seed/Fruit,25,3
+7337,Special Onion,2,false,Material,Seed/Fruit,25,3
+7339,Special Hot Pepper,2,false,Material,Seed/Fruit,25,3
+7340,Special Pumpkin,2,false,Material,Seed/Fruit,25,3
+7341,Special Grape,2,false,Material,Seed/Fruit,25,3
+7342,Special Sunflower,2,false,Material,Seed/Fruit,25,3
+7343,Special Olive,2,false,Material,Seed/Fruit,25,3
+7345,Special Tomato,2,false,Material,Seed/Fruit,25,3
+7346,Special Paprika,2,false,Material,Seed/Fruit,25,3
+7347,Aloe,0,false,Material,Seed/Fruit,25,3
+7348,Cinnamon,0,false,Material,Seed/Fruit,25,3
+7360,Citron,0,false,Material,Seed/Fruit,25,3
+7361,High-quality Citron,1,false,Material,Seed/Fruit,25,3
+7362,Special Citron,2,false,Material,Seed/Fruit,25,3
+8934,Chanterelle Hypha,0,false,Material,Seed/Fruit,25,3
+8935,High-quality Chanterelle Hypha,1,false,Material,Seed/Fruit,25,3
+8936,Special Chanterelle Hypha,2,false,Material,Seed/Fruit,25,3
+8939,Red-spotted Amanita Hypha,0,false,Material,Seed/Fruit,25,3
+8940,High-quality Red-spotted Amanita Hypha,1,false,Material,Seed/Fruit,25,3
+8941,Special Red-spotted Amanita Hypha,2,false,Material,Seed/Fruit,25,3
+8944,Mesima Hypha,0,false,Material,Seed/Fruit,25,3
+8945,High-quality Mesima Hypha,1,false,Material,Seed/Fruit,25,3
+8946,Special Mesima Hypha,2,false,Material,Seed/Fruit,25,3
+8949,Dictyophora Hypha,0,false,Material,Seed/Fruit,25,3
+8950,High-quality Dictyophora Hypha,1,false,Material,Seed/Fruit,25,3
+8951,Special Dictyophora Hypha,2,false,Material,Seed/Fruit,25,3
+820108,Wild Berry,0,false,Material,Seed/Fruit,25,3
+820110,Reed,0,false,Material,Seed/Fruit,25,3
+820113,Persimmon,0,false,Material,Seed/Fruit,25,3
+820117,Rice,0,false,Material,Seed/Fruit,25,3
+820118,Rice Flour,0,false,Material,Seed/Fruit,25,3
+820119,Rice Dough,0,false,Material,Seed/Fruit,25,3
+820120,Napa Cabbage,0,false,Material,Seed/Fruit,25,3
+820121,High-quality Napa Cabbage,1,false,Material,Seed/Fruit,25,3
+820122,Special Napa Cabbage,2,false,Material,Seed/Fruit,25,3
+820123,Radish,0,false,Material,Seed/Fruit,25,3
+820124,High-quality Radish,1,false,Material,Seed/Fruit,25,3
+820125,Special Radish,2,false,Material,Seed/Fruit,25,3
+820126,Perilla,0,false,Material,Seed/Fruit,25,3
+820127,High-quality Perilla,1,false,Material,Seed/Fruit,25,3
+820128,Special Perilla,2,false,Material,Seed/Fruit,25,3
+820129,High-quality Rice,1,false,Material,Seed/Fruit,25,3
+820130,Special Rice,2,false,Material,Seed/Fruit,25,3
+820301,Napa Cabbage Seed,0,false,Material,Seed/Fruit,25,3
+820302,High-quality Napa Cabbage Seed,1,false,Material,Seed/Fruit,25,3
+820303,Special Napa Cabbage Seed,2,false,Material,Seed/Fruit,25,3
+820306,Radish Seed,0,false,Material,Seed/Fruit,25,3
+820307,High-quality Radish Seed,1,false,Material,Seed/Fruit,25,3
+820308,Special Radish Seed,2,false,Material,Seed/Fruit,25,3
+820311,Perilla Seed,0,false,Material,Seed/Fruit,25,3
+820312,High-quality Perilla Seed,1,false,Material,Seed/Fruit,25,3
+820313,Special Perilla Seed,2,false,Material,Seed/Fruit,25,3
+820316,Rice Seed,0,false,Material,Seed/Fruit,25,3
+820317,High-quality Rice Seed,1,false,Material,Seed/Fruit,25,3
+820318,Special Rice Seed,2,false,Material,Seed/Fruit,25,3

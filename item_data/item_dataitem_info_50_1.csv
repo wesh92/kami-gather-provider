@@ -1,87 +1,87 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-15001,0,Magic Crystal of Crimson Flame - Precision,1,false,32200,Magic Crystal,Main Weapon,50,1
-15002,0,Magic Crystal of Crimson Flame - Power,1,false,32200,Magic Crystal,Main Weapon,50,1
-15003,0,Magic Crystal of Crimson Flame - Carnage,1,false,32200,Magic Crystal,Main Weapon,50,1
-15004,0,Magic Crystal of Crimson Flame - Carnage,1,false,32200,Magic Crystal,Main Weapon,50,1
-15005,0,Magic Crystal of Crimson Flame - Carnage,1,false,32200,Magic Crystal,Main Weapon,50,1
-15014,0,Magic Crystal of the Sun - Assault,1,false,107000,Magic Crystal,Main Weapon,50,1
-15016,0,Magic Crystal of the Sun - Valor,1,false,32200,Magic Crystal,Main Weapon,50,1
-15017,0,Magic Crystal of Enchantment - Memory,1,false,102000,Magic Crystal,Main Weapon,50,1
-15022,0,Magic Crystal - Crimson Flame,3,false,1030000,Magic Crystal,Main Weapon,50,1
-15023,1,Magic Crystal - Enchantment,3,false,1030000,Magic Crystal,Main Weapon,50,1
-15024,3,Magic Crystal - Destruction,3,false,1030000,Magic Crystal,Main Weapon,50,1
-15025,4,Magic Crystal - Temptation,3,false,1030000,Magic Crystal,Main Weapon,50,1
-15026,1,Magic Crystal - Agony,3,false,1000000,Magic Crystal,Main Weapon,50,1
-15029,0,Magic Crystal of the Sun - Ensnare,1,false,107000,Magic Crystal,Main Weapon,50,1
-15032,1,Magic Crystal - Meditation,3,false,1030000,Magic Crystal,Main Weapon,50,1
-15101,48,Magic Crystal of Infinity - Precision,2,false,3470000,Magic Crystal,Main Weapon,50,1
-15102,50,Magic Crystal of Infinity - Power,2,false,5900000,Magic Crystal,Main Weapon,50,1
-15103,42,Magic Crystal of Infinity - Carnage,2,false,1240000,Magic Crystal,Main Weapon,50,1
-15104,52,Magic Crystal of Infinity - Carnage,2,false,2120000,Magic Crystal,Main Weapon,50,1
-15105,8,Magic Crystal of Infinity - Carnage,2,false,525000,Magic Crystal,Main Weapon,50,1
-15116,81,Magic Crystal of Infinity - Assault,2,false,55500,Magic Crystal,Main Weapon,50,1
-15118,9,Magic Crystal of Infinity - Valor,2,false,57000,Magic Crystal,Main Weapon,50,1
-15119,0,Magic Crystal of Infinity - Ensnare,2,false,3090000,Magic Crystal,Main Weapon,50,1
-15121,14,Magic Crystal of Infinity - Memory,2,false,64000,Magic Crystal,Main Weapon,50,1
-15129,122,Magic Crystal of Infinity - Back Attack,2,false,4620000,Magic Crystal,Main Weapon,50,1
-15130,14,Magic Crystal of Infinity - Down Attack,2,false,45300,Magic Crystal,Main Weapon,50,1
-15131,2,Magic Crystal of Infinity - Air Attack,2,false,46700,Magic Crystal,Main Weapon,50,1
-15132,0,Magic Crystal of Infinity - Critical Hit,2,false,4110000,Magic Crystal,Main Weapon,50,1
-15133,4,Magic Crystal of Infinity - Speed Attack,2,false,41800,Magic Crystal,Main Weapon,50,1
-15134,10,Magic Crystal of Infinity - Counter Attack,2,false,43600,Magic Crystal,Main Weapon,50,1
-15148,8,Magic Crystal of Infinity - Melee Attack,2,false,54000,Magic Crystal,Main Weapon,50,1
-15149,0,Magic Crystal of Infinity - Ranged Attack,2,false,880000,Magic Crystal,Main Weapon,50,1
-15150,44,Magic Crystal of Infinity - Magic Attack,2,false,50500,Magic Crystal,Main Weapon,50,1
-15151,6,Magic Crystal of Infinity - Ignore Knockback Resistance,2,false,49300,Magic Crystal,Main Weapon,50,1
-15152,25,Magic Crystal of Infinity - Ignore Knockdown Resistance,2,false,570000,Magic Crystal,Main Weapon,50,1
-15153,11,Magic Crystal of Infinity - Ignore Grapple Resistance,2,false,56000,Magic Crystal,Main Weapon,50,1
-15154,65,Magic Crystal of Infinity - Ignore Stun Resistance,2,false,62000,Magic Crystal,Main Weapon,50,1
-15201,546,Black Magic Crystal - Precision,3,false,5600000,Magic Crystal,Main Weapon,50,1
-15254,0,Crystal of Mysterious Darkness,4,false,421000000,Magic Crystal,Main Weapon,50,1
-15256,18,Crystal of Brutal Decimation,4,false,700000000,Magic Crystal,Main Weapon,50,1
-15603,199,Ancient Magic Crystal - Viper,4,false,164000,Magic Crystal,Main Weapon,50,1
-15605,75,Ancient Magic Crystal - Carmae,4,false,207000,Magic Crystal,Main Weapon,50,1
-15606,109,Ancient Magic Crystal of Crimson Flame - Power,3,false,190000000,Magic Crystal,Main Weapon,50,1
-15630,39,Black Magic Crystal - Viper,4,false,58500000,Magic Crystal,Main Weapon,50,1
-15632,11,Black Magic Crystal - Carmae,4,false,17400000,Magic Crystal,Main Weapon,50,1
-15634,14,Red Battlefield Crystal: Harphia,4,false,42300000,Magic Crystal,Main Weapon,50,1
-15635,13,Red Battlefield Crystal: Cobelinus,4,false,159000000,Magic Crystal,Main Weapon,50,1
-15636,13,Red Battlefield Crystal: Viper,4,false,196000000,Magic Crystal,Main Weapon,50,1
-15637,13,Red Battlefield Crystal: Hystria,4,false,69000000,Magic Crystal,Main Weapon,50,1
-15638,19,Red Battlefield Crystal: Carmae,4,false,184000000,Magic Crystal,Main Weapon,50,1
-15639,35,Red Battlefield Crystal: Power,4,false,304000000,Magic Crystal,Main Weapon,50,1
-15649,94,Ancient Magic Crystal - Addis,4,false,255000,Magic Crystal,Main Weapon,50,1
-15650,22,Black Magic Crystal - Addis,4,false,13900000,Magic Crystal,Main Weapon,50,1
-15651,4,Red Battlefield Crystal: Addis,4,false,170000000,Magic Crystal,Main Weapon,50,1
-15669,91,Dark Red Fang Crystal - Valor,4,false,230000000,Magic Crystal,Main Weapon,50,1
-15672,28,Corrupted Magic Crystal,4,false,35400000,Magic Crystal,Main Weapon,50,1
-15674,119,Crystal of Elkarr,4,false,59500000,Magic Crystal,Main Weapon,50,1
-15675,5,Ah'krad Crystal,4,false,145000000,Magic Crystal,Main Weapon,50,1
-15676,44,Olucas' Crystal,4,false,71500000,Magic Crystal,Main Weapon,50,1
-15690,28,Glorious Crystal of Gallantry - Ah'krad,4,false,740000000,Magic Crystal,Main Weapon,50,1
-15691,22,Glorious Crystal of Gallantry - Olucas,4,false,660000000,Magic Crystal,Main Weapon,50,1
-15695,0,WON Glorious Crystal of Courage - Ignore Knockback Resistance,4,false,62500000,Magic Crystal,Main Weapon,50,1
-15696,0,BON Glorious Crystal of Courage - Ignore Knockback Resistance,4,false,252000000,Magic Crystal,Main Weapon,50,1
-15697,0,JIN Glorious Crystal of Courage - Ignore Knockback Resistance,4,false,770000000,Magic Crystal,Main Weapon,50,1
-15698,4,WON Glorious Crystal of Courage - Ignore Knockdown Resistance,4,false,66500000,Magic Crystal,Main Weapon,50,1
-15699,0,BON Glorious Crystal of Courage - Ignore Knockdown Resistance,4,false,161000000,Magic Crystal,Main Weapon,50,1
-15700,3,JIN Glorious Crystal of Courage - Ignore Knockdown Resistance,4,false,1790000000,Magic Crystal,Main Weapon,50,1
-15701,1,WON Glorious Crystal of Courage - Ignore Grapple Resistance,4,false,56000000,Magic Crystal,Main Weapon,50,1
-15702,0,BON Glorious Crystal of Courage - Ignore Grapple Resistance,4,false,134000000,Magic Crystal,Main Weapon,50,1
-15703,0,JIN Glorious Crystal of Courage - Ignore Grapple Resistance,4,false,1240000000,Magic Crystal,Main Weapon,50,1
-15704,1,WON Glorious Crystal of Courage - Ignore Stun Resistance,4,false,102000000,Magic Crystal,Main Weapon,50,1
-15705,0,BON Glorious Crystal of Courage - Ignore Stun Resistance,4,false,292000000,Magic Crystal,Main Weapon,50,1
-15706,0,JIN Glorious Crystal of Courage - Ignore Stun Resistance,4,false,745000000,Magic Crystal,Main Weapon,50,1
-15708,38,Olucas' Crystal - Ignore Knockback Resistance,4,false,91000000,Magic Crystal,Main Weapon,50,1
-15709,5,Olucas' Crystal - Ignore Knockdown Resistance,4,false,159000000,Magic Crystal,Main Weapon,50,1
-15710,0,Olucas' Crystal - Ignore Grapple Resistance,4,false,94000000,Magic Crystal,Main Weapon,50,1
-15711,13,Olucas' Crystal - Ignore Stun Resistance,4,false,81000000,Magic Crystal,Main Weapon,50,1
-15807,42,JIN Magic Crystal - Viper,4,false,451000000,Magic Crystal,Main Weapon,50,1
-15808,0,BON Magic Crystal - Viper,4,false,51000000,Magic Crystal,Main Weapon,50,1
-15809,24,WON Magic Crystal - Viper,4,false,50500000,Magic Crystal,Main Weapon,50,1
-15813,18,JIN Magic Crystal - Carmae,4,false,120000000,Magic Crystal,Main Weapon,50,1
-15814,28,BON Magic Crystal - Carmae,4,false,85000000,Magic Crystal,Main Weapon,50,1
-15815,0,WON Magic Crystal - Carmae,4,false,49700000,Magic Crystal,Main Weapon,50,1
-15816,6,JIN Magic Crystal - Addis,4,false,114000000,Magic Crystal,Main Weapon,50,1
-15817,4,BON Magic Crystal - Addis,4,false,75500000,Magic Crystal,Main Weapon,50,1
-15818,4,WON Magic Crystal - Addis,4,false,50000000,Magic Crystal,Main Weapon,50,1
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+15001,Magic Crystal of Crimson Flame - Precision,1,false,Magic Crystal,Main Weapon,50,1
+15002,Magic Crystal of Crimson Flame - Power,1,false,Magic Crystal,Main Weapon,50,1
+15003,Magic Crystal of Crimson Flame - Carnage,1,false,Magic Crystal,Main Weapon,50,1
+15004,Magic Crystal of Crimson Flame - Carnage,1,false,Magic Crystal,Main Weapon,50,1
+15005,Magic Crystal of Crimson Flame - Carnage,1,false,Magic Crystal,Main Weapon,50,1
+15014,Magic Crystal of the Sun - Assault,1,false,Magic Crystal,Main Weapon,50,1
+15016,Magic Crystal of the Sun - Valor,1,false,Magic Crystal,Main Weapon,50,1
+15017,Magic Crystal of Enchantment - Memory,1,false,Magic Crystal,Main Weapon,50,1
+15022,Magic Crystal - Crimson Flame,3,false,Magic Crystal,Main Weapon,50,1
+15023,Magic Crystal - Enchantment,3,false,Magic Crystal,Main Weapon,50,1
+15024,Magic Crystal - Destruction,3,false,Magic Crystal,Main Weapon,50,1
+15025,Magic Crystal - Temptation,3,false,Magic Crystal,Main Weapon,50,1
+15026,Magic Crystal - Agony,3,false,Magic Crystal,Main Weapon,50,1
+15029,Magic Crystal of the Sun - Ensnare,1,false,Magic Crystal,Main Weapon,50,1
+15032,Magic Crystal - Meditation,3,false,Magic Crystal,Main Weapon,50,1
+15101,Magic Crystal of Infinity - Precision,2,false,Magic Crystal,Main Weapon,50,1
+15102,Magic Crystal of Infinity - Power,2,false,Magic Crystal,Main Weapon,50,1
+15103,Magic Crystal of Infinity - Carnage,2,false,Magic Crystal,Main Weapon,50,1
+15104,Magic Crystal of Infinity - Carnage,2,false,Magic Crystal,Main Weapon,50,1
+15105,Magic Crystal of Infinity - Carnage,2,false,Magic Crystal,Main Weapon,50,1
+15116,Magic Crystal of Infinity - Assault,2,false,Magic Crystal,Main Weapon,50,1
+15118,Magic Crystal of Infinity - Valor,2,false,Magic Crystal,Main Weapon,50,1
+15119,Magic Crystal of Infinity - Ensnare,2,false,Magic Crystal,Main Weapon,50,1
+15121,Magic Crystal of Infinity - Memory,2,false,Magic Crystal,Main Weapon,50,1
+15129,Magic Crystal of Infinity - Back Attack,2,false,Magic Crystal,Main Weapon,50,1
+15130,Magic Crystal of Infinity - Down Attack,2,false,Magic Crystal,Main Weapon,50,1
+15131,Magic Crystal of Infinity - Air Attack,2,false,Magic Crystal,Main Weapon,50,1
+15132,Magic Crystal of Infinity - Critical Hit,2,false,Magic Crystal,Main Weapon,50,1
+15133,Magic Crystal of Infinity - Speed Attack,2,false,Magic Crystal,Main Weapon,50,1
+15134,Magic Crystal of Infinity - Counter Attack,2,false,Magic Crystal,Main Weapon,50,1
+15148,Magic Crystal of Infinity - Melee Attack,2,false,Magic Crystal,Main Weapon,50,1
+15149,Magic Crystal of Infinity - Ranged Attack,2,false,Magic Crystal,Main Weapon,50,1
+15150,Magic Crystal of Infinity - Magic Attack,2,false,Magic Crystal,Main Weapon,50,1
+15151,Magic Crystal of Infinity - Ignore Knockback Resistance,2,false,Magic Crystal,Main Weapon,50,1
+15152,Magic Crystal of Infinity - Ignore Knockdown Resistance,2,false,Magic Crystal,Main Weapon,50,1
+15153,Magic Crystal of Infinity - Ignore Grapple Resistance,2,false,Magic Crystal,Main Weapon,50,1
+15154,Magic Crystal of Infinity - Ignore Stun Resistance,2,false,Magic Crystal,Main Weapon,50,1
+15201,Black Magic Crystal - Precision,3,false,Magic Crystal,Main Weapon,50,1
+15254,Crystal of Mysterious Darkness,4,false,Magic Crystal,Main Weapon,50,1
+15256,Crystal of Brutal Decimation,4,false,Magic Crystal,Main Weapon,50,1
+15603,Ancient Magic Crystal - Viper,4,false,Magic Crystal,Main Weapon,50,1
+15605,Ancient Magic Crystal - Carmae,4,false,Magic Crystal,Main Weapon,50,1
+15606,Ancient Magic Crystal of Crimson Flame - Power,3,false,Magic Crystal,Main Weapon,50,1
+15630,Black Magic Crystal - Viper,4,false,Magic Crystal,Main Weapon,50,1
+15632,Black Magic Crystal - Carmae,4,false,Magic Crystal,Main Weapon,50,1
+15634,Red Battlefield Crystal: Harphia,4,false,Magic Crystal,Main Weapon,50,1
+15635,Red Battlefield Crystal: Cobelinus,4,false,Magic Crystal,Main Weapon,50,1
+15636,Red Battlefield Crystal: Viper,4,false,Magic Crystal,Main Weapon,50,1
+15637,Red Battlefield Crystal: Hystria,4,false,Magic Crystal,Main Weapon,50,1
+15638,Red Battlefield Crystal: Carmae,4,false,Magic Crystal,Main Weapon,50,1
+15639,Red Battlefield Crystal: Power,4,false,Magic Crystal,Main Weapon,50,1
+15649,Ancient Magic Crystal - Addis,4,false,Magic Crystal,Main Weapon,50,1
+15650,Black Magic Crystal - Addis,4,false,Magic Crystal,Main Weapon,50,1
+15651,Red Battlefield Crystal: Addis,4,false,Magic Crystal,Main Weapon,50,1
+15669,Dark Red Fang Crystal - Valor,4,false,Magic Crystal,Main Weapon,50,1
+15672,Corrupted Magic Crystal,4,false,Magic Crystal,Main Weapon,50,1
+15674,Crystal of Elkarr,4,false,Magic Crystal,Main Weapon,50,1
+15675,Ah'krad Crystal,4,false,Magic Crystal,Main Weapon,50,1
+15676,Olucas' Crystal,4,false,Magic Crystal,Main Weapon,50,1
+15690,Glorious Crystal of Gallantry - Ah'krad,4,false,Magic Crystal,Main Weapon,50,1
+15691,Glorious Crystal of Gallantry - Olucas,4,false,Magic Crystal,Main Weapon,50,1
+15695,WON Glorious Crystal of Courage - Ignore Knockback Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15696,BON Glorious Crystal of Courage - Ignore Knockback Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15697,JIN Glorious Crystal of Courage - Ignore Knockback Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15698,WON Glorious Crystal of Courage - Ignore Knockdown Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15699,BON Glorious Crystal of Courage - Ignore Knockdown Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15700,JIN Glorious Crystal of Courage - Ignore Knockdown Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15701,WON Glorious Crystal of Courage - Ignore Grapple Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15702,BON Glorious Crystal of Courage - Ignore Grapple Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15703,JIN Glorious Crystal of Courage - Ignore Grapple Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15704,WON Glorious Crystal of Courage - Ignore Stun Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15705,BON Glorious Crystal of Courage - Ignore Stun Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15706,JIN Glorious Crystal of Courage - Ignore Stun Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15708,Olucas' Crystal - Ignore Knockback Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15709,Olucas' Crystal - Ignore Knockdown Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15710,Olucas' Crystal - Ignore Grapple Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15711,Olucas' Crystal - Ignore Stun Resistance,4,false,Magic Crystal,Main Weapon,50,1
+15807,JIN Magic Crystal - Viper,4,false,Magic Crystal,Main Weapon,50,1
+15808,BON Magic Crystal - Viper,4,false,Magic Crystal,Main Weapon,50,1
+15809,WON Magic Crystal - Viper,4,false,Magic Crystal,Main Weapon,50,1
+15813,JIN Magic Crystal - Carmae,4,false,Magic Crystal,Main Weapon,50,1
+15814,BON Magic Crystal - Carmae,4,false,Magic Crystal,Main Weapon,50,1
+15815,WON Magic Crystal - Carmae,4,false,Magic Crystal,Main Weapon,50,1
+15816,JIN Magic Crystal - Addis,4,false,Magic Crystal,Main Weapon,50,1
+15817,BON Magic Crystal - Addis,4,false,Magic Crystal,Main Weapon,50,1
+15818,WON Magic Crystal - Addis,4,false,Magic Crystal,Main Weapon,50,1

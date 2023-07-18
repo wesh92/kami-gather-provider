@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14781,1,Yagakmu Sura Katana,2,false,1770000,Awakening Weapon,Sura Katana,10,9
-14782,7,Dandelion Sura Katana,3,false,241000000,Awakening Weapon,Sura Katana,10,9
-14783,1,Tempest Sura Katana,1,false,107000,Awakening Weapon,Sura Katana,10,9
-702509,0,Dragon Slayer Sura Katana,3,false,91000000,Awakening Weapon,Sura Katana,10,9
-702525,0,Hughol's Sura Katana,2,false,52000000,Awakening Weapon,Sura Katana,10,9
-731109,6,Blackstar Sura Katana,4,false,497000000,Awakening Weapon,Sura Katana,10,9
-736123,1,Godr-Ayed Sura Katana,4,true,14000000000,Awakening Weapon,Sura Katana,10,9
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14781,Yagakmu Sura Katana,2,false,Awakening Weapon,Sura Katana,10,9
+14782,Dandelion Sura Katana,3,false,Awakening Weapon,Sura Katana,10,9
+14783,Tempest Sura Katana,1,false,Awakening Weapon,Sura Katana,10,9
+702509,Dragon Slayer Sura Katana,3,false,Awakening Weapon,Sura Katana,10,9
+702525,Hughol's Sura Katana,2,false,Awakening Weapon,Sura Katana,10,9
+731109,Blackstar Sura Katana,4,false,Awakening Weapon,Sura Katana,10,9
+736123,Godr-Ayed Sura Katana,4,true,Awakening Weapon,Sura Katana,10,9

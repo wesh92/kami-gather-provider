@@ -1,10 +1,10 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-10503,33,Helrick Talisman,1,false,38100,Sub Weapon,Talisman,5,3
-10504,73,Jubre Talisman,1,false,75500,Sub Weapon,Talisman,5,3
-10505,10,Rhik Talisman,1,false,54000,Sub Weapon,Talisman,5,3
-10524,51,Krea Talisman,1,false,27200,Sub Weapon,Talisman,5,3
-10525,51,Rosar Talisman,1,false,261000,Sub Weapon,Talisman,5,3
-10538,3,Nouver Talisman,3,false,241000000,Sub Weapon,Talisman,5,3
-10540,11,Kutum Talisman,3,false,241000000,Sub Weapon,Talisman,5,3
-735003,4,Blackstar Talisman,4,false,458000000,Sub Weapon,Talisman,5,3
-738203,3,Godr-Ayed Talisman,4,true,12300000000,Sub Weapon,Talisman,5,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+10503,Helrick Talisman,1,false,Sub Weapon,Talisman,5,3
+10504,Jubre Talisman,1,false,Sub Weapon,Talisman,5,3
+10505,Rhik Talisman,1,false,Sub Weapon,Talisman,5,3
+10524,Krea Talisman,1,false,Sub Weapon,Talisman,5,3
+10525,Rosar Talisman,1,false,Sub Weapon,Talisman,5,3
+10538,Nouver Talisman,3,false,Sub Weapon,Talisman,5,3
+10540,Kutum Talisman,3,false,Sub Weapon,Talisman,5,3
+735003,Blackstar Talisman,4,false,Sub Weapon,Talisman,5,3
+738203,Godr-Ayed Talisman,4,true,Sub Weapon,Talisman,5,3

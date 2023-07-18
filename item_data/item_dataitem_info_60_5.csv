@@ -1,12 +1,12 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-46372,0,[Keplanian Dye] True Red,3,false,20900000,Dye,Keplan,60,5
-46384,0,[Keplanian Dye] True Orange,3,false,20900000,Dye,Keplan,60,5
-46396,0,[Keplanian Dye] True Yellow,3,false,20900000,Dye,Keplan,60,5
-46408,0,[Keplanian Dye] True Lime,3,false,20900000,Dye,Keplan,60,5
-46420,0,[Keplanian Dye] True Mint,3,false,20900000,Dye,Keplan,60,5
-46432,0,[Keplanian Dye] True Aqua,3,false,20900000,Dye,Keplan,60,5
-46444,0,[Keplanian Dye] True Sky,3,false,20900000,Dye,Keplan,60,5
-46456,0,[Keplanian Dye] True Indigo,3,false,20900000,Dye,Keplan,60,5
-46468,0,[Keplanian Dye] True Purple,3,false,20900000,Dye,Keplan,60,5
-46480,0,[Keplanian Dye] True Deep Pink,3,false,20900000,Dye,Keplan,60,5
-46488,0,[Keplanian Dye] Black,3,false,20900000,Dye,Keplan,60,5
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+46372,[Keplanian Dye] True Red,3,false,Dye,Keplan,60,5
+46384,[Keplanian Dye] True Orange,3,false,Dye,Keplan,60,5
+46396,[Keplanian Dye] True Yellow,3,false,Dye,Keplan,60,5
+46408,[Keplanian Dye] True Lime,3,false,Dye,Keplan,60,5
+46420,[Keplanian Dye] True Mint,3,false,Dye,Keplan,60,5
+46432,[Keplanian Dye] True Aqua,3,false,Dye,Keplan,60,5
+46444,[Keplanian Dye] True Sky,3,false,Dye,Keplan,60,5
+46456,[Keplanian Dye] True Indigo,3,false,Dye,Keplan,60,5
+46468,[Keplanian Dye] True Purple,3,false,Dye,Keplan,60,5
+46480,[Keplanian Dye] True Deep Pink,3,false,Dye,Keplan,60,5
+46488,[Keplanian Dye] Black,3,false,Dye,Keplan,60,5

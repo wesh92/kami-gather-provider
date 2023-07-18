@@ -83,7 +83,7 @@ black = "^23.3.0"
 pre-commit = "^3.3.2"
 ruff = "^0.0.270"
 pydantic = "^1.10.8"
-polars = {extras = ["sqlalchemy"], version = "^0.18.0"}
+polars = "^0.18.7"
 psycopg2-binary = "^2.9.6"
 SQLAlchemy = "<2.0"
 aiohttp = "^3.8.4"

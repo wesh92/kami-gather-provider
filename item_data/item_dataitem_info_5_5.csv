@@ -1,10 +1,10 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-13003,120,Incense Trinket,1,false,38100,Sub Weapon,Trinket,5,5
-13004,77,Needle Trinket,1,false,75500,Sub Weapon,Trinket,5,5
-13005,3,Blade Trinket,1,false,54000,Sub Weapon,Trinket,5,5
-13024,48,Krea Trinket,1,false,27200,Sub Weapon,Trinket,5,5
-13025,26,Rosar Trinket,1,false,261000,Sub Weapon,Trinket,5,5
-13038,5,Nouver Trinket,3,false,241000000,Sub Weapon,Trinket,5,5
-13040,4,Kutum Trinket,3,false,241000000,Sub Weapon,Trinket,5,5
-735005,2,Blackstar Trinket,4,false,458000000,Sub Weapon,Trinket,5,5
-738205,1,Godr-Ayed Trinket,4,true,12300000000,Sub Weapon,Trinket,5,5
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+13003,Incense Trinket,1,false,Sub Weapon,Trinket,5,5
+13004,Needle Trinket,1,false,Sub Weapon,Trinket,5,5
+13005,Blade Trinket,1,false,Sub Weapon,Trinket,5,5
+13024,Krea Trinket,1,false,Sub Weapon,Trinket,5,5
+13025,Rosar Trinket,1,false,Sub Weapon,Trinket,5,5
+13038,Nouver Trinket,3,false,Sub Weapon,Trinket,5,5
+13040,Kutum Trinket,3,false,Sub Weapon,Trinket,5,5
+735005,Blackstar Trinket,4,false,Sub Weapon,Trinket,5,5
+738205,Godr-Ayed Trinket,4,true,Sub Weapon,Trinket,5,5

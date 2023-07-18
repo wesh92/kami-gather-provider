@@ -1,3 +1,3 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-53801,6,Wagon Lamp,0,false,41900,Wagon,Lamp,75,6
-53802,0,Large Wagon Lamp,0,false,70000,Wagon,Lamp,75,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+53801,Wagon Lamp,0,false,Wagon,Lamp,75,6
+53802,Large Wagon Lamp,0,false,Wagon,Lamp,75,6

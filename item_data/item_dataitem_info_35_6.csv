@@ -1,14 +1,14 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-206,0,Flashbang,0,false,84000,Consumables,Siege Items,35,6
-207,0,Fire Shot,0,false,84000,Consumables,Siege Items,35,6
-208,0,Poison Shot,0,false,57000,Consumables,Siege Items,35,6
-215,0,Flare,0,false,48900,Consumables,Siege Items,35,6
-16380,0,[Combat] Trina Lead Bullet,0,false,252000,Consumables,Siege Items,35,6
-56001,0,Sturdy Barricade,0,false,147000,Consumables,Siege Items,35,6
-56003,0,Cannonball,0,false,89500,Consumables,Siege Items,35,6
-56007,0,Flame Cannonball,0,false,67000,Consumables,Siege Items,35,6
-56009,0,Bomb,0,false,174000,Consumables,Siege Items,35,6
-56014,0,Stun Trap,0,false,70500,Consumables,Siege Items,35,6
-56015,0,Flame Trap,0,false,70500,Consumables,Siege Items,35,6
-56016,0,Venom Trap,0,false,87500,Consumables,Siege Items,35,6
-56017,0,Ankle Trap,0,false,70500,Consumables,Siege Items,35,6
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+206,Flashbang,0,false,Consumables,Siege Items,35,6
+207,Fire Shot,0,false,Consumables,Siege Items,35,6
+208,Poison Shot,0,false,Consumables,Siege Items,35,6
+215,Flare,0,false,Consumables,Siege Items,35,6
+16380,[Combat] Trina Lead Bullet,0,false,Consumables,Siege Items,35,6
+56001,Sturdy Barricade,0,false,Consumables,Siege Items,35,6
+56003,Cannonball,0,false,Consumables,Siege Items,35,6
+56007,Flame Cannonball,0,false,Consumables,Siege Items,35,6
+56009,Bomb,0,false,Consumables,Siege Items,35,6
+56014,Stun Trap,0,false,Consumables,Siege Items,35,6
+56015,Flame Trap,0,false,Consumables,Siege Items,35,6
+56016,Venom Trap,0,false,Consumables,Siege Items,35,6
+56017,Ankle Trap,0,false,Consumables,Siege Items,35,6

@@ -1,9 +1,9 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-49201,0,Rowboat Cargo Container,0,false,239000,Ship,Cargo,70,2
-49202,1,Calpheon Rowboat Cargo Container,0,false,295000,Ship,Cargo,70,2
-49203,0,Altinova Rowboat Cargo Container,0,false,295000,Ship,Cargo,70,2
-49204,0,Fishing Boat Cargo Container,0,false,655000,Ship,Cargo,70,2
-49205,0,Fishing Boat Cargo Container of Abundance,1,false,815000,Ship,Cargo,70,2
-49206,0,Valencia Rowboat Cargo Container,0,false,311000,Ship,Cargo,70,2
-49210,0,Kaia Fishing Boat Cargo Container,2,false,12600000,Ship,Cargo,70,2
-49211,0,Kaia Rowboat Cargo Container,2,false,4890000,Ship,Cargo,70,2
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+49201,Rowboat Cargo Container,0,false,Ship,Cargo,70,2
+49202,Calpheon Rowboat Cargo Container,0,false,Ship,Cargo,70,2
+49203,Altinova Rowboat Cargo Container,0,false,Ship,Cargo,70,2
+49204,Fishing Boat Cargo Container,0,false,Ship,Cargo,70,2
+49205,Fishing Boat Cargo Container of Abundance,1,false,Ship,Cargo,70,2
+49206,Valencia Rowboat Cargo Container,0,false,Ship,Cargo,70,2
+49210,Kaia Fishing Boat Cargo Container,2,false,Ship,Cargo,70,2
+49211,Kaia Rowboat Cargo Container,2,false,Ship,Cargo,70,2

@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14816,8,Light-Swallowing Vediant,2,false,1770000,Awakening Weapon,Vediant,10,13
-14817,7,Dandelion Vediant,3,false,241000000,Awakening Weapon,Vediant,10,13
-14818,15,Thorn Tree Vediant,1,false,107000,Awakening Weapon,Vediant,10,13
-702513,0,Dragon Slayer Vediant,3,false,91000000,Awakening Weapon,Vediant,10,13
-702529,0,Hughol's Vediant,2,false,52000000,Awakening Weapon,Vediant,10,13
-731113,6,Blackstar Vediant,4,false,497000000,Awakening Weapon,Vediant,10,13
-736127,2,Godr-Ayed Vediant,4,true,14000000000,Awakening Weapon,Vediant,10,13
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14816,Light-Swallowing Vediant,2,false,Awakening Weapon,Vediant,10,13
+14817,Dandelion Vediant,3,false,Awakening Weapon,Vediant,10,13
+14818,Thorn Tree Vediant,1,false,Awakening Weapon,Vediant,10,13
+702513,Dragon Slayer Vediant,3,false,Awakening Weapon,Vediant,10,13
+702529,Hughol's Vediant,2,false,Awakening Weapon,Vediant,10,13
+731113,Blackstar Vediant,4,false,Awakening Weapon,Vediant,10,13
+736127,Godr-Ayed Vediant,4,true,Awakening Weapon,Vediant,10,13

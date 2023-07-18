@@ -1,33 +1,33 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-2302,0,Heidelian Handcrafted Chair,1,false,64000,Furniture,Sofa/Chair,80,4
-2304,0,Velian Handcrafted Chair,1,false,64500,Furniture,Sofa/Chair,80,4
-2306,0,Calpheon Handcrafted Chair,1,false,79500,Furniture,Sofa/Chair,80,4
-2309,0,Heidelian Handcrafted Sofa,1,false,3730000,Furniture,Sofa/Chair,80,4
-2311,0,Velian Handcrafted Sofa,1,false,1640000,Furniture,Sofa/Chair,80,4
-2313,0,Calpheon Handcrafted Sofa,1,false,3730000,Furniture,Sofa/Chair,80,4
-2315,0,Mediahn Handcrafted Chair,1,false,136000,Furniture,Sofa/Chair,80,4
-2316,0,Mediahn Handcrafted Sofa,1,false,2240000,Furniture,Sofa/Chair,80,4
-2318,0,Valencian Handcrafted Chair,1,false,210000,Furniture,Sofa/Chair,80,4
-2320,0,Valencian Handcrafted Sofa,1,false,2300000,Furniture,Sofa/Chair,80,4
-2381,0,Kamasylvian Commander's Chair,2,false,5600000,Furniture,Sofa/Chair,80,4
-2382,0,Kamasylvian Squared Chair,2,false,2890000,Furniture,Sofa/Chair,80,4
-2383,0,Kamasylvian Momellies Chair,2,false,2030000,Furniture,Sofa/Chair,80,4
-2384,0,Kamasylvian Compact Bench,2,false,2140000,Furniture,Sofa/Chair,80,4
-2387,0,Duvencrune Antique Bench,2,false,2520000,Furniture,Sofa/Chair,80,4
-2388,0,Duvencrune Wide Bench,2,false,2520000,Furniture,Sofa/Chair,80,4
-2389,0,Duvencrune Vertical Bench,2,false,2500000,Furniture,Sofa/Chair,80,4
-2390,0,Duvencrune Vintage Wooden Bench,2,false,2520000,Furniture,Sofa/Chair,80,4
-2391,0,Duvencrune Wooden Memorial Chair,2,false,2000000,Furniture,Sofa/Chair,80,4
-2392,0,Duvencrune Interlocking Chair,2,false,2000000,Furniture,Sofa/Chair,80,4
-2393,0,Duvencrune Wooden Anvil Chair,2,false,2000000,Furniture,Sofa/Chair,80,4
-2394,0,Duvencrune Wooden Square Chair,2,false,2010000,Furniture,Sofa/Chair,80,4
-2395,0,Kamasylvian Standard Bench,2,false,2520000,Furniture,Sofa/Chair,80,4
-2396,0,Kamasylvian Atanis Bench,2,false,2520000,Furniture,Sofa/Chair,80,4
-2397,0,Kamasylvian Loopy Short Bench,2,false,2520000,Furniture,Sofa/Chair,80,4
-2398,0,Kamasylvian Loopy Bench,2,false,2520000,Furniture,Sofa/Chair,80,4
-2399,0,Kamasylvian Meeting Chair,2,false,2050000,Furniture,Sofa/Chair,80,4
-2400,0,O'draxxia Hardwood Armchair,2,false,3350000,Furniture,Sofa/Chair,80,4
-24132,0,White Sheep Hide Cushion,0,false,252000,Furniture,Sofa/Chair,80,4
-24133,0,Red Sheep Hide Cushion,0,false,328000,Furniture,Sofa/Chair,80,4
-24134,0,Blue Sheep Hide Cushion,0,false,300000,Furniture,Sofa/Chair,80,4
-24503,0,Everfrost Bench,1,false,5250000,Furniture,Sofa/Chair,80,4
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+2302,Heidelian Handcrafted Chair,1,false,Furniture,Sofa/Chair,80,4
+2304,Velian Handcrafted Chair,1,false,Furniture,Sofa/Chair,80,4
+2306,Calpheon Handcrafted Chair,1,false,Furniture,Sofa/Chair,80,4
+2309,Heidelian Handcrafted Sofa,1,false,Furniture,Sofa/Chair,80,4
+2311,Velian Handcrafted Sofa,1,false,Furniture,Sofa/Chair,80,4
+2313,Calpheon Handcrafted Sofa,1,false,Furniture,Sofa/Chair,80,4
+2315,Mediahn Handcrafted Chair,1,false,Furniture,Sofa/Chair,80,4
+2316,Mediahn Handcrafted Sofa,1,false,Furniture,Sofa/Chair,80,4
+2318,Valencian Handcrafted Chair,1,false,Furniture,Sofa/Chair,80,4
+2320,Valencian Handcrafted Sofa,1,false,Furniture,Sofa/Chair,80,4
+2381,Kamasylvian Commander's Chair,2,false,Furniture,Sofa/Chair,80,4
+2382,Kamasylvian Squared Chair,2,false,Furniture,Sofa/Chair,80,4
+2383,Kamasylvian Momellies Chair,2,false,Furniture,Sofa/Chair,80,4
+2384,Kamasylvian Compact Bench,2,false,Furniture,Sofa/Chair,80,4
+2387,Duvencrune Antique Bench,2,false,Furniture,Sofa/Chair,80,4
+2388,Duvencrune Wide Bench,2,false,Furniture,Sofa/Chair,80,4
+2389,Duvencrune Vertical Bench,2,false,Furniture,Sofa/Chair,80,4
+2390,Duvencrune Vintage Wooden Bench,2,false,Furniture,Sofa/Chair,80,4
+2391,Duvencrune Wooden Memorial Chair,2,false,Furniture,Sofa/Chair,80,4
+2392,Duvencrune Interlocking Chair,2,false,Furniture,Sofa/Chair,80,4
+2393,Duvencrune Wooden Anvil Chair,2,false,Furniture,Sofa/Chair,80,4
+2394,Duvencrune Wooden Square Chair,2,false,Furniture,Sofa/Chair,80,4
+2395,Kamasylvian Standard Bench,2,false,Furniture,Sofa/Chair,80,4
+2396,Kamasylvian Atanis Bench,2,false,Furniture,Sofa/Chair,80,4
+2397,Kamasylvian Loopy Short Bench,2,false,Furniture,Sofa/Chair,80,4
+2398,Kamasylvian Loopy Bench,2,false,Furniture,Sofa/Chair,80,4
+2399,Kamasylvian Meeting Chair,2,false,Furniture,Sofa/Chair,80,4
+2400,O'draxxia Hardwood Armchair,2,false,Furniture,Sofa/Chair,80,4
+24132,White Sheep Hide Cushion,0,false,Furniture,Sofa/Chair,80,4
+24133,Red Sheep Hide Cushion,0,false,Furniture,Sofa/Chair,80,4
+24134,Blue Sheep Hide Cushion,0,false,Furniture,Sofa/Chair,80,4
+24503,Everfrost Bench,1,false,Furniture,Sofa/Chair,80,4

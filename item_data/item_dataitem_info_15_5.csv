@@ -1,35 +1,35 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14019,1026,Silver Embroidered Cook's Clothes,2,false,1220000,Armor,Functional Clothes,15,5
-14020,468,Silver Embroidered Fisher's Clothes,2,false,1360000,Armor,Functional Clothes,15,5
-14021,142,Silver Embroidered Trader's Clothes,2,false,1300000,Armor,Functional Clothes,15,5
-14022,0,Silver Embroidered Gatherer's Clothes,2,false,1360000,Armor,Functional Clothes,15,5
-14023,0,Silver Embroidered Trainer's Clothes,2,false,1360000,Armor,Functional Clothes,15,5
-14025,181,Silver Embroidered Alchemist's Clothes,2,false,1400000,Armor,Functional Clothes,15,5
-14026,124,Silver Embroidered Craftsman's Clothes,2,false,1400000,Armor,Functional Clothes,15,5
-14027,0,Fine Horse Trainer's Clothes,2,false,6050000,Armor,Functional Clothes,15,5
-14028,0,Silver Embroidered Farmer's Clothes,2,false,1360000,Armor,Functional Clothes,15,5
-14029,15,Silver Embroidered Sailor's Clothes,2,false,1390000,Armor,Functional Clothes,15,5
-705015,9,Manos Trainer's Clothes,4,false,241000000,Armor,Functional Clothes,15,5
-705022,0,Manos Hunter's Clothes,4,false,241000000,Armor,Functional Clothes,15,5
-705032,1,Manos Sailor's Clothes,4,false,241000000,Armor,Functional Clothes,15,5
-705037,0,Manos Cook's Clothes,4,false,241000000,Armor,Functional Clothes,15,5
-705047,0,Manos Alchemist's Clothes,4,false,241000000,Armor,Functional Clothes,15,5
-705052,0,Manos Fisher's Clothes,4,false,241000000,Armor,Functional Clothes,15,5
-705074,0,Crio Fisher's Clothes,2,false,7850000,Armor,Functional Clothes,15,5
-705075,0,Srulk Sailor's Clothes,2,false,7800000,Armor,Functional Clothes,15,5
-705076,0,Robeau Hunter's Clothes,2,false,8100000,Armor,Functional Clothes,15,5
-705081,2,Gorgath Alchemist's Clothes,2,false,8200000,Armor,Functional Clothes,15,5
-705086,0,Roroju Cook's Clothes,2,false,8200000,Armor,Functional Clothes,15,5
-705107,1,Loggia Fisher's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705108,0,Loggia Sailor's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705109,0,Loggia Hunter's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705114,0,Loggia Alchemist's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705119,1,Loggia Cook's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705148,0,Loggia Trainer's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705153,0,Izaro Trainer's Clothes,2,false,8200000,Armor,Functional Clothes,15,5
-705513,1,Loggia Gatherer's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705514,0,Loggia Craftsman's Clothes,1,false,820000,Armor,Functional Clothes,15,5
-705515,0,Carta Gatherer's Clothes,2,false,8200000,Armor,Functional Clothes,15,5
-705516,0,Carta Craftsman's Clothes,2,false,8200000,Armor,Functional Clothes,15,5
-705517,5,Manos Gatherer's Clothes,4,false,241000000,Armor,Functional Clothes,15,5
-705518,63,Manos Craftsman's Clothes,4,false,119000000,Armor,Functional Clothes,15,5
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14019,Silver Embroidered Cook's Clothes,2,false,Armor,Functional Clothes,15,5
+14020,Silver Embroidered Fisher's Clothes,2,false,Armor,Functional Clothes,15,5
+14021,Silver Embroidered Trader's Clothes,2,false,Armor,Functional Clothes,15,5
+14022,Silver Embroidered Gatherer's Clothes,2,false,Armor,Functional Clothes,15,5
+14023,Silver Embroidered Trainer's Clothes,2,false,Armor,Functional Clothes,15,5
+14025,Silver Embroidered Alchemist's Clothes,2,false,Armor,Functional Clothes,15,5
+14026,Silver Embroidered Craftsman's Clothes,2,false,Armor,Functional Clothes,15,5
+14027,Fine Horse Trainer's Clothes,2,false,Armor,Functional Clothes,15,5
+14028,Silver Embroidered Farmer's Clothes,2,false,Armor,Functional Clothes,15,5
+14029,Silver Embroidered Sailor's Clothes,2,false,Armor,Functional Clothes,15,5
+705015,Manos Trainer's Clothes,4,false,Armor,Functional Clothes,15,5
+705022,Manos Hunter's Clothes,4,false,Armor,Functional Clothes,15,5
+705032,Manos Sailor's Clothes,4,false,Armor,Functional Clothes,15,5
+705037,Manos Cook's Clothes,4,false,Armor,Functional Clothes,15,5
+705047,Manos Alchemist's Clothes,4,false,Armor,Functional Clothes,15,5
+705052,Manos Fisher's Clothes,4,false,Armor,Functional Clothes,15,5
+705074,Crio Fisher's Clothes,2,false,Armor,Functional Clothes,15,5
+705075,Srulk Sailor's Clothes,2,false,Armor,Functional Clothes,15,5
+705076,Robeau Hunter's Clothes,2,false,Armor,Functional Clothes,15,5
+705081,Gorgath Alchemist's Clothes,2,false,Armor,Functional Clothes,15,5
+705086,Roroju Cook's Clothes,2,false,Armor,Functional Clothes,15,5
+705107,Loggia Fisher's Clothes,1,false,Armor,Functional Clothes,15,5
+705108,Loggia Sailor's Clothes,1,false,Armor,Functional Clothes,15,5
+705109,Loggia Hunter's Clothes,1,false,Armor,Functional Clothes,15,5
+705114,Loggia Alchemist's Clothes,1,false,Armor,Functional Clothes,15,5
+705119,Loggia Cook's Clothes,1,false,Armor,Functional Clothes,15,5
+705148,Loggia Trainer's Clothes,1,false,Armor,Functional Clothes,15,5
+705153,Izaro Trainer's Clothes,2,false,Armor,Functional Clothes,15,5
+705513,Loggia Gatherer's Clothes,1,false,Armor,Functional Clothes,15,5
+705514,Loggia Craftsman's Clothes,1,false,Armor,Functional Clothes,15,5
+705515,Carta Gatherer's Clothes,2,false,Armor,Functional Clothes,15,5
+705516,Carta Craftsman's Clothes,2,false,Armor,Functional Clothes,15,5
+705517,Manos Gatherer's Clothes,4,false,Armor,Functional Clothes,15,5
+705518,Manos Craftsman's Clothes,4,false,Armor,Functional Clothes,15,5

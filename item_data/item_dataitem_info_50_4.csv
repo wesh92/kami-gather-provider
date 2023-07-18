@@ -1,27 +1,27 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-15216,574,Black Magic Crystal - Assault,3,false,4670000,Magic Crystal,Armor,50,4
-15219,2,Black Magic Crystal - Ensnare,3,false,4410000,Magic Crystal,Armor,50,4
-15251,0,Ultimate Combined Magic Crystal - Gervish,4,false,158000000,Magic Crystal,Armor,50,4
-15252,0,Ultimate Combined Magic Crystal - Macalod,4,false,935000000,Magic Crystal,Armor,50,4
-15253,0,Ultimate Combined Magic Crystal - Hoom,4,false,935000000,Magic Crystal,Armor,50,4
-15626,0,Black Spirit Crystal,4,false,222000000,Magic Crystal,Armor,50,4
-15627,154,Awakened Spirit's Crystal,4,false,172000000,Magic Crystal,Armor,50,4
-15633,19,Red Spirit Crystal,4,false,560000000,Magic Crystal,Armor,50,4
-15654,40,Valtarra Spirit's Crystal,4,false,433000000,Magic Crystal,Armor,50,4
-15662,12423,Combined Magic Crystal - Gervish,4,false,5900000,Magic Crystal,Armor,50,4
-15663,10212,Combined Magic Crystal - Macalod,4,false,5900000,Magic Crystal,Armor,50,4
-15664,12042,Combined Magic Crystal - Hoom,4,false,5900000,Magic Crystal,Armor,50,4
-15665,26,HAN Combined Magic Crystal - Gervish,4,false,76500000,Magic Crystal,Armor,50,4
-15666,40,HAN Combined Magic Crystal - Macalod,4,false,83000000,Magic Crystal,Armor,50,4
-15667,108,HAN Combined Magic Crystal - Hoom,4,false,76000000,Magic Crystal,Armor,50,4
-15677,105,Rebellious Spirit Crystal,4,false,1050000000,Magic Crystal,Armor,50,4
-15720,22,Bonghwang's Tear,4,false,3910000000,Magic Crystal,Armor,50,4
-15729,169,Bonghwang's Fragment,4,false,192000000,Magic Crystal,Armor,50,4
-15730,10,Bonghwang's Crystal,4,false,755000000,Magic Crystal,Armor,50,4
-15731,0,Haetae's Fragment,4,false,466000000,Magic Crystal,Armor,50,4
-15732,0,Haetae's Crystal,4,false,1870000000,Magic Crystal,Armor,50,4
-15733,0,Haetae's Tear,4,false,4660000000,Magic Crystal,Armor,50,4
-15734,0,Girin's Fragment,4,false,466000000,Magic Crystal,Armor,50,4
-15735,0,Girin's Crystal,4,false,1870000000,Magic Crystal,Armor,50,4
-15736,0,Girin's Tear,4,false,4660000000,Magic Crystal,Armor,50,4
-768160,10847,Sealed Black Magic Crystal,3,false,4300000,Magic Crystal,Armor,50,4
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+15216,Black Magic Crystal - Assault,3,false,Magic Crystal,Armor,50,4
+15219,Black Magic Crystal - Ensnare,3,false,Magic Crystal,Armor,50,4
+15251,Ultimate Combined Magic Crystal - Gervish,4,false,Magic Crystal,Armor,50,4
+15252,Ultimate Combined Magic Crystal - Macalod,4,false,Magic Crystal,Armor,50,4
+15253,Ultimate Combined Magic Crystal - Hoom,4,false,Magic Crystal,Armor,50,4
+15626,Black Spirit Crystal,4,false,Magic Crystal,Armor,50,4
+15627,Awakened Spirit's Crystal,4,false,Magic Crystal,Armor,50,4
+15633,Red Spirit Crystal,4,false,Magic Crystal,Armor,50,4
+15654,Valtarra Spirit's Crystal,4,false,Magic Crystal,Armor,50,4
+15662,Combined Magic Crystal - Gervish,4,false,Magic Crystal,Armor,50,4
+15663,Combined Magic Crystal - Macalod,4,false,Magic Crystal,Armor,50,4
+15664,Combined Magic Crystal - Hoom,4,false,Magic Crystal,Armor,50,4
+15665,HAN Combined Magic Crystal - Gervish,4,false,Magic Crystal,Armor,50,4
+15666,HAN Combined Magic Crystal - Macalod,4,false,Magic Crystal,Armor,50,4
+15667,HAN Combined Magic Crystal - Hoom,4,false,Magic Crystal,Armor,50,4
+15677,Rebellious Spirit Crystal,4,false,Magic Crystal,Armor,50,4
+15720,Bonghwang's Tear,4,false,Magic Crystal,Armor,50,4
+15729,Bonghwang's Fragment,4,false,Magic Crystal,Armor,50,4
+15730,Bonghwang's Crystal,4,false,Magic Crystal,Armor,50,4
+15731,Haetae's Fragment,4,false,Magic Crystal,Armor,50,4
+15732,Haetae's Crystal,4,false,Magic Crystal,Armor,50,4
+15733,Haetae's Tear,4,false,Magic Crystal,Armor,50,4
+15734,Girin's Fragment,4,false,Magic Crystal,Armor,50,4
+15735,Girin's Crystal,4,false,Magic Crystal,Armor,50,4
+15736,Girin's Tear,4,false,Magic Crystal,Armor,50,4
+768160,Sealed Black Magic Crystal,3,false,Magic Crystal,Armor,50,4

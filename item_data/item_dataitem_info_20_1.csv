@@ -1,37 +1,37 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-12001,447,Yuria Ring,1,false,30200,Accessory,Ring,20,1
-12002,11265,Bares Ring,1,false,30200,Accessory,Ring,20,1
-12003,0,Hesus Ring,1,false,119000,Accessory,Ring,20,1
-12004,9722,Elisha Ring,1,false,30200,Accessory,Ring,20,1
-12005,1247,Kalis Ring,1,false,30200,Accessory,Ring,20,1
-12006,407,Talis Ring,1,false,63500,Accessory,Ring,20,1
-12007,132,Mark of Shadow,2,false,2540000,Accessory,Ring,20,1
-12008,107,Shrine Guardian Token,2,false,3090000,Accessory,Ring,20,1
-12010,908,Ring of Good Deeds,1,false,225000,Accessory,Ring,20,1
-12011,6,Nert Ring,2,false,1220000,Accessory,Ring,20,1
-12012,20,Outlaw's Ring,2,false,1920000,Accessory,Ring,20,1
-12017,32,Blue Coral Ring,2,false,2820000,Accessory,Ring,20,1
-12018,0,Red Coral Ring,2,false,1420000,Accessory,Ring,20,1
-12031,490,Ring of Crescent Guardian,3,false,81000000,Accessory,Ring,20,1
-12032,49,Ring of Cadry Guardian,3,false,43100000,Accessory,Ring,20,1
-12042,221,Forest Ronaros Ring,3,false,13600000,Accessory,Ring,20,1
-12045,312,Rainbow Coral Ring,2,false,2630000,Accessory,Ring,20,1
-12059,77183,Kagtum Submission Ring,2,false,1760000,Accessory,Ring,20,1
-12060,172,Eye of the Ruins Ring,3,false,75000000,Accessory,Ring,20,1
-12061,162,Tungrad Ring,3,false,167000000,Accessory,Ring,20,1
-12068,41,Ominous Ring,3,false,319000000,Accessory,Ring,20,1
-12101,4,Ruby Ring,0,false,8000,Accessory,Ring,20,1
-12102,0,Resplendent Ruby Ring,0,false,46200,Accessory,Ring,20,1
-12103,0,Blood Ruby Ring,1,false,107000,Accessory,Ring,20,1
-12104,0,Dark Blood Ruby Ring,2,false,349000,Accessory,Ring,20,1
-12105,0,Corrupt Ruby Ring,3,false,2630000,Accessory,Ring,20,1
-12111,0,Topaz Ring,0,false,10100,Accessory,Ring,20,1
-12112,0,Resplendent Topaz Ring,0,false,50500,Accessory,Ring,20,1
-12113,0,Gold Topaz Ring,1,false,107000,Accessory,Ring,20,1
-12114,0,Shining Gold Topaz Ring,2,false,349000,Accessory,Ring,20,1
-12115,0,Topaz Ring of Regeneration,3,false,2630000,Accessory,Ring,20,1
-12126,0,Manos Ruby Ring,3,false,18200000,Accessory,Ring,20,1
-12128,0,Manos Topaz Ring,3,false,18200000,Accessory,Ring,20,1
-705503,15,Loggia Ring,1,false,820000,Accessory,Ring,20,1
-705507,12,Geranoa Ring,2,false,8200000,Accessory,Ring,20,1
-705511,44,Manos Ring,4,false,241000000,Accessory,Ring,20,1
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+12001,Yuria Ring,1,false,Accessory,Ring,20,1
+12002,Bares Ring,1,false,Accessory,Ring,20,1
+12003,Hesus Ring,1,false,Accessory,Ring,20,1
+12004,Elisha Ring,1,false,Accessory,Ring,20,1
+12005,Kalis Ring,1,false,Accessory,Ring,20,1
+12006,Talis Ring,1,false,Accessory,Ring,20,1
+12007,Mark of Shadow,2,false,Accessory,Ring,20,1
+12008,Shrine Guardian Token,2,false,Accessory,Ring,20,1
+12010,Ring of Good Deeds,1,false,Accessory,Ring,20,1
+12011,Nert Ring,2,false,Accessory,Ring,20,1
+12012,Outlaw's Ring,2,false,Accessory,Ring,20,1
+12017,Blue Coral Ring,2,false,Accessory,Ring,20,1
+12018,Red Coral Ring,2,false,Accessory,Ring,20,1
+12031,Ring of Crescent Guardian,3,false,Accessory,Ring,20,1
+12032,Ring of Cadry Guardian,3,false,Accessory,Ring,20,1
+12042,Forest Ronaros Ring,3,false,Accessory,Ring,20,1
+12045,Rainbow Coral Ring,2,false,Accessory,Ring,20,1
+12059,Kagtum Submission Ring,2,false,Accessory,Ring,20,1
+12060,Eye of the Ruins Ring,3,false,Accessory,Ring,20,1
+12061,Tungrad Ring,3,false,Accessory,Ring,20,1
+12068,Ominous Ring,3,false,Accessory,Ring,20,1
+12101,Ruby Ring,0,false,Accessory,Ring,20,1
+12102,Resplendent Ruby Ring,0,false,Accessory,Ring,20,1
+12103,Blood Ruby Ring,1,false,Accessory,Ring,20,1
+12104,Dark Blood Ruby Ring,2,false,Accessory,Ring,20,1
+12105,Corrupt Ruby Ring,3,false,Accessory,Ring,20,1
+12111,Topaz Ring,0,false,Accessory,Ring,20,1
+12112,Resplendent Topaz Ring,0,false,Accessory,Ring,20,1
+12113,Gold Topaz Ring,1,false,Accessory,Ring,20,1
+12114,Shining Gold Topaz Ring,2,false,Accessory,Ring,20,1
+12115,Topaz Ring of Regeneration,3,false,Accessory,Ring,20,1
+12126,Manos Ruby Ring,3,false,Accessory,Ring,20,1
+12128,Manos Topaz Ring,3,false,Accessory,Ring,20,1
+705503,Loggia Ring,1,false,Accessory,Ring,20,1
+705507,Geranoa Ring,2,false,Accessory,Ring,20,1
+705511,Manos Ring,4,false,Accessory,Ring,20,1

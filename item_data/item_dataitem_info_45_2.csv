@@ -1,27 +1,27 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-45233,0,Imperfect Alchemy Stone of Protection,0,false,1020000,Alchemy Stone,Protection,45,2
-45234,0,Imperfect Alchemy Stone of Protection,1,false,2800000,Alchemy Stone,Protection,45,2
-45235,0,Imperfect Alchemy Stone of Protection,2,false,8150000,Alchemy Stone,Protection,45,2
-45236,0,Imperfect Alchemy Stone of Protection,3,false,33000000,Alchemy Stone,Protection,45,2
-45237,0,Rough Alchemy Stone of Protection,0,false,2440000,Alchemy Stone,Protection,45,2
-45238,0,Rough Alchemy Stone of Protection,1,false,6700000,Alchemy Stone,Protection,45,2
-45239,0,Rough Alchemy Stone of Protection,2,false,19600000,Alchemy Stone,Protection,45,2
-45240,0,Rough Alchemy Stone of Protection,3,false,79500000,Alchemy Stone,Protection,45,2
-45241,0,Polished Alchemy Stone of Protection,0,false,5850000,Alchemy Stone,Protection,45,2
-45242,0,Polished Alchemy Stone of Protection,1,false,16100000,Alchemy Stone,Protection,45,2
-45243,0,Polished Alchemy Stone of Protection,2,false,47000000,Alchemy Stone,Protection,45,2
-45244,0,Polished Alchemy Stone of Protection,3,false,190000000,Alchemy Stone,Protection,45,2
-45245,0,Sturdy Alchemy Stone of Protection,0,false,14100000,Alchemy Stone,Protection,45,2
-45246,0,Sturdy Alchemy Stone of Protection,1,false,38600000,Alchemy Stone,Protection,45,2
-45247,0,Sturdy Alchemy Stone of Protection,2,false,113000000,Alchemy Stone,Protection,45,2
-45248,0,Sturdy Alchemy Stone of Protection,3,false,386000000,Alchemy Stone,Protection,45,2
-45249,0,Sharp Alchemy Stone of Protection,0,false,15600000,Alchemy Stone,Protection,45,2
-45250,0,Sharp Alchemy Stone of Protection,1,false,73500000,Alchemy Stone,Protection,45,2
-45251,0,Sharp Alchemy Stone of Protection,2,false,269000000,Alchemy Stone,Protection,45,2
-45252,0,Sharp Alchemy Stone of Protection,3,false,1100000000,Alchemy Stone,Protection,45,2
-45254,0,Resplendent Alchemy Stone of Protection,1,false,163000000,Alchemy Stone,Protection,45,2
-45255,0,Resplendent Alchemy Stone of Protection,2,false,650000000,Alchemy Stone,Protection,45,2
-45256,0,Resplendent Alchemy Stone of Protection,3,false,5300000000,Alchemy Stone,Protection,45,2
-45258,0,Splendid Alchemy Stone of Protection,1,false,535000000,Alchemy Stone,Protection,45,2
-45260,0,Splendid Alchemy Stone of Protection,3,false,12700000000,Alchemy Stone,Protection,45,2
-45513,0,Khan's Heart: Protection,4,false,6550000000,Alchemy Stone,Protection,45,2
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+45233,Imperfect Alchemy Stone of Protection,0,false,Alchemy Stone,Protection,45,2
+45234,Imperfect Alchemy Stone of Protection,1,false,Alchemy Stone,Protection,45,2
+45235,Imperfect Alchemy Stone of Protection,2,false,Alchemy Stone,Protection,45,2
+45236,Imperfect Alchemy Stone of Protection,3,false,Alchemy Stone,Protection,45,2
+45237,Rough Alchemy Stone of Protection,0,false,Alchemy Stone,Protection,45,2
+45238,Rough Alchemy Stone of Protection,1,false,Alchemy Stone,Protection,45,2
+45239,Rough Alchemy Stone of Protection,2,false,Alchemy Stone,Protection,45,2
+45240,Rough Alchemy Stone of Protection,3,false,Alchemy Stone,Protection,45,2
+45241,Polished Alchemy Stone of Protection,0,false,Alchemy Stone,Protection,45,2
+45242,Polished Alchemy Stone of Protection,1,false,Alchemy Stone,Protection,45,2
+45243,Polished Alchemy Stone of Protection,2,false,Alchemy Stone,Protection,45,2
+45244,Polished Alchemy Stone of Protection,3,false,Alchemy Stone,Protection,45,2
+45245,Sturdy Alchemy Stone of Protection,0,false,Alchemy Stone,Protection,45,2
+45246,Sturdy Alchemy Stone of Protection,1,false,Alchemy Stone,Protection,45,2
+45247,Sturdy Alchemy Stone of Protection,2,false,Alchemy Stone,Protection,45,2
+45248,Sturdy Alchemy Stone of Protection,3,false,Alchemy Stone,Protection,45,2
+45249,Sharp Alchemy Stone of Protection,0,false,Alchemy Stone,Protection,45,2
+45250,Sharp Alchemy Stone of Protection,1,false,Alchemy Stone,Protection,45,2
+45251,Sharp Alchemy Stone of Protection,2,false,Alchemy Stone,Protection,45,2
+45252,Sharp Alchemy Stone of Protection,3,false,Alchemy Stone,Protection,45,2
+45254,Resplendent Alchemy Stone of Protection,1,false,Alchemy Stone,Protection,45,2
+45255,Resplendent Alchemy Stone of Protection,2,false,Alchemy Stone,Protection,45,2
+45256,Resplendent Alchemy Stone of Protection,3,false,Alchemy Stone,Protection,45,2
+45258,Splendid Alchemy Stone of Protection,1,false,Alchemy Stone,Protection,45,2
+45260,Splendid Alchemy Stone of Protection,3,false,Alchemy Stone,Protection,45,2
+45513,Khan's Heart: Protection,4,false,Alchemy Stone,Protection,45,2

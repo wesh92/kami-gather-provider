@@ -1,8 +1,8 @@
-mainKey,sumCount,name,grade,isGodrAyed,minPrice,main_category,sub_category,main_category_id,sub_category_id
-14721,2,Upgraded Iron Buster,2,false,1770000,Awakening Weapon,Iron Buster,10,3
-14722,7,Dandelion Iron Buster,3,false,241000000,Awakening Weapon,Iron Buster,10,3
-14723,3,Rough Iron Buster,1,false,107000,Awakening Weapon,Iron Buster,10,3
-702503,0,Dragon Slayer Iron Buster,3,false,91000000,Awakening Weapon,Iron Buster,10,3
-702519,0,Hughol's Iron Buster,2,false,52000000,Awakening Weapon,Iron Buster,10,3
-731103,6,Blackstar Iron Buster,4,false,497000000,Awakening Weapon,Iron Buster,10,3
-736117,1,Godr-Ayed Iron Buster,4,true,14000000000,Awakening Weapon,Iron Buster,10,3
+mainKey,name,grade,isGodrAyed,main_category,sub_category,main_category_id,sub_category_id
+14721,Upgraded Iron Buster,2,false,Awakening Weapon,Iron Buster,10,3
+14722,Dandelion Iron Buster,3,false,Awakening Weapon,Iron Buster,10,3
+14723,Rough Iron Buster,1,false,Awakening Weapon,Iron Buster,10,3
+702503,Dragon Slayer Iron Buster,3,false,Awakening Weapon,Iron Buster,10,3
+702519,Hughol's Iron Buster,2,false,Awakening Weapon,Iron Buster,10,3
+731103,Blackstar Iron Buster,4,false,Awakening Weapon,Iron Buster,10,3
+736117,Godr-Ayed Iron Buster,4,true,Awakening Weapon,Iron Buster,10,3
